@@ -25,8 +25,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       <sourceDesc>
         <p>The encoded text was obtained from the transcription on Transkribus of a set of
           Commentarius images, acquired from <ref
-            target="https://archive.org/details/bub_gb_VOtTAAAAcAAJ">internet archive</ref>.</p>
-        
+            target="https://archive.org/details/bub_gb_VOtTAAAAcAAJ">internet archive</ref>.</p>        
         <p><listRelation>
           <relation name="dcterms:creator" active="STU0001Commentarius" passive="PRS6378Ludolf"/>
         </listRelation></p>
@@ -48,9 +47,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       <abstract>
         <p xml:lang="la"><persName ref="PRS6378Ludolf">Hiob Ludolf</persName>'s <hi rend="italic"
             >Commentarius</hi> was published in <date notAfter="1691" notBefore="1691">1691</date>,
-          but it is strictly connected with the <ref
-            target="https://archive.org/details/bub_gb_JFZEAAAAcAAJ"
-            ><?oxy_comment_start author="Pietro Liuzzo" timestamp="20210217T154401+0000" comment="Once we will have created the records in BM, we will replace this ref with the internal one."?>Historia<?oxy_comment_end?>
+          but it is strictly connected with the <ref type="studies" corresp="#STU002Historia">Historia
             Aethiopica</ref>, published ten years before, in <date notBefore="1681" notAfter="1681"
             >1681</date>, by the same author. Ludolf wrote these works in parellel: the Historia to
           contain, without interrumption, all the informations about the Ethiopian history and the
@@ -283,8 +280,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               facs="#facs_6_line_1612942255455_192" n="039"/>Versio¬ </ab>
           <ab type="footer" facs="#facs_6_TextRegion_1612942255368_188">
             <lb facs="#facs_6_line_1612942722504_274" n="001"/>
-            <note xml:id="e">(e) Id primò factum in praefatione, <!--Historiae Aethiopicae
-              praemissa <ptr target=""/>-->.</note>
+            <note xml:id="e">(e) Id primò factum in praefatione Historiae Aethiopicae
+              praemissa.</note>
             <lb facs="#facs_6_line_1612942795070_293" n="002"/><note xml:id="f">(f). <persName
                 ref="wd:Q1541">Cicero</persName>: aequo ani<lb break="no" facs="#facs_6_r1l48"
                 n="003"/>mo me moneri passus sum, &amp; gratias habeo iis, qui me docuerunt.</note>
