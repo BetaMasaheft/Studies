@@ -2,7 +2,7 @@
 schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
         type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="LIT9999comm" type="work">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="STU0001Commentarius" type="studies">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -379,10 +379,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               ref="wd:Q171241">Diodoro Siculo</persName>: <persName ref="wd:Q82778"
               >Plinius</persName> integras periodos ex <persName ref="wd:Q868">Aristotele</persName>
             <lb facs="#facs_8_r1l14" n="013"/><ptr target="#k"/>(k) exscribit, illo non nominato,
-            quamvis in <cit><ref xml:id="q1"
+            quamvis in <ref xml:id="q1"
                 cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:preface.5"
                 >Epistola ad Vespa<lb break="no" facs="#facs_8_r1l15" n="014"/>sianum Lib. I pm
-                8</ref> fateatur <quote source="#q1">benignum esse &amp; plenum ingenui pudo<lb
+                8</ref> fateatur <cit><quote source="#q1">benignum esse &amp; plenum ingenui pudo<lb
                   break="no" facs="#facs_8_r1l16" n="015"/>ris, fateri per quos profeceris, &amp;
                 sese deprehendisse aliquos trans<lb break="no" facs="#facs_8_r1l17" n="016"
                 />scriptos ad verbum neque nominatos</quote></cit> . Scilicet sufficere putavit <lb
