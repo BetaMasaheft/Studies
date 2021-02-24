@@ -192,13 +192,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             dictis <lb facs="#facs_5_r1l20" n="017"/>scriptisve lectorem morari. Jam autem id facere
             congimur, <lb facs="#facs_5_r1l21" n="018"/>quòd multis veritas incerta videatur, nisi
             falsa discutiantur, &amp; <lb facs="#facs_5_r1l23" n="019"/> 3 dubia tollantur (a)<ptr
-              target="#a"/> . Id quod mihi ipsi accidit. Etenim <ref target="bm:Ludolf1661Confessio">in <lb facs="#facs_5_r1l25" n="020"
-            />notis ad Confeßionem Fidei Claudii Regis Aethiopiae</ref> (b)<ptr target="#b"/> disertis ver<lb break="no" facs="#facs_5_r1l26"
+              target="#a"/> . Id quod mihi ipsi accidit. Etenim in <lb facs="#facs_5_r1l25" n="020"
+            />notis<bibl><ptr target="bm:Ludolf1661Confessio"/><title>ad Confeßionem Fidei Claudii Regis Aethiopiae</title></bibl> (b)<ptr target="#b"/> disertis ver<lb break="no" facs="#facs_5_r1l26"
               n="021"/>bis scripseram: Aethiopes Concilium Chalcedonense, non admit<lb break="no"
               facs="#facs_5_r1l27" n="022"/>tere. Quia verò <persName ref="wd:Q7398926"
               >Tzaga-zaabum</persName>(c)<ptr target="#c"/> ambiguè de eo loquentem <lb
-                facs="#facs_5_r1l28" n="023"/>nominatim non refutaveram, Vir doctus <ref cRef="bm:Wildt1664Ecclesia">Dissertationem de
-            Ec <lb break="no" facs="#facs_5_r1l29" n="024"/>elesia Aethiopica</ref> scribens, (d)<ptr
+                facs="#facs_5_r1l28" n="023"/>nominatim non refutaveram, Vir doctus <bibl><ptr target="bm:Wildt1664Ecclesia"/>Dissertationem de
+            Ec <lb break="no" facs="#facs_5_r1l29" n="024"/>elesia Aethiopica</bibl> scribens, (d)<ptr
               target="#d"/> putavit, plurimos ideò hoc credidisse, <lb facs="#facs_5_r1l30" n="025"
             />[me scil. intelligens] quòd Claudius istius concilii nullam mentionem fe<lb break="no"
               facs="#facs_5_r1l31" n="026"/>cisset. Sic male praetulit inepti illius hominis
@@ -227,8 +227,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 xml:id="c">(c) De quo in<!-- <ptr target=xml:id"">Proem. I. §23 </ptr>--></note><lb facs="#facs_5_r1l46" n="007"/><note
               xml:id="d">(d) <persName ref="Q55901905">Joh. Ulricus Wildius</persName> SS. Th. D.
               <date when="1664"> An.<lb facs="#facs_5_r1l48" n="008"/>1664.</date> cùm dissertationem illam Argentorati
-              ederet, Magister &amp; juvenis adhuc.<ref cRef="bm:Wildt1664Ecclesia">Cap. c. pag.
-                28.</ref></note></ab>
+              ederet, Magister &amp; juvenis adhuc.<bibl><ptr target="bm:Wildt1664Ecclesia"/>Cap. c. pag.
+                28.</bibl></note></ab>
           <pb facs="#facs_6" n="6"/>
           <p facs="#facs_6_TextRegion_1612942261764_197">
             <lb facs="#facs_6_line_1612942261847_200" n="001"/>Praefatio Autoris. </p>
