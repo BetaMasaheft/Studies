@@ -6,8 +6,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="la" xml:id="t1"> Ad suam Historiam Aethiopicam antehac editam Commentarius </title>
-        <title xml:lang="la" type="short"> Commentarius </title>
+        <title xml:lang="la" xml:id="t1"> Ad suam Historiam Aethiopicam antehac editam Commentarius</title>
+        <title xml:lang="la" type="short"> Commentarius</title>
         <author> Ludolf, Hiob </author>
         <editor key="GC"/>
       </titleStmt>
@@ -26,6 +26,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
         <p>The encoded text was obtained from the transcription on Transkribus of a set of
           Commentarius images, acquired from <ref
             target="https://archive.org/details/bub_gb_VOtTAAAAcAAJ">internet archive</ref>.</p>
+        
+        <p><listRelation>
+          <relation name="dcterms:creator" active="STU0001Commentarius" passive="PRS6378Ludolf"/>
+        </listRelation></p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -123,6 +127,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       <change who="PL" when="2021-02-16">Added some basic elements from sample file</change>
     </revisionDesc>
   </teiHeader>
+  <facsimile facs="https://iiif.archivelab.org/iiif/bub_gb_VOtTAAAAcAAJ/manifest.json">
+    <graphic url="https://iiif.archivelab.org/iiif/bub_gb_VOtTAAAAcAAJ/manifest.json">
+      <desc>will have transkribus surfaces</desc>
+    </graphic>
+  </facsimile>
   <text>
     <front>
       <pb facs="#facs_1" n="1"/>
@@ -208,13 +217,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           <ab type="footer" facs="#facs_5_TextRegion_1612941444965_91">
             <lb facs="#facs_5_r1l42" n="001"/>
             <note xml:id="a">(a) <persName ref="wd:Q85429883"> N. Godignus</persName>
-              <ref cRef="bm:Godinho1615Abassinorum">de Abassin. rebus, in praef. ad Lect. ex
-                Seneca.</ref> Rem falsam &amp; inanem, nisi <lb facs="#facs_5_r1l43" n="002"
+              <bibl><ptr target="bm:Godinho1615Abassinorum"/><title>de Abassin. rebus, in praef. ad Lect. ex
+                Seneca</title></bibl>. Rem falsam &amp; inanem, nisi <lb facs="#facs_5_r1l43" n="002"
               />coarguatur, habere nonnunquam fidem multosque esse homines judicii parum firmi, qui
               nihil audiant, <lb facs="#facs_5_r1l45" n="003"/>legant vè, quod non credant, nisi
               refutatum sciant. <lb facs="#facs_5_r1l44" n="004"/></note><note xml:id="b">(b)
-              Londini <date when="1661">An. 1661.</date> cum <ref cRef="bm:Ludolf1661Grammatica"> Grammatica <lb facs="#facs_5_line_1612941879593_142" n="005"
-              /> mea </ref> editam n. 4.</note><lb facs="#facs_5_line_1612941890258_147" n="006"/><note
+              Londini <date when="1661">An. 1661.</date> cum <bibl><ptr target="bm:Ludolf1661Grammatica"/> <title>Grammatica</title></bibl> <lb facs="#facs_5_line_1612941879593_142" n="005"
+              /> mea  editam n. 4.</note><lb facs="#facs_5_line_1612941890258_147" n="006"/><note
                 xml:id="c">(c) De quo in<!-- <ptr target=xml:id"">Proem. I. §23 </ptr>--></note><lb facs="#facs_5_r1l46" n="007"/><note
               xml:id="d">(d) <persName ref="Q55901905">Joh. Ulricus Wildius</persName> SS. Th. D.
               <date when="1664"> An.<lb facs="#facs_5_r1l48" n="008"/>1664.</date> cùm dissertationem illam Argentorati
