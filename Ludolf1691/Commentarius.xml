@@ -162,7 +162,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
     <body>
 
       <div type="edition">
-        <div type="textpart" subtype="praefatio" xml:id="p1">
+        <div type="textpart" subtype="praefatio" xml:id="praefatio">
           <pb facs="#facs_4" n="4"/>
           <pb facs="#facs_5" n="5"/>
           <head facs="#facs_5_TextRegion_1612941469024_98">
@@ -197,7 +197,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 facs="#facs_5_r1l28" n="023"/>nominatim non refutaveram, Vir doctus <bibl><ptr target="bm:Wildt1664Ecclesia"/>Dissertationem de
             Ec <lb break="no" facs="#facs_5_r1l29" n="024"/>elesia Aethiopica</bibl> scribens, (d)<ptr
               target="#d"/> putavit, plurimos ideò hoc credidisse, <lb facs="#facs_5_r1l30" n="025"
-            />[me scil. intelligens] quòd Claudius istius concilii nullam mentionem fe<lb break="no"
+              />[me scil. intelligens] quòd <persName ref="wd:Q887847">Claudius</persName> istius concilii nullam mentionem fe<lb break="no"
               facs="#facs_5_r1l31" n="026"/>cisset. Sic male praetulit inepti illius hominis
             autoritatem asser<lb break="no" facs="#facs_5_r1l32" n="027"/>4 tioni meae benè fundatae.
             Nolumus tamen obscuris aut fabu<lb break="no" facs="#facs_5_r1l33" n="028"/>losis
@@ -223,9 +223,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               /> mea  editam n. 4.</note><lb facs="#facs_5_line_1612941890258_147" n="006"/><note
                 xml:id="c">(c) De quo in<!-- <ptr target=xml:id"">Proem. I. §23 </ptr>--></note><lb facs="#facs_5_r1l46" n="007"/><note
               xml:id="d">(d) <persName ref="Q55901905">Joh. Ulricus Wildius</persName> SS. Th. D.
-              <date when="1664"> An.<lb facs="#facs_5_r1l48" n="008"/>1664.</date> cùm dissertationem illam Argentorati
-              ederet, Magister &amp; juvenis adhuc.<bibl><ptr target="bm:Wildt1664Ecclesia"/>Cap. c. pag.
-                28.</bibl></note></ab>
+              <date when="1664"> An.<lb facs="#facs_5_r1l48" n="008"/>1664.</date> cùm <bibl><ptr target="bm:Wildt1664Ecclesia"/>dissertationem illam Argentorati
+              ederet, Magister &amp; juvenis adhuc.Cap. c. pag.28.</bibl></note></ab>
           <pb facs="#facs_6" n="6"/>
           <p facs="#facs_6_TextRegion_1612942261764_197">
             <lb facs="#facs_6_line_1612942261847_200" n="001"/>Praefatio Autoris. </p>
@@ -280,8 +279,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               facs="#facs_6_line_1612942255455_192" n="039"/>Versio¬ </ab>
           <ab type="footer" facs="#facs_6_TextRegion_1612942255368_188">
             <lb facs="#facs_6_line_1612942722504_274" n="001"/>
-            <note xml:id="e">(e) Id primò factum in praefatione Historiae Aethiopicae
-              praemissa.</note>
+            <note xml:id="e">(e) Id primò factum in praefatione <ref type="studies" corresp="ST002Historia">Historiae Aethiopicae
+              praemissa</ref>.</note>
             <lb facs="#facs_6_line_1612942795070_293" n="002"/><note xml:id="f">(f). <persName
                 ref="wd:Q1541">Cicero</persName>: aequo ani<lb break="no" facs="#facs_6_r1l48"
                 n="003"/>mo me moneri passus sum, &amp; gratias habeo iis, qui me docuerunt.</note>
@@ -335,7 +334,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               break="no" facs="#facs_7_r2l34" n="031"/>tervenerit. Quippe maximè probamus sententiam
             illorum, <lb facs="#facs_7_r2l35" n="032"/>qui id ab accuratis scriptoribus requirunt. </ab>
           <ab type="footer" facs="#facs_7_TextRegion_1612943265266_392">
-            <lb facs="#facs_7_line_1612943265364_396" n="001"/>[Iac. Gothofredus in Prolegom. in
+            <lb facs="#facs_7_line_1612943265364_396" n="001"/>[<persName ref="wd:Q910926">Iac. Gothofredus</persName> in Prolegom. in
             Philostorgium p. m. 55. In Historia illud nosse pluri<lb break="no" facs="#facs_7_r2l38"
               n="002"/>mum interest, unde quidque promptum &amp; à quo proditum sit; ut ita de fide
             dictorum certiùs <lb facs="#facs_7_r2l39" n="003"/>meliusque constare possit. <lb

@@ -33,10 +33,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 		<encodingDesc>
 			<p>The source of the encoded text is the transcription, made on <ref
 				target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref>, of a set of
-				images of the <hi rend="italic">Historia</hi>, acquired from The Internet Archive. The encoder, Giulia Casella, aligned
-				the set of images, corrected the segmentation and layout analysis produced in the tool and
-				exported the text for further encoding of named entities and alignment of reference
-				information. The encoding of the work is linked with the <ptr
+				images of the <hi rend="italic">Historia</hi>, acquired from The Internet Archive. The encoding of the work is linked with the <ptr
 					target="https://betamasaheft.eu/Guidelines/?id=schemaView"/>Beta maṣāḥǝft Schema, and it
 				is made following the <ref target="https://betamasaheft.eu/Guidelines/?id=works"
 					>BetaMasaheft Guidelines</ref>.</p>
