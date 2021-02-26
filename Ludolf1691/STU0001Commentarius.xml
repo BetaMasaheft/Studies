@@ -234,13 +234,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           <p facs="#facs_6_TextRegion_1612942261764_197">
             <lb facs="#facs_6_line_1612942261847_200" n="001"/>Praefatio Autoris. </p>
           <ab facs="#facs_6_TextRegion_1612942261763_196">
-            <lb facs="#facs_6_r1l2" n="001"/>Igitur hîc denuo lectorem obtestamur, (e)<ptr
-              target="#e"/> ut communis naturae 5 <lb facs="#facs_6_r1l3" n="002"/>fragilitatis
+            <lb facs="#facs_6_r1l2" n="001"/>Igitur hîc denuo lectorem obtestamur, <ref target="#n-praefatio-e">(e)</ref> 
+            ut communis naturae 5 <lb facs="#facs_6_r1l3" n="002"/> fragilitatis
             memor, si quae vel parùm exactè tradita: vel à sua opi<lb break="no" facs="#facs_6_r1l4"
               n="003"/>nione aliena repererit, ea aequi bonique consulat: aut ubi opus fue<lb
               break="no" facs="#facs_6_r1l5" n="004"/>rit, amicè nos moneat, quod grata semper mente
-              agnosce<lb break="no" facs="#facs_6_r1l7" n="005"/>mus (f)<ptr target="#f"/>. <lb
-              facs="#facs_6_r1l9" n="006"/><!--Praeterea Epistolas, ac mandata Regum Aethiopiae <ptr target=""/>: Sum-6
+            agnosce<lb break="no" facs="#facs_6_r1l7" n="005"/>mus <ref target="#n-praefatio-f">(f)<ref/>. 
+              <lb facs="#facs_6_r1l9" n="006"/><!--Praeterea Epistolas, ac mandata Regum Aethiopiae <ptr target=""/>: Sum-6
               <lb facs="#facs_6_r1l10" n="007"/>mi Pontificis Romani: &amp; Regum Hispaniae
             responsiones <ptr target=""/>: Patrum <lb facs="#facs_6_r1l11" n="008"/>Societatis Jesu, eorumque
             Patriarchae in Aethiopia orationes <ptr target=""/>: &amp; <lb facs="#facs_6_r1l12" n="009"/>cum
@@ -264,7 +264,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 break="no" facs="#facs_6_r1l26" n="023"/> σεις</foreign> nobis condonet. <lb
               facs="#facs_6_r1l29" n="024"/>Interdum etiam novas conjecturas admiscemus, autores
               an-8<lb break="no" facs="#facs_6_r1l30" n="025"/>tiquos, ubi possumus, emendamus,
-            declaramus, &amp; conciliamus <lb facs="#facs_6_r1l31" n="026"/>(g)<ptr target="#g"/>:
+              declaramus, &amp; conciliamus <lb facs="#facs_6_r1l31" n="026"/><ref target="#n-praefatio-g">(g)</ref>:
             nonnunquam Lectores ad eos, qui ex professo de hac vel illa <lb facs="#facs_6_r1l32"
               n="027"/>materia agunt, ablegamus. <lb facs="#facs_6_r1l35" n="028"/>Inprimis in rebus
             exoticis naturae admirandam vim, à creato¬9 <lb facs="#facs_6_r1l36" n="029"/>re
@@ -273,27 +273,28 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             experti su<lb break="no" facs="#facs_6_r1l38" n="031"/>mus; quin potius ab infamia
             fabulositatis liberare satagimus, <lb facs="#facs_6_r1l39" n="032"/>quae antiquâ famâ, à
             variis autoribus inter varias gentes sparsâ, <lb facs="#facs_6_r1l40" n="033"/>quasi per
-            manus tradita ad nos pervenere (h)<ptr target="#h"/>. Secus ac alii, qui <lb
-              facs="#facs_6_r1l41" n="034"/>omnia quae ipsi non spectaverunt praefractè negant, nisi
+              manus tradita ad nos pervenere <ref target="#n-praefatio-h">(h)</ref>. Secus ac alii, qui <lb
+              facs="#facs_6_r1l41" n="034"/> omnia quae ipsi non spectaverunt praefractè negant, nisi
             per Nota<lb break="no" facs="#facs_6_r1l42" n="035"/>rium &amp; testes probentur. Sic
             aliquando Philosophum, qui navi<lb break="no" facs="#facs_6_r1l43" n="036"/>gationes non
             legerat, pisces volatiles pro cathedra fortiter negan<lb break="no" facs="#facs_6_r1l44"
               n="037"/>tem adolescens audivi; qui idem serpentes &amp; lacertas volatiles <lb
               facs="#facs_6_r1l45" n="038"/>
-            <foreign xml:lang="grc">πὺξ καὶ λάξ</foreign> negaturus fuisset. <lb
-              facs="#facs_6_line_1612942255455_192" n="039"/>Versio¬ </ab>
+          <foreign xml:lang="grc">πὺξ καὶ λάξ</foreign> negaturus fuisset. <lb facs="#facs_6_line_1612942255455_192" n="039"/>Versio¬
+          </ab>
           <ab type="footer" facs="#facs_6_TextRegion_1612942255368_188">
             <lb facs="#facs_6_line_1612942722504_274" n="001"/>
-            <note xml:id="e">(e) Id primò factum in praefatione <ref type="studies" corresp="ST002Historia#praefatio2">Historiae Aethiopicae
+            <note xml:id="#n-praefatio-e"><label>(e)</label> Id primò factum in praefatione <ref type="studies" corresp="ST002Historia#praefatio2">Historiae Aethiopicae
               praemissa</ref>.</note>
-            <lb facs="#facs_6_line_1612942795070_293" n="002"/><note xml:id="f">(f). <persName
-                ref="wd:Q1541">Cicero</persName>: aequo ani<lb break="no" facs="#facs_6_r1l48"
+            <lb facs="#facs_6_line_1612942795070_293" n="002"/>
+            <note xml:id="n-praefatio-f">(f)<persName ref="wd:Q1541">Cicero</persName>: aequo ani<lb break="no" facs="#facs_6_r1l48"
                 n="003"/>mo me moneri passus sum, &amp; gratias habeo iis, qui me docuerunt.</note>
-            <lb facs="#facs_6_r1l49" n="004"/><note xml:id="g">(g) ex gr. de salubritate, <lb
-                facs="#facs_6_r1l50" n="005"/>vel insalubritate locustarum: vel etiam aquae
+            <lb facs="#facs_6_r1l49" n="004"/>
+            <note xml:id="n-praefatio-g"><label>(g)</label> ex gr. de salubritate, <lb facs="#facs_6_r1l50" n="005"vel/> insalubritate locustarum: vel etiam aquae
               Niloticae.</note>
-            <lb facs="#facs_6_r1l51" n="006"/><note xml:id="h">(h) Ex. gr. de Pygmaeis, eorumque <lb
-                facs="#facs_6_r1l52" n="007"/> pugna cum gruibus. De incredibilis magnitudinis
+            <lb facs="#facs_6_r1l51" n="006"/>
+            <note xml:id="n-praefatio-h"><label>(h)</label> Ex. gr. de Pygmaeis, eorumque <lb
+                facs="#facs_6_r1l52" n="007" pugna cum gruibus. De incredibilis magnitudinis
               serpentibus, vespertilionibus, formicis, &amp; simi<lb break="no" facs="#facs_6_r1l53"
                 n="008"/>libus, quae omnia <persName ref="wd:Q45936">Straboni</persName> suspectae
               sunt fidei.</note>
@@ -367,7 +368,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             audire velit; quamvis non statim plagiarius vocandus sit, qui similia dicit <lb
               facs="#facs_7_r2l52" n="016"/>&amp; scribit quae alius; nec quicquam obstat, quò minùs
             diversi easdem rationes mente con<lb break="no" facs="#facs_7_r2l53" n="017"/>cipere
-            pessint, ut in  <!--Prooemio dicemus §. 49.<ptr target=""/>]--> <lb facs="#facs_7_r2l55" n="018"/>Nihil </ab>
+            pessint, ut in <!--Prooemio dicemus §. 49.<ptr target=""/>]--> <lb facs="#facs_7_r2l55" n="018"/>Nihil </ab>
           <pb facs="#facs_8" n="8"/>
           <p facs="#facs_8_TextRegion_1612943420329_423">
             <lb facs="#facs_8_r1l1" n="001"/>Praefatio Autoris. </p>
@@ -381,30 +382,29 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               facs="#facs_8_r1l7" n="006"/>as negligentiae tribuendum. Arrogantiae vitium est, &amp;
             plagii no<lb break="no" facs="#facs_8_r1l8" n="007"/>men meretur, cum quis videri vult
             ea reperisse &amp; composuisse, quae <lb facs="#facs_8_r1l9" n="008"/>ex alio desumsit:
-            Diffidentiae, cum autori meo non fatis fido: <lb facs="#facs_8_r1l10" n="009"/>(i)<ptr
-              target="#i"/> vel allegatione non satis dignum aestimo. Negligentiae, cum <lb
-              facs="#facs_8_r1l11" n="010"/>per incuriam vel oblivionem autores omittuntur, vel id
+            Diffidentiae, cum autori meo non fatis fido: <lb facs="#facs_8_r1l10" n="009"/><ref
+            target="#n-praefatio-i">(i)</ref> vel allegatione non satis dignum aestimo. Negligentiae, cum <lb
+              facs="#facs_8_r1l11" n="010"per incuriam vel oblivionem autores omittuntur, vel id
             non ne<lb break="no" facs="#facs_8_r1l12" n="011"/>cessarium putatur. Veteres certè suos
             autores rarissimè citant 17 <lb facs="#facs_8_r1l13" n="012"/> Strabo ex <persName
               ref="wd:Q171241">Diodoro Siculo</persName>: <persName ref="wd:Q82778"
               >Plinius</persName> integras periodos ex <persName ref="wd:Q868">Aristotele</persName>
-            <lb facs="#facs_8_r1l14" n="013"/><ptr target="#k"/>(k) exscribit, illo non nominato,
-            quamvis in <ref xml:id="q1"
-                cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:preface.5"
+              <lb facs="#facs_8_r1l14" n="013"/><ref target="#n-praefatio-k">(k) exscribit, illo non nominato,
+            quamvis in <ref xml:id="q1" cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:preface.5"
                 >Epistola ad Vespa<lb break="no" facs="#facs_8_r1l15" n="014"/>sianum Lib. I pm
                 8</ref> fateatur <cit><quote source="#q1">benignum esse &amp; plenum ingenui pudo<lb
                   break="no" facs="#facs_8_r1l16" n="015"/>ris, fateri per quos profeceris, &amp;
                 sese deprehendisse aliquos trans<lb break="no" facs="#facs_8_r1l17" n="016"
-                />scriptos ad verbum neque nominatos</quote></cit> . Scilicet sufficere putavit <lb
+                />scriptos ad verbum neque nominatos</quote></cit>. Scilicet sufficere putavit <lb
               facs="#facs_8_r1l18" n="017"/>semel atque iterum nominasse autores suos, nec in
             omnibus hi<lb break="no" facs="#facs_8_r1l19" n="018"/>storiae suae articulis eorum
             meminisse voluit. <lb facs="#facs_8_r1l20" n="019"/>Porro candorem meum etiam ex eo
             cognosci velim, quòd 18 <lb facs="#facs_8_r1l21" n="020"/>liberè profitear ubi
             hallucinatus fuerim; &amp; monitores meos cum <lb facs="#facs_8_r1l22" n="021"
-            />gratiarum actione nominem. <ptr target="#l"/>(l) Quin &amp; ea in quibus senten¬ 19
+            />gratiarum actione nominem. <ref target="#n-praefatio-l">(l)</ref> Quin &amp; ea in quibus senten¬ 19
               <lb facs="#facs_8_r1l24" n="022"/>tiam meam mutavi separatim congessi, &amp;
             nullatenus dissimulavi. <lb facs="#facs_8_r1l25" n="023"/>Qui enim <foreign xml:lang="gr">μεγα πνέοντες</foreign>, secus
-            faciunt, nae illi <foreign xml:lang="gr">ἀναμάρτῆται</foreign> infalli<lb break="no" facs="#facs_8_r1l26" n="024"/>biles
+            faciunt, nae illi <foreign xml:lang="grc">ἀναμάρτῆται</foreign> infalli<lb break="no" facs="#facs_8_r1l26" n="024"/>biles
             haberi volunt quam arrogantiam foedam ego procul habeo. <lb facs="#facs_8_r1l28" n="025"
             />Denique quod ad sacrorum causam attinet Historici vice fungor, <lb
               facs="#facs_8_r1l29" n="026"/>neminem secus sentientem obtrecto, multò minùs odi.
@@ -425,19 +425,17 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
               n="038"/>moram excusare, mihique favere non dedignabitur. </ab>
           <ab type="footer" facs="#facs_8_TextRegion_1612943561876_443">
             <lb facs="#facs_8_line_1612943595212_447" n="001"/>
-            <note xml:id="i">(i) Id mihi contigit, cùm juvenis adhuc cum <persName ref="wd:Q27569053"> J. M. Dilherro </persName>,
+            <note xml:id="n-praefatio-i">(i) Id mihi contigit, cùm juvenis adhuc cum <persName ref="wd:Q27569053"> J. M. Dilherro </persName>,
               Confessionem Fidei Claudii <lb facs="#facs_8_r1l43" n="002"/>communicassem, quàm ille
               Germanicè reddidit &amp; impressit in libro das Leben Christi und seiner <lb
                 facs="#facs_8_r1l44" n="003"/>Aposteleme non nominato; Nec me nominavit <persName ref="wd:Q116904"> Hottingerus </persName>
               in dissertatione de libro Henochi in To<lb break="no" facs="#facs_8_r1l45" n="004"
               />pographia Ecclesia; cùm tamen à me juvene acceperit ea omnia, quae ibi nova de
-              Athiopibus ha<lb break="no" facs="#facs_8_r1l46" n="005"/>bet. <lb
-                facs="#facs_8_r1l47" n="006"/>(k) Vide modo <!--<ref cRef="">Aristotelem L. V. Hist. Animal.</ref>--> &amp;
-                <ref
-                cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:11.32"
-                > Plinium L. XI. c. 26. de Achetis </ref> &amp; ali<lb break="no"
+              Athiopibus ha<lb break="no" facs="#facs_8_r1l46" n="005"/>bet. <lb facs="#facs_8_r1l47" n="006"/>
+              <note xml:id="n-praefatio-k">(k) Vide modo <!--<ref cRef="">Aristotelem L. V. Hist. Animal.</ref>--> &amp;
+                <ref cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:11.32">Plinium L. XI. c. 26. de Achetis</ref> &amp; ali<lb break="no"
                 facs="#facs_8_r1l48" n="007"/>bi passim.</note><lb facs="#facs_8_r1l49" n="008"
-              /><note xml:id="l"><!--(l) Comment. I. 96. 65. &amp; 3. 17. 7.<ptr target=""/>--> </note><lb
+              /><note xml:id="n-praefatio-l"><!--(l) Comment. I. 96. 65. &amp; 3. 17. 7.<ptr target=""/>--> </note><lb
               facs="#facs_8_r1l51" n="009"/>Tabula</ab>
           <pb facs="#facs_9" n="9"/>
           <pb facs="#facs_10" n="10"/>
