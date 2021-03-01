@@ -239,8 +239,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             memor, si quae vel parùm exactè tradita: vel à sua opi<lb break="no" facs="#facs_6_r1l4"
               n="003"/>nione aliena repererit, ea aequi bonique consulat: aut ubi opus fue<lb
               break="no" facs="#facs_6_r1l5" n="004"/>rit, amicè nos moneat, quod grata semper mente
-            agnosce<lb break="no" facs="#facs_6_r1l7" n="005"/>mus <ref target="#n-praefatio-f">(f)<ref/>. 
-              <lb facs="#facs_6_r1l9" n="006"/><!--Praeterea Epistolas, ac mandata Regum Aethiopiae <ptr target=""/>: Sum-6
+            agnosce<lb break="no" facs="#facs_6_r1l7" n="005"/>mus <ref target="#n-praefatio-f">(f)</ref>. 
+              <lb facs="#facs_6_r1l9" n="006"/> <!--Praeterea Epistolas, ac mandata Regum Aethiopiae <ptr target=""/>: Sum-6
               <lb facs="#facs_6_r1l10" n="007"/>mi Pontificis Romani: &amp; Regum Hispaniae
             responsiones <ptr target=""/>: Patrum <lb facs="#facs_6_r1l11" n="008"/>Societatis Jesu, eorumque
             Patriarchae in Aethiopia orationes <ptr target=""/>: &amp; <lb facs="#facs_6_r1l12" n="009"/>cum
@@ -284,17 +284,17 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
           </ab>
           <ab type="footer" facs="#facs_6_TextRegion_1612942255368_188">
             <lb facs="#facs_6_line_1612942722504_274" n="001"/>
-            <note xml:id="#n-praefatio-e"><label>(e)</label> Id primò factum in praefatione <ref type="studies" corresp="ST002Historia#praefatio2">Historiae Aethiopicae
+            <note xml:id="n-praefatio-e"><label>(e)</label> Id primò factum in praefatione <ref type="studies" corresp="ST002Historia#praefatio2">Historiae Aethiopicae
               praemissa</ref>.</note>
             <lb facs="#facs_6_line_1612942795070_293" n="002"/>
             <note xml:id="n-praefatio-f">(f)<persName ref="wd:Q1541">Cicero</persName>: aequo ani<lb break="no" facs="#facs_6_r1l48"
                 n="003"/>mo me moneri passus sum, &amp; gratias habeo iis, qui me docuerunt.</note>
             <lb facs="#facs_6_r1l49" n="004"/>
-            <note xml:id="n-praefatio-g"><label>(g)</label> ex gr. de salubritate, <lb facs="#facs_6_r1l50" n="005"vel/> insalubritate locustarum: vel etiam aquae
-              Niloticae.</note>
+            <note xml:id="n-praefatio-g"><label>(g)</label> ex gr. de salubritate, <lb facs="#facs_6_r1l50" n="005"/> 
+              insalubritate locustarum: vel etiam aquae Niloticae.</note>
             <lb facs="#facs_6_r1l51" n="006"/>
             <note xml:id="n-praefatio-h"><label>(h)</label> Ex. gr. de Pygmaeis, eorumque <lb
-                facs="#facs_6_r1l52" n="007" pugna cum gruibus. De incredibilis magnitudinis
+                facs="#facs_6_r1l52" n="007"/> pugna cum gruibus. De incredibilis magnitudinis
               serpentibus, vespertilionibus, formicis, &amp; simi<lb break="no" facs="#facs_6_r1l53"
                 n="008"/>libus, quae omnia <persName ref="wd:Q45936">Straboni</persName> suspectae
               sunt fidei.</note>
@@ -384,12 +384,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             ea reperisse &amp; composuisse, quae <lb facs="#facs_8_r1l9" n="008"/>ex alio desumsit:
             Diffidentiae, cum autori meo non fatis fido: <lb facs="#facs_8_r1l10" n="009"/><ref
             target="#n-praefatio-i">(i)</ref> vel allegatione non satis dignum aestimo. Negligentiae, cum <lb
-              facs="#facs_8_r1l11" n="010"per incuriam vel oblivionem autores omittuntur, vel id
+              facs="#facs_8_r1l11" n="010"/>per incuriam vel oblivionem autores omittuntur, vel id
             non ne<lb break="no" facs="#facs_8_r1l12" n="011"/>cessarium putatur. Veteres certè suos
             autores rarissimè citant 17 <lb facs="#facs_8_r1l13" n="012"/> Strabo ex <persName
               ref="wd:Q171241">Diodoro Siculo</persName>: <persName ref="wd:Q82778"
               >Plinius</persName> integras periodos ex <persName ref="wd:Q868">Aristotele</persName>
-              <lb facs="#facs_8_r1l14" n="013"/><ref target="#n-praefatio-k">(k) exscribit, illo non nominato,
+              <lb facs="#facs_8_r1l14" n="013"/><ref target="#n-praefatio-k">(k)</ref> exscribit, illo non nominato,
             quamvis in <ref xml:id="q1" cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:preface.5"
                 >Epistola ad Vespa<lb break="no" facs="#facs_8_r1l15" n="014"/>sianum Lib. I pm
                 8</ref> fateatur <cit><quote source="#q1">benignum esse &amp; plenum ingenui pudo<lb
@@ -422,7 +422,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             Saxonica Vinariensi de<lb break="no" facs="#facs_8_r1l39" n="036"/>lectus, illum
             seponere coactus fui; mox alia impedimenta atque <lb facs="#facs_8_r1l40" n="037"
             />itinera varia supervenerunt; Quam ob causam benevolus Lector <lb facs="#facs_8_r1l41"
-              n="038"/>moram excusare, mihique favere non dedignabitur. </ab>
+              n="038"/>moram excusare, mihique favere non dedignabitur. 
+          </ab>
           <ab type="footer" facs="#facs_8_TextRegion_1612943561876_443">
             <lb facs="#facs_8_line_1612943595212_447" n="001"/>
             <note xml:id="n-praefatio-i">(i) Id mihi contigit, cùm juvenis adhuc cum <persName ref="wd:Q27569053"> J. M. Dilherro </persName>,
@@ -431,16 +432,2353 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 facs="#facs_8_r1l44" n="003"/>Aposteleme non nominato; Nec me nominavit <persName ref="wd:Q116904"> Hottingerus </persName>
               in dissertatione de libro Henochi in To<lb break="no" facs="#facs_8_r1l45" n="004"
               />pographia Ecclesia; cùm tamen à me juvene acceperit ea omnia, quae ibi nova de
-              Athiopibus ha<lb break="no" facs="#facs_8_r1l46" n="005"/>bet. <lb facs="#facs_8_r1l47" n="006"/>
-              <note xml:id="n-praefatio-k">(k) Vide modo <!--<ref cRef="">Aristotelem L. V. Hist. Animal.</ref>--> &amp;
+              Athiopibus ha<lb break="no" facs="#facs_8_r1l46" n="005"/>bet.</note> <lb facs="#facs_8_r1l47" n="006"/>
+            <note xml:id="n-praefatio-k">(k) Vide modo <!--<ref cRef="">Aristotelem L. V. Hist. Animal.</ref>--> &amp;
                 <ref cRef="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:11.32">Plinium L. XI. c. 26. de Achetis</ref> &amp; ali<lb break="no"
                 facs="#facs_8_r1l48" n="007"/>bi passim.</note><lb facs="#facs_8_r1l49" n="008"
-              /><note xml:id="n-praefatio-l"><!--(l) Comment. I. 96. 65. &amp; 3. 17. 7.<ptr target=""/>--> </note><lb
+              /><note xml:id="n-praefatio-l"><!--(l) Comment. I. 96. 65. &amp; 3. 17. 7.<ptr target=""/>--></note><lb
               facs="#facs_8_r1l51" n="009"/>Tabula</ab>
           <pb facs="#facs_9" n="9"/>
           <pb facs="#facs_10" n="10"/>
         </div>
+        <div type="textpart" subtype="tabula capitum" xml:id="tc"> 
+			<pb facs="#facs_11" n="11"/>
+			<head facs="#facs_11_TextRegion_1612943934853_543">
+				<lb facs="#facs_11_r1l14" n="N001"/>TABULA CAPITUM <lb facs="#facs_11_r1l16"
+					n="N002"/>TOTIUS OPERIS <lb facs="#facs_11_r1l18" n="N003"/>Summam
+				repraesentans, secundum numeros <lb facs="#facs_11_r1l21" n="N004"/>in ipso textu
+				Historia Aethiopicae positos. </head>
+      <div type="textpart" xml:id="n.proemio">			
+			<ab facs="#facs_11_TextRegion_1612944206049_597">
+			 <lb facs="#facs_11_r1l24" n="N001"/>IN Praefatione referuntur <lb
+					facs="#facs_11_r1l26" n="N002"/>hujus Commentarii causae, <lb
+					facs="#facs_11_r1l28" n="N003"/>ejusque scopus atque me¬<lb
+					facs="#facs_11_r1l30" n="N004"/>thodus. <lb facs="#facs_11_r1l32" n="N005"/>In
+				Commentario ad Proae<lb break="no" facs="#facs_11_r1l34" n="N006"/>nium Historiae
+				Aethiopicae.
+			 <list>
+		  <item n="n.p1"><lb facs="#facs_11_r1l37" n="N007"/> Num. I. Exponuntur causae tam
+				corruptae histo <lb facs="#facs_11_r1l39" n="N008"/>riae Habessinorum. <lb
+					facs="#facs_11_r1l41" n="N009"/>Primus literarum Aethiopicarum in Europa au<lb
+					break="no" facs="#facs_11_r1l43" n="N010"/>tor fuit Johannes Potken / Germanus
+				Praepositus <lb facs="#facs_11_r1l45" n="N011"/>Coloniensis. <lb
+					facs="#facs_11_r1l47" n="N012"/>Damianus à Goez relationes edidit Matthaei Ar<lb
+					break="no" facs="#facs_11_r1l49" n="N013"/>menii, &amp; Tzaga-Zaabi Confessionem
+				Fidei. Uterque <lb facs="#facs_11_r1l51" n="N014"/>perstringitur, &amp; falsa vel
+				vana illorum narrata osten¬ <lb facs="#facs_11_r1l53" n="N015"/>duntur. <lb
+					facs="#facs_11_r1l55" n="N016"/>Franciscus Alvarezius verax, sed paulò simpli¬
+					<lb facs="#facs_11_r1l57" n="N017"/>cior, in nonnullis falsus. <lb
+					facs="#facs_11_r1l59" n="N018"/>Johannes Bermudes Alexandriae &amp; Aethiopiae
+				Pa¬ <lb facs="#facs_11_r1l61" n="N019"/>triarcha, homo simplicissimus. <lb
+					facs="#facs_11_r1l64" n="N020"/>Ludovicus Urreta nugator. <lb
+					facs="#facs_11_r1l65" n="N021"/>Nicolaus Godiguus Urretae censor justissimus.
+					<lb facs="#facs_11_r1l67" n="N022"/>Johann Balthasar non satis sanus. <lb
+					facs="#facs_11_r1l69" n="N023"/>Autor libelli Les estranges evenements du Voyage
+					<lb facs="#facs_11_r1l72" n="N024"/>de Tzaga Christ mendax <lb
+					facs="#facs_11_r1l73" n="N025"/>facobus Baratti fabulator. Qui omnes recen¬ <lb
+					facs="#facs_11_r1l76" n="N026"/>sentur &amp; perstringuntur. <lb
+					facs="#facs_11_r1l77" n="N027"/>P. Balthasar Tellezius laudatur, cum epicrisi
+					<lb facs="#facs_11_r1l80" n="N028"/>quandam ob nonnulla loca ambigua. <lb
+					facs="#facs_11_r1l81" n="N029"/>Alii Scriptores rerum Aethiopicarum, quorum <lb
+					facs="#facs_11_r1l83" n="N030"/>scripta ad autorem non pervenerunt: Veluti
+				Petrus <lb facs="#facs_11_r1l85" n="N031"/>Pays. Alphonsus Mendez. Hieron. Lupus
+				&amp; alii mi¬ <lb facs="#facs_11_r1l88" n="N032"/>nus notabiles. <lb
+					facs="#facs_11_r1l90" n="N033"/>Muhammedes Abdel- Bakides Arabs Mss. in <lb
+					facs="#facs_11_r1l92" n="N034"/>Bibliotheca Oxoniensi. <lb facs="#facs_11_r1l94"
+					n="N035"/>Sequuntur alii autores qui obiter rerum Aethio¬ <lb
+					facs="#facs_11_r1l96" n="N036"/>picarum mentionem fecerunt, veluti Historici,
+				qui <lb facs="#facs_11_r1l98" n="N037"/>res Lusitanorum in India gestas memoriae
+				prodide¬ <lb facs="#facs_11_r1l100" n="N038"/>runt. <lb facs="#facs_11_r1l102"
+					n="N039"/>Paulus Jovius notatur ob multa falsa &amp; inepta de <lb
+					facs="#facs_11_r1l104" n="N040"/>Habessinis. <lb facs="#facs_11_r1l106" n="N041"
+				/>Alii, qui partem aliquam Historiae Habessinicae <lb facs="#facs_11_r1l108"
+					n="N042"/>tradiderunt, ut qui de Ecclesia Aethiopica scripse <lb
+					facs="#facs_11_r1l110" n="N043"/>runt, quamvis saepè nescirent, ubi terrarum
+				sita esset. <lb facs="#facs_11_r1l112" n="N044"/>Scaliger de Computo Ecclesiae
+				Aethiopica lauda¬ <lb facs="#facs_11_r1l114" n="N045"/>tur, tametsi multùm
+				hallucinatus. <lb facs="#facs_11_r1l116" n="N046"/>Brerevvood Anglus. Vrsinus.
+				Alexander Ross. <lb facs="#facs_11_r1l118" n="N047"/>Hottingerus &amp; alii.</ab>
+			<ab facs="#facs_11_TextRegion_1612944206049_596">
+				<lb facs="#facs_11_r1l23" n="N001"/>D. Job. Viric. Wildius laudatur. Seldenus in
+				uxo¬ <lb facs="#facs_11_r1l25" n="N002"/>re Hebr. notatur, ut &amp; Cornelius Hazart
+				Belga. <lb facs="#facs_11_r1l27" n="N003"/>Historiae Universalis Scriptores. <lb
+					facs="#facs_11_r1l29" n="N004"/>Oldenburgerus in Thesauro Rerumpubl. permixtè
+					<lb facs="#facs_11_r1l31" n="N005"/>&amp; confusè de Habessinis loquitur. <lb
+					facs="#facs_11_r1l33" n="N006"/>Boterus in relationibus Universalibus Italicè
+				scri¬ <lb facs="#facs_11_r1l35" n="N007"/>ptis: Mendosum Tigia &amp; Tigiana, quod
+				ille habet, <lb facs="#facs_11_r1l36" n="N008"/>exponitur. <lb facs="#facs_11_r1l38"
+					n="N009"/>Menda plurima in Athanasio Kirchero. <lb facs="#facs_11_r1l40"
+					n="N010"/>Geographi varii examinantur. <lb facs="#facs_11_r1l42" n="N011"
+				/>Tabulae Chorographicae vulgares carpuntur; <lb facs="#facs_11_r1l44" n="N012"/>M.
+				Paulus Venetus. Leo Asricanus &amp; alii. <lb facs="#facs_11_r1l46" n="N013"/>Nova
+				Africae descriptio Dapperi. <lb facs="#facs_11_r1l48" n="N014"/>De Geographo
+				Nubiensi, atque in eo repertis regio¬ <lb facs="#facs_11_r1l50" n="N015"/>num atque
+				urbium nominibus hodiè ignotis. Disse¬ <lb facs="#facs_11_r1l52" n="N016"/>ritur de
+				variatione ac mutatione nominum, cùm ob <lb facs="#facs_11_r1l54" n="N017"/>gentium
+				migrationes, tùm Dialectorum differentias.
+				</item>
+				<item n="n.p2"><lb facs="#facs_11_r1l56" n="N018"/>Num. 2. De maleferiatis &amp; fabulosis Scriptori¬ <lb facs="#facs_11_r1l58" n="N019"
+				/>bus. De mensa Solis in Aethiopia ab Herodoto me¬ <lb facs="#facs_11_r1l60"
+					n="N020"/>morata, hinc origo des Schlauer Affenzands. <lb facs="#facs_11_r1l62"
+					n="N021"/>Origo jocularium historiarum vulgo Romans. Ital. <lb
+					facs="#facs_11_r1l63" n="N022"/>Romanzi. Ubi de Xenophonte. Heliodoro; &amp; no¬
+					<lb facs="#facs_11_r1l66" n="N023"/>vissimè Adamo Contzen Pat. Soc. J. agitur.</item>
+				<item n="n.p3"><lb facs="#facs_11_r1l68" n="N024"/> Num. 3. De Ludovico Urreta remissivè.</item>
+				<item n="n.p4"><lb facs="#facs_11_r1l70" n="N025"/>Num. 4. De facobo Barratto breviter &amp;
+				remissivè.</item>
+				<item n="n.p5"><lb facs="#facs_11_r1l71" n="N026"/>Num. 5. De peregrinationum
+				scriptoribus, ut plu¬ <lb facs="#facs_11_r1l74" n="N027"/>rimum vanis &amp; falsis.
+				Leonhard Rauchmolff: <lb facs="#facs_11_r1l75" n="N028"/>Volaterranus &amp; alii
+				taxantur. De vocabulo orientali <lb facs="#facs_11_r1l78" n="N029"/>Xᾶν Chan Summus
+				Princeps, quod Itali pronuncia¬ <lb facs="#facs_11_r1l79" n="N030"/>tionis ignari
+				scribunt Cane, Paese del grand Cane, <lb facs="#facs_11_r1l82" n="N031"/>ridiculè
+				Germanicus Interpres reddidit des grossen <lb facs="#facs_11_r1l84" n="N032"/>hunds
+				Land/ Regio Magni Canis. Eugenius Ro¬ <lb facs="#facs_11_r1l86" n="N033"/>ger.
+				Beniamin Tudelensis Judaeus. Vincentius Le <lb facs="#facs_11_r1l87" n="N034"
+				/>Blanc, &amp; alii notantur. Thevenotii Itinerarium de¬ <lb facs="#facs_11_r1l89"
+					n="N035"/>claratur.</item>
+				<item n="n.p6"><lb facs="#facs_11_r1l91" n="N036"/>Num. 6. Matthaeus Armenius.</item> 
+				<item n="n.p7"><lb facs="#facs_11_r1l93" n="N037"/>Num. 7. Tzaga za-abus, vulgò Zagnzabo.</item>
+				<item n="n.p8"><lb facs="#facs_11_r1l95" n="N038"/>Num. 8. Franciscus Alvarezius.</item>
+				<item n="n.p9"><lb facs="#facs_11_r1l97" n="N039"/>Num. 9. Johannes Bermudes, de quibus omni¬ <lb
+					facs="#facs_11_r1l99" n="N040"/>bus supra actum.</item>
+				<item n="n.p10"><lb facs="#facs_11_r1l101" n="N041"/>Num. 10. Annuae Patrum Societatis Jesu relatio¬<lb
+					facs="#facs_11_r1l103" n="N042"/>nes laudantur.</item> 
+				<item n="n.p11"><lb facs="#facs_11_r1l105" n="N043"/>Num. 11. P. Balthasar Tellezius; de quo jam <lb facs="#facs_11_r1l107"
+					n="N044"/>antea fusè actum.</item>
+				<item n="n.p12"><lb facs="#facs_11_r1l109" n="N045"/>Num. 12. Autor noster laudat, i. e. nominat suos <lb facs="#facs_11_r1l111" n="N046"/>autores, quos
+					ipse sequitur.</item>
+				<item n="n.p13"><lb facs="#facs_11_r1l113" n="N047"/>Num. 13. De Gregorio Habessino;
+				cujus persona <lb facs="#facs_11_r1l115" n="N048"/>describitur, quomodo autor in
+				notitiam ejus perve¬ <lb facs="#facs_11_r1l117" n="N049"/>nerit, ubi de causa
+				itineris Romani. Acta ejus in aula <lb facs="#facs_11_r1l119" n="N050"/>Gotanam </ab>
+			<pb facs="#facs_12" n="12"/>
+			<ab facs="#facs_12_TextRegion_1612944880503_716">
+				<lb facs="#facs_12_r1l1" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_12_TextRegion_1612945366194_853">
+				<lb facs="#facs_12_r1l4" n="N001"/>Gotanâ apud Ernestum Saxoniae Ducem; quid de <lb
+					facs="#facs_12_r1l5" n="N002"/>popularium suorum rebus retulerit, &amp; vicissim
+				de <lb facs="#facs_12_r1l8" n="N003"/>nostris judicaverit; quòd in itinere obierit.
+				Episto¬ <lb facs="#facs_12_r1l10" n="N004"/>la ejus Aethiopica ad autorem, prima
+				quae in Europa <lb facs="#facs_12_r1l12" n="N005"/>visa. Alia ad Johannem Ernestum
+				dicti Ducis Erne¬ <lb facs="#facs_12_r1l14" n="N006"/>sti filium natu-maximum.
+				Lamentatio super obi¬ <lb facs="#facs_12_r1l16" n="N007"/>tum ejus cum Lesso. </ab>
+			<ab facs="#facs_12_TextRegion_1612945366194_852">
+				<lb facs="#facs_12_line_1612944880681_718" n="N001"/>Alphonsi Patriarchae Pontificii
+				in Aethiopia Epi¬ <lb facs="#facs_12_r1l6" n="N002"/>stola Lusitanica ad Gregorium,
+				ne in Patriam rever¬ <lb facs="#facs_12_r1l7" n="N003"/>tatur. <lb facs="#facs_12_r1l9" n="N004"/>Gregorii Epistola Aethiopica ad Ernestum Saxo¬
+					<lb facs="#facs_12_r1l11" n="N005"/>niae Ducem more &amp; stylo Aethiopico
+				conscripta. <lb facs="#facs_12_r1l13" n="N006"/>De versionibus Historiae Aethiopicae
+				Ludolfi in <lb facs="#facs_12_line_1612944976759_736" n="N007"/>Anglia, Gallia &amp;
+				Belgio, nec non in Moscovia factis.</ab></item>
+			</list>
+			</div>
+		  <div type="textpart" xml:id="n.lib.1">	
+		    <head facs="#facs_12_TextRegion_1612945241190_783">
+				<lb facs="#facs_12_line_1612944976760_737" n="N001"/>Ad Historiae Aethiopicae Lib.
+				I. Cap. I </head>
+		    <list>
+			 <ab facs="#facs_12_TextRegion_1612945281123_788">
+				<item n="n.1.14"><lb facs="#facs_12_r1l19" n="N001"/>NUm. 14. De genuina scriptura &amp; pronuncia¬
+					<lb facs="#facs_12_r1l21" n="N002"/>tione vocis Habesh, &amp; nomine
+				Habessinorum. <lb facs="#facs_12_r1l23" n="N003"/>Nec non de vocis istius origine
+				&amp; significatione.</item>
+				<item n="n.1.15"><lb facs="#facs_12_r1l25" n="N004"/>Num. 15. Cur Habessini ita
+				appellati fuerint. A¬ <lb facs="#facs_12_r1l27" n="N005"/>liae pravae derivationes
+				refelluntur; Inprimis ea, quae <lb facs="#facs_12_r1l29" n="N006"/>ab Aegyptiaca
+				voce Ἂυασις Auasis vel Oasis desumi¬ <lb facs="#facs_12_r1l31" n="N007"/>tur; ubi
+				declaratur, quid hoc propriè sit, &amp; quòd <lb facs="#facs_12_r1l33" n="N008"
+				/>Habassiae minimè conveniat. Vanae Jurisconsulto¬ <lb facs="#facs_12_r1l35"
+					n="N009"/>rum quorundam Glossae ad l. 7. §. 5. ff. de Interd. &amp; <lb
+					facs="#facs_12_r1l37" n="N010"/>releg. verbo: In Oasin. &amp;c. exploduntur. Num
+					<lb facs="#facs_12_r1l39" n="N011"/>hodiè adhuc Oases dentur. </item>
+				<item n="n.1.16"><lb facs="#facs_12_r1l42" n="N012"/>Num. 16. Quòd Aethiopes nostri olim nolue¬ <lb
+					facs="#facs_12_r1l44" n="N013"/>rint appellari Habessini. Quòd vocabulum
+				speciale <lb facs="#facs_12_r1l46" n="N014"/>[] Habesh Habessinus sensim
+				degeneraverit in <lb facs="#facs_12_r1l48" n="N015"/>generale, dum in versione
+				Bibliorum Arabica, &amp; ali¬ <lb facs="#facs_12_r1l50" n="N016"/>bi passim pro
+				Aethiope generatim accipitur. Ver¬ <lb facs="#facs_12_r1l52" n="N017"/>sio illa
+				notatur. Arabicum ([. γl0χ.] Sudan non <lb facs="#facs_12_r1l54" n="N018"/>reddendum
+				Nigritae, sed Nigri.</item>
+				<item n="n.1.17"><lb facs="#facs_12_r1l55" n="N019"/>Num. 17. De latissima
+				Aethiopiae significatio¬ <lb facs="#facs_12_r1l57" n="N020"/>ne, &amp; istius
+				vocabuli apud veteres &amp; recentiores usu. <lb facs="#facs_12_r1l59" n="N021"
+				/>Aethiopes antiqui propriè dicti olim optimae fuerunt <lb facs="#facs_12_r1l61"
+					n="N022"/>famae. Cur Aethiopes in Europâ vocentur Mauri <lb
+					facs="#facs_12_r1l63" n="N023"/>Ital. Mori. Mohren. Judaeis [Swy9] Cusai, de <lb
+					facs="#facs_12_r1l65" n="N024"/>quibus remissivè. Cautelae in acceptione istius
+				vocis <lb facs="#facs_12_r1l67" n="N025"/>De nigredine Aethiopum brevis dissertatio.</item>				
+				<item n="n.1.18"><lb facs="#facs_12_r1l69" n="N026"/>Num. 18. De radice Aethiopica [JOH]: Geeza,
+					<lb facs="#facs_12_r1l72" n="N027"/>quae convenit cum Arabico [jl] Giaza.
+				Digressus <lb facs="#facs_12_r1l74" n="N028"/>est; unde [AΤOHP]: Ag- azian dicti
+					fuerunt <lb facs="#facs_12_r1l76" n="N029"/>Habessini nostri.</item>
+			    <item n="n.1.19"><lb facs="#facs_12_r1l78" n="N030"/>Num. 19. De Francis Rhenum transeuntibus, <lb
+					facs="#facs_12_r1l80" n="N031"/>unde sic dicti. De Habessinorum in Africam
+				trans¬ <lb facs="#facs_12_r1l82" n="N032"/>fretatione, eorumque origine ex Arabia
+				felice è <lb facs="#facs_12_r1l84" n="N033"/>gente Sabaeorum. Quo tempore facta
+				fuerit disqui¬ <lb facs="#facs_12_r1l86" n="N034"/>sitio. Scaligeri sententia, qui
+				transitum Habessino¬ <lb facs="#facs_12_r1l88" n="N035"/>rum ad tempora Justiniani
+				retrahit, consistere non <lb facs="#facs_12_r1l90" n="N036"/>potest. Rationes
+				plurimae afferuntur. Cedreni &amp; <lb facs="#facs_12_r1l92" n="N037"/>Nicephori
+				historia de Adado Axumitarum Rege fal¬ <lb facs="#facs_12_r1l94" n="N038"/>sitatis
+				arguitur. Longè antiquissimum esse Habessi¬ <lb facs="#facs_12_r1l96" n="N039"
+				/>norum transitum Conringius censuit, cui autor as¬ <lb facs="#facs_12_r1l98"
+					n="N040"/>sentitur, &amp; rationes pro hac sententia plurimas ad¬ <lb
+					facs="#facs_12_r1l100" n="N041"/>dit. Contraria argumenta refelluntur, inprimis
+				ea, <lb facs="#facs_12_r1l102" n="N042"/>quae à Graecorum autorum silentio desumta
+				sunt. <lb facs="#facs_12_r1l104" n="N043"/>Irruptio Habessinorum in Arabiam felicem
+				tem¬ <lb facs="#facs_12_r1l106" n="N044"/>pore Justini facta; certissimum
+				contraScaligerum argu¬ <lb facs="#facs_12_r1l108" n="N045"/>mentum est, Habessinos
+				illius tempore jam tum in <lb facs="#facs_12_r1l110" n="N046"/>Africa valentes
+				fuisse. Locus Eusebii de Aethiopi¬ <lb facs="#facs_12_r1l112" n="N047"/>bus ab Indo
+				flumine consurgentibus, hucusque non in¬ <lb facs="#facs_12_r1l114" n="N048"
+				/>tellectus de Habessinis exponitur, nam de Indis pro <lb facs="#facs_12_r1l116"
+					n="N049"/>priè dictis intelligi non posse demonstratur, &amp; con¬ <lb
+					facs="#facs_12_r1l118" n="N050"/>traria discutiuntur. Philostratus falsus
+				declaratur. <lb facs="#facs_12_r1l119" n="N051"/>Ipsa Eusebii verba sublata
+				aequivocatione ad li¬ </ab>
+			    <ab facs="#facs_12_TextRegion_1612945281123_787">
+				<lb facs="#facs_12_r1l20" n="N001"/>teram exponuntur. Tempus speciale transfreta¬
+					<lb facs="#facs_12_r1l22" n="N002"/>tionis Habessinorum indicatur.</item>
+			<item n="n.1.20"><lb facs="#facs_12_r1l24" n="N003"/>Num. 20. De Sabaeis, qui &amp; Homeritae, ab
+				aliis <lb facs="#facs_12_r1l26" n="N004"/>Indi: ab aliis Aethiopes vocati fuerunt.
+				Saba &amp; <lb facs="#facs_12_r1l28" n="N005"/>Mariaba non duo nomina unius Urbis,
+				ut Bochar¬ <lb facs="#facs_12_r1l30" n="N006"/>tus putavit, sed duae diversae Regiae
+				fuerunt. Ara¬ <lb facs="#facs_12_r1l32" n="N007"/>bicum [γλε] legendum esse Homer.
+				Non Hemair, <lb facs="#facs_12_r1l34" n="N008"/>nec Hamyar nec Himyar sicuti [Cyol]
+				ejusdem for¬ <lb facs="#facs_12_r1l36" n="N009"/>mae vocabulum Amen non Amyan nec
+				Imyan ef¬ <lb facs="#facs_12_r1l38" n="N010"/>ferendum, ita &amp; nomen propr. Areta
+				&amp;c. contra <lb facs="#facs_12_r1l40" n="N011"/>Arabes ipsos &amp; nonnullos
+				claros viros, qui illis fi¬ <lb facs="#facs_12_r1l41" n="N012"/>dunt; ubi de malâ
+				punctatione nominum pro¬ <lb facs="#facs_12_r1l43" n="N013"/>priorum à Masorethis
+				talium ignaris, factâ. In pro¬ <lb facs="#facs_12_r1l45" n="N014"/>nunciatione
+				credendum est iis, qui linguas mortuas <lb facs="#facs_12_r1l47" n="N015"/>&amp;
+				populos extinctos loquentes audiverunt. Nume¬ <lb facs="#facs_12_r1l49" n="N016"
+				/>rosissimi fuerunt Sabae, hinc emigrationis causa. Ho¬ <lb facs="#facs_12_r1l51"
+					n="N017"/>meritarum Regnum in Arabia a Calebo seu Elesbaa <lb
+					facs="#facs_12_r1l53" n="N018"/>deletum. De Sabis urbe Africae. <lb
+					facs="#facs_12_r1l56" n="N019"/>Additio de nummo Severi erroneo, ex Sen¬ <lb
+					facs="#facs_12_r1l58" n="N020"/>tentia P. Johannis Harduini, non de Abassenis,
+				sed <lb facs="#facs_12_r1l60" n="N021"/>le Καβασίταις accipiendo.</item>
+			<item n="n.1.21"><lb facs="#facs_12_r1l62" n="N022"/>Num. 21. De Axumitis, unde dicti, &amp; de num¬
+				<lb facs="#facs_12_r1l64" n="N023"/>mo Elagabalis incerto.</item> 
+			<item n="n.1.22"><lb facs="#facs_12_r1l66" n="N024"/>Num. 22. De confusione Habessinorum cum Ho¬ <lb
+					facs="#facs_12_line_1612945281303_790" n="N025"/>meritis &amp; Nubaeis. Scaliger
+				Procopio malè imputat <lb facs="#facs_12_r1l70" n="N026"/>errorem. Theophanes
+				Byzantius declaratur. De <lb facs="#facs_12_line_1612945281305_792" n="N027"
+				/>Nubaeis, quaenam gens vel regio sit; Et quod no¬ <lb facs="#facs_12_r1l73"
+					n="N028"/>men istud ad varias &amp; remotissimas Regiones ex¬ <lb
+					facs="#facs_12_r1l75" n="N029"/>tendatur. Hesychius Pygmaeos Nobas vocat; hinc
+					<lb facs="#facs_12_r1l77" n="N030"/>digressio ad Pygmaeos, de quibus latè;
+				Vetustissi¬ <lb facs="#facs_12_line_1612945281306_794" n="N031"/>ma fama recentiore
+				experientiâ confirmatur ab <lb facs="#facs_12_line_1612945281308_796" n="N032"
+				/>αυτόπταις veluti Nonnoso, &amp; in novissimis Africae de¬ <lb
+					facs="#facs_12_line_1612945281309_798" n="N033"/>scriptionibus Vossii, qui
+				parvos homines ibi non ne¬ <lb facs="#facs_12_line_1612945281310_800" n="N034"/>gat,
+				sed Nanos esse asserit, idque refellitur. Rabbino¬ <lb
+					facs="#facs_12_line_1612945281312_802" n="N035"/>rum sententia de matrimonio
+				Nanorum. Dapperus <lb facs="#facs_12_line_1612945281314_804" n="N036"/>in Africa.
+				Thevenot in Itinerario, &amp; alii. De loco <lb
+					facs="#facs_12_line_1612945281317_806" n="N037"/>habitationis eorum. Geographus
+				Nubiensis notatur. <lb facs="#facs_12_line_1612945281318_808" n="N038"/>De vera
+				Pygmaeorum magnitudine. Digressio de <lb facs="#facs_12_line_1612945281319_810"
+					n="N039"/>Gigantibus qui vel quales fuerint. Quid de Gerano¬ <lb
+					facs="#facs_12_line_1612945281320_812" n="N040"/>machia Pygmaeorum sentiendum.
+				Non mirum, in¬ <lb facs="#facs_12_line_1612945281321_814" n="N041"/>credibilem
+				videri pugnam hominum cum gruibus: <lb facs="#facs_12_line_1612945281323_816"
+					n="N042"/>cum aequè incredibile futurum esset: boves gesta¬ <lb
+					facs="#facs_12_line_1612945281325_818" n="N043"/>re turres &amp; quinque vel sex
+				viros de illis pugnare, si <lb facs="#facs_12_line_1612945281326_820" n="N044"
+				/>Elephantos nesciremus. De loco Ezechielis, ubi <lb
+					facs="#facs_12_line_1612945281327_822" n="N045"/>vox Gammadim in Vulgata
+				redditur Pygmaei. Unde <lb facs="#facs_12_line_1612945281330_824" n="N046"/>hoc
+				venerit. Variae autorum sententiae super hoc <lb
+					facs="#facs_12_line_1612945281331_826" n="N047"/>loco. Fullerus malè corrigit
+				autores pro Gamalaeis <lb facs="#facs_12_line_1612945281334_828" n="N048"/>Gamadaeos
+				faciens. Gamala urbs valida in Palaesti¬ <lb facs="#facs_12_line_1612945281336_830"
+					n="N049"/>na, &amp; fortassis sic olim lectum. Habessini olim à <lb
+					facs="#facs_12_line_1612945281338_832" n="N050"/>nonnullis Nubiani dicti.</item>
+			<item n="n.1.23"><lb facs="#facs_12_r1l120" n="N051"/>Num. 23. Habessini olim Indi dicti, &amp;
+				lingua <lb facs="#facs_12_r1l121" n="N052"/>eorum </ab>
+			<pb facs="#facs_13" n="13"/>
+			<ab facs="#facs_13_TextRegion_1612946775536_1581">
+				<lb facs="#facs_13_line_1612947131046_1649" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_13_TextRegion_1612947186151_1658">
+				<lb facs="#facs_13_line_1612946775667_1583" n="N001"/>eorum malè Indica. De Indiae
+				nomine latissimo nec <lb facs="#facs_13_r1l4" n="N002"/>non usu &amp; abusu, ejusque
+				confusione cum Aethiopiâ. <lb facs="#facs_13_r1l6" n="N003"/>Scriptores Historiae
+				Ecclesiasticae de Aethiopibus &amp; <lb facs="#facs_13_r1l8" n="N004"/>Indis
+				confusissimè loquentes explicantur. Ruffinus <lb facs="#facs_13_r1l10" n="N005"
+				/>speciatim Geographiae imperitissimus notatur. Mar <lb facs="#facs_13_r1l12"
+					n="N006"/>cus Paulus &amp; alii tot Indias faciunt, quot Zonae tor¬ <lb
+					facs="#facs_13_r1l14" n="N007"/>ridae ignotae sunt regiones. Non tamen
+				provincias </ab>
+			<ab facs="#facs_13_TextRegion_1612947186151_1657">
+				<lb facs="#facs_13_r1l3" n="N001"/>citra tropicum Cancri sitas ad Indiam retulerunt
+				Ve¬ <lb facs="#facs_13_r1l5" n="N002"/>teres, nisi fortè paucissimi, errore eorum
+				privato, <lb facs="#facs_13_r1l7" n="N003"/>sive in regionibus sive in rebus. An
+				&amp; quales Indi <lb facs="#facs_13_r1l9" n="N004"/>fuerint, de quibus Plinius,
+				Florus &amp; alii autores. Pro¬ <lb facs="#facs_13_r1l11" n="N005"/>fectio
+				Apostolorum ad Indos &amp; Aethiopes, explicatu <lb facs="#facs_13_r1l13" n="N006"
+				/>difficilis Baronio visa, elucidatur.</item>
+			</ab>
+			<ab facs="#facs_13_TextRegion_1612946827697_1591">
+				<lb facs="#facs_13_line_1612947411746_1748" n="N001"/>Ad Lib. I. Cap. II. </ab>
+			<ab facs="#facs_13_TextRegion_1612947214526_1679">
+			<item n="24"><lb facs="#facs_13_r1l17" n="N001"/>NUm. 24. Appellatio Aethiopiae sub Aegypto, <lb
+					facs="#facs_13_r1l19" n="N002"/>Nut inepta &amp; perversa exploditur; unde for
+					<lb facs="#facs_13_r1l21" n="N003"/>tassis originem habuerit. </item>
+			<item n=""<lb
+					facs="#facs_13_r1l23" n="N004"/>Num. 25. Unde in Tabulis Geographicis itam <lb
+					facs="#facs_13_r1l25" n="N005"/>enormis extensio Habassiae ultra lineam
+				aequinoctia¬ <lb facs="#facs_13_r1l27" n="N006"/>lem; Primus Job. Barrius insignis
+				Historicus Lusi¬ <lb facs="#facs_13_r1l29" n="N007"/>tanus eam restrinxit. Num Polus
+				antarcticus in Ha¬ <lb facs="#facs_13_r1l31" n="N008"/>bassia conspiciatur. <lb
+					facs="#facs_13_r1l33" n="N009"/>Num. 26. Mare rubrum à Graecis malè sic vo¬ <lb
+					facs="#facs_13_line_1612947011086_1625" n="N010"/>cari, cùm Edomaeum à littore
+				simpliciter dicendum </ab>
+			<ab facs="#facs_13_TextRegion_1612947214526_1678">
+				<lb facs="#facs_13_r1l18" n="N001"/>fuisset, prout dicimus Mare Hispanicum, Indicum,
+					<lb facs="#facs_13_r1l20" n="N002"/>&amp; similiter. lidem reprehenduntur, quod
+				nomina <lb facs="#facs_13_r1l22" n="N003"/>propria aliarum gentium significativa
+				plerumque <lb facs="#facs_13_r1l24" n="N004"/>mutaverint, &amp; Graecè exposuerint.
+				Mari rubro idem <lb facs="#facs_13_r1l26" n="N005"/>contigisse, quod aliis
+				appellationibus regionum, ut <lb facs="#facs_13_r1l28" n="N006"/>notiores ad
+				remotiores ignotas extendantur. Hinc <lb facs="#facs_13_r1l30" n="N007"/>Mare rubrum
+				in Indiam usque à Veteribus dilata¬ <lb facs="#facs_13_r1l32" n="N008"/>tum. Q.
+				Curtii de eo error. Accedunt alia de hoc <lb facs="#facs_13_r1l34" n="N009"/>mari
+				scitu digna; quòd navigatu sit periculosissi¬ <lb
+					facs="#facs_13_line_1612947011086_1627" n="N010"/>mum, &amp; altius terrâ
+				Aegypti. </ab>
+			<ab facs="#facs_13_TextRegion_1612947027676_1631">
+				<lb facs="#facs_13_line_1612947309566_1724" n="N001"/>Ad Lib. I. Cap. III. </ab>
+			<ab facs="#facs_13_TextRegion_1612947561246_1791">
+				<lb facs="#facs_13_r1l40" n="N001"/>NUm. 27. An Habassia contineat sexaginta duo <lb
+					facs="#facs_13_r1l42" n="N002"/>Regna? Mendum in nota numerica subesse <lb
+					facs="#facs_13_r1l44" n="N003"/>putatur. <lb facs="#facs_13_r1l47" n="N004"
+				/>Num. 28. De Mendis numerorum ob facilem in <lb facs="#facs_13_r1l49" n="N005"
+				/>notis numericis lapsum. In profanis autoribus res <lb facs="#facs_13_r1l51"
+					n="N006"/>est in confesso, duobus exemplis è Plinio confirma¬ <lb
+					facs="#facs_13_r1l53" n="N007"/>tur; At sacris Scriptoribus assertio est longè
+				diffici¬ <lb facs="#facs_13_r1l55" n="N008"/>lior, verùm 1. Maccab. 6, 37. de XXXII.
+				viris in uno <lb facs="#facs_13_r1l58" n="N009"/>Elephanto res est clarissima.
+				Discrepantia tamen <lb facs="#facs_13_r1l60" n="N010"/>aliqua numerorum etiam in
+				Libris Canonicis repe¬ <lb facs="#facs_13_r1l62" n="N011"/>ritur. Hinc certamina
+				doctorum virorum acria <lb facs="#facs_13_r1l64" n="N012"/>quae moderanda suadet
+				autor. De aetate Salomonis <lb facs="#facs_13_r1l66" n="N013"/>&amp; Roboami
+				difficultates. Interpres Bibliorum Ger¬ <lb facs="#facs_13_r1l68" n="N014"/>manicus
+				numeros quosdam suspectos habuit. Asse <lb facs="#facs_13_r1l70" n="N015"/>veratio
+				autoris de integritate Scripturae. <lb facs="#facs_13_r1l72" n="N016"/>Num. 29.
+				Enumeratio Regnorum Habassiae ex <lb facs="#facs_13_r1l74" n="N017"/>relatione
+				Godigni cum censura &amp; emendationibus <lb facs="#facs_13_r1l76" n="N018"
+				/>Autoris; ut &amp; nonnullarum provinciarum. <lb facs="#facs_13_r1l78" n="N019"
+				/>Num. 30. De Insula Meroe, quòd non sit provin¬ <lb facs="#facs_13_r1l80" n="N020"
+				/>cia Aethiopiae Gojama; quomodo hoc vocabu¬ <lb facs="#facs_13_r1l81" n="N021"/>lum
+				rectè sit legendum. Tellezius &amp; nonnulli re¬ <lb facs="#facs_13_r1l83" n="N022"
+				/>centiores illum secuti refelluntur. Hiatus in Bau¬ <lb facs="#facs_13_r1l85"
+					n="N023"/>drandi Lexico Geographico, Insula illa latè describi¬ <lb
+					facs="#facs_13_line_1612947473076_1763" n="N024"/>tur ex Herodoto, Diodoro
+				Siculo, Strabone, Ptolemaeo, </ab>
+			<ab facs="#facs_13_TextRegion_1612947561246_1790">
+				<lb facs="#facs_13_r1l41" n="N001"/>Plinio, Solino &amp; aliis, ita ut minimè
+				fabulosa sit, atta¬ <lb facs="#facs_13_r1l43" n="N002"/>men ad Gojamam minimè
+				quadret. Rationes con¬ <lb facs="#facs_13_r1l46" n="N003"/>trariae referuntur,
+				iisque respondetur. Urgetur po¬ <lb facs="#facs_13_r1l48" n="N004"/>tissima ratio,
+				quod Meroë Veteribus fuerit notissi¬ <lb facs="#facs_13_r1l50" n="N005"/>ma: Nili
+				fontes verò, qui in Gojama sunt, ignotissi¬ <lb facs="#facs_13_r1l52" n="N006"/>mi
+				fuerint. An &amp; ubi insula illa hodiè adhuc extet, <lb facs="#facs_13_r1l54"
+					n="N007"/>ubi quaerenda sit, &amp; quomodo vocetur. Fortassis <lb
+					facs="#facs_13_r1l56" n="N008"/>locorum illorum facies hodiè mutata. <lb
+					facs="#facs_13_r1l59" n="N009"/>Num. 31. De Provincia Medra Baher, i. e. Terra
+					<lb facs="#facs_13_r1l61" n="N010"/>maris ejusque Praefecto Bahr-nagash. Eodem
+				sen¬ <lb facs="#facs_13_r1l63" n="N011"/>su Aremorica Galliae provincia vocatur ac
+				Pomera¬ <lb facs="#facs_13_r1l65" n="N012"/>nia; regio Germaniae ad mare. Hanse
+				Staͤdte <lb facs="#facs_13_r1l67" n="N013"/>scribendum, non An See Staͤdte. <lb
+					facs="#facs_13_r1l69" n="N014"/>Num. 32. De Axuma, quae malè Caxumo vel <lb
+					facs="#facs_13_r1l71" n="N015"/>Cassumo; unde istud venerit. Hoc errore decepti
+					<lb facs="#facs_13_r1l73" n="N016"/>Scaliger &amp; Bochartus Arabicum [μρί]
+				Chashum <lb facs="#facs_13_r1l75" n="N017"/>idem esse putaverunt. Minimè verò omnium
+				huc <lb facs="#facs_13_r1l77" n="N018"/>quadrare, quae Golius habet de
+				RegiaHabessinorum <lb facs="#facs_13_r1l79" n="N019"/>Germe vel Giurmè. <lb
+					facs="#facs_13_r1l82" n="N020"/>Num. 33. De voce China; quam soli Hispani, <lb
+					facs="#facs_13_r1l84" n="N021"/>Lusitani &amp; Angli rectè pronunciant.
+				Necessitas Al¬ <lb facs="#facs_13_r1l86" n="N022"/>phabeti, cujusdam ex Latinis
+				literis pro peregrinis <lb facs="#facs_13_r1l88" n="N023"/>vocibus formati
+				ostenditur. </ab>
+			<ab facs="#facs_13_TextRegion_1612947492816_1767">
+				<lb facs="#facs_13_line_1612947745586_1935" n="N001"/>Ad Lib. I. Cap. IV. <lb
+					facs="#facs_13_line_1612947492936_1772" n="N002"/>in praeclaro suo opere Lingg.
+				Orientalium. </ab>
+			<ab facs="#facs_13_TextRegion_1612947575996_1796">
+				<lb facs="#facs_13_line_1612947492936_1769" n="N001"/>NUm. 34. Consilium de
+				construendo quodam <lb facs="#facs_13_r1l93" n="N002"/>Alphabeto universali literis
+				merè Latinis, ad ex <lb facs="#facs_13_r1l95" n="N003"/>primendas &amp; ab omnibus
+				nationibus uniformiter <lb facs="#facs_13_r1l97" n="N004"/>legendas voces peregrinas
+				proponitur; Specimen <lb facs="#facs_13_line_1612947507856_1779" n="N005"/>illius
+				dedit insignis vir Franc. Mesgnien Meninskius </ab>
+			<ab facs="#facs_13_TextRegion_1612947575996_1795">
+				<lb facs="#facs_13_line_1612947492936_1771" n="N001"/>in praeclaro suo opere Lingg.
+				Orientalium. <lb facs="#facs_13_r1l94" n="N002"/>Num. 35. Tabulae vulgares
+				Habessiniae in Atlante <lb facs="#facs_13_r1l96" n="N003"/>majore &amp; alibi
+				notantur; Vossii rectissimum de iis <lb facs="#facs_13_r1l98" n="N004"/>judicium. De
+				tabula majore Francis Aeschinardi <lb facs="#facs_13_r1l100" n="N005"/>De Africae
+				nova tabula. </ab>
+			<ab facs="#facs_13_TextRegion_1612947519207_1783">
+				<lb facs="#facs_13_line_1612947831826_1961" n="N001"/>Ad Lib. I. Cap. V. </ab>
+			<ab facs="#facs_13_TextRegion_1612947590486_1803">
+				<lb facs="#facs_13_r1l103" n="N001"/>JUm. 36. De incredibili Zonae torridae aestu;
+					<lb facs="#facs_13_r1l105" n="N002"/>exempla admiranda è diversis autoribus
+				affe¬ <lb facs="#facs_13_r1l107" n="N003"/>runtur, falsa tamen est Philosophorum
+				quorundam </ab>
+			<ab facs="#facs_13_TextRegion_1612947590486_1802">
+				<lb facs="#facs_13_line_1612947519346_1785" n="N001"/>veterum opinio, quòd
+				inhabitabilis sit. Contrarium <lb facs="#facs_13_r1l106" n="N002"/>ex Tellezio &amp;
+				Thevenotio probatur. <lb facs="#facs_13_r1l108" n="N003"/>Num. 37. Thilosophi de
+				coelo &amp; sideribus auda¬ <lb facs="#facs_13_r1l110" n="N004"/>cter </ab>
+			<pb facs="#facs_14" n="14"/>
+			<ab facs="#facs_14_TextRegion_1612947963795_1989">
+				<lb facs="#facs_14_r1l1" n="N001"/>Tabula Capitum totius Operis </ab>
+			<ab facs="#facs_14_TextRegion_1612948232995_2065">
+				<lb facs="#facs_14_line_1612947963975_1993" n="N001"/>cter nimis disserentes verbis
+				Senecae perstringuntur <lb facs="#facs_14_r1l7" n="N002"/>Interdum non turpe esse
+				ignorantiam suam fateri, <lb facs="#facs_14_r1l9" n="N003"/>ex Augustino. <lb
+					facs="#facs_14_r1l11" n="N004"/>Num. 38. De aëris natura, quem Aristotele <lb
+					facs="#facs_14_r1l13" n="N005"/>absurdè calidum &amp; humidissimum facit, cùm ta
+					<lb facs="#facs_14_r1l15" n="N006"/>men has qualitates habeat ex accidente.
+				Peripaters <lb facs="#facs_14_r1l17" n="N007"/>corum argumenta afferuntur, &amp;
+				simul refutantur. <lb facs="#facs_14_r1l19" n="N008"/>Vanam esse divisionem aeris in
+				certas regiones. Ae¬ <lb facs="#facs_14_r1l21" n="N009"/>rem per se frigidissimum
+				esse Elementum, Stoici jam <lb facs="#facs_14_r1l23" n="N010"/>pridem sapienter
+				asseruerunt, idque rationibus con¬ <lb facs="#facs_14_r1l25" n="N011"/>firmatur. Le
+				Sr. Perit laudatur. <lb facs="#facs_14_r1l27" n="N012"/>Num. 39. De nive sub Zona
+				torrida rarissima; <lb facs="#facs_14_r1l29" n="N013"/>Gregorius eam, priusquàm in
+				Germaniam venisset, <lb facs="#facs_14_r1l31" n="N014"/>non viderat, igitur per
+				jocum farinam vocabat <lb facs="#facs_14_r1l33" n="N015"/>Num. 40. De pluviis sub
+				Zona torrida planè <lb facs="#facs_14_r1l35" n="N016"/>stupendis; causae Ath.
+				Kircheri lectori non satis¬ <lb facs="#facs_14_r1l37" n="N017"/>faciunt, qui
+				propterea notatur, Error Aethiopis cu <lb facs="#facs_14_r1l39" n="N018"/>jusdam de
+				pluviis, quem Kircherus allegat. </ab>
+			<ab facs="#facs_14_TextRegion_1612948232995_2064">
+				<lb facs="#facs_14_r1l4" n="N001"/>Num. 41. Perioecos non ubique terrarum eandem <lb
+					facs="#facs_14_r1l6" n="N002"/>aestatem &amp; hyemem habere contra Aristotelem,
+				nisi <lb facs="#facs_14_r1l8" n="N003"/>id de Zona temperata accipere velis, nam in
+				Zona <lb facs="#facs_14_r1l10" n="N004"/>torrida fallit, idque demonstratur
+				exemplis. <lb facs="#facs_14_r1l12" n="N005"/>Num. 42. Fucos apum servos esse, Germ.
+				Was¬ <lb facs="#facs_14_r1l14" n="N006"/>serbienen/Thraͤnen. Malè Hummeln. Varro <lb
+					facs="#facs_14_r1l16" n="N007"/>confundere videtur cum apibus praedonibus Raub¬
+					<lb facs="#facs_14_r1l18" n="N008"/>bienen. Habessini benè norunt curare apes.
+					<lb facs="#facs_14_r1l20" n="N009"/>Num. 43. De Turbinibus savissimis in Aethio¬
+					<lb facs="#facs_14_r1l22" n="N010"/>pia, ubi docetur, quid propriè sit Prester
+				Veterum; <lb facs="#facs_14_r1l24" n="N011"/>illius vix accurata descriptio. De
+				Venatorum Bissa <lb facs="#facs_14_r1l26" n="N012"/>bova <lb facs="#facs_14_r1l28"
+					n="N013"/>Num. 44. De Typhone horribili vento, qui obvia <lb
+					facs="#facs_14_r1l30" n="N014"/>quaevis rapit &amp; frangit. De vento Orcan
+				periculo¬ <lb facs="#facs_14_r1l32" n="N015"/>sissimo, ejusque causis &amp; effectu.
+					<lb facs="#facs_14_r1l34" n="N016"/>Num. 45. Exemplum venti terribilis in
+				Illyrie¬ <lb facs="#facs_14_r1l36" n="N017"/>ex relationibus publicis. De turbine
+				Indici maris <lb facs="#facs_14_line_1612947987645_2001" n="N018"/>ipsas naves
+				vacuas in aërem raptante. </ab>
+			<ab facs="#facs_14_TextRegion_1612948001456_2005">
+				<lb facs="#facs_14_r1l41" n="N001"/>Ad Lib. I. Cap. VI. </ab>
+			<ab facs="#facs_14_TextRegion_1612948452435_2173">
+				<lb facs="#facs_14_line_1612948001605_2011" n="N001"/>NUm. 46. Montis Habassiae
+				stupendi, Lamal¬ <lb facs="#facs_14_r1l44" n="N002"/>mon dicti, descriptio ex
+				Tellezio. </ab>
+			<ab facs="#facs_14_TextRegion_1612948452435_2172">
+				<lb facs="#facs_14_line_1612948001605_2009" n="N001"/>Num. 47. De nonnullis
+				Habassiae rupibus mira¬ <lb facs="#facs_14_line_1612948452570_2175" n="N002"
+				/>bilibus. </ab>
+			<ab facs="#facs_14_TextRegion_1612948741609_2211">
+				<lb facs="#facs_14_r1l46" n="N001"/>Ad Lib. I. Cap. VII. </ab>
+			<ab facs="#facs_14_TextRegion_1612948831879_2233">
+				<lb facs="#facs_14_r1l49" n="N001"/>NUm. 48. De auro Aethiopiae in Enarea, Damo¬ <lb
+					facs="#facs_14_r1l50" n="N002"/>ta, &amp; aliis Africae regionibus. Obiter de
+				spe¬ <lb facs="#facs_14_r1l52" n="N003"/>ctris metallorum in Germania, nec non in
+				Lapponia. <lb facs="#facs_14_r1l54" n="N004"/>Num. 49. De metallis &amp; mineralibus
+				Aethio¬ <lb facs="#facs_14_r1l57" n="N005"/>piae sat uberibus. De ferro crudo in
+				agris legi soli¬ <lb facs="#facs_14_r1l59" n="N006"/>to Lesestein. <lb
+					facs="#facs_14_r1l60" n="N007"/>Num. 50. De sale Aethiopico minerali in fodinis
+					<lb facs="#facs_14_r1l62" n="N008"/>laterum formâ exciso. De diversis salis
+				speciebus. <lb facs="#facs_14_r1l64" n="N009"/>Describitur Aethiopicus ex Mendezii
+				Patriarchae re¬ <lb facs="#facs_14_r1l67" n="N010"/>latione. </ab>
+			<ab facs="#facs_14_TextRegion_1612948831879_2232">
+				<lb facs="#facs_14_line_1612948741739_2213" n="N001"/>Num. 51. De Stibio seu
+				Antimonio orientalibus <lb facs="#facs_14_r1l51" n="N002"/>Cohol, Alcohol Hispanis
+				cum articulo Arabico. Ejus <lb facs="#facs_14_r1l53" n="N003"/>descriptio. Apud
+				Medicos Onhthalmica medica¬ <lb facs="#facs_14_r1l55" n="N004"/>menta ingreditur.
+				Prisca Hebraea lingua est [TD] <lb facs="#facs_14_r1l56" n="N005"/>Fucus, quo
+				Jesabel se pinxit. Loca Scripturae de hoc <lb facs="#facs_14_r1l58" n="N006"
+				/>minerali. Non aliam gemmam vel lapidem esse <lb facs="#facs_14_r1l61" n="N007"
+				/>apud Esaiam c 54. 11. rationibus ostenditur. Apud <lb facs="#facs_14_r1l63"
+					n="N008"/>Orientales est in frequenti usu. Graecum Collyrium, <lb
+					facs="#facs_14_r1l65" n="N009"/>quasi Cohollyrium dictum. Aliae derivationes
+				sper¬ <lb facs="#facs_14_r1l66" n="N010"/>nuntur. </ab>
+			<ab facs="#facs_14_TextRegion_1612948088795_2026">
+				<lb facs="#facs_14_r1l68" n="N001"/>Ad Lib. I. Cap. VIII. </ab>
+			<ab facs="#facs_14_TextRegion_1612948968978_2284">
+				<lb facs="#facs_14_r1l69" n="N001"/>NUm. 52. De fontium origine. Eos (si paucissi¬
+					<lb facs="#facs_14_r1l71" n="N002"/>mos excipias) ex sola aquâ pluviâ provenire
+					<lb facs="#facs_14_r1l74" n="N003"/>contra Aristotelem ejusque sequaces
+				defenditur. Lo¬ <lb facs="#facs_14_r1l75" n="N004"/>cus Ecclesiastae cap. 1. v. 7.
+				de circulo aquae profluentis <lb facs="#facs_14_r1l78" n="N005"/>contra vulgarem
+				opinionem secundum literam &amp; <lb facs="#facs_14_r1l80" n="N006"/>rei naturam,
+				non tamen de aquâ marina in suâ sub¬ <lb facs="#facs_14_r1l81" n="N007"/>stantia,
+				exponitur. Sententia contraria exploditur <lb facs="#facs_14_r1l84" n="N008"/>&amp;
+				obstantia gravissima dubia proponuntur. <lb facs="#facs_14_r1l86" n="N009"/>Num. 53.
+				De Nili praestantia. Ejus magnitudo &amp; <lb facs="#facs_14_r1l88" n="N010"
+				/>longinquitas. Moles aquae. Ostia hodiè pauciora ac <lb facs="#facs_14_r1l89"
+					n="N011"/>olim ex relationibus recentioribus. Aquae ejus dul¬ <lb
+					facs="#facs_14_r1l91" n="N012"/>cedo &amp; salubritas, de qua Velschius parum
+				distincte <lb facs="#facs_14_r1l94" n="N013"/>loquitur. Pestem etiam in Aegypto dari
+				contra Ari¬ <lb facs="#facs_14_r1l95" n="N014"/>stidem &amp; Kircherum. De
+				foecunditate Nili &amp; vana <lb facs="#facs_14_r1l98" n="N015"/>Gematria vocis
+				ΝΕΙΛΟΣ, Nilum aura carere ne <lb facs="#facs_14_r1l100" n="N016"/>gatur. <lb
+					facs="#facs_14_r1l101" n="N017"/>Num. 54. Nomen Nili Aethiopicum Abavvi <lb
+					facs="#facs_14_r1l103" n="N018"/>pessimè plerumque scribitur. An exponi possit?
+					<lb facs="#facs_14_r1l105" n="N019"/>Velschius rursus notatur. <lb
+					facs="#facs_14_r1l107" n="N020"/>Num. 55. An ullum flumen in Nilum influat? <lb
+					facs="#facs_14_r1l109" n="N021"/>Num. 56. Geon vel Gihon non esse Nilum, secus
+					<lb facs="#facs_14_r1l111" n="N022"/>ac Patres quidam crediderunt. Erroris
+				istius origo a <lb facs="#facs_14_r1l113" n="N023"/>LXX. Interpretibus. Insulsa
+				opinio de subterranei <lb facs="#facs_14_r1l115" n="N024"/>Nili alveis. Crassa
+				Judaeorum Fabula de piscibus </ab>
+			<ab facs="#facs_14_TextRegion_1612948968978_2283">
+				<lb facs="#facs_14_r1l70" n="N001"/>cum Israelitis viâ Abyssi in Babyloniam
+				migranti¬ <lb facs="#facs_14_r1l72" n="N002"/>bus. De variis Nili nominibus, ibique
+				cespitatio <lb facs="#facs_14_r1l73" n="N003"/>Velschii. <lb facs="#facs_14_r1l76"
+					n="N004"/>Num. 57. De Regibus &amp; Principibus, qui Nili <lb
+					facs="#facs_14_r1l77" n="N005"/>fontes quaesitum miserunt, nempe Dicaearibus
+				Ham¬ <lb facs="#facs_14_r1l79" n="N006"/>moniorum Rex, Sesostris, Cambyses,
+				Ptolemans <lb facs="#facs_14_r1l82" n="N007"/>Philadelphus, Julius Caesar. Nero,
+				Vanitas talis la¬ <lb facs="#facs_14_r1l83" n="N008"/>boris ostenditur. <lb
+					facs="#facs_14_r1l85" n="N009"/>Num. 58. De Lunae montibus fabulosis, ut vide¬
+					<lb facs="#facs_14_r1l87" n="N010"/>tur, quis eos primò tradiderit. <lb
+					facs="#facs_14_r1l90" n="N011"/>Num. 59. De Nili fontibus. Relatio P. Paysii ex
+					<lb facs="#facs_14_r1l92" n="N012"/>Kirchero, quam Vossius deridet, autor verò
+				non im¬ <lb facs="#facs_14_r1l93" n="N013"/>probat. Illius verba: Tot esse alicujus
+				magni flu¬ <lb facs="#facs_14_r1l96" n="N014"/>minis fontes, quot sint ejus rivi,
+				stare non posse, quod <lb facs="#facs_14_r1l97" n="N015"/>latè explanatur. Similia à
+				radice arboris &amp; imbrice <lb facs="#facs_14_r1l99" n="N016"/>planè non quadrare.
+				De fontibus Danubii &amp; Rheni <lb facs="#facs_14_r1l102" n="N017"/>Num. 60. An in
+				Aegypto pluat? Affirmatur. <lb facs="#facs_14_r1l104" n="N018"/>Saepissimè in
+				inferiore, rarissimè in superiore Aegy¬ <lb facs="#facs_14_r1l106" n="N019"/>pto,
+				sed nullibi tantum ut plantis sufficiat <lb facs="#facs_14_r1l108" n="N020"/>Num.
+				61. De vera causa exundationis Nili. Pue¬ <lb facs="#facs_14_r1l110" n="N021"/>riles
+				nonnullorum de ea argumentationes. Van¬ <lb facs="#facs_14_r1l112" n="N022"
+				/>Kircheri de ea trepidatio. Ea etiam olim cognita <lb facs="#facs_14_r1l114"
+					n="N023"/>fuit. <lb facs="#facs_14_r1l116" n="N024"/>Num. 62. De Etesiis, ventis
+				in mari mediterra¬ <lb facs="#facs_14_r1l117" n="N025"/>neo </ab>
+			<pb facs="#facs_15" n="15"/>
+			<ab facs="#facs_15_TextRegion_1612949184308_2417">
+				<lb facs="#facs_15_line_1612949184478_2420" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_15_TextRegion_1612949305138_2466">
+				<lb facs="#facs_15_line_1612949184478_2421" n="N001"/>neo anniversariis, qui malè
+				vocantur in Lexicis non¬ <lb facs="#facs_15_r1l4" n="N002"/>nullis die kuhlen
+				Luͤffelein in Hundstagen <lb facs="#facs_15_r1l6" n="N003"/>Ex qua plaga mundi venti
+				illi spirent. Lucanus, qui <lb facs="#facs_15_r1l8" n="N004"/>eos Zephyros vocat,
+				contra Salmasium defenditur. <lb facs="#facs_15_r1l10" n="N005"/>Quamdiu durent. Ad
+				incrementum Nili parum <lb facs="#facs_15_r1l12" n="N006"/>faciunt. <lb
+					facs="#facs_15_r1l14" n="N007"/>Num. 63. Ex solutis nivibus Nilum minimè au¬ <lb
+					facs="#facs_15_r1l16" n="N008"/>gescere contra Veteres quosdam, nec non contra
+					<lb facs="#facs_15_r1l18" n="N009"/>Cardanum. <lb facs="#facs_15_r1l20" n="N010"
+				/>Num. 64. Pauli Jovii hallucinatio de exundatio <lb facs="#facs_15_r1l22" n="N011"
+				/>ne Nili; Verba illius ex Histor. Lib. XVIII. affe <lb facs="#facs_15_r1l24"
+					n="N012"/>runtur. <lb facs="#facs_15_r1l26" n="N013"/>Num. 65. Nigrin fluvium
+				hodie Sanaga. seu Se <lb facs="#facs_15_r1l28" n="N014"/>nega, alveum Nili sinistrum
+				esse ex Johanne Leone </ab>
+			<ab facs="#facs_15_TextRegion_1612949305138_2465">
+				<lb facs="#facs_15_r1l3" n="N001"/>Africano docetur. Laudatur à Vossio &amp;
+				Scaligero, <lb facs="#facs_15_r1l5" n="N002"/>defenditur contra virum doctum: &amp;
+				ex Livio Sa¬ <lb facs="#facs_15_r1l7" n="N003"/>nuto, cujus verba proferuntur. Niger
+				Nilo similli¬ <lb facs="#facs_15_r1l9" n="N004"/>mus in omnibus. Geographus
+				Nubiensis aliique Ara¬ <lb facs="#facs_15_r1l11" n="N005"/>bes duo brachia praecipua
+				Nilo tribuunt. <lb facs="#facs_15_r1l13" n="N006"/>Num. 66. An Nilus diverti possit,
+				ne in Aegyptum <lb facs="#facs_15_r1l15" n="N007"/>fluat? disquiritur. Hornius
+				inanem &amp; incredibi¬ <lb facs="#facs_15_r1l17" n="N008"/>lem fabulam vocat.
+				Tellez idem sentit contra Albu¬ <lb facs="#facs_15_r1l19" n="N009"/>quergium; Textus
+				ipse ex Commentario Lusitanico <lb facs="#facs_15_r1l21" n="N010"/>profertur, dubia
+				examinantur, &amp; rationes contrariae <lb facs="#facs_15_r1l23" n="N011"
+				/>expenduntur. Autores pro altera sententia referun¬ <lb facs="#facs_15_r1l25"
+					n="N012"/>tur. Luis de Bavia, Johannes Cantacuzenus &amp; alii. <lb
+					facs="#facs_15_r1l27" n="N013"/>Num. 67. De fluminibus Africae in arenâ per¬ <lb
+					facs="#facs_15_r1l29" n="N014"/>euntibus Vossii narratio. </ab>
+			<ab facs="#facs_15_TextRegion_1612949227508_2433">
+				<lb facs="#facs_15_r1l30" n="N001"/>Ad Lib. I. Cap. IX. </ab>
+			<ab facs="#facs_15_TextRegion_1612949457980_2546">
+				<lb facs="#facs_15_r1l32" n="N001"/>NUm. 68. De flumine Judaeorum Sabbatico; <lb
+					facs="#facs_15_r1l34" n="N002"/>unde Sambation dicatur. Narratio de eo ex <lb
+					facs="#facs_15_r1l36" n="N003"/>Talmude; Judaeorum obstinatio. Vetus de eo fabu¬
+					<lb facs="#facs_15_r1l38" n="N004"/>la. Josephi relatio. Argumenta, quòd planè
+				fabulo¬ <lb facs="#facs_15_r1l40" n="N005"/>sus sit ab origine narrationis:
+				variatione autorum; <lb facs="#facs_15_r1l42" n="N006"/>Baronii Casauboni &amp;
+				Fulleri sententiae. Plinis Car¬ <lb facs="#facs_15_r1l44" n="N007"/>dani. Dissensus
+				in loco &amp; situ. Silentium praestan <lb facs="#facs_15_r1l46" n="N008"
+				/>tissimorum Geographorum. De defectu ejus opi¬ <lb facs="#facs_15_r1l48" n="N009"
+				/>niones vanae. Epistolae spuriae Preste Johannis Au¬ <lb facs="#facs_15_r1l50"
+					n="N010"/>torum diversorum judicia. Mons Sabbaticus fabu¬ <lb
+					facs="#facs_15_r1l52" n="N011"/>losus. Cunaei sententia probatur. <lb
+					facs="#facs_15_r1l54" n="N012"/>Num. 69. De Tefo seminio minutissimo, pannifi¬
+					<lb facs="#facs_15_r1l56" n="N013"/>cio utili apud Habessinos, nomine Latino vel
+				Graeco <lb facs="#facs_15_r1l58" n="N014"/>autori ignoto. <lb facs="#facs_15_r1l60"
+					n="N015"/>Num. 70. De Psyllis non naturâ sibi ingenitâ <lb facs="#facs_15_r1l62"
+					n="N016"/>sed arte veneno medentibus. In qua regione habi¬ <lb
+					facs="#facs_15_r1l64" n="N017"/>taverint. Alii populi ejusdem virtutis. Quo
+				vene¬ <lb facs="#facs_15_r1l66" n="N018"/>ni genere Cleopatra sibi mortem
+				acceleraverit. De <lb facs="#facs_15_r1l68" n="N019"/>Herba Assazoe contra venena
+				efficacissima. Tellezii <lb facs="#facs_15_r1l70" n="N020"/>verba. De ligno
+				serpentino ex Geographo Nubiensi, <lb facs="#facs_15_r1l72" n="N021"/>Lusitanis Pao
+				de cobra serpentes omnes stupefacien¬ <lb facs="#facs_15_r1l74" n="N022"/>te. De
+				fraude incantatorum veterum; falsâ causa <lb facs="#facs_15_r1l76" n="N023"/>saepè
+				falli homines. </ab>
+			<ab facs="#facs_15_TextRegion_1612949457980_2545">
+				<lb facs="#facs_15_line_1614248800279_752" n="N001"/>Num. 71. Cur Habessini ex
+				praestantissimis uvis <lb facs="#facs_15_line_1614248810330_757" n="N002"/>vinum
+				facere non possint. D. Martini Hartmanni <lb facs="#facs_15_r1l37" n="N003"
+				/>rationes proferuntur &amp; laudantur. Ubi simul consi¬ <lb facs="#facs_15_r1l39"
+					n="N004"/>lium datur, quomodo defectui huic mederi possint, <lb
+					facs="#facs_15_r1l41" n="N005"/>ne vinum in Eucharistia deficiat. <lb
+					facs="#facs_15_r1l43" n="N006"/>Num. 72. Dudaim Gen. 30. 14. 15. &amp; Cant. 7.
+				14. <lb facs="#facs_15_r1l45" n="N007"/>Nihil aliud esse quàm Muzam Arabum, Indis
+				Pala <lb facs="#facs_15_r1l47" n="N008"/>&amp; Pizang, primum locum de fructu,
+				alterum de flo¬ <lb facs="#facs_15_r1l49" n="N009"/>re ejusdem plantae agere.
+				Graecorum caeterorumque <lb facs="#facs_15_r1l51" n="N010"/>antiquorum interpretum
+				expositiones referuntur. <lb facs="#facs_15_r1l53" n="N011"/>Mandrogaram esse non
+				posse. Dioscoridis locus de <lb facs="#facs_15_r1l55" n="N012"/>Mandragorâ ἐυώδη
+				aliter ac vulgò exponitur. Auto¬ <lb facs="#facs_15_r1l57" n="N013"/>res aliud
+				asserentes refelluntur. R. Menachem lau¬ <lb facs="#facs_15_r1l59" n="N014"/>datur:
+				Sententia de floribus amabilibus rejicitur. <lb facs="#facs_15_r1l61" n="N015"
+				/>Verae sententiae reperiendae occasionem dedit autori <lb facs="#facs_15_r1l63"
+					n="N016"/>Itinerarium Principis Radzevistii, cujus verba alle¬ <lb
+					facs="#facs_15_r1l65" n="N017"/>gantur, Rationibus firmatur. Aliud testimonium
+				ex <lb facs="#facs_15_r1l67" n="N018"/>itinerario Leonhardi Rauchvvolfii. Herbam
+				esse, <lb facs="#facs_15_r1l69" n="N019"/>non fruticem nec arborem. Diversae ejus
+				species. <lb facs="#facs_15_r1l71" n="N020"/>Assensus nonnullorum autorum.
+				Confirmatio ab <lb facs="#facs_15_r1l73" n="N021"/>Etymologia. Autores de hoc loco.
+				Lilia esse non <lb facs="#facs_15_r1l75" n="N022"/>posse. </ab>
+			<ab facs="#facs_15_TextRegion_1612949266128_2449">
+				<lb facs="#facs_15_r1l78" n="N001"/>Ad Lib. I. Cap. X. </ab>
+			<ab facs="#facs_15_TextRegion_1612949611548_2631">
+				<lb facs="#facs_15_line_1612949266248_2455" n="N001"/>NUm. 73. De armentis
+				Aethiopiae, ubi de Noma¬ <lb facs="#facs_15_r1l83" n="N002"/>dibus antiquis, quibus
+				comparantur Beklenses. <lb facs="#facs_15_r1l85" n="N003"/>Boves maximi nonnullis
+				Taurelephantes. Gothofre <lb facs="#facs_15_r1l87" n="N004"/>dus in Philostorgium
+				parvos Elephantes esse malè <lb facs="#facs_15_r1l89" n="N005"/>putavit, sed bene
+				correxit mendosum Par. vel Tar¬ <lb facs="#facs_15_r1l91" n="N006"/>elephantes. <lb
+					facs="#facs_15_r1l93" n="N007"/>Num. 74. Equorum ungulas in Aethiopia ferro <lb
+					facs="#facs_15_r1l95" n="N008"/>non muniri, uti nec in Tartaria. <lb
+					facs="#facs_15_r1l97" n="N009"/>Num. 75. De Cyriaco Nubiae Rege centum mil¬ <lb
+					facs="#facs_15_r1l99" n="N010"/>le equites nigros in tot equis nigris in
+				Aegyptum du¬ <lb facs="#facs_15_r1l101" n="N011"/>cente. Locus Elmac ni Arabis. <lb
+					facs="#facs_15_r1l103" n="N012"/>Num. 76. De adipasis &amp; ponderosis ovium
+				ori¬ <lb facs="#facs_15_r1l105" n="N013"/>entalium caudis Hebr. [ ] exponitur.
+				Plostello <lb facs="#facs_15_r1l107" n="N014"/>imponebatur. Locus ex Talmude &amp;
+				Salom. Jarchi. <lb facs="#facs_15_r1l109" n="N015"/>Pondus grande talium caudarum.
+					<lb facs="#facs_15_r1l111" n="N016"/>Num. 77. De Elephantis singularia quaedam
+				ex <lb facs="#facs_15_r1l113" n="N017"/>relatione Wilhelmi Leyel Danici praefecti.
+				Exempla <lb facs="#facs_15_r1l115" n="N018"/>ingenii eorum egregii; injuriis
+				accenduntur; Lau¬ <lb facs="#facs_15_r1l117" n="N019"/>dibus demulcentur, etiam
+				praecedentiae certamina <lb facs="#facs_15_r1l119" n="N020"/>exercent. De pugna
+				eorum cum Draconibus. Ana¬ </ab>
+			<ab facs="#facs_15_TextRegion_1612949611548_2630">
+				<lb facs="#facs_15_line_1612949857738_2742" n="N001"/>tomia unius in Hibernia. De
+				derivatione nominis <lb facs="#facs_15_r1l82" n="N002"/>ex Hebr. Alluph. Bos.
+				Vocabula animalium, quoad <lb facs="#facs_15_r1l84" n="N003"/>literas radicales
+				eadem, quoad significationem in di¬ <lb facs="#facs_15_r1l86" n="N004"/>versis
+				linguis mirè variant. Cornua an dentes sint, <lb facs="#facs_15_r1l88" n="N005"/>ex
+				quibus ebur fit, remissivè. <lb facs="#facs_15_r1l90" n="N006"/>Num. 78. De
+				Camelopardali &amp; ejus stupenda al¬ <lb facs="#facs_15_r1l92" n="N007"/>titudine;
+				Cur sic dicatur. De maculis Pardorum &amp; <lb facs="#facs_15_r1l94" n="N008"
+				/>Panthe arum. Germ. Greiff non à Giraffa detor¬ <lb facs="#facs_15_r1l96" n="N009"
+				/>tum, ut Bochartus putat. <lb facs="#facs_15_r1l98" n="N010"/>Num. 79. De Zecora
+				quadrupede pulcherr. mo. <lb facs="#facs_15_r1l100" n="N011"/>Quod etiam nota fuerit
+				priscis Romanis, sed con¬ <lb facs="#facs_15_r1l102" n="N012"/>fundatur cum Onagris;
+				ubi Gothofredus in Phil¬ <lb facs="#facs_15_r1l104" n="N013"/>storgium notatur;
+				Martialis de pulchro Onagro <lb facs="#facs_15_r1l106" n="N014"/>loquens exponitur.
+				De incredibili istorum anima¬ <lb facs="#facs_15_r1l108" n="N015"/>lium pretio;
+				Inter munera Regum censentur; De¬ <lb facs="#facs_15_r1l110" n="N016"/>scribuntur in
+				literis ex India à RegeHabessinorum ad <lb facs="#facs_15_r1l112" n="N017"
+				/>Gubernatorem Hollandorum Bataviam missis, &amp; iti¬ <lb facs="#facs_15_r1l114"
+					n="N018"/>nerario Thevenotii, &amp; Aldrovando. <lb facs="#facs_15_r1l116"
+					n="N019"/>Num. 80. De differentia inter Pardos, Pantheras, <lb
+					facs="#facs_15_r1l118" n="N020"/>&amp; Tigrides. Veteres confusè de iis
+				loquuntur, quia <lb facs="#facs_15_r1l120" n="N021"/>non </ab>
+			<pb facs="#facs_16" n="16"/>
+			<ab facs="#facs_16_r1">
+				<lb facs="#facs_16_r1l1" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_16_r2">
+				<lb facs="#facs_16_r2l1" n="N001"/>non conjunctim viderunt. Macularum diversitas;
+					<lb facs="#facs_16_r2l2" n="N002"/>hinc diversa nomina. Lynx multum differt.
+				Par¬ <lb facs="#facs_16_r2l3" n="N003"/>dorum fragrantia, de qua autores mira, sed
+				discre <lb facs="#facs_16_r2l4" n="N004"/>pantia ferè referunt. <lb
+					facs="#facs_16_r2l5" n="N005"/>Num. 81. De Hyana ex Busbequio. Hebr. [γo7] <lb
+					facs="#facs_16_r2l6" n="N006"/>Ejus differentia à Septentrionalium Gulone, Viel¬
+					<lb facs="#facs_16_r2l7" n="N007"/>fraß. Quid sit Crocuta? <lb
+					facs="#facs_16_r2l8" n="N008"/>Num. 82. De Callitriche, Sangwyncken Hol¬ <lb
+					facs="#facs_16_r2l9" n="N009"/>landis. </ab>
+			<ab facs="#facs_16_r3">
+				<lb facs="#facs_16_r3l1" n="N001"/>Num. 83. De Monocerote ex Plinio, Philostorgio,
+					<lb facs="#facs_16_r3l2" n="N002"/>Paulo Veneto, Vartomanno. Aliquot genera
+				anima¬ <lb facs="#facs_16_r3l3" n="N003"/>lium unicornium recensentur. Quid sit
+				Harisb &amp; <lb facs="#facs_16_r3l4" n="N004"/>Carcand Arabum. <lb
+					facs="#facs_16_r3l5" n="N005"/>Num. 84. De Monocerotibus S. Scripturae, &amp;
+					<lb facs="#facs_16_r3l6" n="N006"/>disquisitio de vocabulo [Dd] quod LXX.
+				Interpretes <lb facs="#facs_16_r3l7" n="N007"/>Monoceros reddiderunt, &amp; illorum
+				exemplo versio¬ <lb facs="#facs_16_r3l8" n="N008"/>nes omnes Vnicornu. Vulgata benè
+				Rhinoceros. <lb facs="#facs_16_r3l9" n="N009"/>Dissentit autor è Bocharto &amp;
+				quare. </ab>
+			<ab facs="#facs_16_r4">
+				<lb facs="#facs_16_r4l1" n="N001"/>Ad Lib. I. Cap. XI. </ab>
+			<ab facs="#facs_16_r5">
+				<lb facs="#facs_16_r5l1" n="N001"/>NUm. 85. De Hippopotamo, cujus exuvię spectantu
+					<lb facs="#facs_16_r5l2" n="N002"/>Lugduni batavorum. Descriptio ejus ex
+				Tellezio <lb facs="#facs_16_r5l3" n="N003"/>&amp; Thevenotio. Quòd sit Behemoth
+				Jobi; pro Cla¬ <lb facs="#facs_16_r5l4" n="N004"/>riss. Bocharto. Rationes virorum
+				doctorum, qui de <lb facs="#facs_16_r5l5" n="N005"/>Elephanto accipi posse putant,
+				expenduntur, &amp; cum <lb facs="#facs_16_r5l6" n="N006"/>illius rationibus
+				conferuntur. Pro Hippopotamo con¬ <lb facs="#facs_16_r5l7" n="N007"/>cluditur. Eum
+				plantis pasci certissimum. Verba tex¬ <lb facs="#facs_16_r5l8" n="N008"/>tus ad eum
+				applicantur, dubia resolvuntur. <lb facs="#facs_16_r5l9" n="N009"/>Num. 86. De
+				Crocodilo, &amp; quòd Hebraicum </ab>
+			<ab facs="#facs_16_r6">
+				<lb facs="#facs_16_r6l1" n="N001"/>[ ]in plur. contr. [DD] de eo sit accipiendum in
+					<lb facs="#facs_16_r6l2" n="N002"/>Scriptura, speciatim Ezech. 32, 2. 3. qui
+				locus ex¬ <lb facs="#facs_16_r6l3" n="N003"/>ponitur, ut &amp; Mich. 1, 8. De
+				Crocodili lachry¬ <lb facs="#facs_16_r6l4" n="N004"/>mis. <lb facs="#facs_16_r6l5"
+					n="N005"/>Num. 87. De Caudiverbera Italorum. Quale <lb facs="#facs_16_r6l6"
+					n="N006"/>animal sit [N] Hebraeorum ex Bocharto. Gesnerus <lb
+					facs="#facs_16_r6l7" n="N007"/>confundit cum Crocodilo terrestri. <lb
+					facs="#facs_16_r6l8" n="N008"/>Num. 88. De torpedine notabilia. Ejus descri¬ <lb
+					facs="#facs_16_r6l9" n="N009"/>ptio ex Godigno, Tellezio, Barlao. </ab>
+			<ab facs="#facs_16_r7">
+				<lb facs="#facs_16_r7l1" n="N001"/>Ad Lib. I. Cap. XII. </ab>
+			<ab facs="#facs_16_r8">
+				<lb facs="#facs_16_r8l1" n="N001"/>NUm. 89. De Struthio Camelo. De notatione no¬ <lb
+					facs="#facs_16_r8l2" n="N002"/>minis. Descriptio illius ex Diodaro &amp;
+				Sandovallo. <lb facs="#facs_16_r8l3" n="N003"/>Tragopan Veterum, Casuarius esse
+				videtur; Unde <lb facs="#facs_16_r8l4" n="N004"/>ista vocabulorum compositio.
+				Appellationis ratic <lb facs="#facs_16_r8l5" n="N005"/>redditur. <lb
+					facs="#facs_16_r8l6" n="N006"/>Num. 90. De Ibibus Aegypti avibus. Ciceronis <lb
+					facs="#facs_16_r8l7" n="N007"/>descriptio. Volatilibus serpentibus obviam
+				volant, <lb facs="#facs_16_r8l8" n="N008"/>easque devorant, ex Solino. Num rectè
+				angues vo¬ <lb facs="#facs_16_r8l9" n="N009"/>caverit contra Salmasium. Ibes
+				Ciconiis similes. De <lb facs="#facs_16_r8l10" n="N010"/>Ophiomachis quaedam. <lb
+					facs="#facs_16_r8l11" n="N011"/>Num. 91. De Pipi, ave Aethiopica mirabili, Gui¬
+					<lb facs="#facs_16_r8l12" n="N012"/>neensibus Fonton. Quae ferarum index, &amp;
+				venato¬ <lb facs="#facs_16_r8l13" n="N013"/>rum ductrix est. <lb
+					facs="#facs_16_r8l14" n="N014"/>Descriptio ejus ex Dappero. <lb
+					facs="#facs_16_r8l15" n="N015"/>Num. 92. De fabulosa Arabum ave Rucha, quae <lb
+					facs="#facs_16_r8l16" n="N016"/>comparatur cum Bar-juchna Judaeorum, ova utri¬
+					<lb facs="#facs_16_r8l17" n="N017"/>usque montis magnitudine describuntur. Anka
+				Oc¬ <lb facs="#facs_16_r8l18" n="N018"/>cidentis id est, Gryps Africanus. Fabulosa
+				narratio <lb facs="#facs_16_r8l19" n="N019"/>M. Pauli &amp; Benjamini Tudelensis,
+				Originem traxisse <lb facs="#facs_16_r8l20" n="N020"/>videtur à Candora incredibilis
+				magnitudinis ave, in <lb facs="#facs_16_r8l21" n="N021"/>Africa &amp; America visa,
+				quae vitulum Elephanti vel <lb facs="#facs_16_r8l22" n="N022"/>juvencum in aërem
+				extollere potest. Testimonia <lb facs="#facs_16_r8l23" n="N023"/>Scriptorum
+				recentiorum Johannis dos Santos Lusi¬ <lb facs="#facs_16_r8l24" n="N024"/>tani. P.
+				Bolivari Jesuitae: Yncas Garcilassi de la <lb facs="#facs_16_r8l25" n="N025"/>Vega.
+				Josephi de Acosta. <lb facs="#facs_16_r8l26" n="N026"/>Num. 93. De Boa ex Plinio.
+				Malè redditur ver¬ <lb facs="#facs_16_r8l27" n="N027"/>nacule hoc vocabulum vulgò
+				ein Uncke. De In¬ <lb facs="#facs_16_r8l28" n="N028"/>dicis serpentibus maximis ex
+				Diodoro, Philostorgio, <lb facs="#facs_16_r8l29" n="N029"/>Dappero. Fabulae admixtae
+				refelluntur. <lb facs="#facs_16_r8l30" n="N030"/>Num. 94. De Jekko aspide Indico
+				venenatissimo. <lb facs="#facs_16_r8l31" n="N031"/>Num Salamandra veterum sit. Vox
+				est ὄνομω τοποι <lb facs="#facs_16_r8l32" n="N032"/>ητικὴ. Historia faceta de juvene
+				concionatore illius <lb facs="#facs_16_r8l33" n="N033"/>clamore territo. <lb
+					facs="#facs_16_r8l34" n="N034"/>Num. 95. De hydris &amp; chersydris
+				venenatissimis. <lb facs="#facs_16_r8l35" n="N035"/>Cur sic dicti. Descriptio eorum
+				ex Leone Africano, <lb facs="#facs_16_r8l36" n="N036"/>Aeliano, Virgilio. Isti Num.
+				21. 6. sunt intelligendi <lb facs="#facs_16_r8l37" n="N037"/>secundùm Bochartum.
+				Melchior Sebizius Junior <lb facs="#facs_16_r8l38" n="N038"/>parùm accuratè
+				serpentes depingi curavit. <lb facs="#facs_16_r8l39" n="N039"/>Num. 96. De Locustis
+				magnis Australibus esui </ab>
+			<ab facs="#facs_16_r9">
+				<lb facs="#facs_16_r9l1" n="N001"/>aptis Diatriba ampla, ob conjecturam novam de <lb
+					facs="#facs_16_r9l2" n="N002"/>voce [)] Num. 11, 31. Istius vocis expositiones.
+					<lb facs="#facs_16_r9l3" n="N003"/>LXX. Interpretes Ortygometram reddidere,
+				Chal¬ <lb facs="#facs_16_r9l4" n="N004"/>daeus Phasianum. Primus Josephus coturnicem
+				red¬ <lb facs="#facs_16_r9l5" n="N005"/>didit, quae specie differt ab Ortygometra.
+				Qualis haec <lb facs="#facs_16_r9l6" n="N006"/>avis sit. Recentiores Judai utramque
+				significatio¬ <lb facs="#facs_16_r9l7" n="N007"/>nem respuunt, &amp; in ea mirè
+				variant. Retinetur vox <lb facs="#facs_16_r9l8" n="N008"/>in versionibus
+				Orientalibus sine intellectu. Reme¬ <lb facs="#facs_16_r9l9" n="N009"/>dia in
+				difficilioribus vocibus Ebraicis adhiberi so¬ <lb facs="#facs_16_r9l10" n="N010"
+				/>lita hîc cessant. Arabes suum [Cλ] non <lb facs="#facs_16_r9l11" n="N011"
+				/>intelligunt. Occasio hujus conjecturae. Haesitatio <lb facs="#facs_16_r9l12"
+					n="N012"/>autoris priusquam illi indulgeret. Rariora anima¬ <lb
+					facs="#facs_16_r9l13" n="N013"/>lium plantarumque scripturae nomina vel perperam
+					<lb facs="#facs_16_r9l14" n="N014"/>vel planè non exposita à LXX. Interpretibus
+				fuerunt. <lb facs="#facs_16_r9l15" n="N015"/>Descriptio locustarum ex Strabone,
+				Diodoro, Plinio, <lb facs="#facs_16_r9l16" n="N016"/>&amp; inprimis Alvarezio teste
+				oculato, qui de incre¬ <lb facs="#facs_16_r9l17" n="N017"/>dibili &amp; ineffabili
+				earum multitudine: expansione <lb facs="#facs_16_r9l18" n="N018"/>per octo leucas:
+				altitudine duorum cubitorum cum <lb facs="#facs_16_r9l19" n="N019"/>tempestate
+				periissent, aliisque circumstantiis nota¬ <lb facs="#facs_16_r9l20" n="N020"
+				/>bilibus testatur. Sequuntur testimonia Patrum Soc. <lb facs="#facs_16_r9l21"
+					n="N021"/>Jesu, Clenardi, Kirstenii, Johann Neuhofs, Dapperi <lb
+					facs="#facs_16_r9l22" n="N022"/>&amp; novissimè Josephi de S. Angelo, &amp;
+				maximè R. A¬ <lb facs="#facs_16_r9l23" n="N023"/>naniae Fezzani, qui verbis &amp;
+				scriptis autori narra¬ <lb facs="#facs_16_r9l24" n="N024"/>tionem de stupendo hoc
+				insecto exposuit, &amp; quidem <lb facs="#facs_16_r9l25" n="N025"/>Arabicè secundum
+				dialectum Mauritanam vulga¬ <lb facs="#facs_16_r9l26" n="N026"/>rem. Ingens haec est
+				illarum terrarum calamitas <lb facs="#facs_16_r9l27" n="N027"/>ἀνακεφαλαίωσις
+				antedictorum. <lb facs="#facs_16_r9l28" n="N028"/>(1.) De multitudine. <lb
+					facs="#facs_16_r9l29" n="N029"/>(2.) De earum esu Judaeis licito &amp; bono, imò
+				sua¬ <lb facs="#facs_16_r9l30" n="N030"/>vissimo, non Barbarorum tantum aut
+				Pamphago¬ <lb facs="#facs_16_r9l31" n="N031"/>rum, sed &amp; delicatorum populorum
+				videlicet Chi¬ <lb facs="#facs_16_r9l32" n="N032"/>nensium. Certissimè bonas eas
+				praedicat Josephus <lb facs="#facs_16_r9l33" n="N033"/>modò citatus. Qualis sit
+				earum sapor. Contraria ex <lb facs="#facs_16_r9l34" n="N034"/>Zigabeno &amp; aliis
+				discutiuntur. Quae sit earum prae¬ <lb facs="#facs_16_r9l35" n="N035"/>paratio. Num
+				verò salubres sint, disquiritur. Autor <lb facs="#facs_16_r9l36" n="N036"
+				/>sententiam suam ex Maffejo in Hist. Aeth. prolatam <lb facs="#facs_16_r9l37"
+					n="N037"/>nunc retractat, &amp; de marinis locustis locum accipi¬ <lb
+					facs="#facs_16_r9l38" n="N038"/>endum agnoscit. Quae vel quales istae sint.
+				Digressio <lb facs="#facs_16_r9l39" n="N039"/>ad Hieron. Velschium, qui de
+				salubritate locusta¬ <lb facs="#facs_16_r9l40" n="N040"/>rum </ab>
+			<pb facs="#facs_17" n="17"/>
+			<ab facs="#facs_17_r1">
+				<lb facs="#facs_17_r1l1" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_17_r2">
+				<lb facs="#facs_17_r2l1" n="N001"/>rum loquens lectores turbat. Veteribus
+				Scriptoribus <lb facs="#facs_17_r2l2" n="N002"/>tribuit, quae illi non dicunt.
+				Versio Strabonis obiter <lb facs="#facs_17_r2l3" n="N003"/>corrigitur. Confusum
+				Velschii scribendi genus de <lb facs="#facs_17_r2l4" n="N004"/>λαχανοφαγία. Deus in
+				furore suo carnem Israelitis <lb facs="#facs_17_r2l5" n="N005"/>dedit. <lb
+					facs="#facs_17_r2l6" n="N006"/>(3.) Species mundarum locustarum plurimas <lb
+					facs="#facs_17_r2l7" n="N007"/>fuisse, <lb facs="#facs_17_r2l8" n="N008"
+				/>Accedit nunc autor ad Exegesin textus sacri. Ven¬ <lb facs="#facs_17_r2l9"
+					n="N009"/>tum afferre solere locustas; Qualis ventus is sit. In <lb
+					facs="#facs_17_r2l10" n="N010"/>hoc consistere miraculum divinum totius
+				historiae. <lb facs="#facs_17_r2l11" n="N011"/>A quo Mari venerint. Spatium itineris
+				unius dici <lb facs="#facs_17_r2l12" n="N012"/>quomodo accipiendum, ad coturnices id
+				minime <lb facs="#facs_17_r2l13" n="N013"/>quadrare. Duorum cubitorum altitudine
+				humi ja <lb facs="#facs_17_r2l14" n="N014"/>cuisse, non volavisse. Interpretes hoc
+				asserentes no¬ </ab>
+			<ab facs="#facs_17_r3">
+				<lb facs="#facs_17_r3l1" n="N001"/>tantur. Bocharti sententia de cumulatione earum
+					<lb facs="#facs_17_r3l2" n="N002"/>per acervos non placet. Quid sibi velit
+				Hebraica <lb facs="#facs_17_r3l3" n="N003"/>phrasis super faciem terrae. De modo eas
+				colligendi, <lb facs="#facs_17_r3l4" n="N004"/>&amp; comparatione ad verba: qui
+				minimum collegit. <lb facs="#facs_17_r3l5" n="N005"/>Corus, num hic cumulum an
+				mensuram significet; <lb facs="#facs_17_r3l6" n="N006"/>ultimum praefert autor.
+				Quomodo expansio earum <lb facs="#facs_17_r3l7" n="N007"/>intelligenda. Varia lectio
+				in Codice Samaritano. <lb facs="#facs_17_r3l8" n="N008"/>Protestatio autoris de hac
+				nova conjectura per ver¬ <lb facs="#facs_17_r3l9" n="N009"/>ba Bocharti. <lb
+					facs="#facs_17_r3l10" n="N010"/>Num. 97. De magnis formicis Indicis; medio¬ <lb
+					facs="#facs_17_r3l11" n="N011"/>cris canis magnitudine. Testimonium Herodoti <lb
+					facs="#facs_17_r3l12" n="N012"/>quod declaratur. Indica animalia pletaque ma¬
+					<lb facs="#facs_17_r3l13" n="N013"/>xima sunt, ex. gr. Vespertiliones anserum
+				ma¬ <lb facs="#facs_17_r3l14" n="N014"/>gnitudine. </ab>
+			<ab facs="#facs_17_r4">
+				<lb facs="#facs_17_r4l1" n="N001"/>Ad Lib. I. Cap. XIV. </ab>
+			<ab facs="#facs_17_r5">
+				<lb facs="#facs_17_r5l1" n="N001"/>Num. 98. De optima Habessinorum indole ex <lb
+					facs="#facs_17_r5l2" n="N002"/>Patrum Societatis testimonio in literis annuis
+					<lb facs="#facs_17_r5l3" n="N003"/>&amp; Patriarchae Alphonsi Mendezii
+				narratione. Ipsa <lb facs="#facs_17_r5l4" n="N004"/>eorum verba referuntur. Servi
+				huius nationis ma¬ <lb facs="#facs_17_r5l5" n="N005"/>ximi aestimantur; ea de re
+				Mocchâ Arabiae recen¬ <lb facs="#facs_17_r5l6" n="N006"/>tissima relatio; Exemplo è
+				Dappero &amp; indole Gre¬ <lb facs="#facs_17_r5l7" n="N007"/>gorii confirmatur. <lb
+					facs="#facs_17_r5l8" n="N008"/>Num. 99. De Gregorii Habessini studio Linguae <lb
+					facs="#facs_17_r5l9" n="N009"/>Latinae. Acalexus juvenis Habessinus Petri
+				Heilin¬ <lb facs="#facs_17_r5l10" n="N010"/>gi Lubecensis discipulus, studiorum
+				causa in Eu¬ <lb facs="#facs_17_r5l11" n="N011"/>ropam, deinde in Germaniam delatus
+				urbes quaesi¬ <lb facs="#facs_17_r5l12" n="N012"/>tas non potuit reperire; ejus rei
+				causa Amsteloda¬ <lb facs="#facs_17_r5l13" n="N013"/>mum profectus, ibi petulantiam
+				puerorum &amp; nauta¬ <lb facs="#facs_17_r5l14" n="N014"/>rum expertus est. Johannis
+				Wesselii Lubecensis hac <lb facs="#facs_17_r5l15" n="N015"/>de re epistola. Quomodo
+				id cognoverit autor. <lb facs="#facs_17_r5l16" n="N016"/>Num. 100. De
+				Leucaethiopibus, sive natione qua¬ <lb facs="#facs_17_r5l17" n="N017"/>dam
+				Aethiopici generis albâ, non tamen morbosâ, <lb facs="#facs_17_r5l18" n="N018"/>ut
+				Vossius putavit; illius narratio de hac re, &amp; in <lb facs="#facs_17_r5l19"
+					n="N019"/>ea dubia quaedam. <lb facs="#facs_17_r5l20" n="N020"/>Num. 101. Quòd
+				foeminae parturientes in Orient </ab>
+			<ab facs="#facs_17_r6">
+				<lb facs="#facs_17_r6l1" n="N001"/>&amp; Aethiopia se in genua demittere soleant.
+				Hinc ex¬ <lb facs="#facs_17_r6l2" n="N002"/>ponitur locus I. Sam. 4. 19. Hebraicum
+				[Vo] signi¬ <lb facs="#facs_17_r6l3" n="N003"/>ficat; Ingenua se demisit. Testimonia
+				de facili par¬ <lb facs="#facs_17_r6l4" n="N004"/>tu Australium ex Barlao &amp;
+				Indicis relationibus. De <lb facs="#facs_17_r6l5" n="N005"/>Habessinicis foeminis
+				dubium <lb facs="#facs_17_r6l6" n="N006"/>Additio ad §. 43. hujus capitis. An Judei
+				post <lb facs="#facs_17_r6l7" n="N007"/>destructionem templi Hierosolymitani uspiam
+				suo ju¬ <lb facs="#facs_17_r6l8" n="N008"/>re usi fuerint? Benjamin Tudelensis id
+				assetit. Con¬ <lb facs="#facs_17_r6l9" n="N009"/>stantinus L&apos;empereur in dubium
+				vocat; sed obstant <lb facs="#facs_17_r6l10" n="N010"/>exempla judaorum nonnullorum
+				in Habassia &amp; <lb facs="#facs_17_r6l11" n="N011"/>Dunavvasi fudaei Homerita in
+				Arabia, qui diu ne¬ <lb facs="#facs_17_r6l12" n="N012"/>mini paruerunt. <lb
+					facs="#facs_17_r6l13" n="N013"/>Num. 102. De Troglodytis &amp; populis Africae
+				va¬ <lb facs="#facs_17_r6l14" n="N014"/>gis, de quibus Sallustius &amp; Pompon. Mela
+				Gregorius <lb facs="#facs_17_r6l15" n="N015"/>Aethiops, &amp; PP. Soc. Tales sunt
+				hodierni Promon¬ <lb facs="#facs_17_r6l16" n="N016"/>torii bonae spei habitatores;
+				de lingua eorum. De <lb facs="#facs_17_r6l17" n="N017"/>Cafris unde sic dicantur.
+				Quid sit Clafer Turcarum. <lb facs="#facs_17_r6l18" n="N018"/>Additio de vocabulo
+				Paganus. Quare Ethnici <lb facs="#facs_17_r6l19" n="N019"/>sic dicantur. </ab>
+			<ab facs="#facs_17_r7">
+				<lb facs="#facs_17_r7l1" n="N001"/>Ad Lib. I. Cap. XV. </ab>
+			<ab facs="#facs_17_r8">
+				<lb facs="#facs_17_r8l1" n="N001"/>NUm. 103. De lingua Aethiopica ejusque usu. <lb
+					facs="#facs_17_r8l2" n="N002"/>NMariani Victorii de tribus linguis in Aethiopia
+					<lb facs="#facs_17_r8l3" n="N003"/>usitatis inepta narratio. Athan. Kircherus
+				quoque <lb facs="#facs_17_r8l4" n="N004"/>de alia quadam lingua &amp; charactere
+				falsò edoctu <lb facs="#facs_17_r8l5" n="N005"/>fuit. <lb facs="#facs_17_r8l6"
+					n="N006"/>Num. 104. Quare superiori seculo Chaldaica <lb facs="#facs_17_r8l7"
+					n="N007"/>vocata fuerit haec lingua, incertum. <lb facs="#facs_17_r8l8" n="N008"
+				/>Num. 105. De illius facilitate. Cum Arabica <lb facs="#facs_17_r8l9" n="N009"
+				/>maximè convenit in Grammaticâ; Verba quaedam <lb facs="#facs_17_r8l10" n="N010"
+				/>Chaldaica peculiariter in ea observavit eruditiss. <lb facs="#facs_17_r8l11"
+					n="N011"/>Lud. Piques. Dr. Sorbonicus. <lb facs="#facs_17_r8l12" n="N012"/>Num.
+				106. Verba &amp; loca S. Scripturae, nec non <lb facs="#facs_17_r8l13" n="N013"
+				/>radices Hebr. plurimae ope Linguae Aethiopica de¬ <lb facs="#facs_17_r8l14"
+					n="N014"/>clarantur. Vocabula rariora animalium, plantarum, <lb
+					facs="#facs_17_r8l15" n="N015"/>gemmarum &amp;c. S. Scripturae diu ignorata, ope
+				cae¬ <lb facs="#facs_17_r8l16" n="N016"/>terarum Lingg. Orientalium exposita
+				fuerunt. Vo¬ <lb facs="#facs_17_r8l17" n="N017"/>ces Hebraicae aliquam multae ex
+				Aethiopismo lucem <lb facs="#facs_17_r8l18" n="N018"/>foenerantes adducuntur. Dubia
+				circa ea pro vel con¬ <lb facs="#facs_17_r8l19" n="N019"/>tra Ludovicum de Dieu
+				aliosque doctos viros resol <lb facs="#facs_17_r8l20" n="N020"/>vuntur. Etiam
+				nonnulla Arabica vocabula ab Aethi¬ <lb facs="#facs_17_r8l21" n="N021"/>opicis
+				radicibus derivantur. <lb facs="#facs_17_r8l22" n="N022"/>Num. 107. De
+				significatione antiqua radicis [DN] <lb facs="#facs_17_r8l23" n="N023"/>Adam. Verâ
+				nominis Adami origine &amp; significa¬ </ab>
+			<ab facs="#facs_17_r9">
+				<lb facs="#facs_17_r9l1" n="N001"/>tione; Unde vocabulum κόσμος &amp; Mundus. Ci¬
+					<lb facs="#facs_17_r9l2" n="N002"/>ceronis locus de hac re. Expositio vocis [ ]
+				vul¬ <lb facs="#facs_17_r9l3" n="N003"/>garis inepta. Explicatio loci Thren. 4. 7.
+				De nomine <lb facs="#facs_17_r9l4" n="N004"/>Adami Oda Aethiopica ex Poeta
+				Aethiopico. <lb facs="#facs_17_r9l5" n="N005"/>Num. 108. De lingua Amharica ejusque
+				Gram¬ <lb facs="#facs_17_r9l6" n="N006"/>matica &amp; Lexico mediocri ab autore
+				elaborato, sec <lb facs="#facs_17_r9l7" n="N007"/>nondum edito. <lb
+					facs="#facs_17_r9l8" n="N008"/>Num. 109. De Scala magna, sive Vocabulario <lb
+					facs="#facs_17_r9l9" n="N009"/>Aethiopum, ex quo specimen profertur de Gemmis
+					<lb facs="#facs_17_r9l10" n="N010"/>satis rude &amp; indoctum. <lb
+					facs="#facs_17_r9l11" n="N011"/>Num. 110. Quòd Aethiopes vocabula Graeca ra¬ <lb
+					facs="#facs_17_r9l12" n="N012"/>riora in versione LXX. interpretum minùs rectè
+					<lb facs="#facs_17_r9l13" n="N013"/>intellexerint, idque exemplis demonstratur,
+					<lb facs="#facs_17_r9l14" n="N014"/>Num. III. An sit certus numerus Linguarum
+				to¬ <lb facs="#facs_17_r9l15" n="N015"/>tius Orbis. Judaei septuaginta duas linguas
+				ineptè <lb facs="#facs_17_r9l16" n="N016"/>asseruerunt, quî id factum sit. Patres
+				Graeci tamen <lb facs="#facs_17_r9l17" n="N017"/>&amp; aliqui Latini id crediderunt.
+				Vanum est certu <lb facs="#facs_17_r9l18" n="N018"/>earum numerum definire velle.
+				Plinii locus, de <lb facs="#facs_17_r9l19" n="N019"/>trecentis dissimilibus linguis
+				in urbe Dioscuriade <lb facs="#facs_17_r9l20" n="N020"/>suspectus, emendatur; ut
+				&amp; Strabo. Megiserus &amp; <lb facs="#facs_17_r9l21" n="N021"/>alii Orationis
+				Dominicae variarum Linguarum com¬ <lb facs="#facs_17_r9l22" n="N022"/>pilatores
+				admonentur. Ejus vanus conatus in con¬ <lb facs="#facs_17_r9l23" n="N023"/>quirendis
+				quadringentis Orbis terrarum Linguis &amp; <lb facs="#facs_17_r9l24" n="N024"/>dia¬ </ab>
+			<pb facs="#facs_18" n="18"/>
+			<ab facs="#facs_18_TextRegion_1612951724823_3409">
+				<lb facs="#facs_18_r1l1" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_18_TextRegion_1612951751401_3425">
+				<lb facs="#facs_18_r1l3" n="N001"/>dialectis. Alstedius illum malè imitatur, dum
+				etiam <lb facs="#facs_18_r1l5" n="N002"/>Francofurtensem &amp; Spirensem dialectum
+				illis annu¬ <lb facs="#facs_18_r1l7" n="N003"/>merat, Ersurtensis oblitus. Obiter de
+				Zingaris &amp; <lb facs="#facs_18_r1l9" n="N004"/>eorum lingua, cum specimine
+				vocabulorum non <lb facs="#facs_18_r1l11" n="N005"/>nullorum, ubi sententia
+				Scaligeri, quam Bon. Vul¬ <lb facs="#facs_18_r1l12" n="N006"/>canius habet, de
+				Origine Zingarorum, quod Nubi¬ </ab>
+			<ab facs="#facs_18_TextRegion_1612951751401_3424">
+				<lb facs="#facs_18_r1l2" n="N001"/>ani sint, refellitur. De ficto sermone nebulonum
+					<lb facs="#facs_18_r1l4" n="N002"/>mendicantium Rottwelsch. Bonus Alstedius <lb
+					facs="#facs_18_r1l6" n="N003"/>LXXII. Linguas Synedrii Judaici conquirens nu¬
+					<lb facs="#facs_18_r1l8" n="N004"/>gatur. Conclusio: Numerum linguarum Orbis <lb
+					facs="#facs_18_r1l10" n="N005"/>esse incertißimum. </ab>
+			<ab facs="#facs_18_TextRegion_1612951821177_3455">
+				<lb facs="#facs_18_line_1612951740302_3418" n="N001"/>Ad Lib. I Cap. XVI. </ab>
+			<ab facs="#facs_18_TextRegion_1612951891011_3478">
+				<lb facs="#facs_18_r1l17" n="N001"/>NUm. 112. De Mamalucorum regno Aegypti <lb
+					facs="#facs_18_r1l19" n="N002"/>Ideleto. Facie rerum illic locorum mutatâ, ma¬
+					<lb facs="#facs_18_r1l21" n="N003"/>xima quoque damna in Habessinos redundave¬
+					<lb facs="#facs_18_r1l23" n="N004"/>runt. <lb facs="#facs_18_r1l25" n="N005"
+				/>Num. 113. De foedo signo occisi hostis masculi in <lb facs="#facs_18_r1l27"
+					n="N006"/>Africa colligi solito. <lb facs="#facs_18_r1l30" n="N007"/>Num. 114.
+				Incultas &amp; feras gentes saepe superare <lb facs="#facs_18_r1l32" n="N008"
+				/>cultiores; Exemplum de Tartaris ex Martinio affer¬ </ab>
+			<ab facs="#facs_18_TextRegion_1612951891011_3477">
+				<lb facs="#facs_18_r1l16" n="N001"/>tur. Orientales nuper, Occidentales olim Chinam
+					<lb facs="#facs_18_r1l18" n="N002"/>invaserunt teste Andr. Mullero. <lb
+					facs="#facs_18_r1l20" n="N003"/>Num. 115. De incantatione Veterum, quâ variae
+					<lb facs="#facs_18_r1l22" n="N004"/>bestiae in unum congregantur. Locus Deut.
+				18. 11. <lb facs="#facs_18_r1l24" n="N005"/>exponitur. Est adhuc hodiè in Africa
+				usitata. <lb facs="#facs_18_r1l26" n="N006"/>Num. 116. De victimis humanis, olim
+				inter Ca¬ <lb facs="#facs_18_r1l28" n="N007"/>nanaeos &amp; Carthaginienses
+				usitatis; à quibus mos <lb facs="#facs_18_r1l29" n="N008"/>iste detestabilis ad
+				alias quoque gentes serpsit. Ubi <lb facs="#facs_18_r1l31" n="N009"/>hodiè adhuc in
+				usu sit. </ab></list>
+			</div>
+			<div type="textpart" xml:id="n.lib.2">
+			<head facs="#facs_18_TextRegion_1612951952333_3508">
+				<lb facs="#facs_18_line_1612951952561_3511" n="N001"/>Ad Historiae Aethiopicae Lib.
+				II. Cap. I. </head>
+			<list>			
+			<ab facs="#facs_18_TextRegion_1612951992996_3520">
+			<item><lb facs="#facs_18_r1l35" n="N001"/>NUm. 1. De vera causa Indicae navigationis à <lb
+					facs="#facs_18_r1l37" n="N002"/>Lusitanis audacter susceptae. Plinii error de
+					<lb facs="#facs_18_r1l39" n="N003"/>Hannonis periplo. Oceanum totum Orbem ambi¬
+					<lb facs="#facs_18_r1l41" n="N004"/>re fama vetus. De circumnavigatione Africae
+				auto¬ <lb facs="#facs_18_r1l43" n="N005"/>rum relationes. Naves equos dictas, quod
+			  Strabo <lb facs="#facs_18_r1l45" n="N006"/>habet, quomodo accipiendum.</item> 
+			<item><lb facs="#facs_18_r1l47" n="N007"/>Num. 2. Ubi verus Presbyter Johanues olim re <lb
+					facs="#facs_18_r1l49" n="N008"/>gnaverit. Marci Pauli verba. Ath. Kircherus de
+					<lb facs="#facs_18_r1l51" n="N009"/>Cathaya confusissimè loquitur. Rectius
+				Hornius. <lb facs="#facs_18_r1l53" n="N010"/>Unde prima fama Presbyteri Johannis.</item>
+			<item><lb facs="#facs_18_r1l55" n="N011"/>Num. 3. De vera istius nominis Etymologia;
+				Sca¬ <lb facs="#facs_18_r1l57" n="N012"/>ligeri Fristeciani è lingua Persica
+				rejicitur, ut ana¬ <lb facs="#facs_18_r1l59" n="N013"/>logiae istius Linguae
+				repugnans. Nec Golii expositio <lb facs="#facs_18_r1l61" n="N014"/>locum habere
+				potest ob varias rationes. Nec Bespie¬ <lb facs="#facs_18_r1l63" n="N015"/>rii nova
+				Freshte-jehan id est Angelus Mundi. <lb facs="#facs_18_r1l65" n="N016"/>Schindlerus
+				notatur. Andreae Mulleri Prester-Chan <lb facs="#facs_18_r1l67" n="N017"/>caeteris
+			  derivationibus omnibus praefertur.</item> 
+			<item><lb facs="#facs_18_r1l69" n="N018"/>Num. 4. Ultra
+				viginti appellationes istius Mo¬ <lb facs="#facs_18_r1l71" n="N019"/>narchae
+				pleraeque vanae, partim etiam ridiculae refe¬ <lb facs="#facs_18_r1l73" n="N020"
+				/>runtur, veluti: <lb facs="#facs_18_r1l76" n="N021"/>Abecum. <lb
+					facs="#facs_18_r1l79" n="N022"/>Abeto. <lb facs="#facs_18_r1l82" n="N023"/>Amma.
+					<lb facs="#facs_18_r1l85" n="N024"/>Atic-l-abaßi. <lb facs="#facs_18_r1l88"
+					n="N025"/>Avie Negus. <lb facs="#facs_18_r1l91" n="N026"/>Azegue. <lb
+					facs="#facs_18_r1l94" n="N027"/>Beldigian. <lb facs="#facs_18_r1l96" n="N028"
+				/>Belulgian. <lb facs="#facs_18_r1l75" n="N029"/>Elati. <lb facs="#facs_18_r1l78"
+					n="N030"/>Farestagian. <lb facs="#facs_18_r1l81" n="N031"/>Gian Belul. <lb
+					facs="#facs_18_r1l84" n="N032"/>Giochan-Belul. <lb facs="#facs_18_r1l87"
+					n="N033"/>Jonanas. <lb facs="#facs_18_r1l90" n="N034"/>Juhanna. <lb
+					facs="#facs_18_r1l92" n="N035"/>Johannes Ung. <lb facs="#facs_18_r1l97" n="N036"
+					/>Lederwyck. rc. rc.</item></ab>
+			<ab facs="#facs_18_TextRegion_1612951992996_3519">
+				<item><lb facs="#facs_18_r1l34" n="N001"/>Num. 5. Quid sit Tzaga-Zabi &apos;jan. Belul,
+				  &amp; ri¬ <lb facs="#facs_18_r1l36" n="N002"/>diculum Faras-ta-gian Zaga Christi.</item>
+				<item><lb facs="#facs_18_r1l38" n="N003"/>Num. 6. De compellatione Regis, ejusque ti¬
+					<lb facs="#facs_18_r1l40" n="N004"/>tulo Hatzè &amp; Harzeghè, ut &amp;
+				  nominibus ejus in <lb facs="#facs_18_r1l42" n="N005"/>Hispania illustrata notatis.</item>
+				<item><lb facs="#facs_18_r1l44" n="N006"/>Num. 7. De titulo Regum Aethiopiae Nagiashi,
+					<lb facs="#facs_18_r1l46" n="N007"/>quòd non tantùm Imperatori Aethiopiae, sed
+				etiam <lb facs="#facs_18_r1l48" n="N008"/>aliis minoribus Regibus tribuatur. Quid
+				Pharao si¬ <lb facs="#facs_18_r1l50" n="N009"/>gnificet. Nova Andreae Mulleri
+				expositio. Aliorum <lb facs="#facs_18_r1l52" n="N010"/>Regum Epitheta perpetua.</item> 
+				<item><lb facs="#facs_18_r1l54" n="N011"/>Num. 8. De duplici Regum Aethiopiae nomine, <lb
+					facs="#facs_18_r1l56" n="N012"/>nimirum Baptismatis &amp; Regni; exempla istius.</item>
+				<item><lb facs="#facs_18_r1l58" n="N013"/>Num. 9. De Impostoris Tzaga Christi Epistola
+					<lb facs="#facs_18_r1l60" n="N014"/>ad D. Wislengium Patavinum, illiusque crassa
+				in¬ <lb facs="#facs_18_r1l62" n="N015"/>ertia.</item> 
+				<item><lb facs="#facs_18_r1l64" n="N016"/>Num. 10. De Helenae epistola ad Regem Lusita¬ <lb facs="#facs_18_r1l66" n="N017"
+				/>niae titulis carente, quos Aethiopiae Reges ignorant; <lb facs="#facs_18_r1l68"
+					n="N018"/>hinc titulus vulgatus falsus deprehenditur.</item> 
+				<item><lb facs="#facs_18_r1l70" n="N019"/>Num. 11. Quòd Habessini summum Pontificem <lb facs="#facs_18_r1l72"
+					n="N020"/>non aliter ac Patriarcham Romanum appellent, <lb facs="#facs_18_r1l74"
+					n="N021"/>nec majus nomen hierarchicum habeant.</item> 
+			  <item><lb facs="#facs_18_r1l77" n="N022"/>Num. 12. Quare Rex Hispaniae à Rege Aethio¬ <lb facs="#facs_18_r1l80"
+					n="N023"/>piae in literis suis vocetur Rex Regum, quòd Telle¬ <lb
+					facs="#facs_18_r1l83" n="N024"/>zius reddidit Imperator.</item> 
+			  <item><lb facs="#facs_18_r1l86" n="N025"/>Num. 13. De ratione scribendarum Epistolarum <lb
+					facs="#facs_18_r1l89" n="N026"/>Aethiopicarum peculiari dissertatione autor
+				agit. <lb facs="#facs_18_r1l93" n="N027"/>Quod in Exordio saepè Rhythmico omnem
+				earum <lb facs="#facs_18_r1l95" n="N028"/>ornatum ponant.</item> </ab>
+			<ab facs="#facs_18_TextRegion_1612952190511_3631">
+				<lb facs="#facs_18_r1l98" n="N001"/>Ad Lib. II. Cap. II </ab>
+			<ab facs="#facs_18_TextRegion_1612952255754_3655">
+				<item><lb facs="#facs_18_r1l101" n="N001"/>Num. 14. De Catalogo Regum Aethiopiae, ubi <lb
+					facs="#facs_18_r1l102" n="N002"/>Marianus Victorius &amp; Hieronymus Vecchietti
+					<lb facs="#facs_18_r1l104" n="N003"/>ut nimis creduli perstringuntur; defectus
+				in eò no¬ <lb facs="#facs_18_r1l106" n="N004"/>tabiles ostenduntur. </item></ab>
+			<ab facs="#facs_18_TextRegion_1612952255754_3654">
+				<item><lb facs="#facs_18_line_1612952190631_3633" n="N001"/>Num. 15. De aliorum Regnorum
+				Catalogis fictis, <lb facs="#facs_18_r1l103" n="N002"/>ubi Alstedius notatur, quod
+				fob. Annium Viter¬ <lb facs="#facs_18_r1l105" n="N003"/>biensem secutus fuerit.</item></ab>
+			<ab facs="#facs_18_TextRegion_1612952300900_3674">
+				<lb facs="#facs_18_r1l107" n="N001"/>Ad Lib. II. Cap. III. </ab>
+			<ab facs="#facs_18_TextRegion_1612952334013_3689">
+			<item><lb facs="#facs_18_r1l108" n="N001"/>NUm. 16. De Cusaeis; Hos rectissimè Bochar¬ <lb
+					facs="#facs_18_r1l110" n="N002"/>tus collocat in Arabia. Ille tamen &amp;
+				Beroal¬ <lb facs="#facs_18_r1l112" n="N003"/>dus LXX. Interpretes, eorumque
+				sequaces, gravis <lb facs="#facs_18_r1l114" n="N004"/>erroris arguit, quòd Cush
+				reddiderint Aethiopiam. </ab>
+			<ab facs="#facs_18_TextRegion_1612952334012_3688">
+				<lb facs="#facs_18_line_1612952301017_3676" n="N001"/>Istius, verba referuntur;
+				Bened. Pererius <lb facs="#facs_18_r1l111" n="N002"/>illos defendit, atque
+				distinctione utitur. Bocharti <lb facs="#facs_18_r1l113" n="N003"/>assertionibus
+				respondetur. Pererii distinctio in A¬ <lb facs="#facs_18_r1l115" n="N004"/>fricanos
+				&amp; Asiaticos Aethiopes expenditur. Auto¬ <lb facs="#facs_18_r1l116" n="N005"/>ros </ab>
+			<pb facs="#facs_19" n="19"/>
+			<ab facs="#facs_19_TextRegion_1612966871815_17">
+				<lb facs="#facs_19_r1l1" n="N001"/>Tabula Capitum totius Operis. </ab>
+			<ab facs="#facs_19_TextRegion_1612966998376_57">
+				<lb facs="#facs_19_r1l3" n="N001"/>res veteres Homerus, Plinius, Strabo, Herodotus
+					<lb facs="#facs_19_r1l5" n="N002"/>referuntur. Arabiae populi veteribus
+				Aethiopes di¬ <lb facs="#facs_19_r1l7" n="N003"/>cti. Conclusio: Bochartum abs re
+				dicere: Nis <lb facs="#facs_19_r1l9" n="N004"/>quis aliam Aethiopiam in Arabia sibi
+				fingat. Quid <lb facs="#facs_19_r1l11" n="N005"/>LXX Interpretibus propriè vitio
+				verti possit. Ubi <lb facs="#facs_19_r1l13" n="N006"/>docetur, jam tùm Jeremiae
+				Prophetae temporibus <lb facs="#facs_19_r1l15" n="N007"/>[7] Cusaum significatione
+				extensivâ pro Aethiope <lb facs="#facs_19_r1l17" n="N008"/>in genere acceptum
+				fuisse; ut in Occidente Maurus <lb facs="#facs_19_r1l19" n="N009"/>Ital. Moro, Gall.
+				More Mohr pro quolibet ho¬ <lb facs="#facs_19_r1l21" n="N010"/>mine nigro. Quid
+				hodierni interpretes de hoc vo¬ <lb facs="#facs_19_r1l23" n="N011"/>cabulo observare
+				debeant. Josephus exploditur ob <lb facs="#facs_19_r1l25" n="N012"/>duas
+				Aethiopissas Moysi desponsatas. <lb facs="#facs_19_r1l27" n="N013"/>Num. 17. Veterum
+				sententiae de Mari rubro, seu </ab>
+			<ab facs="#facs_19_TextRegion_1612966998375_56">
+				<lb facs="#facs_19_line_1612966872088_19" n="N001"/>potius Edomaeo, ejusque extensio
+				in ipsum Oceanum <lb facs="#facs_19_r1l6" n="N002"/>Indicum. <lb
+					facs="#facs_19_r1l8" n="N003"/>Num. 18. Num Regina Sabae etiam Aethiopiae im¬
+					<lb facs="#facs_19_r1l10" n="N004"/>peritaverit. Vana quaedam circa hanc rem
+				referentes <lb facs="#facs_19_r1l12" n="N005"/>Josephus &amp; Godignus notantur. <lb
+					facs="#facs_19_r1l14" n="N006"/>Num. 19. Conciliatio locorum Scripturae de bello
+					<lb facs="#facs_19_r1l16" n="N007"/>Roboami cum Jeroboamo perpetuo &amp; non
+				perpetuo. <lb facs="#facs_19_r1l18" n="N008"/>Objectio de cognatis gentibus sui
+				invicem oblitis, <lb facs="#facs_19_r1l20" n="N009"/>diluitur. <lb
+					facs="#facs_19_r1l22" n="N010"/>Num. 20. Quòd literarum elementa cum ipsa <lb
+					facs="#facs_19_r1l24" n="N011"/>religione ad nationes transeant, uti factum cum
+				A¬ <lb facs="#facs_19_line_1612967193899_142" n="N012"/>rabicis &amp; Latinis
+				literis </ab>
+			<ab facs="#facs_19_TextRegion_1612967309865_156">
+				<lb facs="#facs_19_line_1612967310056_159" n="N001"/>Ad Lib. II. Cap. IV. </ab>
+			<ab facs="#facs_19_TextRegion_1612967390386_187">
+				<lb facs="#facs_19_r1l31" n="N001"/>Additio. Autor nomina Regum, quae in Historia
+					<lb facs="#facs_19_r1l33" n="N002"/>sua promiserat, reticet, quia in Mariano
+				Victorio fi¬ <lb facs="#facs_19_r1l35" n="N003"/>cta vel confusa illa esse
+				deprehendit. <lb facs="#facs_19_r1l37" n="N004"/>§. 13. Reges Abreham &amp; Atzbeham
+				eosdem vi¬ <lb facs="#facs_19_r1l39" n="N005"/>deri, ad quos Constantius scripsit,
+				Aizuna &amp; Saza¬ <lb facs="#facs_19_r1l41" n="N006"/>nus dictos. <lb
+					facs="#facs_19_r1l43" n="N007"/>Num. 21. De Calebo Aethiopiae Rege, qui Grae¬
+					<lb facs="#facs_19_r1l45" n="N008"/>cis &amp; Latinis Elesbaas dicitur, vindicta
+				S. Areta &amp; <lb facs="#facs_19_r1l47" n="N009"/>excidio Homeritarum Regni
+				clarissimus. </ab>
+			<ab facs="#facs_19_TextRegion_1612967390386_186">
+				<lb facs="#facs_19_line_1612967310058_160" n="N001"/>Num. 22. Historia S. Aretae è
+				Synaxario Graeco¬ <lb facs="#facs_19_r1l32" n="N002"/>rum vulgari. Eadem ex Libris
+				Aethiopum, referente <lb facs="#facs_19_r1l34" n="N003"/>Alphonio Mendezio.
+				Melchitane an Jacobita fu¬ <lb facs="#facs_19_r1l36" n="N004"/>erit iste Elesbaas?
+				Dunavvasi saevitia, cujus &amp; Al¬ <lb facs="#facs_19_r1l38" n="N005"/>coranus
+				meminit. Incidenter de Rhythmica perio¬ <lb facs="#facs_19_r1l40" n="N006"/>dorum
+				Alcorani terminatione. Areta successores in <lb facs="#facs_19_r1l42" n="N007"
+				/>Arabia etiam Habessim seu Aethiopes dicti fuere. <lb facs="#facs_19_r1l44"
+					n="N008"/>Seldeni dubium de Habesinorum Nagashio ad Mu¬ <lb
+					facs="#facs_19_r1l46" n="N009"/>hammedem deficiente resolvitur. </ab>
+			<ab facs="#facs_19_TextRegion_1612967444212_226">
+				<lb facs="#facs_19_r1l49" n="N001"/>Ad Lib. II. Cap. V. </ab>
+			<ab facs="#facs_19_TextRegion_1612967559152_268">
+				<lb facs="#facs_19_line_1612967444361_230" n="N001"/>NUm. 23. De templis in vivas
+				rupes incisis Alva¬ <lb facs="#facs_19_line_1612967553360_265" n="N002"/>rezii
+				relatio &amp; denominatio. Testimonium </ab>
+			<ab facs="#facs_19_TextRegion_1612967559152_267">
+				<lb facs="#facs_19_line_1612967444359_228" n="N001"/>Tellezii. Exemplum in Comitatu
+				Regenstein dioe¬ <lb facs="#facs_19_r1l52" n="N002"/>cesis Halberstatensis. </ab>
+			<ab facs="#facs_19_TextRegion_1612967610121_282">
+				<lb facs="#facs_19_line_1612967610262_285" n="N001"/>Ad Lib. II. Cap. VI. </ab>
+			<ab facs="#facs_19_TextRegion_1612967668494_303">
+				<lb facs="#facs_19_r1l57" n="N001"/>NUm. 24. David secundo genitus regnante Pa¬ <lb
+					facs="#facs_19_r1l58" n="N002"/>tre Naodo natus, praelatus fuit in successione
+					<lb facs="#facs_19_r1l61" n="N003"/>Regni primogenito ante regnum patris nato,
+				quod <lb facs="#facs_19_r1l63" n="N004"/>improbatur. Praetextus à Regina &amp;
+				Metropolita <lb facs="#facs_19_r1l64" n="N005"/>Marco quaesitus videtur, ut sub
+				pupillo imperarent <lb facs="#facs_19_r1l66" n="N006"/>Iniquissima quaestio olim
+				inter Darii Filios agitata, <lb facs="#facs_19_r1l68" n="N007"/>idque rationibus
+				ostenditur. Herodoti sententia <lb facs="#facs_19_r1l70" n="N008"/>laudatur. Eventus
+				istius consilii infelix. <lb facs="#facs_19_r1l72" n="N009"/>Num. 25. De Davide
+				puero undecenni cum Rex <lb facs="#facs_19_r1l74" n="N010"/>fieret, &amp; Helena
+				ejus avi vidua. <lb facs="#facs_19_r1l76" n="N011"/>Num. 26. Colloquia de rebus
+				sacris à Davide cum <lb facs="#facs_19_r1l78" n="N012"/>Alvarezio habita; Reges
+				&amp; Magnates Aethiopiae <lb facs="#facs_19_r1l80" n="N013"/>lectioni sacrorum
+				Librorum student. <lb facs="#facs_19_r1l82" n="N014"/>Num. 27. Laus Claudii
+				Aethiopiae Regis ab ipsis <lb facs="#facs_19_r1l84" n="N015"/>patribus societatis
+				vulgata, quibus tamen non fa¬ <lb facs="#facs_19_r1l86" n="N016"/>vebat. <lb
+					facs="#facs_19_r1l88" n="N017"/>Num. 28. Rex iste in disputationibus Theologicis
+					<lb facs="#facs_19_r1l90" n="N018"/>contra Patres Soc. acerrimus; Patris
+				Tellezii testi¬ <lb facs="#facs_19_r1l92" n="N019"/>monio. <lb facs="#facs_19_r1l94"
+					n="N020"/>Num. 29. Confeßio Claudii Aethiopiae Regis Aethi¬ <lb
+					facs="#facs_19_line_1612967661249_300" n="N021"/>opicè &amp; Latinè cum notis
+				novis, ubi de Libello ve¬ </>
+			<ab facs="#facs_19_TextRegion_1612967668494_302">
+				<lb facs="#facs_19_r1l56" n="N001"/>teri Didascalia dicto: De Coenaculo Sionis, in
+				quo <lb facs="#facs_19_r1l59" n="N002"/>Apostoli congregati fuerunt. De incisione in
+				facie <lb facs="#facs_19_r1l60" n="N003"/>Aethiopum unde originem habuerit, ex Mesto
+					<lb facs="#facs_19_r1l62" n="N004"/>Arabico. <lb facs="#facs_19_r1l65" n="N005"
+				/>Num. 30. Bellum Menae Davidis F. cum Tazcaro <lb facs="#facs_19_r1l67" n="N006"
+				/>fratris natu majoris filio naturali. De infelici ille¬ <lb facs="#facs_19_r1l69"
+					n="N007"/>gitimorum in Regnis successione. Illo bello Turca <lb
+					facs="#facs_19_r1l71" n="N008"/>Habassiam invaserunt &amp; portus ceperunt. <lb
+					facs="#facs_19_r1l73" n="N009"/>Num. 31. Regis Malac - Saguedi de moribus &amp;
+					<lb facs="#facs_19_r1l75" n="N010"/>doctrina Patrum Societatis judicium; sed
+				Tellezii <lb facs="#facs_19_r1l77" n="N011"/>argumentum displicet. <lb
+					facs="#facs_19_r1l79" n="N012"/>Num. 32. Illegitimos Regum liberos saepè causam
+					<lb facs="#facs_19_r1l81" n="N013"/>pello atque caedibus dedisse; exempla
+				Aethiopiae, <lb facs="#facs_19_r1l83" n="N014"/>Numidiae &amp; nuper Angliae id
+				docent. <lb facs="#facs_19_r1l85" n="N015"/>Num. 33. De clementia Za-Dengheli erga
+				Ja¬ <lb facs="#facs_19_r1l87" n="N016"/>cobum regni aemulum laudatissima. Tyrannorum
+				sce¬ <lb facs="#facs_19_r1l89" n="N017"/>lestus mos futura crimina puniendi. Quanta
+				sit <lb facs="#facs_19_r1l91" n="N018"/>felicitas regnorum successionem certam &amp;
+				fidos <lb facs="#facs_19_r1l93" n="N019"/>Ordines habentium. Imperia militaria
+				insta¬ <lb facs="#facs_19_r1l95" n="N020"/>bilia. </p>
+			<p facs="#facs_19_TextRegion_1612967734202_356">
+				<lb facs="#facs_19_r1l99" n="N001"/>Ad Lib. II. Cap. VII. </p>
+			<p facs="#facs_19_TextRegion_1612967801630_382">
+				<lb facs="#facs_19_r1l101" n="N001"/>NUm. 34. De sexcentis &amp; amplius equitibus,
+					<lb facs="#facs_19_r1l103" n="N002"/>qui fugâ nocturnâ de rupe praeruptâ semet
+					<lb facs="#facs_19_r1l105" n="N003"/>praecipitarunt, relatio Tellezii. <lb
+					facs="#facs_19_r1l107" n="N004"/>Num. 35. De Tzaga- Christo, qui Aethiopiae <lb
+					facs="#facs_19_r1l109" n="N005"/>Princeps faltò creditus fuit à missionariis
+				Palaestinae </p>
+			<p facs="#facs_19_TextRegion_1612967801630_381">
+				<lb facs="#facs_19_line_1612967734340_358" n="N001"/>Inde origo fabulae fabulis
+				pluribus auctae. Flagitia <lb facs="#facs_19_r1l102" n="N002"/>ejus enormia.
+				Judicium scenicum quaestoris rerum <lb facs="#facs_19_r1l104" n="N003"/>criminalium
+				Parisiensis. Ejus in Gallia sepultura &amp; <lb facs="#facs_19_r1l106" n="N004"
+				/>ludicrum epitaphium nunc correctiùs editum. Plura <lb facs="#facs_19_r1l108"
+					n="N005"/>supra de eo dicta. </p>
+			<pb facs="#facs_20" n="20"/>
+			<p facs="#facs_20_TextRegion_1612967994597_405">
+				<lb facs="#facs_20_r1l2" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_20_TextRegion_1612968030503_419">
+				<lb facs="#facs_20_line_1612967994729_407" n="N001"/>Num. 36. Epistola Af-Saghedi
+				Aethiopiae Re¬ <lb facs="#facs_20_r1l5" n="N002"/>gis ad Hollandorum Gubernatorem
+				generalem Ba¬ <lb facs="#facs_20_line_1612968030798_422" n="N003"/>taviam in java
+				Majore missa, anno Hegirae 1083. <lb facs="#facs_20_r1l4" n="N004"/>Additio. De
+				Basilidis successoribus ex novissima <lb facs="#facs_20_r1l6" n="N005"/>relatione,
+				quam autor ex Arabia accepit. </p>
+			<p facs="#facs_20_TextRegion_1612968157255_439">
+				<lb facs="#facs_20_r1l9" n="N001"/>CAP. VIII. vacat. </p>
+			<p facs="#facs_20_TextRegion_1612968244955_465">
+				<lb facs="#facs_20_r1l11" n="N001"/>Ad Lib. II. Cap. IX. </p>
+			<p facs="#facs_20_TextRegion_1612968308726_487">
+				<lb facs="#facs_20_r1l13" n="N001"/>NUm. 37. De Edictis in causis Ecclesiasticis à
+					<lb facs="#facs_20_r1l15" n="N002"/>Rege publicatis, unde simultates cum PP.
+				Soci¬ <lb facs="#facs_20_r1l17" n="N003"/>etatis natae. Imperatores prisci Concilia
+				revocave¬ <lb facs="#facs_20_r1l19" n="N004"/>runt. Ipse Leo Magnus Papa id ab
+				Imperatore pe¬ <lb facs="#facs_20_r1l21" n="N005"/>tiit. Carolus V. Edictum, quod
+				Interim vocabatur, <lb facs="#facs_20_r1l23" n="N006"/>sua sponte edidit. <lb
+					facs="#facs_20_r1l25" n="N007"/>Num. 38. De Jurisdictione Ecclesiastica Re¬ <lb
+					facs="#facs_20_r1l27" n="N008"/>gum Aethiopiae. Quaestionem hanc sibi moveri Rex
+					<lb facs="#facs_20_r1l29" n="N009"/>Susneus Patrum Soc. patronus molestissimè
+				tulit. </p>
+			<p facs="#facs_20_TextRegion_1612968308725_486">
+				<lb facs="#facs_20_r1l12" n="N001"/>Isti autem ceu personae Ecclesiasticae
+				jurisdictionem <lb facs="#facs_20_r1l14" n="N002"/>Proregum declinaverunt; hinc
+				lerna malorum. So¬ <lb facs="#facs_20_r1l16" n="N003"/>cratis de hac causa dictum.
+					<lb facs="#facs_20_r1l18" n="N004"/>Num. 39. Regalia vulgò dicta Reges Aethiopia
+					<lb facs="#facs_20_r1l20" n="N005"/>soli &amp; absolutè exercent. <lb
+					facs="#facs_20_r1l22" n="N006"/>Num. 40. Quòd subditi Regum Asiae atque Africae
+					<lb facs="#facs_20_r1l24" n="N007"/>nihil proprii possideant, è Tellezio &amp;
+				Dappero. Pa¬ <lb facs="#facs_20_r1l26" n="N008"/>rum ab eo absunt Russorum subjecti.
+				Locus I. Sam. <lb facs="#facs_20_line_1612968303290_484" n="N009"/>8. 14.
+				declaratur. </p>
+			<p facs="#facs_20_TextRegion_1612968357049_513">
+				<lb facs="#facs_20_r1l31" n="N001"/>Ad Lib. II. Cap. X. </p>
+			<p facs="#facs_20_TextRegion_1612968462609_535">
+				<lb facs="#facs_20_line_1612968462722_538" n="N001"/>NUm. 41. De falsa Aethiopum seu
+				Habessinorum <lb facs="#facs_20_r1l35" n="N002"/>expeditione in Asiam
+				septentrionalem. Hornii <lb facs="#facs_20_r1l36" n="N003"/>de Scaligeri dictis in
+				hac causa perplexè loquentis <lb facs="#facs_20_r1l38" n="N004"/>judicium. <lb
+					facs="#facs_20_r1l40" n="N005"/>Num. 42. De Cyriaci Regis Aethiopiae aliàs <lb
+					facs="#facs_20_r1l42" n="N006"/>Nubiae in Aegyptum expeditione, quo tempore <lb
+					facs="#facs_20_r1l44" n="N007"/>contigerit, &amp; quid hîc per Nubiam intelliga¬
+					<lb facs="#facs_20_r1l46" n="N008"/>tur. <lb facs="#facs_20_r1l48" n="N009"
+				/>Num. 43. Quo pacto Barbari Gallaei Habessino¬ <lb facs="#facs_20_r1l51" n="N010"
+				/>rum hostes perpetui domari possint, scil. pacis arti¬ </p>
+			<p facs="#facs_20_TextRegion_1612968462609_534">
+				<lb facs="#facs_20_r1l33" n="N001"/>bus; exemplo Britannorum veterum. Vaticinium <lb
+					facs="#facs_20_r1l34" n="N002"/>quoddam vetus inter eos. <lb
+					facs="#facs_20_r1l37" n="N003"/>Num. 44. Quomodo Turcae ex portubus Habes¬ <lb
+					facs="#facs_20_r1l39" n="N004"/>sinorum expelli possint, munimentis parum firmis
+				&amp; <lb facs="#facs_20_r1l41" n="N005"/>praesidiis exiguis defensi. Turcae pacem
+				petentes Pa¬ <lb facs="#facs_20_r1l43" n="N006"/>triarchâ Pontificio Alphonso
+				Mendezio conciliatore <lb facs="#facs_20_r1l45" n="N007"/>usi sunt, ex Epistola P.
+				Casp. Paez Romae impressa. <lb facs="#facs_20_r1l47" n="N008"/>Num. 45. Aequissimum
+				tributi genus eße proven¬ <lb facs="#facs_20_r1l49" n="N009"/>tus regionum
+				naturales; Exempla è vetustate. Iniqua <lb facs="#facs_20_line_1612968462723_539"
+					n="N010"/>tributa quae sint. </p>
+			<p facs="#facs_20_TextRegion_1612968570360_599">
+				<lb facs="#facs_20_line_1612968570461_602" n="N001"/>Ad Lib. II. Cap. XI. </p>
+			<p facs="#facs_20_TextRegion_1612968676119_629">
+				<lb facs="#facs_20_r1l54" n="N001"/>NUm. 46. De Axuma Habessinorum Regia, &amp; <lb
+					facs="#facs_20_r1l56" n="N002"/>pravâ istius vocabuli expressione. Salmasii <lb
+					facs="#facs_20_r1l59" n="N003"/>emendatio Stephani contra Pinedum defenditur.
+					<lb facs="#facs_20_r1l60" n="N004"/>iste contra analogiam Grammaticam vulgatam
+				le¬ <lb facs="#facs_20_r1l62" n="N005"/>ctionem tuetur. <lb facs="#facs_20_r1l65"
+					n="N006"/>Num. 47. De Roma ob translatam Imperii se¬ </p>
+			<p facs="#facs_20_TextRegion_1612968676119_628">
+				<lb facs="#facs_20_line_1612968570462_603" n="N001"/>dem vastata; à quibus &amp;
+				quando id factum fu¬ <lb facs="#facs_20_r1l57" n="N002"/>erit. Irreparabilis
+				antiquarum Bibliothecarum ja¬ <lb facs="#facs_20_r1l58" n="N003"/>ctura. <lb
+					facs="#facs_20_r1l61" n="N004"/>Num. 48. De veteribus Inaugurationum regia¬ <lb
+					facs="#facs_20_r1l63" n="N005"/>rum ritibus, quibus certa loca assignata. Unde
+				mos <lb facs="#facs_20_r1l64" n="N006"/>unctionis Christianorum Regum. </p>
+			<p facs="#facs_20_TextRegion_1612968721239_646">
+				<lb facs="#facs_20_line_1612968721335_649" n="N001"/>Ad Lib. II. Cap. XIII. </p>
+			<p facs="#facs_20_TextRegion_1612968814389_677">
+				<lb facs="#facs_20_line_1612968721336_650" n="N001"/>NUm. 49. Psalterium apud
+				Habessinos in ma¬ <lb facs="#facs_20_r1l70" n="N002"/>gno pretio haberi, &amp; à
+				magnatibus etiam me¬ <lb facs="#facs_20_r1l73" n="N003"/>moriter edisci. <lb
+					facs="#facs_20_r1l74" n="N004"/>Num. 50. De dignitate summa Bahtudedorum <lb
+					facs="#facs_20_r1l76" n="N005"/>in Aethiopia abrogata. Bodini etymologia
+				explosa; <lb facs="#facs_20_line_1612968808281_674" n="N006"/>alia melior. Palatii
+				Magistri apud priscos Franco¬ </p>
+			<p facs="#facs_20_TextRegion_1612968814388_676">
+				<lb facs="#facs_20_line_1612968721337_652" n="N001"/>rum Reges postea abrogati.
+				Periculosissimum est <lb facs="#facs_20_r1l71" n="N002"/>uni ministro summam rerum
+				committere. Bodini <lb facs="#facs_20_r1l72" n="N003"/>locus. Exemplum Sejani. <lb
+					facs="#facs_20_r1l75" n="N004"/>Num. 51. De iis, qui è statu humili ad magnam
+					<lb facs="#facs_20_r1l77" n="N005"/>potentiam promoventur; exemplo libertorum
+				Ro¬ <lb facs="#facs_20_r1l78" n="N006"/>manorum; ejus rei causa. </p>
+			<p facs="#facs_20_TextRegion_1612968866778_696">
+				<lb facs="#facs_20_r1l80" n="N001"/>Ad Lib. II. Cap. XIII. </p>
+			<p facs="#facs_20_TextRegion_1612968898763_712">
+				<lb facs="#facs_20_line_1612968866890_698" n="N001"/>NUm. 52. De periculosissimo
+				&amp; instabili milita- <lb facs="#facs_20_r1l82" n="N002"/>rium Imperiorum statu,
+				recentissimo Tur <lb facs="#facs_20_line_1612968945813_727" n="N003"/>carum exemplo;
+				Bodini laus militum scilicet! </p>
+			<p facs="#facs_20_TextRegion_1612969045773_742">
+				<lb facs="#facs_20_line_1612968898858_714" n="N001"/>Ad Lib. II. Cap. XIV. </p>
+			<p facs="#facs_20_TextRegion_1612969064749_750">
+				<lb facs="#facs_20_r1l85" n="N001"/>NUm. 53. Habessinorum milites annona contenti
+					<lb facs="#facs_20_r1l84" n="N002"/>sunt, ut olim Romani. De his Festus,
+				Lipsius, <lb facs="#facs_20_r1l86" n="N003"/>Polybius, &amp;c. </p>
+			<p facs="#facs_20_TextRegion_1612969123575_761">
+				<lb facs="#facs_20_line_1612969123675_764" n="N001"/>Ad Lib. II. Cap. XV </p>
+			<p facs="#facs_20_TextRegion_1612969123575_760">
+				<lb facs="#facs_20_line_1612969123677_765" n="N001"/>NUm. 54. De expeditionibus
+				veterum Aethio¬ <lb facs="#facs_20_r1l90" n="N002"/>piae Regum ad Habessinos nostros
+				non. <lb facs="#facs_20_line_1612969123677_767" n="N003"/>spectantibus. De istorum
+				in Arabiam expeditione. </p>
+			<pb facs="#facs_21" n="21"/>
+			<p facs="#facs_21_TextRegion_1612969406605_837">
+				<lb facs="#facs_21_r1l1" n="N001"/>Tabula Capitum totius Operis </p>
+			<p facs="#facs_21_TextRegion_1612969475579_869">
+				<lb facs="#facs_21_line_1612969406767_843" n="N001"/>Num. 55. De bello Adelensi cum
+				Habessinis, sin¬ <lb facs="#facs_21_r1l6" n="N002"/>gularia quaedam. Causa odii
+				Vatiniani inter has na <lb facs="#facs_21_r1l8" n="N003"/>tiones ex Andreâ Corsalo.
+				De Regii Principis Ha¬ <lb facs="#facs_21_r1l10" n="N004"/>bessinici in Adelam fuga,
+				postea Muhammedani, <lb facs="#facs_21_r1l12" n="N005"/>ejusque in Habessinorum
+				Imperium praetensione. <lb facs="#facs_21_r1l14" n="N006"/>Inde alia conjectura de
+				Abd-e.Bakidis loco à Sel¬ <lb facs="#facs_21_r1l16" n="N007"/>deno allegato, quo
+				Christianismum in Habassia in¬ <lb facs="#facs_21_r1l18" n="N008"/>terruptum
+				putavit. De insigni Duce Adelensi Ma¬ </p>
+			<p facs="#facs_21_TextRegion_1612969475579_868">
+				<lb facs="#facs_21_r1l5" n="N001"/>fudio, &amp; ejus dictis. Circumventus provocavit
+				ad <lb facs="#facs_21_r1l7" n="N002"/>certamen singulare Habessinos; acceptavit id
+				Mona¬ <lb facs="#facs_21_r1l9" n="N003"/>chus strenuus &amp; barbarorum Ducem vicit.
+				Lusitani <lb facs="#facs_21_r1l11" n="N004"/>Zeilam vastaverunt. Cur post haec de
+				bellis Adelen¬ <lb facs="#facs_21_r1l13" n="N005"/>sibus nihil auditum. <lb
+					facs="#facs_21_r1l15" n="N006"/>Num. 56. De auxilio à paucis Lusitanis viris
+				for¬ <lb facs="#facs_21_r1l17" n="N007"/>tissimis Habessinis lato, &amp;
+				discrepantibus ea de re <lb facs="#facs_21_line_1612969467707_866" n="N008"
+				/>narrationibus, speciatim fohannis Bermudis. </p>
+			<p facs="#facs_21_TextRegion_1612969584960_907">
+				<lb facs="#facs_21_r1l20" n="N001"/>Ad Lib. II. Cap. XVI. </p>
+			<p facs="#facs_21_TextRegion_1612969667480_940">
+				<lb facs="#facs_21_r1l23" n="N001"/>NUm. 57. Historia primae Habessinorum in Eu¬ <lb
+					facs="#facs_21_r1l26" n="N002"/>ropam legationis ad Lusitanos à Damiano Goe <lb
+					facs="#facs_21_r1l28" n="N003"/>zio relata. Illius successus. <lb
+					facs="#facs_21_r1l30" n="N004"/>Num. 58. De Tzagazabi ad Regem Lusitaniae <lb
+					facs="#facs_21_r1l32" n="N005"/>Legatione è libello Job. Bermudis, qui multa
+				&amp; gra¬ <lb facs="#facs_21_r1l34" n="N006"/>via dubia continet. </p>
+			<p facs="#facs_21_TextRegion_1612969667480_939">
+				<lb facs="#facs_21_r1l24" n="N001"/>Num. 59. Legatio Susnei per ignotas Africa re¬
+					<lb facs="#facs_21_r1l27" n="N002"/>giones ad Oceanum orientalem tentata,
+				periculo¬ <lb facs="#facs_21_r1l29" n="N003"/>so prorsus &amp; multis casibus
+				obnoxio itinere. <lb facs="#facs_21_r1l31" n="N004"/>Additio. De Legato Habeßinico
+				Constantinopo¬ <lb facs="#facs_21_r1l33" n="N005"/>lim destinato Thevenotii relatio. </p>
+			<p facs="#facs_21_TextRegion_1612969736669_966">
+				<lb facs="#facs_21_r1l35" n="N001"/>Ad Lib. II. Cap. XVII. </p>
+			<p facs="#facs_21_TextRegion_1612969786408_979">
+				<lb facs="#facs_21_r1l38" n="N001"/>NUm. 60. Praesidum &amp; Praefectorum Aethio¬
+					<lb facs="#facs_21_r1l37" n="N002"/>piae appellationes variae &amp; peregrinae,
+				unde ori¬ <lb facs="#facs_21_r1l39" n="N003"/>ginem traxerint. </p>
+			<p facs="#facs_21_TextRegion_1612969831608_997">
+				<lb facs="#facs_21_r1l40" n="N001"/>Ad Lib. II. Cap. XIIX. </p>
+			<p facs="#facs_21_TextRegion_1612969918888_1018">
+				<lb facs="#facs_21_r1l42" n="N001"/>Num. 61. Quòd Reges Orientis nullas ament <lb
+					facs="#facs_21_r1l44" n="N002"/>hareditarias dignitates, &amp; Satrapas suos
+				omnes <lb facs="#facs_21_r1l46" n="N003"/>pro servis habeant, ex Oleario &amp;
+				Dappero. <lb facs="#facs_21_r1l48" n="N004"/>Num. 62. De vocibus canoris, quibus
+				supplice <lb facs="#facs_21_r1l50" n="N005"/>antelucani ante tentorium Regis
+				clamantes distin¬ <lb facs="#facs_21_r1l52" n="N006"/>guuntur. </p>
+			<p facs="#facs_21_TextRegion_1612969918888_1017">
+				<lb facs="#facs_21_r1l43" n="N001"/>Num. 63. Clamores eorum notis musicis descri¬
+					<lb facs="#facs_21_r1l45" n="N002"/>buntur. <lb facs="#facs_21_r1l47" n="N003"
+				/>Num. 64. De more supplicum ante Turcarum <lb facs="#facs_21_r1l49" n="N004"
+				/>Sultani palatium ignem in capitibus suis accen¬ <lb facs="#facs_21_r1l51" n="N005"
+				/>dendi. </p>
+			<p facs="#facs_21_TextRegion_1612969952740_1037">
+				<lb facs="#facs_21_r1l53" n="N001"/>Ad Lib. II. Cap. XIX. </p>
+			<p facs="#facs_21_TextRegion_1612969992672_1056">
+				<lb facs="#facs_21_r1l56" n="N001"/>NUm. 65. De judiciis &amp; poenis Habessinorum.
+					<lb facs="#facs_21_r1l59" n="N002"/>Crimina apud eos certo tempore praescribun¬
+					<lb facs="#facs_21_r1l61" n="N003"/>tur. Custodia captivorum Romana apud eos ad
+					<lb facs="#facs_21_r1l62" n="N004"/>huc est usitata. Nobilium poena apud
+				Habessi¬ </p>
+			<p facs="#facs_21_TextRegion_1612969992672_1055">
+				<lb facs="#facs_21_r1l55" n="N001"/>nos. Vindicta laesis permittitur. Jus talionis
+				exer¬ <lb facs="#facs_21_r1l57" n="N002"/>cetur. <lb facs="#facs_21_r1l60" n="N003"
+				/>Additio. De novissimo Aethiopiae statu relatio <lb facs="#facs_21_r1l63" n="N004"
+				/>Mocchâ Arabiae Emporio ad autorem delata. 19. <lb facs="#facs_21_r1l64" n="N005"
+				/>Augusti anno 1685. </p>
+			</list>
+			</div>
+			<div type="textpart" xml:id="n.lib.3">
+			<head facs="#facs_21_TextRegion_1612970048515_1081">
+				<lb facs="#facs_21_r1l65" n="N001"/>Ad Historiae Aethiopiae Lib. III. Cap. I. </head>
+			<list>				
+			<ab facs="#facs_21_TextRegion_1612970127014_1105">
+				<lb facs="#facs_21_r1l67" n="N001"/>NUm. 1. De fallaci Matthai Armenii primi <lb
+					facs="#facs_21_r1l70" n="N002"/>Aethiopum Legati in Lusitaniam relatione quo¬
+					<lb facs="#facs_21_r1l72" n="N003"/>ad res ecclesiasticas. Aequivocationes &amp;
+				falsa illius <lb facs="#facs_21_r1l74" n="N004"/>narrata exemplis demonstrantur. <lb
+					facs="#facs_21_r1l76" n="N005"/>Num. 2. De Tzaga-Zaabi (quem Gregorius <lb
+					facs="#facs_21_r1l78" n="N006"/>communiter bestiam campi vocabat) absurda fidei
+					<lb facs="#facs_21_r1l80" n="N007"/>consessione; Tellezii verba de eo. Caetera
+				reperiun¬ <lb facs="#facs_21_r1l82" n="N008"/>tur in Prooemio. <lb
+					facs="#facs_21_r1l84" n="N009"/>Num. 3. De circumcisione Habessinorum, ejusque
+					<lb facs="#facs_21_r1l86" n="N010"/>à Judaica differentia. Aliae gentes plurimae
+				eam <lb facs="#facs_21_r1l88" n="N011"/>usurpant. Thevenotii de Musulmannorum
+				circum¬ <lb facs="#facs_21_r1l90" n="N012"/>cisione relatio. Muhammedes eam non
+				jussit, sed re <lb facs="#facs_21_r1l92" n="N013"/>pertam reliquit. Testimonia hujus
+				rei. Dubitatio <lb facs="#facs_21_r1l94" n="N014"/>quorundam de prima circumcisionis
+				origine expen¬ <lb facs="#facs_21_r1l96" n="N015"/>ditur. <lb facs="#facs_21_r1l98"
+					n="N016"/>Num. 4. De praeputio rursus superinducendo, quo¬ <lb
+					facs="#facs_21_r1l100" n="N017"/>modo id vel arte vel naturâ fieri possit,
+				occasione <lb facs="#facs_21_r1l102" n="N018"/>dicti Paulini 1. Cor. 7. 18.
+				Praeputium abscissum re¬ <lb facs="#facs_21_r1l104" n="N019"/>stitui posse
+				Hippocrates rectè negat. Theologi qui <lb facs="#facs_21_r1l106" n="N020"/>dam non
+				propriè, sed allegoricè dictum illud acci¬ <lb facs="#facs_21_r1l108" n="N021"
+				/>piunt. Contrarium docetur cùm exemplis, tùm </ab>
+			<p facs="#facs_21_TextRegion_1612970127014_1104">
+				<lb facs="#facs_21_r1l68" n="N001"/>Rabbinorum dictis. Modum ignoravit Buxtorsius
+					<lb facs="#facs_21_r1l71" n="N002"/>Operatio chirurgica Medicorum quorundam. Au¬
+					<lb facs="#facs_21_r1l73" n="N003"/>tor censet: denudationem reparari, imò
+				naturaliter <lb facs="#facs_21_r1l75" n="N004"/>restitui posse, non praeputium
+				ipsum. Epiphanius falli¬ <lb facs="#facs_21_r1l77" n="N005"/>tur Judaeum ad
+				Samaritas deficientem denuò cir¬ <lb facs="#facs_21_r1l79" n="N006"/>cumcidi
+				scribens. Exemplum de judaeo quolam se¬ <lb facs="#facs_21_r1l81" n="N007"/>ne
+				sponte repraeputiato. <lb facs="#facs_21_r1l83" n="N008"/>Num. 5. De foedo more
+				circumcisionis vel potius <lb facs="#facs_21_r1l85" n="N009"/>exsectionis
+				foemellarum, in Africa &amp; partim in Asia <lb facs="#facs_21_r1l87" n="N010"
+				/>usitatae. Rem esse turpissimam; Tzaga. Zabus pro¬ <lb facs="#facs_21_r1l89"
+					n="N011"/>pterea perstringitur. Praestantissimorum Anatomi¬ <lb
+					facs="#facs_21_r1l91" n="N012"/>corum Bartholini &amp; Weslingii ea de re recta
+				senten¬ <lb facs="#facs_21_r1l93" n="N013"/>tia. Antiquus mos est. Opiniones
+				aliorum, qui ex¬ <lb facs="#facs_21_r1l95" n="N014"/>tra oleas vagantur. Thevenotius
+				fallitur superstitioni <lb facs="#facs_21_r1l97" n="N015"/>id adscribens. Aliae
+				pudendae causae subsunt, quae re¬ <lb facs="#facs_21_r1l99" n="N016"/>ticentur.
+				Plura autorum loca afferuntur. Arabum <lb facs="#facs_21_r1l101" n="N017"/>distincta
+				vocabula utriusque circumcisionis. <lb facs="#facs_21_r1l103" n="N018"/>Num. 6. De
+				appellatione foeminae inexcisae apud <lb facs="#facs_21_r1l105" n="N019"/>Arabes
+				probrosâ, &amp; obscoenorum vocabulorum in <lb facs="#facs_21_r1l107" n="N020"
+				/>pronunciando alteratione, etiam Habessinis aequè ac <lb facs="#facs_21_r1l109"
+					n="N021"/>Judaeis Incircumcisus malè audit. </p>
+			<pb facs="#facs_22" n="22"/>
+			<p facs="#facs_22_TextRegion_1613028010498_16">
+				<lb facs="#facs_22_line_1613028010724_19" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_22_TextRegion_1613028125799_34">
+				<lb facs="#facs_22_r1l4" n="N001"/>Num. 7. De Baneanorum gentilium Indorum <lb
+					facs="#facs_22_r1l6" n="N002"/>moribus profanis, &amp; quòd ab esu animalium o¬
+					<lb facs="#facs_22_r1l8" n="N003"/>mnium abstineant Pythagoraeorum more. Brach¬
+					<lb facs="#facs_22_r1l10" n="N004"/>manes sunt sacerdotes eorum. <lb
+					facs="#facs_22_r1l12" n="N005"/>Num. 8. De cibis Tartarorum orientalium, qui <lb
+					facs="#facs_22_r1l14" n="N006"/>equis, canibus, &amp;c. vescuntur. <lb
+					facs="#facs_22_r1l16" n="N007"/>Num. 9. Sabbatum simul cum die Dominica in <lb
+					facs="#facs_22_r1l18" n="N008"/>primitiva Ecclesia celebratum fuisse; malè id à
+				qui¬ <lb facs="#facs_22_r1l20" n="N009"/>busdam in dubium vocatur, autoritate
+				veterum <lb facs="#facs_22_r1l22" n="N010"/>cumprimis concilii Laodiceni stabilitur.
+				Quinam <lb facs="#facs_22_r1l24" n="N011"/>fuerint Sabbatarii haeretici. <lb
+					facs="#facs_22_r1l26" n="N012"/>Num. 10. De feriatione Sabbati apud Habes¬ <lb
+					facs="#facs_22_r1l29" n="N013"/>sinos certo modo usitata. Certamina de hac re in </p>
+			<p facs="#facs_22_TextRegion_1613028125799_33">
+				<lb facs="#facs_22_r1l3" n="N001"/>Habassiâ tempore Patrum Societatis. Gregorii ea
+					<lb facs="#facs_22_r1l5" n="N002"/>de re sententia. Canon 29 Concilii Laodiceni
+				expo¬ <lb facs="#facs_22_r1l7" n="N003"/>nitur. Judaeorum superstitio in
+				observatione Sab¬ <lb facs="#facs_22_r1l9" n="N004"/>bati quoad ignem habendum vel
+				accendendum. <lb facs="#facs_22_r1l11" n="N005"/>Autoris sententia de scopo &amp;
+				mente illius Canonis. <lb facs="#facs_22_r1l13" n="N006"/>Num. II. De Jure
+				Leviratus, an apud Aethiopes <lb facs="#facs_22_r1l15" n="N007"/>sit in usu. De casu
+				ab Alvarezio relato judicium. <lb facs="#facs_22_r1l17" n="N008"/>Num. 12. De
+				Confessione Fidei Regis Claudii; <lb facs="#facs_22_r1l19" n="N009"/>num genuina
+				sit, Viri doctrinâ &amp; judicio praediti <lb facs="#facs_22_r1l21" n="N010"/>illam
+				pro tali habuerunt. Fuit qui scrupulum mo¬ <lb facs="#facs_22_r1l23" n="N011"/>veret
+				his verbis: judicet qui potest &amp;c. at dubia <lb facs="#facs_22_r1l25" n="N012"
+				/>sua non promsit. Integra historia hujus confessio¬ <lb facs="#facs_22_r1l27"
+					n="N013"/>nis narratur, ejusque occasio. </p>
+			<p facs="#facs_22_TextRegion_1613028290785_76">
+				<lb facs="#facs_22_r1l31" n="N001"/>Ad Lib. III. Cap. II. </p>
+			<p facs="#facs_22_TextRegion_1613028390350_116">
+				<lb facs="#facs_22_r1l33" n="N001"/>NUm. 13. An per unum ex Apostolis Christi con¬
+					<lb facs="#facs_22_r1l35" n="N002"/>versio Habessinorum facta fuerit? Traditio
+					<lb facs="#facs_22_r1l37" n="N003"/>de conversione ad verum Deum per Reginam Sa¬
+					<lb facs="#facs_22_r1l39" n="N004"/>baeam facta spernitur, ut &amp; ea de
+				Bartholomaeo &amp; <lb facs="#facs_22_r1l41" n="N005"/>Matthaeo Apostolis. <lb
+					facs="#facs_22_r1l43" n="N006"/>Num. 14. Genuina Historia conversionis Habes¬
+					<lb facs="#facs_22_r1l44" n="N007"/>sinorum per solum Frumentium factae. Aliae
+				tradi¬ <lb facs="#facs_22_r1l46" n="N008"/>tiones earumque conciliationes
+				rejiciuntur. Ad du¬ <lb facs="#facs_22_r1l48" n="N009"/>bia Henrici Valesii
+				respondetur. <lb facs="#facs_22_r1l50" n="N010"/>Num. 15. De Ruffino in designatione
+				Indiae ambi¬ <lb facs="#facs_22_r1l52" n="N011"/>guo. Dubium de Pantaeno resolvitur,
+				&amp; ob id Henri¬ <lb facs="#facs_22_r1l54" n="N012"/>cus Valesius notatur. <lb
+					facs="#facs_22_r1l56" n="N013"/>Num. 16. Frumentium unum tantùm esse, non </p>
+			<p facs="#facs_22_TextRegion_1613028390350_115">
+				<lb facs="#facs_22_r1l32" n="N001"/>duos hujus nominis, ut Baronius putavit, idque
+				nunc <lb facs="#facs_22_r1l34" n="N002"/>extra omnem controversiae aleam positum.
+					<lb facs="#facs_22_r1l36" n="N003"/>Num. 17. De tempore conversionis
+				Habessinorum <lb facs="#facs_22_r1l38" n="N004"/>ad fidem Christianam. Autor mutat
+				suam senten¬ <lb facs="#facs_22_r1l40" n="N005"/>tiam de Praelato Aethiopiae, quam
+				hauserat ex Sel¬ <lb facs="#facs_22_r1l42" n="N006"/>deno: iste verò ex Canonibus
+				Nicaenis apocryphis. <lb facs="#facs_22_r1l45" n="N007"/>Additio. De progressu &amp;
+				duratione reli¬ <lb facs="#facs_22_r1l47" n="N008"/>gionis Christianae in
+				AEethiopia, ubi disseritur de de¬ <lb facs="#facs_22_r1l49" n="N009"/>fectione
+				Atzhami ad Islamismum, quam Seldenus <lb facs="#facs_22_r1l51" n="N010"/>ex
+				Abdelbakide narrat, ea non de Aethiopiae Impe¬ <lb facs="#facs_22_r1l53" n="N011"
+				/>ratore, sed de alio quodam Nagashio accipienda; <lb facs="#facs_22_r1l55" n="N012"
+				/>Autoris ea de re conjecturae. </p>
+			<p facs="#facs_22_TextRegion_1613028432022_149">
+				<lb facs="#facs_22_r1l58" n="N001"/>Ad Lib. III. Cap. III. </p>
+			<p facs="#facs_22_TextRegion_1613028554604_196">
+				<lb facs="#facs_22_line_1613028432187_153" n="N001"/>NUm. 18. De novem viris Sanctis
+				Fidei Chri¬ <lb facs="#facs_22_r1l62" n="N002"/>stianae in Aethiopia propagatoribus,
+				qui Graeci <lb facs="#facs_22_r1l63" n="N003"/>ex Aegypto fuerunt. Quo tempore
+				venerint. Non¬ <lb facs="#facs_22_r1l65" n="N004"/>nullorum nomina &amp; laudes ex
+				Poetâ Aethiopico. <lb facs="#facs_22_r1l67" n="N005"/>Num. 19. De miraculis variis
+				Sanctorum Ae¬ <lb facs="#facs_22_r1l69" n="N006"/>thiopiae: Odae aliquot de iis ex
+				Poeta Aethiopico <lb facs="#facs_22_r1l72" n="N007"/>proferuntur. <lb
+					facs="#facs_22_r1l73" n="N008"/>Num. 20. Exemplo Sancti Martini narrantur <lb
+					facs="#facs_22_r1l75" n="N009"/>aliqui Sancti Aethiopiae liberalitate erga
+				pauperes <lb facs="#facs_22_r1l77" n="N010"/>egregii. Animus in Elcemosynis
+				spectandus. Mo¬ <lb facs="#facs_22_r1l79" n="N011"/>nitum Christi Matth. 6. 1. ubi
+				nota critica ad ver¬ <lb facs="#facs_22_r1l81" n="N012"/>bum Justitiam in Vulgata.
+				Quaenam, datis dua¬ <lb facs="#facs_22_r1l83" n="N013"/>bus variis lectionibus, pro
+				antiquiore habenda. <lb facs="#facs_22_r1l85" n="N014"/>Num. 21. Exempla Sanctorum
+				Aethiopiae qui <lb facs="#facs_22_r1l87" n="N015"/>Leones tanquam jumenta frenarunt,
+				atque in iis <lb facs="#facs_22_r1l89" n="N016"/>equitrunt. <lb
+					facs="#facs_22_r1l91" n="N017"/>Num 22. De Ascetis rigidissimis apud Aethio¬ <lb
+					facs="#facs_22_r1l93" n="N018"/>pes, ubi prudentissimum Patrum Societatis judi¬
+					<lb facs="#facs_22_r1l95" n="N019"/>cium de austeritate vitae atque miraculis
+				exponi¬ <lb facs="#facs_22_line_1613028547979_193" n="N020"/>tur illorum verbis
+				Lusitanicis. Christi dictum de </p>
+			<p facs="#facs_22_TextRegion_1613028554604_195">
+				<lb facs="#facs_22_line_1613028432184_151" n="N001"/>hac re Matth. 7. 22. Exemplum
+				unum &amp; alterum <lb facs="#facs_22_r1l61" n="N002"/>Habessinicorum Sanctorum. <lb
+					facs="#facs_22_r1l64" n="N003"/>Num. 23. De mirabili quodam Sancto Aethiopi¬ <lb
+					facs="#facs_22_r1l66" n="N004"/>co Gebra. Menfes-Keddus dicto, quem exagitant
+					<lb facs="#facs_22_r1l68" n="N005"/>Patres Societatis. Comparatio nonnullorum
+				San¬ <lb facs="#facs_22_r1l70" n="N006"/>ctorum Aethiopiae cum sanctis Ecclesiae
+				Romanae. <lb facs="#facs_22_r1l71" n="N007"/>Nicolaus de Tolentino perdicem assatam
+				avolare: <lb facs="#facs_22_r1l74" n="N008"/>At Aaron Aethiops pullos columbinos
+				assatos ad <lb facs="#facs_22_r1l76" n="N009"/>se advolare fecit. Menas Aethiops
+				resuscitavit <lb facs="#facs_22_r1l78" n="N010"/>porcum, at Capucini teste Valeriano
+				Magno Asi¬ <lb facs="#facs_22_r1l80" n="N011"/>num, &amp; ita de aliis. <lb
+					facs="#facs_22_r1l82" n="N012"/>Num. 24. De S. Antonio Eremitarum Coryphaeo, <lb
+					facs="#facs_22_r1l84" n="N013"/>quem praecessit Paulus. Laus Antonii ex Poeta
+				&amp; <lb facs="#facs_22_r1l86" n="N014"/>Sozomeno: Successorum ejus [AITIOA] Asche¬
+					<lb facs="#facs_22_r1l88" n="N015"/>ma: Schema seu habitus Angelicus. <lb
+					facs="#facs_22_r1l90" n="N016"/>Num. 25. Aethiopes, qui Novum Testamen¬ <lb
+					facs="#facs_22_r1l92" n="N017"/>tum Romae impresserunt, malè pro Maronitis à <lb
+					facs="#facs_22_r1l94" n="N018"/>viris doctis habiti fuerunt, unde hoc venerit.
+				No¬ <lb facs="#facs_22_line_1613028547979_191" n="N019"/>mina propria Aethiopica
+				malè fuerunt intellecta. </p>
+			<p facs="#facs_22_TextRegion_1613028619075_246">
+				<lb facs="#facs_22_line_1613028619218_249" n="N001"/>Ad Lib. III. Cap. IV. </p>
+			<p facs="#facs_22_TextRegion_1613028694726_279">
+				<lb facs="#facs_22_r1l100" n="N001"/>NUm.26. De S. Scripturarum versione Aethiopica.
+					<lb facs="#facs_22_r1l102" n="N002"/>An ex versione Arabica facta fuerit,
+				dubitatur. <lb facs="#facs_22_r1l104" n="N003"/>De versione Bibliorum id negatur. De
+				Graecâ Co¬ <lb facs="#facs_22_r1l106" n="N004"/>dicis cujusdam Alexandrini
+				affirmatur. Num Fru¬ <lb facs="#facs_22_r1l108" n="N005"/>mentius illius autor
+				fuerit; Probabilius videtur no¬ <lb facs="#facs_22_r1l110" n="N006"/>vem illos viros
+				sanctos, de quibus supra. Libra <lb facs="#facs_22_r1l112" n="N007"/>Conciliorum
+				&amp; Canonum Erclesiasticorum ex Ara¬ <lb facs="#facs_22_r1l114" n="N008"/>bica
+				versione translati videntur. <lb facs="#facs_22_r1l116" n="N009"/>Num. 27. De Novi
+				Tistamenti editione Roma¬ </p>
+			<p facs="#facs_22_TextRegion_1613028694725_278">
+				<lb facs="#facs_22_line_1613028619220_250" n="N001"/>na. Scaliger de ea contemtim
+				loquitur, sed à Wal¬ <lb facs="#facs_22_r1l101" n="N002"/>tono refellitur. Uterque
+				impressorum verba Aethio¬ <lb facs="#facs_22_r1l103" n="N003"/>pica non rectè
+				intellexit. Variae lectiones diversas <lb facs="#facs_22_r1l105" n="N004"/>arguunt
+				versiones, vel varios codices. <lb facs="#facs_22_r1l107" n="N005"/>Num. 28. Quòd
+				Aethiopes S. Scripturam inte¬ <lb facs="#facs_22_r1l109" n="N006"/>gram habeant,
+				&amp; quinam libri Biblici in Europa ex¬ <lb facs="#facs_22_r1l111" n="N007"/>tent
+				tàm impressi quàm Manuscripti qui omnes <lb facs="#facs_22_r1l113" n="N008"
+				/>recensentur. Libri Aethiopici Bibliothecae Vaticanae <lb facs="#facs_22_r1l115"
+					n="N009"/>ut &amp; Seguierianae Lutetiae Parisiorum. <lb facs="#facs_22_r1l117"
+					n="N010"/>Num. 29. </p>
+			<pb facs="#facs_23" n="23"/>
+			<p facs="#facs_23_TextRegion_1613028828002_316">
+				<lb facs="#facs_23_line_1613028828212_319" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_23_TextRegion_1613028881300_349">
+				<lb facs="#facs_23_line_1613028828215_324" n="N001"/>Num. 29. De Canonibus
+				Apostolorum ita vulgò <lb facs="#facs_23_r1l6" n="N002"/>dictis, quorum summa capita
+				ex Aethiopico Manu¬ <lb facs="#facs_23_r1l7" n="N003"/>scripto habes Num. sequente.
+					<lb facs="#facs_23_r1l9" n="N004"/>Num. 30. De Codice magno Canonum &amp; Conci¬
+					<lb facs="#facs_23_r1l11" n="N005"/>liorum membranaceo qui nunc Romae extat.
+				Episto¬ <lb facs="#facs_23_r1l14" n="N006"/>la Zara Jacobi Regis Aethiopiae Codici
+				isti praefi¬ <lb facs="#facs_23_r1l16" n="N007"/>xa cum notis autoris. Exordium
+				illius &amp; summa <lb facs="#facs_23_r1l18" n="N008"/>Canonum. Capita sive summaria
+				vulgò Constitu¬ <lb facs="#facs_23_r1l19" n="N009"/>tionum sive statutorum
+				Apostolicorum à vulgò re¬ <lb facs="#facs_23_r1l22" n="N010"/>ceptis in Ecclesia
+				Graeca diversissimorum. Capita <lb facs="#facs_23_r1l23" n="N011"/>LVI. Canonum
+				Ecclesiasticorum, qui sunt velut E¬ <lb facs="#facs_23_r1l26" n="N012"/>pitome eorum
+				qui apud nos circumferuntur. Se¬ <lb facs="#facs_23_r1l27" n="N013"/>quuntur Statuta
+				ipsa seu potius Colloquia Aposto¬ <lb facs="#facs_23_r1l30" n="N014"/>lorum.
+				praecepta varia &amp; ritus continentia, sed tan¬ <lb facs="#facs_23_r1l32" n="N015"
+				/>tùm XXIII. Reliqua deficiunt. Sequuntur Cano¬ <lb facs="#facs_23_r1l34" n="N016"
+				/>nes Octoginta &amp; unus qui Abtelisat vocantur. De <lb facs="#facs_23_r1l36"
+					n="N017"/>significatione hujus vocis longè alia ab ea quam <lb
+					facs="#facs_23_r1l37" n="N018"/>quido Boderianus Fabe &amp; Stephanus le Moine
+				ha¬ <lb facs="#facs_23_r1l40" n="N019"/>bent. Titulus eorum Arabicus. Summa eorum,
+				inter <lb facs="#facs_23_r1l42" n="N020"/>quae tres integri exhibentur. Canones
+				Hippolyti Epi¬ <lb facs="#facs_23_r1l44" n="N021"/>scopi Romani. Canones XXXVIII.
+				qui vocantur <lb facs="#facs_23_r1l46" n="N022"/>Διδασκάλια. Alii nonnulli Canones
+				Aethiopici. <lb facs="#facs_23_r1l48" n="N023"/>Dissertatio de omnibus istis
+				Canonibus. E magna il¬ <lb facs="#facs_23_r1l50" n="N024"/>lorum diversitate in
+				Ecclesiis diversarum nationum <lb facs="#facs_23_r1l51" n="N025"/>colligitur eos
+				verè Apostolicos non esse. Trullani <lb facs="#facs_23_r1l54" n="N026"/>Patres eos
+				pro Apostolicis genuinis non agnove¬ <lb facs="#facs_23_r1l56" n="N027"/>runt,
+				quomodo verba illorum intelligenda sint. <lb facs="#facs_23_r1l57" n="N028"
+				/>Balsamonis &amp; Zenarae Glossa castigatur. Ecclesia <lb facs="#facs_23_r1l60"
+					n="N029"/>Latina Canones istos non recepit. Gratiani negli¬ <lb
+					facs="#facs_23_r1l62" n="N030"/>gentia in hac causa. Antonius Augustinus id
+				refert <lb facs="#facs_23_r1l64" n="N031"/>inter majora illius errata. Aethiopes
+				Libros Apocry¬ <lb facs="#facs_23_r1l66" n="N032"/>phos à Canonicis non discernunt.
+				Canones illos <lb facs="#facs_23_line_1613028881459_354" n="N033"/>tanquam Novellas
+				Pandectis sacris annumerant. <lb facs="#facs_23_r1l70" n="N034"/>Diversi eorum
+				fuerunt compilatores. De antiquitate <lb facs="#facs_23_line_1613028881461_356"
+					n="N035"/>eorum testimonia Alba Spinaes &amp; Georgii Calixti. <lb
+					facs="#facs_23_line_1613028881464_358" n="N036"/>Beveregii disputatio de eorum
+				antiquitate contra </p>
+			<p facs="#facs_23_TextRegion_1613028881300_348">
+				<lb facs="#facs_23_line_1613028828215_322" n="N001"/>Dallaeum. Clementem
+				Alexandrinum compilato¬ <lb facs="#facs_23_r1l5" n="N002"/>rem eorum fuisse
+				consentaneum videtur. Habessini <lb facs="#facs_23_r1l8" n="N003"/>de Apostolica
+				eorum autoritate persuasi à Pat. Soc. <lb facs="#facs_23_r1l10" n="N004"/>autoritate
+				Pontificiâ contra eos nullo modo se mo¬ <lb facs="#facs_23_r1l12" n="N005"/>veri
+				passi sunt. <lb facs="#facs_23_r1l13" n="N006"/>Num. 31. De Liturgiis Aethiopum,
+				quae pro¬ <lb facs="#facs_23_r1l15" n="N007"/>priè sunt orationes Eucharisticae
+				tempore S. Synaxis <lb facs="#facs_23_r1l17" n="N008"/>recitari solitae, quarum
+				plurimas etiam è S. Patrum <lb facs="#facs_23_r1l20" n="N009"/>Graecorum scriptis
+				habent, è quibus una Domini <lb facs="#facs_23_r1l21" n="N010"/>nostri Jesu Christi
+				dicta speciminis causa editur. <lb facs="#facs_23_r1l24" n="N011"/>Num. 32. De
+				Pseudepigraphis Apostolicis Ex in¬ <lb facs="#facs_23_r1l25" n="N012"/>scriptione
+				non semper argumentandum; ea enim <lb facs="#facs_23_r1l28" n="N013"/>non ubique
+				autorem denotat, sed alias causas habe¬ <lb facs="#facs_23_r1l29" n="N014"/>re
+				potest. Menologium Basilianum perstringitur, <lb facs="#facs_23_r1l31" n="N015"
+				/>quod dicat: Basilium M. &amp; Chrysostomum compen¬ <lb facs="#facs_23_r1l33"
+					n="N016"/>diosius fecisse scriptum quoddam ab Apostolo profe¬ <lb
+					facs="#facs_23_r1l35" n="N017"/>ctum; quasi verò id illis licitum fuisset. <lb
+					facs="#facs_23_r1l38" n="N018"/>Num. 33. De Manuscripto Aethiopico Organon <lb
+					facs="#facs_23_r1l39" n="N019"/>Dinghil id est Beatae M. Virginis dicto, ejusque
+				sty¬ <lb facs="#facs_23_r1l41" n="N020"/>lo. Exordium ejus speciminis causa
+				affertur. <lb facs="#facs_23_r1l43" n="N021"/>Num. 34. De Libro Aethiopico
+				Peireskii, Pro¬ <lb facs="#facs_23_r1l45" n="N022"/>hetia Henochi falsò credito, qui
+				extat nunc in Bi¬ <lb facs="#facs_23_r1l47" n="N023"/>bliotheca Regia Parisiensi, de
+				quo Gassendus. Ve¬ <lb facs="#facs_23_r1l49" n="N024"/>terum &amp; recentiorum
+				sententiae de Prophetia illa. <lb facs="#facs_23_r1l52" n="N025"/>Historia illius
+				manuscripti. Specimina ex eo &amp; in¬ <lb facs="#facs_23_r1l53" n="N026"/>ter ea
+				fabula insulsa de pugna Michaelis cum spiriti¬ <lb facs="#facs_23_r1l55" n="N027"
+				/>bus infernalibus, ubi putidissima Ducis eorum Set¬ <lb facs="#facs_23_r1l58"
+					n="N028"/>naelis (Diaboli) descriptio, omniumque ejus mem¬ <lb
+					facs="#facs_23_r1l59" n="N029"/>brorum immanis magnitudo. <lb
+					facs="#facs_23_r1l61" n="N030"/>Num. 35. De libellis quibusdam superstitiosis
+					<lb facs="#facs_23_r1l63" n="N031"/>apud Aethiopes repertis, cum specimine
+				monstro¬ <lb facs="#facs_23_r1l65" n="N032"/>sorum quorundam nominum è Judaeorum
+				Cabala <lb facs="#facs_23_r1l68" n="N033"/>practica, ut videtur, desumtorum.
+				Exemplum <lb facs="#facs_23_r1l69" n="N034"/>stupendum cujusdam fudae. Poloni Sator,
+				Arepo <lb facs="#facs_23_r1l72" n="N035"/>Tene: Opera Rotas, inter ea nomina reper¬
+					<lb facs="#facs_23_r1l73" n="N036"/>tum. </p>
+			<p facs="#facs_23_TextRegion_1613029027698_479">
+				<lb facs="#facs_23_r1l75" n="N001"/>Ad Lib. III. Cap. V. </p>
+			<p facs="#facs_23_TextRegion_1613029054033_485">
+				<lb facs="#facs_23_r1l77" n="N001"/>NUm. 36. Quòd Habessini S. Scripturam valdè <lb
+					facs="#facs_23_r1l79" n="N002"/>ament. &amp; nonnullos ejus libros memoriter <lb
+					facs="#facs_23_r1l81" n="N003"/>ediscant, etiam matronae; testimonio Patrum Soc.
+					<lb facs="#facs_23_r1l83" n="N004"/>Num. 37. Symbolum Fidei, quò Habessini utun¬
+					<lb facs="#facs_23_r1l85" n="N005"/>tur, profertur. De Symbolo quod nos
+				Apostolicum <lb facs="#facs_23_r1l87" n="N006"/>vocamus, disseritur. <lb
+					facs="#facs_23_r1l89" n="N007"/>Num. 38. Aethiopes Cancilium Chalcedonense da¬
+					<lb facs="#facs_23_r1l91" n="N008"/>mnant, &amp; criminosis vocabulis traducunt;
+				Loca <lb facs="#facs_23_r1l93" n="N009"/>quaedam de hac re è libris Aethiopum. <lb
+					facs="#facs_23_r1l95" n="N010"/>Num. 39. Processionem Spiritus S. à Filio
+				Aethio¬ <lb facs="#facs_23_r1l97" n="N011"/>pes cum Graecis non agnoscunt.
+				Controversia cum <lb facs="#facs_23_r1l99" n="N012"/>istis de hoc articulo in
+				Concilio Florentino agitata <lb facs="#facs_23_r1l101" n="N013"/>Gregorii Nazianzeni
+				locus. Aethiopum sententia, <lb facs="#facs_23_r1l103" n="N014"/>referente Gregorio.
+				Illi Macedonium damnant. Grae¬ <lb facs="#facs_23_r1l105" n="N015"/>ci in Latinos
+				propterea invehuntur. In mysteriis di¬ <lb facs="#facs_23_r1l107" n="N016"/>vinis
+				tutissimum cum S. S. loqui. <lb facs="#facs_23_r1l109" n="N017"/>Nnm. 40. Sententia
+				Habessinorum de statu ani¬ <lb facs="#facs_23_r1l111" n="N018"/>marum post mortem
+				hominis; Gregorii verba Aethi¬ <lb facs="#facs_23_r1l113" n="N019"/>opica de hac
+				causa. Nicol. Godigni relatio. Judaeo¬ <lb facs="#facs_23_r1l115" n="N020"/>rum
+				opinio ex eorum scriptis. <lb facs="#facs_23_r1l117" n="N021"/>Num. 41. Multos
+				veterum Latinorum censuisse <lb facs="#facs_23_r1l119" n="N022"/>visionem Dei
+				beatificam beatis ante resurrectionem <lb facs="#facs_23_r1l121" n="N023"/>mortuorum
+				non contingere. Patres allegantur. Re¬ <lb facs="#facs_23_line_1613029054188_488"
+					n="N024"/>centior viri docti sententia non quidem locum, sed </p>
+			<p facs="#facs_23_TextRegion_1613029054032_484">
+				<lb facs="#facs_23_r1l76" n="N001"/>statum tertium afferentis. Simile de somno non
+				pla¬ <lb facs="#facs_23_r1l78" n="N002"/>cet, aliud proponitur de homine in palatio
+				Regis <lb facs="#facs_23_r1l80" n="N003"/>amoenissimo constituto, ejusque favore
+				fruente, ab¬ <lb facs="#facs_23_r1l82" n="N004"/>sentibus tamen uxore &amp; liberis.
+					<lb facs="#facs_23_r1l84" n="N005"/>Num. 42. Num Habessini Purgatorium credant;
+					<lb facs="#facs_23_r1l86" n="N006"/>negatur id à Patr. Societ. Doctrinam de
+				Purgatorio &amp; <lb facs="#facs_23_r1l88" n="N007"/>preces pro defunctis originem è
+				Judaismo traxisse. <lb facs="#facs_23_r1l90" n="N008"/>Quomodo autor hoc primùm
+				cognoverit. Preces <lb facs="#facs_23_r1l92" n="N009"/>Judaeorum hoc casu adhiberi
+				solitae. De Paradiso ani¬ <lb facs="#facs_23_r1l94" n="N010"/>marum ex mente
+				veterum. Quomodo Graeci &amp; Ae¬ <lb facs="#facs_23_r1l96" n="N011"/>thiopes pro
+				defunctis orent. Ambiguitates multae <lb facs="#facs_23_r1l98" n="N012"/>hac de re.
+				De limbo Muhammedis Aaraf dicto, qui <lb facs="#facs_23_r1l100" n="N013"/>est medius
+				quidam locus inter coelum &amp; infernum. <lb facs="#facs_23_r1l102" n="N014"
+				/>Limbum Patrum Aethiopes agnoscunt. <lb facs="#facs_23_r1l104" n="N015"/>Num. 43.
+				De Nomenclatione Martyrum ex Dip¬ <lb facs="#facs_23_r1l106" n="N016"/>tychis, quid
+				hoc sit. <lb facs="#facs_23_r1l108" n="N017"/>Num. 44. De origine invocationis
+				Sanctorum De¬ <lb facs="#facs_23_r1l110" n="N018"/>functos multo honore afficiendos
+				esse Judaei docent, <lb facs="#facs_23_r1l112" n="N019"/>illos enim omnia nosse,
+				quae in mundo fiunt contra <lb facs="#facs_23_r1l114" n="N020"/>lictum Esaiae 63.
+				16. Ab honorifica memoria ventum ad <lb facs="#facs_23_r1l116" n="N021"
+				/>invocationem, tandem ad cultum &amp; divinos honores. <lb facs="#facs_23_r1l118"
+					n="N022"/>Num. 45. De cultu S. Mariae Virginis apud Ha¬ <lb
+					facs="#facs_23_r1l120" n="N023"/>bessinos in excessu: inde saevitia in Romanos,
+				quasi <lb facs="#facs_23_r1l122" n="N024"/>isti peccarent in defectu; Causam reddit
+				P. Telle¬ <lb facs="#facs_23_r1l124" n="N025"/>zius </p>
+			<pb facs="#facs_24" n="24"/>
+			<p facs="#facs_24_TextRegion_1613029173009_553">
+				<lb facs="#facs_24_line_1613029173224_558" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_24_TextRegion_1613029204562_580">
+				<lb facs="#facs_24_line_1613029173226_559" n="N001"/>zius &amp; meritò indignatur.
+				Autori non videtur, quòd <lb facs="#facs_24_r1l6" n="N002"/>Habessini plus laudis
+				aut cultus tribuant sanctissimae <lb facs="#facs_24_line_1613029204712_585" n="N003"
+				/>Virgini, quàm Ecclesia Romana, idque exemplis &amp; <lb facs="#facs_24_r1l10"
+					n="N004"/>scriptis variis demonstratur, inprimis Psalterio Ma¬ <lb
+					facs="#facs_24_r1l11" n="N005"/>riae. Habessini carminicè beatissimam Virginem
+				ab <lb facs="#facs_24_r1l14" n="N006"/>omnibus membris corporis laudant, &amp; in
+				Ecclesia <lb facs="#facs_24_r1l16" n="N007"/>Romana id tantùm reperitur in Prosa. In
+				libro quo¬ <lb facs="#facs_24_r1l17" n="N008"/>dam veteri Anno 1512. Dresdae
+				impresso vocatur <lb facs="#facs_24_r1l19" n="N009"/>Magna Dea. </p>
+			<p facs="#facs_24_TextRegion_1613029204562_579">
+				<lb facs="#facs_24_line_1613029173228_561" n="N001"/>Num. 46. Quod etiam Angelos
+				invocare sole¬ <lb facs="#facs_24_r1l5" n="N002"/>ant. Judaei omnibus rebus etiam
+				minimis attribuunt <lb facs="#facs_24_r1l7" n="N003"/>Angelos Tutelares. Michaelem
+				Archangelum ma¬ <lb facs="#facs_24_r1l9" n="N004"/>ximè venerantur Aethiopes.
+				Angelorum ordines apud <lb facs="#facs_24_r1l12" n="N005"/>Graecos tres: Apud
+				Aethiopes novem. <lb facs="#facs_24_r1l13" n="N006"/>Num. 47. Similitudine Solis SS.
+				Trinitatem ad¬ <lb facs="#facs_24_r1l15" n="N007"/>umbrante Sabelliani abusi
+				fuerunt. Habessini tria <lb facs="#facs_24_r1l18" n="N008"/>nomina dicunt pro tribus
+				personis, cùm tamen hac <lb facs="#facs_24_r1l20" n="N009"/>in parte sint Orthodoxi. </p>
+			<p facs="#facs_24_TextRegion_1613029293934_631">
+				<lb facs="#facs_24_line_1613029294084_634" n="N001"/>Ad Lib. III. Cap. VI. </p>
+			<p facs="#facs_24_TextRegion_1613029335548_650">
+				<lb facs="#facs_24_line_1613029335713_653" n="N001"/>NUm. 48. Ab esu sangninis &amp;
+				suffocatorum Ori¬ <lb facs="#facs_24_r1l25" n="N002"/>entales abstinent; Decretum
+				Apostolicum pro <lb facs="#facs_24_r1l27" n="N003"/>perpetuo habentes. Occidentales
+				id rectiùs tempora¬ <lb facs="#facs_24_r1l29" n="N004"/>le censent. Sunt qui
+				praeceptum primaevum urgeant, <lb facs="#facs_24_r1l31" n="N005"/>cùm tamen nullam
+				contineat rationem mora¬ <lb facs="#facs_24_r1l34" n="N006"/>lem. <lb
+					facs="#facs_24_r1l35" n="N007"/>Num. 49. De Ritibus antiquis plurimis à Judaei:
+					<lb facs="#facs_24_r1l37" n="N008"/>derivatis. Regula proponitur: Mos vel ritus
+				Ju¬ <lb facs="#facs_24_r1l39" n="N009"/>daeis &amp; Christianis communis, illis
+				potius quàm his <lb facs="#facs_24_r1l41" n="N010"/>originem suam debet, quòd hi ab
+				illis multos: illi vero <lb facs="#facs_24_r1l43" n="N011"/>viceversa ab his nullos
+				mutuati sint, id rationibus de¬ <lb facs="#facs_24_r1l45" n="N012"/>monstratur. Cur
+				multi antiqui ritus vocentur Apo¬ <lb facs="#facs_24_r1l47" n="N013"/>stolici.
+				Structura antiquarum Ecclesiarum ad for¬ <lb facs="#facs_24_r1l49" n="N014"/>mam
+				templi Hierosolymitani facta, tribus constabat <lb facs="#facs_24_r1l51" n="N015"
+				/>partibus. Beveregii &amp; Cardinalis Bonae egregia te¬ <lb facs="#facs_24_r1l53"
+					n="N016"/>stimonia. Encaenia seu Dedicationes earum. Situs. <lb
+					facs="#facs_24_r1l55" n="N017"/>Discretio foeminarum à viris. Vestes. Candelae.
+					<lb facs="#facs_24_r1l57" n="N018"/>Thus. Ornatus. Munera ad altare. Hymni.
+				Festa <lb facs="#facs_24_r1l59" n="N019"/>tria maxima. Festum Paschatis &amp;
+				Sabbata cum Ju¬ <lb facs="#facs_24_r1l61" n="N020"/>daeis in Oriente celebrata.
+				Exultatio in Aethiopum <lb facs="#facs_24_r1l63" n="N021"/>templis. Baptismus pro
+				initiatione receptus univer¬ <lb facs="#facs_24_r1l65" n="N022"/>sae familiae,
+				adeoque &amp; infantium. Confessio pecca <lb facs="#facs_24_r1l67" n="N023"/>torum.
+				Flagellatio. Jejunia. Benedictio sacerdota¬ <lb facs="#facs_24_r1l69" n="N024"/>lis
+				novorum sponsorum ante portam Ecclesiae, <lb facs="#facs_24_r1l72" n="N025"/>quorum
+				aliorumque sacrorum rituum vestigia a¬ <lb facs="#facs_24_r1l74" n="N026"/>pud
+				Judaeos &amp; olim &amp; hodienum reperiuntur. <lb facs="#facs_24_r1l76" n="N027"
+				/>Dogmara etiam nonnulla, veluti suptâ de invoca¬ <lb facs="#facs_24_r1l78" n="N028"
+				/>tione Angelorum, &amp; oratione pro mortuis indicavi¬ <lb facs="#facs_24_r1l80"
+					n="N029"/>mus, originem inde traxisse videntur. Principium <lb
+					facs="#facs_24_r1l82" n="N030"/>anni Orientales cum Judaeis in Autumno ordiun¬
+					<lb facs="#facs_24_r1l84" n="N031"/>tur. De progressu talium rituum in Ecclesia
+				Chri¬ <lb facs="#facs_24_r1l86" n="N032"/>stiana, eorumque usu &amp; abusu. <lb
+					facs="#facs_24_r1l88" n="N033"/>Num. 50. Ichnographia templi Aethiopici ex <lb
+					facs="#facs_24_r1l90" n="N034"/>Alvarezio: Graci ex Beveregio. Synagoga Judaica
+					<lb facs="#facs_24_r1l93" n="N035"/>Lusitanorum Amstelodami. <lb
+					facs="#facs_24_r1l95" n="N036"/>Num. 51. De adyto veterum in templis Christia¬
+					<lb facs="#facs_24_r1l97" n="N037"/>norum. Historia S. Ambrosii Theodosium è
+				pene¬ <lb facs="#facs_24_r1l99" n="N038"/>trali exiro jubentis ex Theodoreto &amp;
+				Baronio. Fa¬ <lb facs="#facs_24_r1l103" n="N039"/>ctum hoc sugillaverunt Graeci.
+				Graecum θυσια¬ <lb facs="#facs_24_r1l105" n="N040"/>στύριον incongruè reddi Altare.
+					<lb facs="#facs_24_r1l108" n="N041"/>Num. 52. De imaginum cultu. Differentia
+				soli¬ <lb facs="#facs_24_r1l109" n="N042"/>darum &amp; pictarum ab Orientalibus
+				observata à Ju¬ <lb facs="#facs_24_r1l111" n="N043"/>daeis etiam originem trahit; de
+				iis Maimonidis di¬ <lb facs="#facs_24_r1l113" n="N044"/>ctum. Habessini excedentibus
+				Patribus Societatis <lb facs="#facs_24_r1l115" n="N045"/>omnia Sanctorum signa,
+				solida etiam B. M. Virgi¬ <lb facs="#facs_24_r1l117" n="N046"/>nis, quàm adeò amant,
+				confregerunt. Leonis Allatii <lb facs="#facs_24_r1l119" n="N047"/>inanis pugna cum
+				Nicolao Hydruntino Graeco de <lb facs="#facs_24_r1l121" n="N048"/>cultu imaginum.
+				Attamen Habessini Crucem nudam <lb facs="#facs_24_r1l123" n="N049"/>non depictam
+				modò, sed &amp; è quavis materia soli¬ <lb facs="#facs_24_r1l125" n="N050"/>dam
+				venerantur. </p>
+			<p facs="#facs_24_TextRegion_1613029335547_649">
+				<lb facs="#facs_24_line_1613029294086_635" n="N001"/>Num. 53. De Eucharistia
+				infantium apud Grae¬ <lb facs="#facs_24_r1l26" n="N002"/>cos Aethiopes aliosque
+				orientales Christianos usita¬ <lb facs="#facs_24_r1l28" n="N003"/>ta, quo fundamento
+				id fiat. Discrepant autores de <lb facs="#facs_24_r1l30" n="N004"/>utraque specie:
+				an &amp; quomodo infantibus porri¬ <lb facs="#facs_24_r1l32" n="N005"/>gatur. <lb
+					facs="#facs_24_r1l33" n="N006"/>Num. 54. De tempore &amp; festo Baptismi
+				Christi. Fe¬ <lb facs="#facs_24_r1l36" n="N007"/>stum hoc Epiphania &amp; Theophania
+				à Graecis vocatur, <lb facs="#facs_24_r1l38" n="N008"/>eoque indicatur apparitio SS.
+				Trinitatis, atque hoc <lb facs="#facs_24_r1l40" n="N009"/>festum in Oriente diu ante
+				notum, quàm lectio de <lb facs="#facs_24_r1l42" n="N010"/>Magis in Occidente huic
+				festo attributa fuisset. In <lb facs="#facs_24_r1l44" n="N011"/>Aethiopia celebratur
+				die XI. Januarii, qui nobis <lb facs="#facs_24_r1l46" n="N012"/>idem dies, &amp;
+				quidem VI. illius mensis est. <lb facs="#facs_24_r1l48" n="N013"/>Num. 55. De lapsis
+				post Baptismum, &amp; confessione <lb facs="#facs_24_r1l50" n="N014"/>peccatorum
+				publica. Aethiopes cum Ecclesia Ca¬ <lb facs="#facs_24_r1l52" n="N015"/>tholica
+				faciunt contra Novatum. Judai confessionem <lb facs="#facs_24_r1l54" n="N016"
+				/>peccatorum à poenitentibus exigunt, &amp; specialem <lb facs="#facs_24_r1l56"
+					n="N017"/>commendant. Ad quam Habessini aegrè compelli <lb facs="#facs_24_r1l58"
+					n="N018"/>potuerunt. <lb facs="#facs_24_r1l60" n="N019"/>Num. 56. De more
+				absolvendi peccatorem ictu <lb facs="#facs_24_r1l62" n="N020"/>vitis oleagineae.
+				Romani prisci levi ferulae ictu ser¬ <lb facs="#facs_24_r1l64" n="N021"/>vos
+				manumittebant, unde fortassis mos iste in¬ <lb facs="#facs_24_r1l66" n="N022"
+				/>olevit. <lb facs="#facs_24_r1l68" n="N023"/>Num. 57. De sacra mensa Aethiopum, in
+				qua <lb facs="#facs_24_r1l71" n="N024"/>Eucharistiam peragunt, variis cognomentis
+				more <lb facs="#facs_24_r1l73" n="N025"/>Graecorum eam condecorant. <lb
+					facs="#facs_24_r1l75" n="N026"/>Additio. De mensis lunaribus Aringi. <lb
+					facs="#facs_24_r1l77" n="N027"/>Cur Aethiopes suam Tabellam Eucharisticam, qui
+					<lb facs="#facs_24_r1l79" n="N028"/>Latinis est Lapis sacratus, Arcam appellent;
+				auto¬ <lb facs="#facs_24_r1l81" n="N029"/>ris conjectura. Altaria seu potius mensas
+				sacras <lb facs="#facs_24_r1l83" n="N030"/>veterum Christianorum formam arcarum
+				habuisse, <lb facs="#facs_24_r1l85" n="N031"/>testimonio Thuani, Gabrielis Biel, B.
+				Tellezii. Fi¬ <lb facs="#facs_24_r1l87" n="N032"/>guram, quam Aringus nobis
+				repraesentat, pro tali <lb facs="#facs_24_r1l89" n="N033"/>arca haberi.
+				Objectionibus respondetur; <lb facs="#facs_24_r1l92" n="N034"/>I. Non esse coenam
+				aliquam Platonicam maci¬ <lb facs="#facs_24_r1l94" n="N035"/>lentam. <lb
+					facs="#facs_24_r1l96" n="N036"/>2. Neque convivium voluptuosum in mensa fer¬ <lb
+					facs="#facs_24_r1l98" n="N037"/>culis vacua <lb facs="#facs_24_r1l101" n="N038"
+				/>3. Neque convivium charitativum, id est, <lb facs="#facs_24_r1l104" n="N039"
+				/>Agapae. <lb facs="#facs_24_r1l106" n="N040"/>4. Nec frugalitas alicujus hominis
+				singularis. <lb facs="#facs_24_r1l110" n="N041"/>5. Nec monumentum servi alicujus
+				fidelis. <lb facs="#facs_24_r1l112" n="N042"/>6. Nec ullam ex gestibus argumentum
+				desumi <lb facs="#facs_24_r1l114" n="N043"/>posse. <lb facs="#facs_24_r1l116"
+					n="N044"/>7. Nec obstat, quod Burnetus scribat, Sepul¬ <lb
+					facs="#facs_24_r1l118" n="N045"/>chreta servorum fuisse, ubi Sarcophagi isti
+				Romae <lb facs="#facs_24_r1l120" n="N046"/>effodiuntur. <lb facs="#facs_24_r1l122"
+					n="N047"/>8. Tabula quidem mappâ constrata est, sed sig¬ <lb
+					facs="#facs_24_r1l124" n="N048"/>mati hîc non est locus. <lb
+					facs="#facs_24_r1l126" n="N049"/>9. Plicae aliter cecidissent in mappa Sigmatis.
+					<lb facs="#facs_24_r1l127" n="N050"/>10. Sig¬ </p>
+			<pb facs="#facs_25" n="25"/>
+			<p facs="#facs_25_TextRegion_1613029768906_824">
+				<lb facs="#facs_25_line_1613029769089_827" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_25_TextRegion_1613029809321_847">
+				<lb facs="#facs_25_r1l4" n="N001"/>10. Sigmati plures assidebant convivae. <lb
+					facs="#facs_25_r1l6" n="N002"/>11. Latitudo non est major loculo solito. <lb
+					facs="#facs_25_line_1613029809475_854" n="N003"/>12. Panes decussati sine aliis
+				ferculis arguunt <lb facs="#facs_25_r1l10" n="N004"/>Eucharistiam. <lb
+					facs="#facs_25_r1l12" n="N005"/>13. Quo tempore talis sculptura facta videatur
+					<lb facs="#facs_25_r1l14" n="N006"/>Num. 58. Vini defectus in Eucharistia apud
+				Au¬ <lb facs="#facs_25_r1l16" n="N007"/>strales Christianos resarcitur uvae passae
+				aquâ mace¬ <lb facs="#facs_25_r1l18" n="N008"/>ratae expressione. Julius Papa succum
+				botri in ca¬ <lb facs="#facs_25_r1l20" n="N009"/>lice expressi aquâ mixtum
+				permittit. <lb facs="#facs_25_r1l22" n="N010"/>Additio. De Communione Aethiopum sub
+					<lb facs="#facs_25_r1l24" n="N011"/>utraque testimonio Alvarezii, &amp; Patrum
+				Societatis <lb facs="#facs_25_r1l26" n="N012"/>in genere. Holstenius aliter ad
+				Nihusium scribens <lb facs="#facs_25_r1l28" n="N013"/>malè informatus fuit; cur id
+				factum: <lb facs="#facs_25_r1l30" n="N014"/>Num. 59. De diptychis Veterum; Confer
+				su¬ <lb facs="#facs_25_r1l32" n="N015"/>pra num. 43. Nomina in illis contenta. <lb
+					facs="#facs_25_r1l34" n="N016"/>Num. 60. De muneribus, quae ad penetrale apud
+					<lb facs="#facs_25_r1l36" n="N017"/>Aethiopes afferuntur, qualia fuerint.
+				Lepidum mu¬ <lb facs="#facs_25_r1l38" n="N018"/>nusculum pauperis vetulae
+				Aethiopissae, quae, ne va¬ <lb facs="#facs_25_r1l40" n="N019"/>cua veniret, parvum
+				felem ad altare attulit, capien¬ <lb facs="#facs_25_r1l42" n="N020"/>dis Ecclesiae
+				muribus. <lb facs="#facs_25_r1l44" n="N021"/>Num. 61. De veterum Aegyptiorum ritu
+				sistra &amp; <lb facs="#facs_25_r1l46" n="N022"/>crepitacula inter sacra pulsandi,
+				hinc fortè idem mos <lb facs="#facs_25_r1l48" n="N023"/>apud Aethiopes. Describitur
+				ex Führeri itinerario. <lb facs="#facs_25_r1l50" n="N024"/>Num. 62. De tripudiis in
+				cultu sacro apud Ae¬ <lb facs="#facs_25_r1l52" n="N025"/>thiopes usitatis,
+				describitur ex itinerariis; quomo¬ <lb facs="#facs_25_r1l54" n="N026"/>do id
+				defendant. Quid illis objici possit. Bαλλίζζειν <lb facs="#facs_25_r1l56" n="N027"
+				/>quid? Mos similis judaeorum. <lb facs="#facs_25_r1l58" n="N028"/>Num. 63. De
+				rigidissimis Habessinorum jeju¬ <lb facs="#facs_25_r1l60" n="N029"/>niis. usque ad
+				Occasum Solis more Judaeorum. De <lb facs="#facs_25_r1l63" n="N030"/>iis Patrum
+				Societatis judicia. <lb facs="#facs_25_r1l65" n="N031"/>Num. 64. De diebus jejunii
+				hebdomadariis Ju¬ <lb facs="#facs_25_r1l67" n="N032"/>daeorum, qui à Christianis in
+				alios dies promoti; <lb facs="#facs_25_r1l69" n="N033"/>Falsae hujus rei rationes.
+				Habessini veterem jeju¬ <lb facs="#facs_25_r1l71" n="N034"/>nandi modum observant.
+				De jejunio quadragesi¬ <lb facs="#facs_25_r1l73" n="N035"/>mali magno, quando olim
+				coeperit, quomodo <lb facs="#facs_25_r1l75" n="N036"/>postea promotum fuerit;
+				Discrepantia Ecclesiarum <lb facs="#facs_25_r1l77" n="N037"/>Orientis &amp;
+				Occidentis; Graecorum &amp; Ruthenorum <lb facs="#facs_25_r1l79" n="N038"
+				/>Quadragessimae. Olearii error in itinerario. <lb facs="#facs_25_r1l82" n="N039"
+				/>Num. 65. De Pentecoste sive tempore medio in¬ </p>
+			<p facs="#facs_25_TextRegion_1613029809321_846">
+				<lb facs="#facs_25_r1l3" n="N001"/>ter Pascha &amp; festum Pentecostes, quo omnia
+				jejunia <lb facs="#facs_25_r1l5" n="N002"/>cessant; Cessabunt etiam ex mente
+				Judaeorum post <lb facs="#facs_25_r1l7" n="N003"/>adventùm Messiae, quia tunc
+				cessabit omnis tristi¬ <lb facs="#facs_25_r1l9" n="N004"/>tia. <lb
+					facs="#facs_25_r1l11" n="N005"/>Num. 66. De Calendario Aethiopum. Brevis <lb
+					facs="#facs_25_r1l13" n="N006"/>Computus Ecclesiae Aethiopicae praemittitur.
+				Difficul¬ <lb facs="#facs_25_r1l15" n="N007"/>tates illius. Discrepantia ipsorum
+				Aethiopum in <lb facs="#facs_25_r1l17" n="N008"/>annis Mundi. Sequitur Menologium
+				Aethiopum <lb facs="#facs_25_r1l19" n="N009"/>per XII. menses cum festis &amp;
+				nominibus Sanctorum <lb facs="#facs_25_r1l21" n="N010"/>Aethiopiae. Dies Calendarii
+				Juliani &amp; Aethiopici <lb facs="#facs_25_r1l23" n="N011"/>ubique conferuntur,
+				additis Coptitarum Sanctis ex <lb facs="#facs_25_r1l25" n="N012"/>Seldeni libro de
+				Synedriis veterum Hebraeorum; <lb facs="#facs_25_r1l27" n="N013"/>Cujus Calendarium,
+				mendis scatens, innumeris in <lb facs="#facs_25_r1l29" n="N014"/>locis castigatur.
+				Disseritur de anno &amp; mensibus Ae¬ <lb facs="#facs_25_r1l31" n="N015"/>thiopum,
+				&amp; de antiquitate festorum quorundam <lb facs="#facs_25_r1l33" n="N016"
+				/>catholica. Quo initio sensim ad Synaxaria &amp; fastos <lb facs="#facs_25_r1l35"
+					n="N017"/>Sanctorum, prout nunc sunt, perventum fuerit, <lb
+					facs="#facs_25_r1l37" n="N018"/>quos deinde quaelibet Ecclesia Sanctis suis pro
+				lu¬ <lb facs="#facs_25_r1l39" n="N019"/>bitu auxit. <lb facs="#facs_25_r1l41"
+					n="N020"/>Num. 67. De Epagomenis Aethiopum, eorum¬ <lb facs="#facs_25_r1l43"
+					n="N021"/>que primordio ab Aegyptiis, de quorum usu ex <lb facs="#facs_25_r1l45"
+					n="N022"/>Kirchero; Nissi Copticè dicuntur. Mensium nomina <lb
+					facs="#facs_25_r1l47" n="N023"/>apud Aethiopes peregrina sunt, cujus linguae
+				incer¬ <lb facs="#facs_25_r1l49" n="N024"/>tum. Epactarum inventionem Alexandrinis
+				deberi <lb facs="#facs_25_r1l51" n="N025"/>Scaliger noverat, autorem ignorabat. Is
+				fuit De¬ <lb facs="#facs_25_r1l53" n="N026"/>metrius Patriarcha, testibus Coptitis
+				&amp; Aethio¬ <lb facs="#facs_25_r1l55" n="N027"/>pibus. <lb facs="#facs_25_r1l57"
+					n="N028"/>Num. 68. De diebus Evangelistarum, quibus Ae¬ <lb
+					facs="#facs_25_r1l59" n="N029"/>thiopes quaternos annos designare solent. <lb
+					facs="#facs_25_r1l62" n="N030"/>Num. 69. Deritibus nuptialibus Habessinorum; <lb
+					facs="#facs_25_r1l64" n="N031"/>quos Alvarezius retulit universales, non
+				fuerunt. <lb facs="#facs_25_r1l66" n="N032"/>Num. 70. De polygamia Jure sacro
+				Habessino¬ <lb facs="#facs_25_r1l68" n="N033"/>rum illicita testimonio Gregorii. <lb
+					facs="#facs_25_r1l70" n="N034"/>Num. 71. De copulatione conjugum ante fores <lb
+					facs="#facs_25_r1l72" n="N035"/>templi more Christianorum antiquissimo, Judaeis
+					<lb facs="#facs_25_r1l74" n="N036"/>primùm usitato. <lb facs="#facs_25_r1l76"
+					n="N037"/>Num. 72. De divortiis inter Habeßinos creber¬ <lb
+					facs="#facs_25_r1l78" n="N038"/>rimis; Gregorii de iis narratio. <lb
+					facs="#facs_25_r1l80" n="N039"/>Num. 73. De sepultura Aethiopum Gregorii <lb
+					facs="#facs_25_r1l81" n="N040"/>relatio. </p>
+			<p facs="#facs_25_TextRegion_1613030012558_987">
+				<lb facs="#facs_25_line_1613030012680_990" n="N001"/>Ad Lib. III. Cap. VII. </p>
+			<p facs="#facs_25_TextRegion_1613030059944_1006">
+				<lb facs="#facs_25_r1l84" n="N001"/>NUm. 74. Nullam fori immunitatem habent <lb
+					facs="#facs_25_r1l86" n="N002"/>Clerici Aethiopum. Tellezii elegans invectiva.
+					<lb facs="#facs_25_r1l89" n="N003"/>Gregoris de hac causa responsio. <lb
+					facs="#facs_25_r1l90" n="N004"/>Num. 75. De electione Metropolitarum Aethio¬ <lb
+					facs="#facs_25_r1l92" n="N005"/>piae; falsa quaedam refutantur. Num olim
+				Catholici <lb facs="#facs_25_r1l95" n="N006"/>fuerint. Tellezii opinio, quae
+				dependet de causa <lb facs="#facs_25_r1l97" n="N007"/>principali. <lb
+					facs="#facs_25_r1l98" n="N008"/>Num. 76. De Metropolita Aethiopum, cujus <lb
+					facs="#facs_25_r1l101" n="N009"/>mentio fit in Canonibus Apocryphis Nicaenis.
+				Baro¬ <lb facs="#facs_25_r1l102" n="N010"/>nius istos pro somniis habet. Aethiopes
+				verò illos <lb facs="#facs_25_r1l105" n="N011"/>habent &amp; admittunt, alioquin
+				antiqui moris tena¬ <lb facs="#facs_25_r1l107" n="N012"/>cissimi. <lb
+					facs="#facs_25_r1l109" n="N013"/>Num. 77. De antiqua Aegyptiaca lingua, quàm <lb
+					facs="#facs_25_r1l110" n="N014"/>Kircherus Graecae affinem praedicat, sed ob id
+				à viris <lb facs="#facs_25_r1l113" n="N015"/>doctis reprehenditur, quia naturalium
+				rerum ap¬ <lb facs="#facs_25_r1l114" n="N016"/>pellationes cum Graecis minimè
+				conveniunt; Cae¬ <lb facs="#facs_25_r1l116" n="N017"/>tera vocabula cum dominio
+				Graecorum fuerunt in¬ <lb facs="#facs_25_r1l119" n="N018"/>vecta, ut Bachartus rectè
+				docet. Lingua Coptica </p>
+			<p facs="#facs_25_TextRegion_1613030059944_1005">
+				<lb facs="#facs_25_r1l85" n="N001"/>in usu loquendi diu esse desiit, vix in ipsa
+				Aegypto <lb facs="#facs_25_r1l87" n="N002"/>hodiè ampliùs intelligitur. <lb
+					facs="#facs_25_r1l88" n="N003"/>Num. 78. Nullum dari Archiepiscopum in Ae¬ <lb
+					facs="#facs_25_r1l91" n="N004"/>thiopia praeter Abbunam, &amp; nullos planè
+				Episco¬ <lb facs="#facs_25_r1l93" n="N005"/>pos. <lb facs="#facs_25_r1l94" n="N006"
+				/>Num. 79. De quatuor Patriarchis Oecumenicis, <lb facs="#facs_25_r1l96" n="N007"
+				/>&amp; quare Aethiopes quintum scil. Hierosolymitanum <lb facs="#facs_25_r1l99"
+					n="N008"/>non agnoscant; quomodo iste Patriarcha factus fu¬ <lb
+					facs="#facs_25_r1l100" n="N009"/>erit. Oecumenicus Patriarcha quid sigifificet.
+					<lb facs="#facs_25_r1l103" n="N010"/>Num. 80. De Appellatione Patriarcharum <lb
+					facs="#facs_25_r1l104" n="N011"/>Ecclesiae, &amp; unde nomen Papa ortum
+				habuerit. <lb facs="#facs_25_r1l106" n="N012"/>Pappas Graecè Patrem significat.
+				Certamina inter <lb facs="#facs_25_r1l108" n="N013"/>homines de nominum
+				praerogativa. Patriarcha <lb facs="#facs_25_r1l111" n="N014"/>olim ab Archiepiscopo
+				non differebat. De successu &amp; <lb facs="#facs_25_r1l112" n="N015"/>progressu
+				Hierarchicorum vocabulorum. <lb facs="#facs_25_r1l115" n="N016"/>Num. 81. De
+				Diaconissis Veterum; Unde ori <lb facs="#facs_25_r1l117" n="N017"/>ginem habuerint,
+				earumque in veteri Ecclesia usu &amp; <lb facs="#facs_25_r1l118" n="N018"/>officiis.
+					<lb facs="#facs_25_r1l120" n="N019"/>Num. 82. </p>
+			<pb facs="#facs_26" n="26"/>
+			<p facs="#facs_26_TextRegion_1614333493150_777">
+				<lb facs="#facs_26_r1l2" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_26_TextRegion_1614333518128_790">
+				<lb facs="#facs_26_r1l4" n="N001"/>Num. 82. De conjugio Clericorum; id olim <lb
+					facs="#facs_26_r1l6" n="N002"/>liberrimum fuisse, dubio omni caret. Idem apud
+					<lb facs="#facs_26_r1l7" n="N003"/>Aethiopes in viridi est observantia. Exemplum
+					<lb facs="#facs_26_r1l9" n="N004"/>Demetrii Patriarchae Alexandrini. Baronius A¬
+					<lb facs="#facs_26_r1l11" n="N005"/>postolicam quidem traditionem praetexit, sed
+				In¬ <lb facs="#facs_26_r1l13" n="N006"/>nocentius I. Papa prisci moris corrector de
+				ea silet. <lb facs="#facs_26_r1l15" n="N007"/>Argumentum à sanctitate populi
+				Israëlitici contra <lb facs="#facs_26_r1l17" n="N008"/>conjugia Sacerdotum non
+				stringit. <lb facs="#facs_26_r1l19" n="N009"/>Num. 83. Quòd Clericis in orientali
+				Ecclesia <lb facs="#facs_26_r1l21" n="N010"/>matrimonia permittantur, exemplo
+				Coptorum, Ae¬ <lb facs="#facs_26_r1l23" n="N011"/>thiopum, Armeniorum, Graecorum,
+				Ruthenorum, <lb facs="#facs_26_r1l25" n="N012"/>testibus autoribus, quorum verba
+				allegantur. Ca¬ <lb facs="#facs_26_r1l27" n="N013"/>non quartus Concilii Gangrensis
+				in voce γιγαμη¬ <lb facs="#facs_26_r1l28" n="N014"/>κό[τος] contra Dionysium exiguum
+				exponitur ex So¬ <lb facs="#facs_26_line_1614333508685_787" n="N015"/>crate. </p>
+			<p facs="#facs_26_TextRegion_1614333518128_789">
+				<lb facs="#facs_26_r1l3" n="N001"/>Num. 84. Quòd nuptiae secundae Orientalibus <lb
+					facs="#facs_26_r1l5" n="N002"/>invisae sint. Cur matrimonia Clericorum in veteri
+					<lb facs="#facs_26_r1l8" n="N003"/>Ecclesia adeò fuerint restricta. Coelibatus
+				Eccle¬ <lb facs="#facs_26_r1l10" n="N004"/>siâ pressâ necessarius, pacatâ mansit.
+					<lb facs="#facs_26_r1l12" n="N005"/>Num. 85. Patros Graeci secunda vota iniquis¬
+					<lb facs="#facs_26_r1l14" n="N006"/>simè traduxerunt. Inter Latinos omnium
+				iniquis¬ <lb facs="#facs_26_r1l16" n="N007"/>simus est Tertullianus, propterea ab
+				Augustino me¬ <lb facs="#facs_26_r1l18" n="N008"/>ritò reprehenditur. <lb
+					facs="#facs_26_r1l20" n="N009"/>Num. 86. De foemina Romana, quae virum vi¬ <lb
+					facs="#facs_26_r1l22" n="N010"/>gesimo secundo matrimonio vicit ex Hieronymi
+				epi¬ <lb facs="#facs_26_r1l24" n="N011"/>stola ad Gerontium. <lb
+					facs="#facs_26_r1l26" n="N012"/>Num. 87. Bis mariti in Oriente sacris ordini¬
+					<lb facs="#facs_26_r1l29" n="N013"/>bus non ordinantur; Canon ea de re. </p>
+			<p facs="#facs_26_TextRegion_1614333530282_795">
+				<lb facs="#facs_26_r1l31" n="N001"/>Ad Lib. III. Cap. VIII. </p>
+			<p facs="#facs_26_TextRegion_1614333553752_802">
+				<lb facs="#facs_26_line_1614333530599_797" n="N001"/>NUm. 88. De Schismate Concilii
+				Chalcedo¬ <lb facs="#facs_26_r1l35" n="N002"/>nensis. In controversia tunc inter
+				partes agi¬ <lb facs="#facs_26_r1l37" n="N003"/>tata mirè variatum fuit. Eutychetis
+				opinio, qui¬ <lb facs="#facs_26_r1l38" n="N004"/>bus verbis communiter referatur.
+				Acta cum eo <lb facs="#facs_26_r1l40" n="N005"/>ex Baronio referuntur. Flaviani
+				epistolae de hac <lb facs="#facs_26_r1l42" n="N006"/>causa ad Leonem Papam. Istius
+				responsio veram <lb facs="#facs_26_r1l44" n="N007"/>Eutychetis haeresin primò
+				declarat: deinde gra¬ <lb facs="#facs_26_r1l46" n="N008"/>vem dubitandi causam
+				suppeditat, verba Euty¬ <lb facs="#facs_26_r1l48" n="N009"/>chetis absurdissima ita
+				non jacta fuisse prout illi <lb facs="#facs_26_r1l50" n="N010"/>vulgò imputantur.
+				Rationes dubitandi afferun¬ <lb facs="#facs_26_r1l52" n="N011"/>tur ex actis, &amp;
+				Flaviani epistolâ ad S. Leonem, <lb facs="#facs_26_r1l54" n="N012"/>atque istius
+				responsione solidissimâ. Vera Jaco_ <lb facs="#facs_26_r1l56" n="N013"/>bitarum
+				sententia ex colloquio Theoriani Graeci <lb facs="#facs_26_r1l58" n="N014"/>cum
+				Armeniorum Catholico, id est Patriarcha <lb facs="#facs_26_r1l60" n="N015"
+				/>Jacobitico. Verba S. Cyrilli de hac re. Simi¬ <lb facs="#facs_26_r1l61" n="N016"
+				/>lis disputatio Patrum Societatis cum quodam mo¬ <lb facs="#facs_26_r1l63" n="N017"
+				/>nacho Aethiope Jacobita. Aethiopum verba Ae¬ <lb facs="#facs_26_r1l65" n="N018"
+				/>thiopica de hac causa. Nullam differentiam fa¬ <lb facs="#facs_26_r1l67" n="N019"
+				/>ciunt inter abstractum &amp; concretum, unde hoc <lb facs="#facs_26_r1l69"
+					n="N020"/>veniat. Decretum concilii Chalcedonensis, modo <lb
+					facs="#facs_26_r1l71" n="N021"/>nomen hoc reticeas, subscripturi essent Aethi¬
+					<lb facs="#facs_26_r1l73" n="N022"/>opes; Ideò Eutychiani non sunt. Coptitarum
+					<lb facs="#facs_26_r1l74" n="N023"/>sententia. Abulbaracatus autor Arabicus ma¬
+					<lb facs="#facs_26_r1l76" n="N024"/>nuscriptus malè de hac controversia
+				disputat. <lb facs="#facs_26_r1l78" n="N025"/>Aequivocatio latet in vocabulo
+				naturae, quae ge¬ <lb facs="#facs_26_r1l80" n="N026"/>netrix est horum errorum. De
+				Communicatio¬ <lb facs="#facs_26_r1l82" n="N027"/>ne idiomagum in persona Christi;
+				Veteres non <lb facs="#facs_26_r1l85" n="N028"/>semper cautè locuti sunt; exempla in
+				voca¬ <lb facs="#facs_26_r1l87" n="N029"/>bulis Theotocos &amp; Theopaschita, primum
+				pro¬ <lb facs="#facs_26_r1l89" n="N030"/>batur: alterum reprobatur, &amp; tamen in
+				Chri¬ <lb facs="#facs_26_r1l91" n="N031"/>sto eadem est nascendi &amp; patiendi
+				ratio. Patres <lb facs="#facs_26_r1l93" n="N032"/>Societatis confusionem abstracti
+				&amp; concreti Ha¬ <lb facs="#facs_26_r1l95" n="N033"/>bessinis meritò
+				exprobraverunt. Eutychius Ale¬ <lb facs="#facs_26_r1l97" n="N034"/>xandrinus imputat
+				Nestorio aliud; quàm ille di¬ <lb facs="#facs_26_r1l99" n="N035"/>sertis verbis ad
+				Cyrillum scripsit. <lb facs="#facs_26_r1l100" n="N036"/>Num. 89. De Jacobo Syro,
+				unde Jacobita <lb facs="#facs_26_r1l102" n="N037"/>dicti fuerunt. Nicephorus illi
+				imputat, quae Ja¬ <lb facs="#facs_26_r1l104" n="N038"/>cobitae hodierni non credunt.
+				Cognomentum <lb facs="#facs_26_r1l106" n="N039"/>hoc agnoscunt &amp; admittunt
+				Aethiopes, &amp; ipse </p>
+			<p facs="#facs_26_TextRegion_1614333553752_801">
+				<lb facs="#facs_26_r1l34" n="N001"/>Rex. Frustrà contra Brerevvodum hîc disputat <lb
+					facs="#facs_26_r1l36" n="N002"/>Hottingerus. <lb facs="#facs_26_r1l39" n="N003"
+				/>Num. 90. De statu praesenti Coptorum in Ae¬ <lb facs="#facs_26_r1l41" n="N004"
+				/>gypto miserrimo. Christiani della Cintura à <lb facs="#facs_26_r1l43" n="N005"
+				/>nonnullis vocantur. <lb facs="#facs_26_r1l45" n="N006"/>Num. 91. De calamitatibus
+				ex schismate <lb facs="#facs_26_r1l47" n="N007"/>Chalcedonensi in Aegypto ortis.
+				Bini Patriarchae <lb facs="#facs_26_r1l49" n="N008"/>Alexandrini creati, Melchita
+				unus, alter Jaco¬ <lb facs="#facs_26_r1l51" n="N009"/>bita. Persecutio Benjamini
+				Patriarchae in vita <lb facs="#facs_26_r1l53" n="N010"/>Samuelis descripta hîc
+				Aethiopicè reperitur. Quòd <lb facs="#facs_26_r1l55" n="N011"/>Aethiopes Leonem
+				Papam damnent, &amp; concilium <lb facs="#facs_26_r1l57" n="N012"/>Chalcedonense
+				reprobent, testimonia Patrum So¬ <lb facs="#facs_26_r1l59" n="N013"/>cietatis. <lb
+					facs="#facs_26_r1l62" n="N014"/>Num. 92. De contentione cum Dioscoro tem¬ <lb
+					facs="#facs_26_r1l64" n="N015"/>pore Concilii Chalcedonensis habita. Pulcheria
+					<lb facs="#facs_26_r1l66" n="N016"/>Martiani Imperatoris uxor alapam illi dedit
+				tam <lb facs="#facs_26_r1l68" n="N017"/>fortem, ut duo dentes illi exciderint. Hoc
+				scri¬ <lb facs="#facs_26_r1l70" n="N018"/>bit Abul-baracatus, &amp; Aechiopes
+				communi¬ <lb facs="#facs_26_r1l72" n="N019"/>ter. <lb facs="#facs_26_r1l75" n="N020"
+				/>Num. 93. De Timotheo Patriarcha Alexan¬ <lb facs="#facs_26_r1l77" n="N021"/>drino,
+				quo nomine plures fuerunt. Asterius, de <lb facs="#facs_26_r1l79" n="N022"/>quo
+				Alphonsus Mendez scribit, quòd Elesbaan ad <lb facs="#facs_26_r1l81" n="N023"
+				/>bellum contra Homeritas incitaverit; quis fuerit, <lb facs="#facs_26_r1l83"
+					n="N024"/>dubitatur. <lb facs="#facs_26_r1l86" n="N025"/>Num. 94. Quid Habesini
+				de utraque Christi <lb facs="#facs_26_line_1614333554098_804" n="N026"/>natura
+				sentiant. Verba Epistolae regiae de hac <lb facs="#facs_26_r1l90" n="N027"/>causa,
+				quam Tellezius retulit, referuntur. Patres <lb
+					facs="#facs_26_line_1614333554098_806" n="N028"/>Societatis fatentur, in libris
+				Aethiopum utram¬ <lb facs="#facs_26_r1l94" n="N029"/>que naturam reperiri. Quàm
+				lubrica sint col¬ <lb facs="#facs_26_r1l96" n="N030"/>loquia omnia de rebus sacris,
+				nisi aemulationes <lb facs="#facs_26_line_1614333554098_808" n="N031"/>absint. <lb
+					facs="#facs_26_r1l101" n="N032"/>Num. 95. Dissidium Melchitarum &amp; Jace¬ <lb
+					facs="#facs_26_line_1614333554105_810" n="N033"/>bitarum deplorandum adhuc hodiè
+				durare, ex re¬ <lb facs="#facs_26_line_1614333554107_812" n="N034"/>latione Petri
+				Heilingi. <lb facs="#facs_26_r1l107" n="N035"/>Ad </p>
+			<pb facs="#facs_27" n="27"/>
+			<p facs="#facs_27_TextRegion_1613030203435_1065">
+				<lb facs="#facs_27_r1l1" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_27_TextRegion_1613030259333_1089">
+				<lb facs="#facs_27_r1l3" n="N001"/>Ad Lib. III. Cap. IX. </p>
+			<p facs="#facs_27_TextRegion_1613030280905_1098">
+				<lb facs="#facs_27_r1l4" n="N001"/>NUm. 96. De Epistola Alexandri III. Ponti¬ <lb
+					facs="#facs_27_r1l6" n="N002"/>ficis ad Regem Indorum sui temporis, quem <lb
+					facs="#facs_27_r1l8" n="N003"/>malè pro Rege Aethiopiae accepit Baronius, cum
+					<lb facs="#facs_27_r1l10" n="N004"/>nihil ex ea ad Regem Habessinorum in specie
+				ap <lb facs="#facs_27_r1l12" n="N005"/>plicari possit. <lb facs="#facs_27_r1l14"
+					n="N006"/>Num. 97. De legationibus Aethiopum ad Pon¬ <lb facs="#facs_27_r1l16"
+					n="N007"/>tificem Romanum Avenionem &amp; Florentiam. Ludo <lb
+					facs="#facs_27_r1l18" n="N008"/>vici Urretae mentiendi protervitas. Quid de
+				aliis <lb facs="#facs_27_r1l20" n="N009"/>Legationibus sentiendum. <lb
+					facs="#facs_27_r1l22" n="N010"/>Num. 98. Spes ista magna Habessinos ad reli¬ <lb
+					facs="#facs_27_r1l24" n="N011"/>gionem Romanam reducendi inde orta fuit, quòd
+					<lb facs="#facs_27_r1l26" n="N012"/>Alvarezius, Johannes Bermudes, Damianus à
+				Goez <lb facs="#facs_27_r1l28" n="N013"/>&amp; ipsi Aethiopes Romae existentes
+				propensionem <lb facs="#facs_27_r1l30" n="N014"/>Habessinorum erga Sedem Romanam
+				maximo pe¬ <lb facs="#facs_27_r1l32" n="N015"/>rè, sed frustrà jactaverint. An
+				Epistola Pii V. ad Me¬ <lb facs="#facs_27_r1l33" n="N016"/>nam Aethiopiae Regem
+				Romanae religioni inimicissi¬ <lb facs="#facs_27_r1l35" n="N017"/>mum vera &amp;
+				genuina fuerit. <lb facs="#facs_27_r1l37" n="N018"/>Num. 99. Num Habesini olim
+				fnerint optimae <lb facs="#facs_27_r1l39" n="N019"/>notae Catholici. Id asserit
+				Urreta, sed passim ex¬ <lb facs="#facs_27_r1l42" n="N020"/>ploditur à Patribus
+				Societatis. <lb facs="#facs_27_r1l44" n="N021"/>Num. 100. Epistola S. Ignatii
+				Loyolae ad Clau¬ <lb facs="#facs_27_r1l45" n="N022"/>dium Habessinorum Regem, quem
+				Religioni Ro¬ <lb facs="#facs_27_r1l47" n="N023"/>manae faventem credebat, quâ
+				docet: Regem Lu¬ <lb facs="#facs_27_r1l49" n="N024"/>sitaniae significasse sibi, ut
+				mitteret duodecim viros </p>
+			<p facs="#facs_27_TextRegion_1613030280904_1097">
+				<lb facs="#facs_27_r1l5" n="N001"/>Societatis suae in Aethiopiam, &amp; simul
+				extollit au¬ <lb facs="#facs_27_r1l7" n="N002"/>toritatem Sedis Romanae in universam
+				Ecclesiam <lb facs="#facs_27_r1l9" n="N003"/>Catholicam. <lb facs="#facs_27_r1l11"
+					n="N004"/>Num. 101. De Johanne Bermudez, quem Pon¬ <lb facs="#facs_27_r1l13"
+					n="N005"/>tisex Paulus III. Patriarcham Aethiopiae &amp; Ale¬ <lb
+					facs="#facs_27_r1l15" n="N006"/>xandriae simul creaverat; quomodo id contigerit,
+					<lb facs="#facs_27_r1l17" n="N007"/>&amp; dubia circa hanc rem. <lb
+					facs="#facs_27_r1l19" n="N008"/>Num. 102. Gonzali Rodriguesii Epistola d. 13.
+					<lb facs="#facs_27_r1l21" n="N009"/>Sept. 1156. ex Aethiopia in Europam scripta,
+				de actis <lb facs="#facs_27_r1l23" n="N010"/>cum Claudio Rege Aethiopiae, quae
+				disputationem <lb facs="#facs_27_r1l25" n="N011"/>cum Rege illo, ejusque matre
+				vidua, &amp; multa alia <lb facs="#facs_27_r1l27" n="N012"/>notabilia continet; quo
+				animo Rex missionem Pa¬ <lb facs="#facs_27_r1l29" n="N013"/>trum Societatis
+				propositam audiverit, &amp; quid tan¬ <lb facs="#facs_27_r1l31" n="N014"/>dem
+				responderit. <lb facs="#facs_27_r1l34" n="N015"/>Num. 103. Epistola Andrea Oviedi
+				Episcopi <lb facs="#facs_27_r1l36" n="N016"/>Lusitanici ad Claudium Regem
+				Aethiopiae, in qua <lb facs="#facs_27_r1l38" n="N017"/>causam adventus sui exponit,
+				&amp; hortatur, si de cau¬ <lb facs="#facs_27_r1l40" n="N018"/>sa religionis
+				dubitet, ut eruditos Regni sui convocet <lb facs="#facs_27_r1l41" n="N019"/>ad
+				colloquium. Ne in consilium adhibeat aulicos &amp; <lb facs="#facs_27_r1l43"
+					n="N020"/>samiliares suos, id enim Christum ne quidem cum <lb
+					facs="#facs_27_r1l46" n="N021"/>matre sua seciße, cum in templo remaneret. Cùm
+					<lb facs="#facs_27_r1l48" n="N022"/>nihil obtinuisset, censuram fulminavit
+				contra Ae¬ <lb facs="#facs_27_r1l50" n="N023"/>thiopes, quos Judaismi insimulavit. </p>
+			<p facs="#facs_27_TextRegion_1613030392708_1156">
+				<lb facs="#facs_27_r1l51" n="N001"/>Ad Lib. III. Cap. X. </p>
+			<p facs="#facs_27_TextRegion_1613030412815_1164">
+				<lb facs="#facs_27_r1l52" n="N001"/>NUm 104. De Johanne Gabriele Lusitano in <lb
+					facs="#facs_27_r1l54" n="N002"/>Prolegomenis actum. <lb facs="#facs_27_r1l56"
+					n="N003"/>Num. 105. Epistolae Zadengheli Regis Aethiopiae <lb
+					facs="#facs_27_r1l59" n="N004"/>cognomento Atznas- Saghed ad Clementem VIII. <lb
+					facs="#facs_27_r1l61" n="N005"/>&amp; Philippum III. Hispaniae Regem, quibus
+				ami¬ <lb facs="#facs_27_r1l62" n="N006"/>citiam &amp; auxilia atque multos opifices
+				petit, &amp; con¬ <lb facs="#facs_27_r1l64" n="N007"/>nubium offert inter utramque
+				regiam familiam. <lb facs="#facs_27_r1l67" n="N008"/>Facilè ejici posse Turcas è
+				portubus suis narrat, <lb facs="#facs_27_r1l69" n="N009"/>in quo vera praedicat. <lb
+					facs="#facs_27_r1l70" n="N010"/>Num. 106. Epistolae Regis Susnei cognomentô <lb
+					facs="#facs_27_r1l72" n="N011"/>Malac-Seghedi ad Pontificem Romanum &amp; Regem
+					<lb facs="#facs_27_r1l74" n="N012"/>Hispaniae ejusdem ferè cum antecedentibus,
+				argu¬ <lb facs="#facs_27_r1l76" n="N013"/>menti. <lb facs="#facs_27_r1l78" n="N014"
+				/>Num. 107. Epistola Pontificis Pauli V. re¬ <lb facs="#facs_27_r1l80" n="N015"
+				/>sponsoria ad Susneum Aethiopiae Regem, hor¬ <lb facs="#facs_27_r1l82" n="N016"
+				/>tatoria ad constantiam &amp; fidem erga Romanam <lb facs="#facs_27_r1l84" n="N017"
+				/>Ecclesiam. <lb facs="#facs_27_r1l86" n="N018"/>Num. 108. Susnei modò Sultan Saghed
+				dicti <lb facs="#facs_27_r1l88" n="N019"/>responsio, quâ promittit obedientiam Sedi
+				Ro¬ <lb facs="#facs_27_r1l90" n="N020"/>manae. <lb facs="#facs_27_r1l92" n="N021"
+				/>Num. 109. Aliae plures epistolae. Philippi <lb facs="#facs_27_r1l94" n="N022"
+				/>III. qui benevolentiam suam erga Regem Ae¬ <lb facs="#facs_27_r1l95" n="N023"
+				/>thiopiae testatur, eique PP. Societatis commen¬ <lb facs="#facs_27_r1l97" n="N024"
+				/>dat: <lb facs="#facs_27_r1l99" n="N025"/>Ras Seelaxi fratris regii, qui auxilium
+				mille <lb facs="#facs_27_r1l101" n="N026"/>militum Lusitanorum urget, atque operam
+					<lb facs="#facs_27_r1l103" n="N027"/>suam pro introducenda fide Romana pollice
+					<lb facs="#facs_27_r1l105" n="N028"/>tur: </p>
+			<p facs="#facs_27_TextRegion_1613030412814_1163">
+				<lb facs="#facs_27_r1l53" n="N001"/>Pauli V. ad Regem Aethiopiae, qui officia sua
+					<lb facs="#facs_27_r1l55" n="N002"/>apud Regem Hisp[¬] <lb facs="#facs_27_r1l57"
+					n="N003"/>Philippi III. [ ] ut anteriores, argu¬ <lb facs="#facs_27_r1l60"
+					n="N004"/>menti. <lb facs="#facs_27_r1l63" n="N005"/>Num. 110. Oratio Dominica
+				&amp; Salutatio An¬ <lb facs="#facs_27_r1l65" n="N006"/>gelica Latinè, sed
+				Aethiopicis literis satis incongruè <lb facs="#facs_27_r1l66" n="N007"/>pro
+				Habessinis in typographia Congregationis de <lb facs="#facs_27_r1l68" n="N008"
+				/>propaganda fide Romae impressa. <lb facs="#facs_27_r1l71" n="N009"/>Num. 110.
+				Anonymi cujusdam Epistola pro¬ <lb facs="#facs_27_r1l73" n="N010"/>lixa ad Susneum
+				Regem; Aethiopicè &amp; Latinè <lb facs="#facs_27_r1l75" n="N011"/>pro feriatione
+				Sabbati cum insectatione Patrum <lb facs="#facs_27_r1l77" n="N012"/>Societatis, quos
+				vocat Consanguineos Pontii Pila¬ <lb facs="#facs_27_r1l79" n="N013"/>ti, quasi
+				essent illius conterranei; Alioquin <lb facs="#facs_27_r1l81" n="N014"/>dogmata
+				Jacobitica satis crudè propugnat au¬ <lb facs="#facs_27_r1l83" n="N015"/>tor. <lb
+					facs="#facs_27_r1l85" n="N016"/>Num. 112. Oratio Regis Susnei, quam de re¬ <lb
+					facs="#facs_27_r1l87" n="N017"/>ligione Lusitanorum ad suos habuit, cum expro¬
+					<lb facs="#facs_27_r1l89" n="N018"/>bratione praeteritorum &amp; excusatione
+				sui; quòd <lb facs="#facs_27_r1l91" n="N019"/>non abrogare sed reformare Religionem
+				ve¬ <lb facs="#facs_27_r1l93" n="N020"/>it. <lb facs="#facs_27_r1l96" n="N021"/>Num.
+				113. De scripto publico Susnei, quod <lb facs="#facs_27_r1l98" n="N022"/>Manisestum
+				vulgò appellatur, de conversione sua <lb facs="#facs_27_r1l100" n="N023"/>ad
+				Religionem Romanam, &amp; pro defensione dua¬ <lb facs="#facs_27_r1l102" n="N024"
+				/>rum naturarum in Christo cum invectiva in suc¬ <lb facs="#facs_27_r1l104" n="N025"
+				/>cessores Dioscori &amp; Metropolitas Aethiopiae, quos <lb facs="#facs_27_r1l106"
+					n="N026"/>variorum criminum reos arguit. <lb facs="#facs_27_r1l107" n="N027"/>Ad </p>
+			<pb facs="#facs_28" n="28"/>
+			<p facs="#facs_28_TextRegion_1613030670462_1261">
+				<lb facs="#facs_28_r1l1" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_28_TextRegion_1613030719622_1274">
+				<lb facs="#facs_28_r1l3" n="N001"/>Ad Lib. III. Cap. XI. </p>
+			<p facs="#facs_28_TextRegion_1613030751968_1282">
+				<lb facs="#facs_28_r1l5" n="N001"/>NUm. 114. Actus solennis, quô Rex obedien¬ <lb
+					facs="#facs_28_r1l7" n="N002"/>tiam Pontifici Romano publicè juravit, cum ora¬
+					<lb facs="#facs_28_r1l9" n="N003"/>tione Patriarchae Lusitanici Alphonsi
+				Mendezii. <lb facs="#facs_28_r1l10" n="N004"/>In qua Sedem Romanam Sedem S. Petri
+				praedicat, <lb facs="#facs_28_r1l13" n="N005"/>quae nunquam in fide erraverit.
+				Comparat de¬ <lb facs="#facs_28_r1l15" n="N006"/>inde &amp; perstringit reliquas
+				sedes Patriarchales Hi¬ <lb facs="#facs_28_r1l16" n="N007"/>erosolymitanam,
+				Constantinopolitanam, Antioche¬ <lb facs="#facs_28_r1l18" n="N008"/>nam, sed maximè
+				invehitur in Alexandrinam, in <lb facs="#facs_28_r1l21" n="N009"/>quam Dominus
+				immiserit spiritum caliginis. At <lb facs="#facs_28_r1l24" n="N010"/>Romanam in
+				omnes Principatum obtinere asserit <lb facs="#facs_28_r1l25" n="N011"/>Hanc semper
+				ab haeresibus immunem mansisse, <lb facs="#facs_28_r1l28" n="N012"/>cum reliquae
+				omnes suos habuerint haereticos <lb facs="#facs_28_r1l30" n="N013"/>Versa est haec
+				oratio ex Italico sermone Romae <lb facs="#facs_28_r1l31" n="N014"/>impresso. <lb
+					facs="#facs_28_r1l33" n="N015"/>Num. 115. Responsio R. Sutnei per Melcaxun <lb
+					facs="#facs_28_r1l35" n="N016"/>Aulae praefectum, qua agnoscit Ecclesiam Romanam
+					<lb facs="#facs_28_r1l37" n="N017"/>pro matre &amp; Capite omnium Ecclesiarum,
+				quam <lb facs="#facs_28_r1l40" n="N018"/>Aethiopes semper pro tali habuerint;
+				Adventu <lb facs="#facs_28_r1l41" n="N019"/>Lusitanorum &amp; Regnò ope illorum
+				liberatô anti¬ <lb facs="#facs_28_r1l44" n="N020"/>quam venerationem erga illam
+				restauratam esse, in <lb facs="#facs_28_r1l46" n="N021"/>cujus sinum nunc
+				reverterentur. <lb facs="#facs_28_r1l47" n="N022"/>Num. 116. Secuta Regis verba,
+				quibus se jam an¬ <lb facs="#facs_28_r1l49" n="N023"/>te obedientiam Patri superiori
+				praestitisse testa¬ <lb facs="#facs_28_r1l51" n="N024"/>tur. <lb
+					facs="#facs_28_r1l53" n="N025"/>Num. 117. Formula juramenti regii, quô se <lb
+					facs="#facs_28_r1l55" n="N026"/>regnumque suum Ecclesiae Romanae subjicit ad pe¬
+					<lb facs="#facs_28_r1l57" n="N027"/>des Urbani VIII. tunc temporis Papae. <lb
+					facs="#facs_28_r1l60" n="N028"/>Num. 118. De insolita Ras-Seelaxi clausulâ <lb
+					facs="#facs_28_r1l62" n="N029"/>juramento suo annexa; quòd Basilidi Regni
+				haeredi <lb facs="#facs_28_r1l64" n="N030"/>fidelis futurus sit, quamdiu ille Sedi
+				Roma¬ <lb facs="#facs_28_r1l66" n="N031"/>nae. <lb facs="#facs_28_r1l68" n="N032"
+				/>Num. 119. De colapho in confirmatione à Patri¬ <lb facs="#facs_28_r1l70" n="N033"
+				/>archa dato, &amp; inde nata rustici cujusdam que¬ <lb facs="#facs_28_r1l72"
+					n="N034"/>rela, quòd ex eo tempore malè valuerit. </p>
+			<p facs="#facs_28_TextRegion_1613030751968_1281">
+				<lb facs="#facs_28_r1l4" n="N001"/>Num. 120. Acerba Regis oratio ad foeminas il¬ <lb
+					facs="#facs_28_r1l6" n="N002"/>lustres aulae suae, cum nobilis quaedam matrona,
+				quae <lb facs="#facs_28_r1l8" n="N003"/>religioni Romanae illuserat, contra morem
+				Aethio¬ <lb facs="#facs_28_r1l11" n="N004"/>piae suspenderetur. <lb
+					facs="#facs_28_r1l12" n="N005"/>Num. 121. De formula excommunicationis, quâ <lb
+					facs="#facs_28_r1l14" n="N006"/>Patriarcha Lusitanicus usus est erga Praefectum
+					<lb facs="#facs_28_r1l17" n="N007"/>praetorio, cum magna Aulicorum indignatio¬
+					<lb facs="#facs_28_r1l19" n="N008"/>ne. <lb facs="#facs_28_r1l20" n="N009"/>Num.
+				122. Quòd Habeßini nullos hodiè Ma¬ <lb facs="#facs_28_r1l23" n="N010"/>gos nec
+				veneficos in mundo credant; Testimonium <lb facs="#facs_28_r1l26" n="N011"/>Tellezii
+				de hac re. <lb facs="#facs_28_r1l27" n="N012"/>Num. 123. De Fanatico quodam, qui se
+				ex <lb facs="#facs_28_r1l29" n="N013"/>Paradiso nuncium contra Religionem Roma¬ <lb
+					facs="#facs_28_r1l32" n="N014"/>nam missum ferebat; Rex eum illuc citò re¬ <lb
+					facs="#facs_28_r1l34" n="N015"/>mittendum statuit, supplicio furcae contra eum
+					<lb facs="#facs_28_r1l36" n="N016"/>decretò; quod postea mitigatum fuit. <lb
+					facs="#facs_28_r1l38" n="N017"/>Num. 124. Episcola Pontificis Orbani VIII. <lb
+					facs="#facs_28_r1l39" n="N018"/>post Jubileum Romanum anni 1625. in Aethiopiam
+					<lb facs="#facs_28_r1l42" n="N019"/>ad Regem missa, in qua stringit stylum
+				contra ad¬ <lb facs="#facs_28_r1l43" n="N020"/>versarios Alexandrinos. Alia ad
+				Basilinem Regni <lb facs="#facs_28_r1l45" n="N021"/>hęredem è genere demonstrativo
+				seu Encomiasti¬ <lb facs="#facs_28_r1l48" n="N022"/>co. Alia ad Patriarcham suum
+				Alphonsum Men¬ <lb facs="#facs_28_line_1613030752087_1284" n="N023"/>dezium laudibus
+				ejus ob conversionem Aethiopiae <lb facs="#facs_28_r1l52" n="N024"/>referta. <lb
+					facs="#facs_28_r1l54" n="N025"/>Num. 125. Epistola Patriarchae Lusitanici qua
+					<lb facs="#facs_28_line_1613030752087_1286" n="N026"/>Rex Sutneus reprehenditur,
+				quod inscio se Edictum <lb facs="#facs_28_line_1613030752087_1288" n="N027"/>in
+				causa Religionis promulgaverit, in qua exprobrat <lb
+					facs="#facs_28_line_1613030752087_1290" n="N028"/>ei exemplum Osiae, qui
+				officium sacerdotale inva¬ <lb facs="#facs_28_line_1613030752087_1292" n="N029"
+				/>serat. <lb facs="#facs_28_r1l63" n="N030"/>Num. 126. Responsum Regis indignabundi
+				ad <lb facs="#facs_28_line_1613030752087_1294" n="N031"/>praecedentem epistolam,
+				quòd immeritò sibi ob¬ <lb facs="#facs_28_line_1613030752087_1296" n="N032"/>jecerit
+				exomplum Osia, cùm nihil tale perpetra¬ <lb facs="#facs_28_line_1613030752087_1298"
+					n="N033"/>verit, sed officio suo Regio in promulgandis Edi¬ <lb
+					facs="#facs_28_line_1613030752087_1300" n="N034"/>ctis antiquitùs sibi
+				competente satisfecerit. </p>
+			<p facs="#facs_28_TextRegion_1613030953975_1428">
+				<lb facs="#facs_28_r1l73" n="N001"/>Ad Lib. III. Cap. XII. </p>
+			<p facs="#facs_28_TextRegion_1613031027161_1451">
+				<lb facs="#facs_28_r1l75" n="N001"/>NUm. 127. Oratio Patriarchae ad Regem in <lb
+					facs="#facs_28_r1l77" n="N002"/>stante Religionis mutatione. in qua queritur <lb
+					facs="#facs_28_r1l79" n="N003"/>de consiliis &amp; machinationibus contra
+				Religionem <lb facs="#facs_28_r1l81" n="N004"/>Romanam, non sine minis irae divinae
+				&amp; Pontificiae <lb facs="#facs_28_r1l83" n="N005"/>atque Regiae indignationis.
+					<lb facs="#facs_28_r1l85" n="N006"/>Num. 128. Responsum Regis breve ad praece¬
+					<lb facs="#facs_28_r1l87" n="N007"/>dentem orationem, quô tot millium caedem <lb
+					facs="#facs_28_r1l89" n="N008"/>religionis, causa factam Patriarcha expro¬ <lb
+					facs="#facs_28_r1l91" n="N009"/>brat. <lb facs="#facs_28_r1l93" n="N010"/>Num.
+				119. Oratio deputatorum Regiorum ad <lb facs="#facs_28_r1l95" n="N011"/>Patriarcham,
+				cùm Alexandrina religio restitu <lb facs="#facs_28_r1l97" n="N012"/>enda esset, qui
+				etiam rebelliones &amp; pugnas Ro¬ <lb facs="#facs_28_r1l99" n="N013"/>manae
+				religionis causa patratas exaggerant, at¬ </p>
+			<p facs="#facs_28_TextRegion_1613031027161_1450">
+				<lb facs="#facs_28_r1l76" n="N001"/>que eam ob causam liberum Religionis utri¬ <lb
+					facs="#facs_28_r1l78" n="N002"/>usque exercitium Regem permissurum Patriarchae
+					<lb facs="#facs_28_r1l80" n="N003"/>nunciant. <lb facs="#facs_28_r1l82" n="N004"
+				/>Num. 130. Responsio Patriarchae ad hanc pro¬ <lb facs="#facs_28_r1l84" n="N005"
+				/>positionem, adhibito temperamento: Liberum <lb facs="#facs_28_r1l86" n="N006"
+				/>exercitium illis permitti posse, qui nondum Religi¬ <lb facs="#facs_28_r1l88"
+					n="N007"/>oni Romanae sese addixissent, at reliquis nullo <lb
+					facs="#facs_28_r1l90" n="N008"/>modo reditum ad priorem religionem, concedi <lb
+					facs="#facs_28_r1l92" n="N009"/>posse <lb facs="#facs_28_r1l94" n="N010"/>Num.
+				131. Proclamatio prorestituenda reli¬ <lb facs="#facs_28_r1l96" n="N011"/>gione
+				Alexandrina voce praeconis publicè fa¬ <lb facs="#facs_28_r1l98" n="N012"/>cta. <lb
+					facs="#facs_28_r1l100" n="N013"/>Ad </p>
+			<pb facs="#facs_29" n="29"/>
+			<p facs="#facs_29_TextRegion_1613031111035_1491">
+				<lb facs="#facs_29_r1l1" n="N001"/>Tabula Capitum totius Operis. </p>
+			<p facs="#facs_29_TextRegion_1613031140145_1507">
+				<lb facs="#facs_29_r1l3" n="N001"/>Ad Lib. III. Cap. XIII. </p>
+			<p facs="#facs_29_TextRegion_1613031162440_1517">
+				<lb facs="#facs_29_r1l4" n="N001"/>NUm. 132. Epistola Patriarchae Lusitanici ad Ba¬
+					<lb facs="#facs_29_r1l6" n="N002"/>filidem Susnei F. cùm aula atque regno
+				excede¬ <lb facs="#facs_29_r1l8" n="N003"/>re juberetur, petens à Rege exilii sui
+				causas &amp; ratio¬ <lb facs="#facs_29_r1l10" n="N004"/>nes. <lb
+					facs="#facs_29_r1l12" n="N005"/>Num. 133. Responsum Regis Basilidis ad prae¬ <lb
+					facs="#facs_29_r1l14" n="N006"/>cedentem epistolam, in qua excusat ea, quae
+				Patris <lb facs="#facs_29_r1l16" n="N007"/>jussu &amp; reverentia antehac egerit.
+				Controversias de <lb facs="#facs_29_r1l18" n="N008"/>duabus naturis &amp;c. agitatas
+				discordiarum causas <lb facs="#facs_29_r1l20" n="N009"/>fuisse. Colloquia ulteriora
+				recusat. Anacephalaeosis <lb facs="#facs_29_r1l22" n="N010"/>omnium controversiarum
+				à Rege Patribus Societa¬ <lb facs="#facs_29_r1l24" n="N011"/>tis objectarum. <lb
+					facs="#facs_29_r1l26" n="N012"/>Additio. Epistola Regis Basilidis cogno¬ <lb
+					facs="#facs_29_r1l28" n="N013"/>mento Sultan. Sagbedi ad Patriarcham &amp; reli¬ </p>
+			<p facs="#facs_29_TextRegion_1613031162440_1516">
+				<lb facs="#facs_29_r1l5" n="N001"/>quos Patres, cùm jam regno excederent, in qua
+				rati¬ <lb facs="#facs_29_r1l7" n="N002"/>onibus Patriarchae respondetur. <lb
+					facs="#facs_29_r1l9" n="N003"/>Patriarchae responsio invectiva ex insula Matzua
+					<lb facs="#facs_29_r1l11" n="N004"/>cùm jam regno egressus esset,
+				exprobrationibus iro¬ <lb facs="#facs_29_r1l13" n="N005"/>nicis &amp; sarcasmis
+				plena, simul acta pleraque illius <lb facs="#facs_29_r1l15" n="N006"/>temporis
+				continens. <lb facs="#facs_29_r1l17" n="N007"/>Num. 134. De remedio, quod Patres
+				Soc. im¬ <lb facs="#facs_29_r1l19" n="N008"/>minente exilio expetiverunt, scilicet
+				auxilium mi¬ <lb facs="#facs_29_r1l21" n="N009"/>litare Lusitanorum, quod negatur à
+				Prorege Indiae. <lb facs="#facs_29_r1l23" n="N010"/>P. Hieronymus Lupus propterea in
+				Europam mitti¬ <lb facs="#facs_29_r1l25" n="N011"/>tur, sed neque in Hispanica nec
+				Romana aula quid¬ <lb facs="#facs_29_r1l27" n="N012"/>quam obtinuit, sic irritus in
+				Indiam reverti¬ <lb facs="#facs_29_r1l29" n="N013"/>tur. </p>
+			<p facs="#facs_29_TextRegion_1613031221484_1556">
+				<lb facs="#facs_29_r1l30" n="N001"/>Ad Lib. III. Cap. XIV. </p>
+			<p facs="#facs_29_TextRegion_1613031295353_1577">
+				<lb facs="#facs_29_r1l33" n="N001"/>NUm. 135. De Petro Heilingo Lubecensi, qui <lb
+					facs="#facs_29_r1l35" n="N002"/>Germanorum primus in Habessiniam penetra¬ <lb
+					facs="#facs_29_r1l37" n="N003"/>vit, ex Wanslebii relatione in Anglia impressa,
+				qua <lb facs="#facs_29_r1l39" n="N004"/>quidem ille mirè laudatur; ea tamen multa
+				vana atque <lb facs="#facs_29_r1l41" n="N005"/>falsa continet. Unde autori prima
+				cognitio istius <lb facs="#facs_29_r1l43" n="N006"/>Heilingi. <lb
+					facs="#facs_29_r1l45" n="N007"/>Num. 136. De morte violenta Cancellarii Regii </p>
+			<p facs="#facs_29_TextRegion_1613031295353_1576">
+				<lb facs="#facs_29_r1l34" n="N001"/>Tecla. Selasè vulgò AzajeTino dicti, qui
+				Alexandri¬ <lb facs="#facs_29_r1l36" n="N002"/>norum durissimum flagellum, Patrum
+				Societatis <lb facs="#facs_29_r1l38" n="N003"/>verò praecipuus amicus, diro
+				lapidationis supplicio <lb facs="#facs_29_r1l40" n="N004"/>affectus est. <lb
+					facs="#facs_29_r1l42" n="N005"/>Post haec Patriarcha exul saepius nuncios in Ae¬
+					<lb facs="#facs_29_r1l44" n="N006"/>thiopiam mittere tentavit, sed irrito semper
+				suc¬ <lb facs="#facs_29_r1l46" n="N007"/>cessu. </p>
+				</list>
+			</div>
+			<div type="textpart" xml:id="n.lib.4">
+        </div>
       </div>
+        </div>
     </body>
   </text>
 </TEI>
