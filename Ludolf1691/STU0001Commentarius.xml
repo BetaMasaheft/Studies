@@ -277,7 +277,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_5_line_1612941879593_142" n="N005"/>mea</ref> editam
 							n. 4.</note>
 						<note xml:id="nprae_c"><lb facs="#facs_5_line_1612941890258_147" n="N006"
-							/>(c) De quo in <ref target="#pr.1.20">Prooem. I.§ 20</ref></note>
+							/>(c) De quo in <ref target="#pro1par20">Prooem. I.§ 20</ref></note>
 						<note xml:id="nprae_d"><lb facs="#facs_5_r1l46" n="N007"/>(d) <bibl>Joh.
 								Ulricus Wildius SS. Th. D. An. <lb facs="#facs_5_r1l48" n="N008"
 									/>1664.<ptr target="bm:Wildt1664Ecclesia"/></bibl> cùm
@@ -492,7 +492,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_7_r2l52" n="N015"/>&amp; scribit quae alius; nec
 							quicquam obstat, quò minùs diversi easdem rationes mente con<lb
 								break="no" facs="#facs_7_r2l53" n="N016"/>cipere pessint, ut in
-							Prooemio dicemus <ref target="#pr.1.49">§. 49.</ref>)</note><lb
+							Prooemio dicemus <ref target="#pro1par49">§. 49.</ref>)</note><lb
 							facs="#facs_7_r2l55" n="N017"/>Nihil </ab>
 					<pb facs="#facs_8" n="8"/>
 					<fw facs="#facs_8_TextRegion_1612943420329_423">
@@ -732,7 +732,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								<item n="np5" corresp="proenum5"><lb facs="#facs_11_r1l71" n="N026"
 										/><label>Num. 5.</label> De peregrinationum scriptoribus, ut
 										plu<lb break="no" facs="#facs_11_r1l74" n="N027"/>rimum
-									vanis &amp; falsis. Leonhard Rauchmolff: <lb
+									vanis &amp; falsis. Leonhard Rauchwolff: <lb
 										facs="#facs_11_r1l75" n="N028"/>Volaterranus &amp; alii
 									taxantur. De vocabulo orientali <lb facs="#facs_11_r1l78"
 										n="N029"/>Xᾶν Chan Summus Princeps, quod Itali pronuncia<lb
@@ -4610,7 +4610,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								Jesuita describit Condoram. 1. 92. 9.</item>
 							<item><lb facs="#facs_32_r1l10" n="N004"/>Card. BONA de rebus Liturg.
 								nimis facilè credi<lb break="no" facs="#facs_32_r1l12" n="N005"/>dit
-								Habessinis Romanis. Pr.1. 6.</item>
+								Habessinis Romanis. pro1par 6.</item>
 							<item><lb facs="#facs_32_line_1613039912908_812" n="N006"/>Bonfrerius à
 								Vulgata dissentire non vult. p. 144. lit.p.</item>
 							<item><lb facs="#facs_32_r1l16" n="N007"/>Joh. Boteri Relationes
@@ -4930,7 +4930,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								Nubiensis Arabicè 1. 70. 7. nominat <lb
 									facs="#facs_34_line_1613041499531_1520" n="N010"/>regiones &amp;
 								urbes Africae, quae nunc ignoran<lb break="no" facs="#facs_34_r1l23"
-									n="N011"/>tur. Pr.1. 102. 103. In Lunae monte fallitur. 1. 58.
+									n="N011"/>tur. pro1par 102. 103. In Lunae monte fallitur. 1. 58.
 								2. <lb facs="#facs_34_r1l25" n="N012"/>Interpretes ejus notantur. 1.
 								72. 16.</item>
 							<item><lb facs="#facs_34_r1l28" n="N013"/>Gesnerus de quadrupedibus
@@ -5277,7 +5277,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								in Praxi Clinica, <lb facs="#facs_35_r1l74" n="N037"/>1. 51.
 								4.</item>
 							<item><lb facs="#facs_35_r1l76" n="N038"/>Aubertus Miraeus in Politia
-								Ecclesiastica. Pr.1. 91. <lb facs="#facs_35_r1l78" n="N039"/>de
+								Ecclesiastica. pro1par 91. <lb facs="#facs_35_r1l78" n="N039"/>de
 								Statu Religionis Christianae, ex privatis Mona<lb break="no"
 									facs="#facs_35_r1l80" n="N040"/>chis, qui Romam venerunt facit
 								Legatos ad <lb facs="#facs_35_r1l82" n="N041"/>Pontificem.
@@ -6322,7 +6322,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_43_TextRegion_1616160010147_106">
 							<lb facs="#facs_43_line_1616159824695_53" n="N001"/>1 </label>
-						<p xml:id="pr.1.1" facs="#facs_43_TextRegion_1616076384676_2107" n="1">
+						<p xml:id="pro1par1" facs="#facs_43_TextRegion_1616076384676_2107" n="1">
 							<lb facs="#facs_43_r2l9" n="N001"/><label>Nõ. 1.</label> Multos multa,
 							paucos vera de Habessinis scripsisse, <lb facs="#facs_43_r2l11" n="N002"
 							/>clari quidam viri jam dudum nobiscum agno<lb break="no"
@@ -6338,7 +6338,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_43_TextRegion_1616160032553_119">
 							<lb facs="#facs_43_line_1616076785697_2248" n="N001"/>2 </label>
-						<p xml:id="pr.1.2" facs="#facs_43_TextRegion_1616076400127_2117" n="2">
+						<p xml:id="pro1par2" facs="#facs_43_TextRegion_1616076400127_2117" n="2">
 							<lb facs="#facs_43_line_1616076667807_2217" n="N001"/>Nam plerique <lb
 								facs="#facs_43_r2l20" n="N002"/>Habessinorum, externarum linguarum
 							rudes, mentem suam satis infeliciter expres<lb break="no"
@@ -6347,7 +6347,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_43_TextRegion_1616160032553_118">
 							<lb facs="#facs_43_line_1616159958896_84" n="N001"/>3 </label>
-						<p xml:id="pr.1.3" facs="#facs_43_TextRegion_1616076412599_2125" n="3">
+						<p xml:id="pro1par3" facs="#facs_43_TextRegion_1616076412599_2125" n="3">
 							<lb facs="#facs_43_r2l22" n="N001"/>Quamobrem <persName ref="wd:Q956547"
 								>Thevenotius</persName>, nunc Bibliothecae Regiae in Gallia
 							praefectus, amicus <lb facs="#facs_43_r2l23" n="N002"/>noster
@@ -6385,7 +6385,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_43_TextRegion_1616160028860_114">
 							<lb facs="#facs_43_line_1616077461276_2364" n="N001"/>4 </label>
-						<p xml:id="pr.1.4" facs="#facs_43_TextRegion_1616076423161_2132" n="4">
+						<p xml:id="pro1par4" facs="#facs_43_TextRegion_1616076423161_2132" n="4">
 							<lb facs="#facs_43_line_1616076412666_2127" n="N001"/>Tam corruptae
 							Historiae ipsi Habessini in Europam venientes haud rarò in culpa <lb
 								facs="#facs_43_r2l38" n="N002"/>fuerunt, quòd gratiae &amp; favori
@@ -6403,7 +6403,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_43_TextRegion_1616160022784_110">
 							<lb facs="#facs_43_line_1616159983313_98" n="N001"/>5 </label>
-						<p xml:id="pr.1.5" facs="#facs_43_TextRegion_1616076423161_2131" n="5">
+						<p xml:id="pro1par5" facs="#facs_43_TextRegion_1616076423161_2131" n="5">
 							<lb facs="#facs_43_line_1616165721055_1620" n="N001"/>Hinc factum, ut
 							mirè inter se differrent relationes illae, prout <lb
 								facs="#facs_43_r2l43" n="N002"/>benè animadvertit <persName
@@ -6429,7 +6429,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								initio</note>
 							<note xml:id="np1_b"><lb facs="#facs_43_line_1616077790743_2421"
 									n="N002"/>(b) De his agimus paulò inferius. <ref
-									target="#pr.1.9">§. 9.</ref> &amp; <ref target="#pr.1.13"
+									target="#pro1par9">§. 9.</ref> &amp; <ref target="#pro1par13"
 									>13</ref>.</note>
 							<note xml:id="np1_c"><lb facs="#facs_43_line_1616077790742_2420"
 									n="N003"/>(c) Vide quae <bibl xml:id="GodI25">Godignus de hoc
@@ -6445,7 +6445,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								corresp="STU002Historia">Prooem. I.</ref></label>
 						<label type="parnum" place="margin" facs="#facs_44_region_1616160552459_285">
 							<lb facs="#facs_44_line_1615884223983_383" n="N001"/>6 </label>
-						<p xml:id="pr.1.6" facs="#facs_44_TextRegion_1615884024059_333" n="6">
+						<p xml:id="pro1par6" facs="#facs_44_TextRegion_1615884024059_333" n="6">
 							<lb facs="#facs_44_r2l3" n="N001"/>Cujus rei nullum certius indicium
 							est, quàm quod <persName ref="wd:Q322331">Lucas Holstenius</persName>
 							&amp; post eum <lb facs="#facs_44_r2l4" n="N002"/><bibl
@@ -6475,7 +6475,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							conquiruntur <ref target="#np1_g">(g)</ref>. </p>
 						<label type="parnum" place="margin" facs="#facs_44_region_1616160562489_288">
 							<lb facs="#facs_44_line_1616077922105_2454" n="N001"/>7 </label>
-						<p xml:id="pr.1.7" facs="#facs_44_TextRegion_1615884040094_338" n="7">
+						<p xml:id="pro1par7" facs="#facs_44_TextRegion_1615884040094_338" n="7">
 							<lb facs="#facs_44_r2l15" n="N001"/>Ex libris demum symbolicis aliisque
 							publicè probatis Orientalium scriptis, ge<lb break="no"
 								facs="#facs_44_r2l16" n="N002"/>nuina illorum doctrina tradi potest.
@@ -6502,7 +6502,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q3180774">Johannes <lb
 									facs="#facs_44_line_1615883935364_305" n="N002"
 								/>Potken</persName></note>
-						<p xml:id="pr.1.8" facs="#facs_44_TextRegion_1615884068024_350" n="8">
+						<p xml:id="pro1par8" facs="#facs_44_TextRegion_1615884068024_350" n="8">
 							<lb facs="#facs_44_line_1615884040174_344" n="N001"/>Primus qui
 							Aethiopicas literas superiori seculo Europae dedit, <persName
 								ref="wd:Q3180774">Johannes Potken</persName>
@@ -6541,7 +6541,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q6786668">Matthaeus <lb
 									facs="#facs_44_line_1615883949564_315" n="N002"
 								/>Armenius</persName>.</note>
-						<p xml:id="pr.1.9" facs="#facs_44_TextRegion_1615884068024_349" n="9">
+						<p xml:id="pro1par9" facs="#facs_44_TextRegion_1615884068024_349" n="9">
 							<lb facs="#facs_44_line_1615884068109_354" n="N001"/>Post brevem istam
 							&amp; ineptam Potkenii narrationem in lucem prodiit libellus <lb
 								facs="#facs_44_r2l38" n="N002"/>exiguus sequenti titulo:<bibl
@@ -6630,7 +6630,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163292939_965">
 							<lb facs="#facs_45_line_1616163293023_968" n="N001"/>10 </label>
-						<p xml:id="pr.1.10" facs="#facs_45_TextRegion_1616163292939_964" n="10">
+						<p xml:id="pro1par10" facs="#facs_45_TextRegion_1616163292939_964" n="10">
 							<lb facs="#facs_45_line_1615887350807_787" n="N001"/>Plurima ambiguè
 							dicta &amp; flexiloqua: multa etiam apertissimè falsa complectitur, <lb
 								facs="#facs_45_r4l8" n="N002"/>veluti <q source="#Gois1532"> §. 1.
@@ -6647,7 +6647,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163330053_977">
 							<lb facs="#facs_45_line_1616163330138_980" n="N001"/>11 </label>
-						<p xml:id="pr.1.11" facs="#facs_45_TextRegion_1616163330053_976" n="11">
+						<p xml:id="pro1par11" facs="#facs_45_TextRegion_1616163330053_976" n="11">
 							<lb facs="#facs_45_line_1616164143403_1345" n="N001"/>Ob quae à
 							Successore suo <lb facs="#facs_45_r4l13" n="N002"/><persName
 								ref="wd:Q7398926">Tzaga-Zaabo</persName>
@@ -6663,7 +6663,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163343854_984">
 							<lb facs="#facs_45_line_1615888387210_863" n="N001"/>12 </label>
-						<p xml:id="pr.1.12" facs="#facs_45_TextRegion_1616163343854_983" n="12">
+						<p xml:id="pro1par12" facs="#facs_45_TextRegion_1616163343854_983" n="12">
 							<lb facs="#facs_45_line_1615888387211_865" n="N001"/>At ne sic quidem
 							satis excusatur Matthaeus, cùm constet, Armeniorum doctrinam <lb
 								facs="#facs_45_r4l18" n="N002"/>aeque ac ritus sacros cum
@@ -6686,7 +6686,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_45_line_1615887295122_767" n="N001"/><persName
 								ref="wd:Q7398926">Tzaga- <lb facs="#facs_45_line_1615887297765_772"
 									n="N002"/>Zaabus</persName>.</note>
-						<p xml:id="pr.1.13" facs="#facs_45_TextRegion_1616163407643_1047" n="13">
+						<p xml:id="pro1par13" facs="#facs_45_TextRegion_1616163407643_1047" n="13">
 							<lb facs="#facs_45_line_1615888403730_874" n="N001"/>Deinceps idem <bibl
 								xml:id="Gois1540">Goezius libellum edidit de Religione &amp; moribus
 								Aethiopum <ptr target="bm:Gois1540Fides"/></bibl>, eum<lb break="no"
@@ -6712,7 +6712,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163368488_1002">
 							<lb facs="#facs_45_line_1616163368573_1005" n="N001"/>14 </label>
-						<p xml:id="pr.1.14" facs="#facs_45_TextRegion_1616163368488_1001" n="14">
+						<p xml:id="pro1par14" facs="#facs_45_TextRegion_1616163368488_1001" n="14">
 							<lb facs="#facs_45_line_1616164434600_1504" n="N001"/>Malam fidem in eo
 							prodere videtur, quod interdum de se<lb break="no" facs="#facs_45_r4l35"
 								n="N002"/>met ipso in prima personâ locutus fuerit, ut effugium
@@ -6732,7 +6732,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163376044_1009">
 							<lb facs="#facs_45_line_1615889444330_1222" n="N001"/>15 </label>
-						<p xml:id="pr.1.15" facs="#facs_45_TextRegion_1616163376044_1008" n="15">
+						<p xml:id="pro1par15" facs="#facs_45_TextRegion_1616163376044_1008" n="15">
 							<lb facs="#facs_45_line_1615889269844_1161" n="N001"/>Capita notabiliora
 							hic subjungemus, ex quibus de reliquis judicium esto. <lb
 								facs="#facs_45_r4l42" n="N002"/>De Sabbato &amp; die Dominica
@@ -6747,7 +6747,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163383254_1018">
 							<lb facs="#facs_45_line_1616163383339_1021" n="N001"/>16 </label>
-						<p xml:id="pr.1.16" facs="#facs_45_TextRegion_1616163383254_1017" n="16">
+						<p xml:id="pro1par16" facs="#facs_45_TextRegion_1616163383254_1017" n="16">
 							<lb facs="#facs_45_r4l46" n="N001"/>Pergit ineptissimè scribendo:<q
 								source="#Gois1540">In illis duobus diebus animas piè defunctorum in
 									purga<lb break="no" facs="#facs_45_line_1616163383339_1022"
@@ -6771,7 +6771,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_45_TextRegion_1616163396855_1040">
 							<lb facs="#facs_45_line_1616163396955_1043" n="N001"/>17 </label>
-						<p xml:id="pr.1.17" facs="#facs_45_TextRegion_1616163396855_1039" n="17">
+						<p xml:id="pro1par17" facs="#facs_45_TextRegion_1616163396855_1039" n="17">
 							<lb facs="#facs_45_line_1615889661187_1266" n="N001"/>De circumcisione
 							mulierum stultissimè &amp; turpissimè loquitur, transcribere ut pu<lb
 								break="no" facs="#facs_45_r4l55" n="N002"/>deat: de circumcisione
@@ -6801,7 +6801,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_46_TextRegion_1616161435664_446">
 							<lb facs="#facs_46_line_1616161925013_589" n="N001"/>18 </label>
-						<p xml:id="pr.1.18" facs="#facs_46_TextRegion_1615890611455_1588" n="18">
+						<p xml:id="pro1par18" facs="#facs_46_TextRegion_1615890611455_1588" n="18">
 							<lb facs="#facs_46_line_1616161882629_572" n="N001"/>Infantes sine
 							baptismo morientes Semi-Christianos vocat. An ergo semisalvi &amp;
 								semi<lb break="no" facs="#facs_46_r3l4" n="N002"/>beati erunt? Et
@@ -6811,7 +6811,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_46_TextRegion_1616161446745_451">
 							<lb facs="#facs_46_line_1616162161214_640" n="N001"/>19 </label>
-						<p xml:id="pr.1.19" facs="#facs_46_TextRegion_1615890623881_1597" n="19">
+						<p xml:id="pro1par19" facs="#facs_46_TextRegion_1615890623881_1597" n="19">
 							<lb facs="#facs_46_line_1616162052946_615" n="N001"/>Delectum ciborum ab
 							ipso verbo Dei constitutum, atque istud postea natum esse ex <lb
 								facs="#facs_46_r3l7" n="N002"/>Maria virgine, non sine nauseâ
@@ -6828,7 +6828,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_46_TextRegion_1616161446745_450">
 							<lb facs="#facs_46_line_1616162225344_661" n="N001"/>20 </label>
-						<p xml:id="pr.1.20" facs="#facs_46_TextRegion_1615890639503_1604" n="20">
+						<p xml:id="pro1par20" facs="#facs_46_TextRegion_1615890639503_1604" n="20">
 							<lb facs="#facs_46_line_1615890623960_1599" n="N001"/>De Concilio
 							Chalcedonensi narrat<q source="#Gois1540">: Illud à sexcentis triginta
 								duobus Episcopis ha<lb break="no" facs="#facs_46_r3l12" n="N002"
@@ -6845,12 +6845,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								n="N007"/>pro damnato &amp; <persName ref="wd:Q467835"
 								>Dioscorum</persName> pro Sancto in Aethiopia haberi, ipse pro
 							haeretico spernere<lb break="no" facs="#facs_46_r3l18" n="N008"/>tur.
-							Hoc ipsum est quod <ref target="#pr.1.4">supra §. 4.</ref> innuimus.
+							Hoc ipsum est quod <ref target="#pro1par4">supra §. 4.</ref> innuimus.
 							Videantur quae de hac re notavimus <lb facs="#facs_46_r3l19" n="N009"
 								/><ref target="#lib3num91">Lib. III. c. 8. n. 91.</ref></p>
 						<label type="parnum" place="margin" facs="#facs_46_region_1616161517308_472">
 							<lb facs="#facs_46_line_1615891196994_1744" n="N001"/>21 </label>
-						<p xml:id="pr.1.21" facs="#facs_46_TextRegion_1615890655432_1612" n="21">
+						<p xml:id="pro1par21" facs="#facs_46_TextRegion_1615890655432_1612" n="21">
 							<lb facs="#facs_46_line_1615890639611_1606" n="N001"/>Patriarcham
 							Aethiopiae (Metropolitam reddere debuisset Interpres) ab Hierosoly<lb
 								break="no" facs="#facs_46_r3l21" n="N002"/>mitani Monachis creari
@@ -6861,7 +6861,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							saepius <foreign xml:lang="gez"/> Bestiam campi vocaverit. </p>
 						<label type="parnum" place="margin" facs="#facs_46_region_1616161501143_463">
 							<lb facs="#facs_46_line_1616161501585_466" n="N001"/>22 </label>
-						<p xml:id="pr.1.22" facs="#facs_46_TextRegion_1615890665332_1621" n="22">
+						<p xml:id="pro1par22" facs="#facs_46_TextRegion_1615890665332_1621" n="22">
 							<lb facs="#facs_46_line_1615890655511_1616" n="N001"/>Nonnulla tamen non
 							autoris sed interpretis vitio irrepsisse animadverto; ut cum <lb
 								facs="#facs_46_r3l25" n="N002"/>de divinitate sermo est, vocabulum
@@ -6885,7 +6885,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								/>stram.</q></p>
 						<label type="parnum" place="margin" facs="#facs_46_region_1616161529140_475">
 							<lb facs="#facs_46_line_1615891291002_1765" n="N001"/>23 </label>
-						<p xml:id="pr.1.23" facs="#facs_46_TextRegion_1615890677261_1628" n="23">
+						<p xml:id="pro1par23" facs="#facs_46_TextRegion_1615890677261_1628" n="23">
 							<lb facs="#facs_46_line_1615890665409_1623" n="N001"/>Verba supra modum
 							fatua <foreign xml:lang="gez"/> Ian Belul quae illi sonant Iohannes
 								Be<lb break="no" facs="#facs_46_r3l35" n="N002"/>lul h. e. Iohannes
@@ -6924,7 +6924,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								xml:id="Telp112b">Lib. II.<citedRange unit="chapter"> 5.
 									</citedRange><citedRange unit="page">p. 112. b</citedRange><ptr
 									target="bm:Teles1660Historia"/></bibl></note>
-						<p xml:id="pr.1.24" facs="#facs_46_TextRegion_1615891752397_1868" n="24">
+						<p xml:id="pro1par24" facs="#facs_46_TextRegion_1615891752397_1868" n="24">
 							<lb facs="#facs_46_line_1615890677331_1630" n="N001"/>Plura de eo dicere
 							piget, tantùm P. B. Tellezii judicium addemus, qui de eo <lb
 								facs="#facs_46_r3l50" n="N002"/>sic scribit:<q source="#Tel2cap5">
@@ -6950,7 +6950,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q1344575">Franciscus <lb
 									facs="#facs_46_line_1616162590920_743" n="N002"
 								/>Alvarezius</persName>.</note>
-						<p xml:id="pr.1.25" facs="#facs_46_TextRegion_1615891752397_1867" n="25">
+						<p xml:id="pro1par25" facs="#facs_46_TextRegion_1615891752397_1867" n="25">
 							<lb facs="#facs_46_line_1615891752492_1872" n="N001"/>Prodiit posthaec
 								<bibl xml:id="Alvares">itinerarium Francisci Alvarezii<ptr
 									target="bm:Alvarez"/></bibl>, Sacerdotis Lusitani, qui acta
@@ -7019,7 +7019,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_47_TextRegion_1616667886796_348">
 							<lb facs="#facs_47_line_1615894953293_1992" n="N001"/>26 </label>
-						<p xml:id="pr.1.26" facs="#facs_47_TextRegion_1616667863826_322" n="26">
+						<p xml:id="pro1par26" facs="#facs_47_TextRegion_1616667863826_322" n="26">
 							<lb facs="#facs_47_line_1616667634431_269" n="N001"/>Hoc tamen loco
 							grave dubium de more isto remanet, Tellezius enim diserte di<lb
 								break="no" facs="#facs_47_line_1616667863916_325" n="N002"/>cit:<q
@@ -7064,7 +7064,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_47_TextRegion_1616668136832_469">
 							<lb facs="#facs_47_line_1615894974088_2008" n="N001"/>27 </label>
-						<p xml:id="pr.1.27" facs="#facs_47_TextRegion_1616668129377_442" n="27">
+						<p xml:id="pro1par27" facs="#facs_47_TextRegion_1616668129377_442" n="27">
 							<lb facs="#facs_47_line_1616668129476_445" n="N001"/>Ad quae loca
 							Tellezium respondere oportebat. Ipse Alvarezius de se prae<lb break="no"
 								facs="#facs_47_line_1616668129476_447" n="N002"/>dicat, <q
@@ -7090,7 +7090,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							/>fratrem &amp; patruum Davidis. Sic enim habet <cit>
 								<bibl xml:id="Ram1">Italica editio:<ptr
 										target="bm:Ramusio1550Navigationi"/></bibl>
-								<quote xml:lang="ita" source="#Ram1"> Il Re Alessandro Zio del <lb
+								<quote xml:lang="ita" source="#Ram1">Il Re Alessandro Zio del <lb
 										facs="#facs_47_line_1616668129486_459" n="N008"/>presente Re
 									David, morì senza figliuoli,</quote>
 							</cit> h. e.<q source="#Ram1" type="translation"> Rex Alexander patruus
@@ -7106,7 +7106,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							obiit, ut infra demonstrabimus. </p>
 						<label type="parnum" place="margin" facs="#facs_47_region_1617112273650_32">
 							<lb facs="#facs_47_line_1615894982556_2014" n="N001"/>28 </label>
-						<p xml:id="pr.1.28" facs="#facs_47_TextRegion_1615894920261_1966" n="28">
+						<p xml:id="pro1par28" facs="#facs_47_TextRegion_1615894920261_1966" n="28">
 							<lb facs="#facs_47_line_1615894920432_1971" n="N001"/>Porro scribit:<q
 								source="#Alvares"> Habessinos pane azymo in S. Coenâ uti</q>; &amp;
 							forte id fieri viderat feriâ <lb facs="#facs_47_r4l39" n="N002"/>quintâ
@@ -7125,7 +7125,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								<ref target="#np1_z">(z)</ref>. </p>
 						<label type="parnum" place="margin" facs="#facs_47_region_1617112410991_56">
 							<lb facs="#facs_47_line_1615894992573_2020" n="N001"/>29 </label>
-						<p xml:id="pr.1.29" facs="#facs_47_TextRegion_1615894916698_1958" n="29">
+						<p xml:id="pro1par29" facs="#facs_47_TextRegion_1615894916698_1958" n="29">
 							<lb facs="#facs_47_line_1615894916808_1963" n="N001"/>Sed bene tenendum
 							est, Itinerarium, quod passim in varias linguas translatum <lb
 								facs="#facs_47_r4l45" n="N002"/>cernitur, non verum Alvarezii opus,
@@ -7199,7 +7199,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_48_TextRegion_1616668608239_622">
 							<lb facs="#facs_48_line_1615895234057_2182" n="N001"/>30 </label>
-						<p xml:id="pr.1.30" facs="#facs_48_TextRegion_1616668599622_615" n="30">
+						<p xml:id="pro1par30" facs="#facs_48_TextRegion_1616668599622_615" n="30">
 							<lb facs="#facs_48_line_1615895218560_2172" n="N001"/>Idem Ramusius
 							testatur <q source="Ram1550">Alvarezium res Aethiopum justo tractatu
 								quinque libris <lb facs="#facs_48_line_1616668599717_618" n="N002"
@@ -7235,7 +7235,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q1697248">Johannes<lb
 									facs="#facs_48_line_1615895241713_2192" n="N002"
 								/>Bermudes</persName>.</note>
-						<p xml:id="pr.1.31" facs="#facs_48_TextRegion_1616668660399_658" n="31">
+						<p xml:id="pro1par31" facs="#facs_48_TextRegion_1616668660399_658" n="31">
 							<lb facs="#facs_48_line_1616668630824_636" n="N001"/>Post itinerarium
 							illud in Lusitaniam <bibl xml:id="Bermudes"><date when="1565">Anno
 									1565</date>. prodiit libellus <author>Iohannis
@@ -7285,7 +7285,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_48_TextRegion_1616668708878_703">
 							<lb facs="#facs_48_line_1616668708982_706" n="N001"/>32 </label>
-						<p xml:id="pr.1.32" facs="#facs_48_TextRegion_1616668708878_704" n="32">
+						<p xml:id="pro1par32" facs="#facs_48_TextRegion_1616668708878_704" n="32">
 							<lb facs="#facs_48_line_1616668708984_709" n="N001"/>Ex paucis istis
 							libris, &amp; ex <bibl xml:id="Iov18">Pauli Iovii Historiarum
 									<citedRange unit="book">Libro XVIII.</citedRange><ptr
@@ -7297,7 +7297,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_48_TextRegion_1616668727706_713">
 							<lb facs="#facs_48_line_1616668727853_716" n="N001"/>33 </label>
-						<p xml:id="pr.1.33" facs="#facs_48_TextRegion_1616668727706_714" n="33">
+						<p xml:id="pro1par33" facs="#facs_48_TextRegion_1616668727706_714" n="33">
 							<lb facs="#facs_48_line_1616668727854_719" n="N001"/>Posthaec omni
 							commercio cum Lusitanis interrupto, nihil quidquam ampliùs <lb
 								facs="#facs_48_line_1616668727856_721" n="N002"/>de Habessinis apud
@@ -7312,7 +7312,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_48_line_1615895265534_2217" n="N001"
 							/><!--<persName>Ludovicus <lb
 					facs="#facs_48_line_1615895268963_2222" n="N002"/>Urreta</persName> --></note>
-						<p xml:id="pr.1.34" facs="#facs_48_TextRegion_1616668752133_737" n="34">
+						<p xml:id="pro1par34" facs="#facs_48_TextRegion_1616668752133_737" n="34">
 							<lb facs="#facs_48_line_1616668746049_733" n="N001"/>Gliscebat enim fama
 							in Europa de prona Aethiopum erga sedem Romanam vo<lb break="no"
 								facs="#facs_48_r3l51" n="N002"/>luntate, quam unus &amp; alter
@@ -7330,7 +7330,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<note xml:id="np1_a2"><lb facs="#facs_48_r3l57" n="N001"/>(a) No se
 								imprimiò, non impressus fuit, ait Antonius de Leon Hispanus.</note>
 							<note xml:id="np1_b2">(b) De quo in<lb break="no" facs="#facs_48_r3l58"
-									n="N002"/>fra <ref target="#pr.1.83">§. 83.</ref> inter
+									n="N002"/>fra <ref target="#pro1par83">§. 83.</ref> inter
 								Historicos.</note></ab>
 						<pb facs="#facs_49" n="49"/>
 						<fw facs="#facs_49_TextRegion_1613462601499_594">
@@ -7366,7 +7366,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_49_TextRegion_1616669365089_1063">
 							<lb facs="#facs_49_line_1615902777522_2802" n="N001"/>35 </label>
-						<p xml:id="pr.1.35" facs="#facs_49_TextRegion_1616669357428_1039" n="35">
+						<p xml:id="pro1par35" facs="#facs_49_TextRegion_1616669357428_1039" n="35">
 							<lb facs="#facs_49_line_1615895581387_2416" n="N001"/>Cum verò non
 							tantum claros scriptores,<bibl xml:id="Maf1cap21"> Maffejum, Lib. I.
 									<citedRange unit="chapter">c. 21.</citedRange>
@@ -7402,7 +7402,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q85429883">Nicolaus <lb
 									facs="#facs_49_line_1615902750588_2788" n="N002"
 								/>Godignus</persName>. </note>
-						<p xml:id="pr.1.36" facs="#facs_49_TextRegion_1616669398309_1097" n="36">
+						<p xml:id="pro1par36" facs="#facs_49_TextRegion_1616669398309_1097" n="36">
 							<lb facs="#facs_49_line_1616669384374_1076" n="N001"/> Eas cum P.
 							Nicolaus Godignus adeptus esset, pro conservanda Societatis suae exi<lb
 								break="no" facs="#facs_49_line_1616669384375_1078" n="N002"
@@ -7428,7 +7428,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_49_TextRegion_1616669457613_1137">
 							<lb facs="#facs_49_line_1615965767700_12" n="N001"/>37 </label>
-						<p xml:id="pr.1.37" facs="#facs_49_TextRegion_1616669445222_1126" n="37">
+						<p xml:id="pro1par37" facs="#facs_49_TextRegion_1616669445222_1126" n="37">
 							<lb facs="#facs_49_line_1615895573431_2402" n="N001"/>De <q
 								source="#Godi16150">Bibliotheca tantùm Amharensi, cui nullam unquam
 								in mundo similem fuisse di<lb break="no"
@@ -7447,7 +7447,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_49_TextRegion_1616669482656_1176">
 							<lb facs="#facs_49_line_1615965805199_40" n="N001"/>38 </label>
-						<p xml:id="pr.1.38" facs="#facs_49_TextRegion_1616669495841_1186">
+						<p xml:id="pro1par38" facs="#facs_49_TextRegion_1616669495841_1186">
 							<lb facs="#facs_49_line_1615895570342_2394" n="N001"/>Urreta passim
 							laudat <lb facs="#facs_49_line_1616669477517_1152" n="N002"
 							/><!--<persName>Iohannem Balthasarem</persName>--> Habessinum tanquàm
@@ -7482,7 +7482,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_49_TextRegion_1616669539283_1229">
 							<lb facs="#facs_49_line_1615965840628_69" n="N001"/>39 </label>
-						<p xml:id="pr.1.39" facs="#facs_49_TextRegion_1616669533134_1211" n="39">
+						<p xml:id="pro1par39" facs="#facs_49_TextRegion_1616669533134_1211" n="39">
 							<lb facs="#facs_49_line_1615895555915_2382" n="N001"/>Porro vesanus ille
 							Urreta nugas suas dedicavit sacratissimae Mariae Virgini, ob <lb
 								facs="#facs_49_line_1616669533245_1214" n="N002"/>quod meritò
@@ -7552,7 +7552,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_50_TextRegion_1616670133076_1671">
 							<lb facs="#facs_50_line_1615904252505_3066" n="N001"/>40 </label>
-						<p xml:id="pr.1.40" facs="#facs_50_TextRegion_1616670133077_1672" n="40">
+						<p xml:id="pro1par40" facs="#facs_50_TextRegion_1616670133077_1672" n="40">
 							<lb facs="#facs_50_line_1616670133194_1675" n="N001"/>Id tantùm
 							summopere miror, oculatissimum <bibl xml:id="Seld1673">Seldenum coecum
 								hunc gerronem <lb facs="#facs_50_line_1616670133195_1677" n="N002"/>
@@ -7570,7 +7570,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_50_TextRegion_1616670121546_1664">
 							<lb facs="#facs_50_line_1615904384028_3101" n="N001"/>41 </label>
-						<p xml:id="pr.1.41" facs="#facs_50_TextRegion_1616670114140_1645" n="41">
+						<p xml:id="pro1par41" facs="#facs_50_TextRegion_1616670114140_1645" n="41">
 							<lb facs="#facs_50_line_1616670114261_1648" n="N001"/>Tellezius autem
 							eum passim meritò perstringit, <q source="#Tel1cap1">quòd non solùm
 								gloriosas Lusita<lb break="no"
@@ -7625,7 +7625,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q85429883">Nic. Go<lb break="no"
 									facs="#facs_50_line_1615906299240_3216" n="N002"
 								/>dignus</persName>.</note>
-						<p xml:id="pr.1.42" facs="#facs_50_TextRegion_1616670099125_1612" n="42">
+						<p xml:id="pro1par42" facs="#facs_50_TextRegion_1616670099125_1612" n="42">
 							<lb facs="#facs_50_line_1616670099238_1615" n="N001"/>Quod verò ad ipsum
 							Nicolaum Godignum, Urretae censorem, attinet, quando<lb break="no"
 								facs="#facs_50_line_1616670099240_1617" n="N002"/>quidem literis
@@ -7662,7 +7662,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="PRS8324saggaKr">Tzaga- <lb
 									facs="#facs_50_line_1616670429535_1832" n="N002"
 								/>Christ</persName>. </note>
-						<p xml:id="pr.1.43" facs="#facs_50_TextRegion_1616670078233_1579" n="43">
+						<p xml:id="pro1par43" facs="#facs_50_TextRegion_1616670078233_1579" n="43">
 							<lb facs="#facs_50_line_1616670078377_1582" n="N001"/>Si enim <date
 								when="1634">Anno 1634</date>. in Gallia extitissent, impostura im<lb
 								break="no" facs="#facs_50_line_1616670078378_1584" n="N002"/>probi
@@ -7681,7 +7681,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								n="N006"/>raret, subscribente P. I. D. S. M. majore impudentiâ, quàm
 							si Reginae coeli, ut vocant, <lb facs="#facs_50_line_1616670078383_1594"
 								n="N007"/>adscripsisset; de qua re Thevenotium stomachantem <ref
-								target="#pr.1.39"> § 39.</ref> audivimus. Quippe <lb
+								target="#pro1par39"> § 39.</ref> audivimus. Quippe <lb
 								facs="#facs_50_line_1616670078384_1596" n="N008"/>Galliae Regina
 							adhuc in vivis erat, librumque inspicere &amp; legere, temerariumque
 								de<lb break="no" facs="#facs_50_line_1616670078385_1598" n="N009"
@@ -7706,7 +7706,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q36559822">Jacob Ba<lb break="no"
 									facs="#facs_50_line_1616670540637_1898" n="N002"
 								/>ratti.</persName></note>
-						<p xml:id="pr.1.44" facs="#facs_50_TextRegion_1616670057330_1552" n="44">
+						<p xml:id="pro1par44" facs="#facs_50_TextRegion_1616670057330_1552" n="44">
 							<lb facs="#facs_50_line_1615903991970_2988" n="N001"/>At postquam in
 							fabulas incidimus, alium scriptorem fabulosum statim subjun<lb
 								break="no" facs="#facs_50_line_1616670057444_1555" n="N002"/>gemus,
@@ -7762,7 +7762,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_51_TextRegion_1617288444068_613">
 							<lb facs="#facs_51_line_1615971659233_425" n="N001"/>45 </label>
-						<p xml:id="pr.1.45" facs="#facs_51_TextRegion_1617288444068_612" n="45">
+						<p xml:id="pro1par45" facs="#facs_51_TextRegion_1617288444068_612" n="45">
 							<lb facs="#facs_51_r5l9" n="N001"/>Has &amp; similes quisquilias ex
 							Urreta, vel aliis nugatoriis libellis exscripsit, vel <lb
 								facs="#facs_51_r5l10" n="N002"/>confinxit. In eo autem procaciter
@@ -7784,7 +7784,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_51_TextRegion_1617288498073_659">
 							<lb facs="#facs_51_line_1617288473477_633" n="N001"/>46 </label>
-						<!--<p xml:id="pr.1.46" facs="#facs_51_TextRegion_1617288473404_629" n="46">
+						<!--<p xml:id="pro1par46" facs="#facs_51_TextRegion_1617288473404_629" n="46">
 				<lb facs="#facs_51_line_1615971344717_394" n="N001"/>Sequuntur innumera alia, falsa
 				planè atque conficta, veluti:<q source="#Baratti"> Imperatorem lo<lb break="no" facs="#facs_51_r5l18"
 						n="N002"/>qui Arabicè, Persicè &amp; Hebraicè, &amp; multas alias linguas.
@@ -7807,7 +7807,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_51_TextRegion_1617288535178_692">
 							<lb facs="#facs_51_line_1615972065365_472" n="N001"/>47 </label>
-						<p xml:id="pr.1.47" facs="#facs_51_TextRegion_1617288528618_673" n="47">
+						<p xml:id="pro1par47" facs="#facs_51_TextRegion_1617288528618_673" n="47">
 							<lb facs="#facs_51_line_1615971341627_388" n="N001"/>Non novi hominem,
 							miles tamen mihi fuisse videtur, bonarum artium rudis, <lb
 								facs="#facs_51_line_1617288528694_676" n="N002"/>bellicae rei
@@ -7852,7 +7852,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q16496382">Balthasar <lb
 									facs="#facs_51_line_1617288694513_835" n="N002"
 								/>Tellezius</persName>.</note>
-						<p xml:id="pr.1.48" facs="#facs_51_TextRegion_1617288694333_833" n="48">
+						<p xml:id="pro1par48" facs="#facs_51_TextRegion_1617288694333_833" n="48">
 							<lb facs="#facs_51_line_1615971326792_376" n="N001"/>Post fabulosos
 							illos autores, quorum modò meminimus, tandem nostro tem<lb break="no"
 								facs="#facs_51_line_1617288694514_838" n="N002"/>pore prodiit <bibl
@@ -7933,7 +7933,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_52_TextRegion_1617288889159_962">
 							<lb facs="#facs_52_line_1617288880142_955" n="N001"/>49 </label>
-						<p xml:id="pr.1.49" facs="#facs_52_TextRegion_1617288880051_953" n="49">
+						<p xml:id="pro1par49" facs="#facs_52_TextRegion_1617288880051_953" n="49">
 							<lb facs="#facs_52_r3l27" n="N001"/>Plura de eo qui scire volet, legat
 							elegantissimam <persName ref="wd:Q426142">Don Francisci Emanuelis <lb
 									facs="#facs_52_r3l28" n="N002"/>de Mello</persName>
@@ -7979,7 +7979,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_52_TextRegion_1617289069733_1129">
 							<lb facs="#facs_52_line_1617289057052_1124" n="N001"/>50 </label>
-						<p xml:id="pr.1.50" facs="#facs_52_TextRegion_1617289145596_1172" n="50">
+						<p xml:id="pro1par50" facs="#facs_52_TextRegion_1617289145596_1172" n="50">
 							<lb facs="#facs_52_line_1617289057042_1111" n="N001"/>Caeterum Tellezius
 							haud aeque bonus est Criticus &amp; Philologus quàm Histori<lb
 								break="no" facs="#facs_52_line_1617289026112_1053" n="N002"/>cus.
@@ -8053,7 +8053,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_53_TextRegion_1617353089151_177">
 							<lb facs="#facs_53_line_1617353081680_171" n="N001"/>51 </label>
-						<p xml:id="pr.1.51" facs="#facs_53_TextRegion_1617353101787_185" n="51">
+						<p xml:id="pro1par51" facs="#facs_53_TextRegion_1617353101787_185" n="51">
 							<lb facs="#facs_53_line_1615975772503_849" n="N001"/>Porro
 							Camelopardalim, animal illud quadrupes omnium maximè procerum, <lb
 								facs="#facs_53_line_1613570089713_329" n="N002"/>putat esse
@@ -8100,7 +8100,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_53_TextRegion_1617353138686_197">
 							<lb facs="#facs_53_line_1615976443322_963" n="N001"/>52 </label>
-						<p xml:id="pr.1.52" facs="#facs_53_TextRegion_1617353149678_210" n="52">
+						<p xml:id="pro1par52" facs="#facs_53_TextRegion_1617353149678_210" n="52">
 							<lb facs="#facs_53_line_1613570089733_347" n="N001"/>In eo certe judiciò
 							suo, alioquin optimo, usus non est, quòd Regnum Gojam, ubi <lb
 								facs="#facs_53_line_1617353138793_199" n="N002"/>Nili fontes sunt,
@@ -8128,7 +8128,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_53_TextRegion_1617353363494_358">
 							<lb facs="#facs_53_line_1615976699921_1036" n="N001"/>53 </label>
-						<p xml:id="pr.1.53" facs="#facs_53_TextRegion_1617353351352_335" n="53">
+						<p xml:id="pro1par53" facs="#facs_53_TextRegion_1617353351352_335" n="53">
 							<lb facs="#facs_53_line_1615975757326_837" n="N001"/>Etenim in ipsa
 							historia paucissima reperiuntur, ubi vel memoria vel judicio lapsus <lb
 								facs="#facs_53_line_1613570089742_361" n="N002"/>fuit: vel officio
@@ -8185,7 +8185,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_53_TextRegion_1617353493126_448">
 							<lb facs="#facs_53_line_1617353488051_433" n="N001"/>54 </label>
-						<p xml:id="pr.1.54" facs="#facs_53_TextRegion_1617353487936_429" n="54">
+						<p xml:id="pro1par54" facs="#facs_53_TextRegion_1617353487936_429" n="54">
 							<lb facs="#facs_53_line_1613570089767_377" n="N001"/>Dantur &amp; alia
 							quaedam gravioris momenti, ut cùm de auxilio Lusitanorum à <lb
 								facs="#facs_53_line_1613570089767_379" n="N002"/><persName
@@ -8232,7 +8232,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_53_TextRegion_1617353697591_565">
 							<lb facs="#facs_53_line_1615977363299_1145" n="N001"/>55 </label>
-						<p xml:id="pr.1.55" facs="#facs_53_TextRegion_1617353697591_564" n="55">
+						<p xml:id="pro1par55" facs="#facs_53_TextRegion_1617353697591_564" n="55">
 							<lb facs="#facs_53_line_1617353193833_236" n="N001"/>De illegitimis
 							Regum filiis tradit: <q source="#Tel3cap14">illos secundum leges
 								Aethiopiae in regno non suc<lb break="no"
@@ -8290,14 +8290,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								xml:id="Hist2cap8" type="studies" corresp="STU0002Historia"
 								>2.8.37.</ref>
 							<lb facs="#facs_54_line_1615977630246_1258" n="N002"/><ref
-								xml:id="proem1.26" target="#pr.1.26">§. 26.</ref>
+								xml:id="proem1.26" target="#pro1par26">§. 26.</ref>
 							<lb facs="#facs_54_line_1615977685635_1277" n="N0032"/><bibl
 								xml:id="Tel2cap4">L. II. c. 4.<ptr target="bm:Teles1660Historia"
 								/></bibl></note>
 						<label type="parnum" place="margin"
 							facs="#facs_54_TextRegion_1617353966613_685">
 							<lb facs="#facs_54_line_1617353953785_664" n="N001"/>56 </label>
-						<p xml:id="pr.1.56" facs="#facs_54_TextRegion_1617353953678_662" n="56">
+						<p xml:id="pro1par56" facs="#facs_54_TextRegion_1617353953678_662" n="56">
 							<lb facs="#facs_54_line_1617353953787_667" n="N001"/>Non quidem decet
 							Historicum referendis aliorum opinionibus lectorem ni<lb break="no"
 								facs="#facs_54_line_1617353953788_669" n="N002"/>miùm morari; si
@@ -8332,7 +8332,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_54_TextRegion_1617354034307_740">
 							<lb facs="#facs_54_line_1617354022330_731" n="N001"/>57 </label>
-						<p xml:id="pr.1.57" facs="#facs_54_TextRegion_1617354077326_767" n="57">
+						<p xml:id="pro1par57" facs="#facs_54_TextRegion_1617354077326_767" n="57">
 							<lb facs="#facs_54_line_1617354022331_734" n="N001"/>In eo certè
 							Tellezius affectibus suis temperare non potuit, dum odio erga <persName
 								ref="wd:Q642265">Basili<lb break="no" facs="#facs_54_r2l27" n="N002"
@@ -8368,7 +8368,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_54_line_1615977935763_1361" n="N001"/><persName
 								ref="wd:Q2486290">Emanuel <lb facs="#facs_54_line_1617354213507_827"
 									n="N002"/>Almeyda</persName>.</note>
-						<p xml:id="pr.1.58" facs="#facs_54_TextRegion_1617354213419_823" n="58">
+						<p xml:id="pro1par58" facs="#facs_54_TextRegion_1617354213419_823" n="58">
 							<lb facs="#facs_54_line_1617354154277_798" n="N001"/>Optavissem utique
 							integram P. <persName ref="wd:Q2486290Q2486290">Emanuelis
 								Almeydae</persName> historiam videre, &amp; ex <lb
@@ -8390,7 +8390,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_54_line_1615977966220_1380" n="N001"/><persName
 								ref="wd:Q708822">Petrus <lb facs="#facs_54_line_1615977968273_1385"
 									n="N002"/>Pays.</persName></note>
-						<p xml:id="pr.1.59" facs="#facs_54_TextRegion_1617354257952_864" n="59">
+						<p xml:id="pro1par59" facs="#facs_54_TextRegion_1617354257952_864" n="59">
 							<lb facs="#facs_54_line_1617354258057_867" n="N001"/>Alii praeter istum
 							sunt Patres Societatis, qui res Habessinorum accuratissime <lb
 								facs="#facs_54_line_1617354258058_869" n="N002"/>persecuti sunt. P.
@@ -8422,7 +8422,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_54_line_1615978030845_1404" n="N002"/>sus Men<lb
 									break="no" facs="#facs_54_line_1615978033899_1409" n="N003"
 								/>dez.</persName></note>
-						<p xml:id="pr.1.60" facs="#facs_54_TextRegion_1617354349312_929" n="60">
+						<p xml:id="pro1par60" facs="#facs_54_TextRegion_1617354349312_929" n="60">
 							<lb facs="#facs_54_line_1617354349416_932" n="N001"/>Non minùs accuratam
 							crediderim P. Alphonsi Mendezii Historiam Aethiopi<lb break="no"
 								facs="#facs_54_r2l50" n="N002"/>cam, qui à summo Pontifice
@@ -8443,8 +8443,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									target="bm:Teles1660Historia"/></bibl>in margine &amp; alibi. </p>
 						<ab type="footnote" facs="#facs_54_TextRegion_1615978785362_1517">
 							<note xml:id="np1_l2"><lb facs="#facs_54_r2l58" n="N001"/>(l) quarum
-								mentio fit in <!--Comment. Albuquerquii
-					p. 4. c. 7.--> Plura habet <ref target="#lib1num66">infra 1. 8.
+								mentio fit in <bibl>Comment. Albuquerquii
+					p. 4. c. 7.<ptr	target="bm:Albuquerque1576Commentarios"/></bibl> Plura habet <ref target="#lib1num66">infra 1. 8.
 									n. 66.</ref></note>
 							<note xml:id="np1_m2">(m) apud <lb facs="#facs_54_r2l59" n="N002"/><bibl
 									xml:id="God1cap2">N. Godign. L. I. <citedRange unit="chapter">c.
@@ -8467,7 +8467,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_55_line_1617354747470_1051" n="N001"/><persName
 								ref="wd:Q671798">Hieron. <lb facs="#facs_55_line_1615978923859_1601"
 									n="N002"/>Lupus</persName>.</note>
-						<p xml:id="pr.1.61" facs="#facs_55_TextRegion_1617354698403_1034" n="61">
+						<p xml:id="pro1par61" facs="#facs_55_TextRegion_1617354698403_1034" n="61">
 							<lb facs="#facs_55_line_1613571924470_1113" n="N001"/>Etiam <persName
 								ref="wd:Q671798">P. Hieronymus Lupus</persName>, Provincialis
 							Goanus, qui Habessiniam à capite usque <lb
@@ -8485,7 +8485,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_55_TextRegion_1617354811714_1085">
 							<lb facs="#facs_55_line_1617354811809_1088" n="N001"/>62 </label>
-						<p xml:id="pr.1.62" facs="#facs_55_TextRegion_1617354811714_1084" n="62">
+						<p xml:id="pro1par62" facs="#facs_55_TextRegion_1617354811714_1084" n="62">
 							<lb facs="#facs_55_line_1615978879391_1582" n="N001"/>Inediti illi
 							Paysii, Mendezii &amp; Lupi codices multa procul dubio continent, quae
 								<lb facs="#facs_55_line_1613571924479_1123" n="N002"/>non solùm
@@ -8508,7 +8508,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_55_line_1617354884566_1159" n="N001"/><persName
 								ref="wd:Q134009">Franc. <lb facs="#facs_55_line_1617354884567_1161"
 									n="N002"/>Titelman</persName>.</note>
-						<p xml:id="pr.1.63" facs="#facs_55_TextRegion_1617354884458_1157" n="63">
+						<p xml:id="pro1par63" facs="#facs_55_TextRegion_1617354884458_1157" n="63">
 							<lb facs="#facs_55_line_1613571924485_1133" n="N001"/>Pergimus ad alios
 							rerum Aethiopicarum scriptores minus prin<lb break="no"
 								facs="#facs_55_line_1617354859265_1135" n="N002"/>cipales, quos ab
@@ -8537,7 +8537,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								xml:id="God1cap4">Lib.I. <citedRange unit="chapter"
 									>c.4.</citedRange><ptr target="bm:Godinho1615Abassinorum"
 								/></bibl></note>
-						<p xml:id="pr.1.64" facs="#facs_55_TextRegion_1617354976307_1224" n="64">
+						<p xml:id="pro1par64" facs="#facs_55_TextRegion_1617354976307_1224" n="64">
 							<lb facs="#facs_55_line_1615978874373_1568" n="N001"/><q>Johannes
 								Gabriel Lusitanus, in Aethiopia natus, scripsit Commentarios de
 									Aethio<lb break="no" facs="#facs_55_line_1617354917420_1183"
@@ -8567,7 +8567,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q3615631">Andr. Cor<lb break="no"
 									facs="#facs_55_line_1615978993629_1659" n="N002"
 								/>salus</persName></note>
-						<p xml:id="pr.1.65" facs="#facs_55_TextRegion_1617355029099_1251" n="65">
+						<p xml:id="pro1par65" facs="#facs_55_TextRegion_1617355029099_1251" n="65">
 							<lb facs="#facs_55_line_1615978871331_1562" n="N001"/><q source="#"
 									><persName>Andreae Corsali</persName> epistolae de itinere
 								Eduardi Galuani Lusitani, <date when="1514">Anno 1514.</date>
@@ -8587,7 +8587,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									n="N005"/>Oviedus</persName>. <lb
 								facs="#facs_55_line_1617355114104_1324" n="N006"/>Anton. <lb
 								facs="#facs_55_line_1615979063550_1705" n="N007"/>Colazo. </note>
-						<p xml:id="pr.1.66" facs="#facs_55_TextRegion_1617355113992_1316" n="66">
+						<p xml:id="pro1par66" facs="#facs_55_TextRegion_1617355113992_1316" n="66">
 							<lb facs="#facs_55_r3l42" n="N001"
 							/><!--<q source="#"><persName>Michaelis de Castañoso</persName> Relatio de profectione
 				Christophori Gamaei in Ae<lb break="no" facs="#facs_55_line_1617355087252_1290"
@@ -8623,7 +8623,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_55_line_1617355240742_1438" n="N004"
 								/>Santos.</persName>
 						</note>
-						<p xml:id="pr.1.67" facs="#facs_55_TextRegion_1617355240629_1436" n="67">
+						<p xml:id="pro1par67" facs="#facs_55_TextRegion_1617355240629_1436" n="67">
 							<lb facs="#facs_55_line_1615978866273_1548" n="N001"/><q>Relatio
 								generalis de statu Christianae religionis in Aethiopia, Reductione
 									Schismati<lb break="no" facs="#facs_55_line_1617355240744_1441"
@@ -8685,7 +8685,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								<lb facs="#facs_56_line_1615990221230_2002" n="N007"/>§.7.<ptr
 									target="bm:Sandoval1647Salute "/></bibl>
 						</note>
-						<p xml:id="pr.1.68" facs="#facs_56_TextRegion_1617355559852_1595" n="68">
+						<p xml:id="pro1par68" facs="#facs_56_TextRegion_1617355559852_1595" n="68">
 							<lb facs="#facs_56_line_1617355495782_1550" n="N001"/><bibl>Alphonsus de
 								Sandoval Pater Soc. Iesu Toletanus <title>de instauranda Aethiopum
 										<lb facs="#facs_56_r2l3" n="N002"/>salute.</title><ptr
@@ -8720,7 +8720,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_56_TextRegion_1617355625318_1649">
 							<lb facs="#facs_56_line_1617355625419_1652" n="N001"
 							/><!--<persName>Postius.</persName>--></note>
-						<p xml:id="pr.1.69" facs="#facs_56_TextRegion_1617355640179_1656" n="69">
+						<p xml:id="pro1par69" facs="#facs_56_TextRegion_1617355640179_1656" n="69">
 							<lb facs="#facs_56_line_1617355640280_1659" n="N001"/>Hi sunt Autores
 							quos <ref target="#DeLeon1629">Antonius de Leon</ref> refert. Titulos
 							librorum, quos jam an<lb break="no" facs="#facs_56_r2l15" n="N002"/>te
@@ -8747,12 +8747,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_56_line_1617355662375_1704" n="N004"/>26. in
 									fin.<ptr target="bm:Selden1673Uxor "/></bibl>
 							<lb facs="#facs_56_line_1617355662376_1706" n="N005"/><ref
-								xml:id="proem1.99" target="#pr.1.99">§.99.</ref>
+								xml:id="proem1.99" target="#pro1par99">§.99.</ref>
 							<lb facs="#facs_56_line_1617355662376_1708" n="N006"/><bibl
 								xml:id="Seldp394">d.l.<citedRange unit="page"
 									>p.394.</citedRange><ptr target="bm:Selden1673Uxor"/></bibl>
 						</note>
-						<p xml:id="pr.1.70" facs="#facs_56_TextRegion_1617355662236_1698" n="70">
+						<p xml:id="pro1par70" facs="#facs_56_TextRegion_1617355662236_1698" n="70">
 							<lb facs="#facs_56_line_1617355658034_1670" n="N001"/>Inter Orientales
 							autor Arabicus Manusc. in Bibliotheca Oxoniensi reperitur. <lb
 								facs="#facs_56_line_1617355658036_1672" n="N002"/>Cujus nomen &amp;
@@ -8807,7 +8807,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_56_TextRegion_1617355882889_1909">
 							<lb facs="#facs_56_line_1615990474223_2144" n="N001"/>71 </label>
-						<p xml:id="pr.1.71" facs="#facs_56_TextRegion_1617355870695_1894" n="71">
+						<p xml:id="pro1par71" facs="#facs_56_TextRegion_1617355870695_1894" n="71">
 							<lb facs="#facs_56_line_1617355870794_1897" n="N001"/>Superest ut
 							recenseamus eos, qui obiter <lb facs="#facs_56_line_1617355870796_1899"
 								n="N002"/>rerum Aethiopicarum in scriptis suis mentionem fecerunt.
@@ -8844,7 +8844,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_57_line_1615990756290_2225" n="N003"
 								/>Barrius</persName>. <lb facs="#facs_57_line_1616053105904_145"
 								n="N004"/>§. 48.</note>
-						<p xml:id="pr.1.72" facs="#facs_57_TextRegion_1617356011811_1975" n="72">
+						<p xml:id="pro1par72" facs="#facs_57_TextRegion_1617356011811_1975" n="72">
 							<lb facs="#facs_57_line_1617356011901_1978" n="N001"/><persName
 								ref="wd:Q703704">Johannes de Barros</persName> (Barrius) Lusitanus,
 							insignis Historicus Tellezio. <lb
@@ -8873,7 +8873,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								xml:id="Hist3cap6" type="studies" corresp="STU0002Historia">L. III.
 								6. 88.</ref>
 						</note>
-						<p xml:id="pr.1.73" facs="#facs_57_TextRegion_1617356108331_2065" n="73">
+						<p xml:id="pro1par73" facs="#facs_57_TextRegion_1617356108331_2065" n="73">
 							<lb facs="#facs_57_line_1617356108426_2068" n="N001"/><bibl
 								xml:id="Giov1560">Paulus Jovius, cùm Lib. XVIII. Historiae suae de
 								bello Mammalucorum Aegypti<ptr target="bm:Giovio1560Historiarum1"
@@ -8917,7 +8917,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_57_line_1615990937566_2344" n="N002"/>in fin. <lb
 								facs="#facs_57_line_1615990941036_2349" n="N003"/>supra. §. 23. <lb
 								facs="#facs_57_line_1616053903757_234" n="N004"/>II, I. 33 </note>
-						<p xml:id="pr.1.74" facs="#facs_57_TextRegion_1618986015144_243" n="74">
+						<p xml:id="pro1par74" facs="#facs_57_TextRegion_1618986015144_243" n="74">
 							<lb facs="#facs_57_line_1615990680514_2184" n="N001"/><q
 								source="#Giov1560"><persName ref="wd:Q43982">Bartholomaum
 									Apostolum</persName> Aethiopibus Evangelium praedicasse: eosque
@@ -8956,7 +8956,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							fuisse. </p>
 						<label type="parnum" facs="#facs_57_TextRegion_1618986086678_284">
 							<lb facs="#facs_57_line_1617356164241_2151" n="N001"/>75 </label>
-						<p xml:id="pr.1.75" facs="#facs_57_TextRegion_1617356164156_2147" n="75">
+						<p xml:id="pro1par75" facs="#facs_57_TextRegion_1617356164156_2147" n="75">
 							<lb facs="#facs_57_line_1615990673750_2176" n="N001"/>Quae de
 							magnificentia aulae Regiae tradit in medio relinquo, an tunc temporis
 								<lb facs="#facs_57_line_1617356164242_2152" n="N002"/>ita se
@@ -9012,7 +9012,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_58_line_1615991296011_2624" n="N001"/><ref
 								type="studies" corresp="STU0002Historia">3. 6. 54.</ref>
 						</note>
-						<p xml:id="pr.1.76" facs="#facs_58_TextRegion_1617356510958_2275" n="76">
+						<p xml:id="pro1par76" facs="#facs_58_TextRegion_1617356510958_2275" n="76">
 							<lb facs="#facs_58_line_1615991195790_2566" n="N001"/><q
 								source="#Giov1560">Patriarcham sacris praeesse, &amp; summum
 								imperium habere in sacerdotes, in eorum mo<lb break="no"
@@ -9054,7 +9054,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_58_TextRegion_1617356550704_2323">
 							<lb facs="#facs_58_line_1616054573891_330" n="N001"/>77 </label>
-						<p xml:id="pr.1.77" facs="#facs_58_TextRegion_1617356541029_2304" n="77">
+						<p xml:id="pro1par77" facs="#facs_58_TextRegion_1617356541029_2304" n="77">
 							<lb facs="#facs_58_line_1617356541126_2307" n="N001"/><q
 								source="#Giov1560">In Meroe insula <seg>(quam Britanniâ majorem
 									facit, tanquam bene cognitam illam <lb
@@ -9085,7 +9085,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_58_line_1615991420851_2690" n="N001"/><ref
 								xml:id="Comm1not64" target="lib1num64">I. 8. 64.</ref>
 						</note>
-						<p xml:id="pr.1.78" facs="#facs_58_TextRegion_1617356607556_2361" n="78">
+						<p xml:id="pro1par78" facs="#facs_58_TextRegion_1617356607556_2361" n="78">
 							<lb facs="#facs_58_line_1615991186112_2550" n="N001"/>Verùm tantus iste
 							historicus, qui tot &amp; tanta miracula de Magni Pretejannis sui <lb
 								facs="#facs_58_r3l39" n="N002"/>regnis scivit, causas incrementorum
@@ -9104,7 +9104,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_58_TextRegion_1617356650140_2402">
 							<lb facs="#facs_58_line_1615991439586_2705" n="N001"/>79 </label>
-						<p xml:id="pr.1.79" facs="#facs_58_TextRegion_1617356650140_2403" n="79">
+						<p xml:id="pro1par79" facs="#facs_58_TextRegion_1617356650140_2403" n="79">
 							<lb facs="#facs_58_line_1617356650236_2406" n="N001"/>Plura non addam,
 							ne imprudens effervescam, tam frivola atque absurda in ma<lb break="no"
 								facs="#facs_58_r3l45" n="N002"/>gno Historico reperiens. Non provoco
@@ -9118,7 +9118,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_58_TextRegion_1617356743194_2462">
 							<lb facs="#facs_58_line_1617356743318_2465" n="N001"/>Hist. Eccl. <lb
 								facs="#facs_58_line_1615991484288_2735" n="N002"/>scriptores. </note>
-						<p xml:id="pr.1.80" facs="#facs_58_TextRegion_1617356770298_2485" n="80">
+						<p xml:id="pro1par80" facs="#facs_58_TextRegion_1617356770298_2485" n="80">
 							<lb facs="#facs_58_line_1617356770393_2488" n="N001"/>Sequuntur autores,
 							qui certam tantùm aliquam rerum Habessinicarum partem <lb
 								facs="#facs_58_line_1617356743318_2466" n="N002"/>pro instituti sui
@@ -9135,7 +9135,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_58_TextRegion_1617356803896_2510">
 							<lb facs="#facs_58_line_1615991486984_2740" n="N001"/>Ruffinus <lb
 								facs="#facs_58_line_1615991489331_2745" n="N002"/>&amp; alii. </note>
-						<p xml:id="pr.1.81" facs="#facs_58_TextRegion_1617356814768_2515">
+						<p xml:id="pro1par81" facs="#facs_58_TextRegion_1617356814768_2515">
 							<lb facs="#facs_58_line_1617356814867_2520" n="N001"/>Ex veteribus
 							nullum commendare possumus, qui peculiare quid habeat, prae- <lb
 								facs="#facs_58_r3l55" n="N002"/>ter illa, quae in <persName
@@ -9172,7 +9172,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_59_TextRegion_1617634481168_175">
 							<lb facs="#facs_59_line_1615991851290_2945" n="N001"/><persName
 								ref="wd:Q317900">Baronius</persName>. </note>
-						<p xml:id="pr.1.82" facs="#facs_59_TextRegion_1617634294541_28" n="82">
+						<p xml:id="pro1par82" facs="#facs_59_TextRegion_1617634294541_28" n="82">
 							<lb facs="#facs_59_line_1617634288765_23" n="N001"/>Tanta apud veteres
 							Indiae fuit &amp; Aethiopiae confusio, ut <bibl>Baronius ipse in An<lb
 									break="no" facs="#facs_59_r4l9" n="N002"/>notationibus ad
@@ -9218,7 +9218,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_59_line_1617634313455_60" n="N001"/><persName
 								ref="wd:Q1910510">Matth. <lb facs="#facs_59_line_1617634313458_62"
 									n="N002"/>Dresserus.</persName></note>
-						<p xml:id="pr.1.83" facs="#facs_59_TextRegion_1617634317447_67" n="83">
+						<p xml:id="pro1par83" facs="#facs_59_TextRegion_1617634317447_67" n="83">
 							<lb facs="#facs_59_line_1615991741020_2871" n="N001"/>Sic omnes, hujus
 							&amp; superioris seculi scriptores, qui Historiam Ecclesiasticam sive
 								<lb facs="#facs_59_line_1617634317583_72" n="N002"/>deditâ operâ,
@@ -9242,7 +9242,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q315163">Joseph <lb facs="#facs_59_line_1617634331583_91"
 									n="N002"/>Scaliger.</persName><lb
 								facs="#facs_59_line_1615991953722_3029" n="N003"/>p.m.680. </note>
-						<p xml:id="pr.1.84" facs="#facs_59_TextRegion_1617634335986_100" n="84">
+						<p xml:id="pro1par84" facs="#facs_59_TextRegion_1617634335986_100" n="84">
 							<lb facs="#facs_59_r4l34" n="N001"/><bibl xml:id="Scal1629">Josephus
 								Scaliger in abstruso opere suo de sacrorum temporum emendatio<lb
 									break="no" facs="#facs_59_line_1617634336121_105" n="N002"/>ne,
@@ -9288,7 +9288,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_59_line_1615992034211_3082" n="N003"/><bibl
 								xml:id="Scalp682">p. 682.<ptr target="bm:Scaliger1629Emendatione"
 								/></bibl></note>
-						<p xml:id="pr.1.85" facs="#facs_59_TextRegion_1617634353120_117" n="85">
+						<p xml:id="pro1par85" facs="#facs_59_TextRegion_1617634353120_117" n="85">
 							<lb facs="#facs_59_r4l55" n="N001"/>Postremò <persName ref="wd:Q360883"
 								>Cedreno</persName> &amp; <persName ref="wd:Q372109"
 								>Nicephoro</persName> fretus <q source="#Scal1629">initia
@@ -9332,13 +9332,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								type="studies" corresp="STU0002Historia"> Prooem. I. </ref></label>
 						<p facs="#facs_60_TextRegion_1617635087316_417" n="85">
 							<lb facs="#facs_60_line_1613575281820_2422" n="N001"
-							/><!--Nimirum Tesfa-zion, editor
-				Novi Testamenti--> in fine actorum scripserat: <quote><lb
-									facs="#facs_60_r2l4" n="N002"/><foreign xml:lang="gez"/><lb
-									facs="#facs_60_r2l7" n="N003"/><foreign xml:lang="gez"/><lb
-									facs="#facs_60_r2l8" n="N004"/><foreign xml:lang="gez"/><lb
-									facs="#facs_60_r2l10" n="N005"/><foreign xml:lang="gez"/><lb
-									facs="#facs_60_r2l3" n="N006"/></quote><q>Ista acta Apostolorum
+							/><bibl>Nimirum Tesfa-zion, editor
+								Novi Testamenti<ptr target="bm:TasfaSeyon1548Novum"/></bibl> in fine actorum scripserat: <quote xml:id="TasfaSeyon" xml:lang="gez"><lb
+									facs="#facs_60_r2l4" n="N002"/><lb
+									facs="#facs_60_r2l7" n="N003"/><lb
+									facs="#facs_60_r2l8" n="N004"/><lb 
+									facs="#facs_60_r2l10" n="N005"/><lb
+									facs="#facs_60_r2l3" n="N006"/></quote><q corresp="TasfaSeyon" type="traslation">Ista acta Apostolorum
 								maxima sui parte ver<lb break="no" facs="#facs_60_r2l5" n="N007"/>sa
 								sunt Roma ex lingua Romana &amp; Graeca in <lb facs="#facs_60_r2l9"
 									n="N008"/>Aethiopicam propter defectus Prototypi.</q>
@@ -9362,7 +9362,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_60_line_1615992193119_3171" n="N001"/><bibl
 								xml:id="Scalp963">p. 693 <ptr target="bm:Scaliger1629Emendatione"
 								/></bibl></note>
-						<p xml:id="pr.1.86" facs="#facs_60_TextRegion_1617635135092_461" n="86">
+						<p xml:id="pro1par86" facs="#facs_60_TextRegion_1617635135092_461" n="86">
 							<lb facs="#facs_60_line_1617635129729_449" n="N001"/>Deinde ad vocem
 								<term>Pagomen</term> dicit: <q source="Scalp963">Italum mercatorem
 								ad se scripsisse, Aethiopes <lb facs="#facs_60_r2l18" n="N002"
@@ -9397,7 +9397,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_60_line_1615992239140_3207" n="N002"/>Brere<lb
 									break="no" facs="#facs_60_line_1617635235344_544" n="N003"
 								/>wood.</persName></note>
-						<p xml:id="pr.1.87" facs="#facs_60_TextRegion_1617635235217_538" n="87">
+						<p xml:id="pro1par87" facs="#facs_60_TextRegion_1617635235217_538" n="87">
 							<lb facs="#facs_60_line_1617635229292_512" n="N001"/><bibl>Eduardus
 								Brerewood Anglus in Scrutinio Religionum<ptr
 									target="bm:Brerewoo1679Scrutinium"/></bibl> nunc sese offert.
@@ -9453,7 +9453,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								n="N007"/><persName>Diet. Lu<lb break="no"
 									facs="#facs_60_line_1615992344956_3300" n="N008"
 								/>ders</persName>. </note>
-						<p xml:id="pr.1.88" facs="#facs_60_TextRegion_1617635332773_610" n="88">
+						<p xml:id="pro1par88" facs="#facs_60_TextRegion_1617635332773_610" n="88">
 							<lb facs="#facs_60_line_1617635327958_596" n="N001"/><bibl>Ursinus
 								Bericht vom Unterscheid der Religionen heutiges Tags auff <lb
 									facs="#facs_60_line_1617635332889_625" n="N002"/>Erden. P. II.
@@ -9494,7 +9494,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								Acâdemicae, inter chartas sparsim jacentes.</note>
 							<note xml:id="np1_y2">(y) In dis<lb break="no" facs="#facs_60_r2l58"
 									n="N002"/>put.
-								<!--<bibl>de ritu lectionum sacrarum §. 33.<ptr target=""></ptr></bibl>--></note></ab>
+								<bibl>de ritu lectionum sacrarum §. 33.<ptr target="bm:Goetze1685Ritu"/></bibl></note></ab>
 						<pb facs="#facs_61" n="61"/>
 						<fw facs="#facs_61_TextRegion_1615993926973_3494">
 							<lb facs="#facs_61_r6l1" n="N001"/>Joh. Seldenus. Scriptores
@@ -9515,11 +9515,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q735697">Joh. Sel<lb break="no"
 									facs="#facs_61_line_1615994080042_3555" n="N002"
 								/>den</persName>.<lb facs="#facs_61_line_1615994127085_3584"
-								n="N003"/><ref xml:id="Comm1par40" target="pr.1.40">§. 40.</ref>
+								n="N003"/><ref xml:id="Comm1par40" target="pro1par40">§. 40.</ref>
 							<lb facs="#facs_61_r6l17" n="N004"/><bibl xml:id="Seldp391">p. 391.<lb
 									facs="#facs_61_r6l19" n="N005"/>ibid.<ptr
 									target="bm:Selden1673Uxor"/></bibl></note>
-						<p xml:id="pr.1.89" facs="#facs_61_TextRegion_1617635672342_820" n="89">
+						<p xml:id="pro1par89" facs="#facs_61_TextRegion_1617635672342_820" n="89">
 							<lb facs="#facs_61_line_1617635667813_799" n="N001"/><bibl
 								xml:id="Seld1673lib3">Johannes Seldenus in Uxore sua Hebraica L.
 								III. <citedRange unit="chapter">c. 26.</citedRange><ptr
@@ -9559,11 +9559,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_61_TextRegion_1617635786426_910">
 							<lb facs="#facs_61_r6l24" n="N001"/><ref target="#Colcap8">p. 58. &amp;
 									<lb facs="#facs_61_r6l26" n="N002"/>seqq.</ref></note>
-						<p xml:id="pr.1.90" facs="#facs_61_TextRegion_1617635789826_926" n="90">
+						<p xml:id="pro1par90" facs="#facs_61_TextRegion_1617635789826_926" n="90">
 							<lb facs="#facs_61_line_1617635786524_914" n="N001"
-							/><!--<bibl xml:id="Colcap8">Sic enim Colomesius in
+							/>Sic enim <bibl xml:id="Colcap8">Colomesius in
 				Observationibus sa<lb break="no" facs="#facs_61_line_1617635786524_916" n="N002"/>cris ad
-					Acta Apost. c. VIII. 39.</bibl>--> de Aethiopibus, quos Habessinos
+								Acta Apost. c. VIII. 39.<ptr target="bm:Colomies1688Observationes"/></bibl> de Aethiopibus, quos Habessinos
 							esse putavit:<q source="#Colcap8"> Fidem <lb
 									facs="#facs_61_line_1617635789939_929" n="N003"/>Christianam
 								firmissimè semper tenuerunt, si modo infaustum illud intervallum
@@ -9586,7 +9586,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							/>ret, Dominicanus nondum erat. Modo non error sit in individuo; nam
 								Wansle<lb break="no" facs="#facs_61_line_1615993897840_3459"
 								n="N011"/>bius Bocharto familiariter notus non fuit. </p>
-						<p xml:id="pr.1.91" facs="#facs_61_TextRegion_1617636115103_1098" n="91">
+						<p xml:id="pro1par91" facs="#facs_61_TextRegion_1617636115103_1098" n="91">
 							<lb facs="#facs_61_line_1617636103172_1090" n="N001"/>91 </p>
 						<note place="margin" facs="#facs_61_TextRegion_1617636096871_1068">
 							<lb facs="#facs_61_r6l40" n="N001"/><persName ref="wd:Q2870578"
@@ -9616,8 +9616,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								/></bibl> Hispa<lb break="no" facs="#facs_61_r6l47" n="N008"/>nicè.
 							Supra nobis nominatus <ref target="#1.pr.68">§. 68.</ref><lb
 								facs="#facs_61_line_1617636096985_1083" n="N009"/>
-							<!--<bibl>Thomas à Jesu de procuranda omnium gentium salute. Lib. VII. c. 7. <lb
-					facs="#facs_61_r6l51" n="N010"/>&amp; seqq. Antverpiae 1613<ptr target="" /></bibl>-->. </p>
+							<bibl>Thomas à Jesu de procuranda omnium gentium salute. Lib. VII. c. 7. <lb
+								facs="#facs_61_r6l51" n="N010"/>&amp; seqq. Antverpiae 1613<ptr target="bm:Tomas1613Salute" /></bibl>. </p>
 						<p facs="#facs_61_TextRegion_1617636258263_1188">
 							<lb facs="#facs_61_line_1617636248506_1175" n="N001"/>92 </p>
 						<p facs="#facs_61_TextRegion_1617636289754_1219">
@@ -9656,20 +9656,23 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q322331">Luc. Hol<lb break="no"
 									facs="#facs_61_line_1615994350456_3768" n="N002"
 								/>sten.</persName></note>
-						<p xml:id="pr.1.93" facs="#facs_61_TextRegion_1617636390036_1288" n="93">
+						<p xml:id="pro1par93" facs="#facs_61_TextRegion_1617636390036_1288" n="93">
 							<lb facs="#facs_61_line_1617636387192_1284" n="N001"/><persName
-								ref="wd:Q322331">Lucam Holstenium</persName> miror; quòd, cùm aliàs &amp; Geographiam &amp; gentium <lb break="no"
+								ref="wd:Q322331">Lucam Holstenium</persName> miror; quòd, cùm aliàs
+							&amp; Geographiam &amp; gentium <lb break="no"
 								facs="#facs_61_line_1617636390127_1293" n="N002"/>mores atque ritus
 							satis nosset: imò ex Alvarezii itinerario, &amp; ipsâ Patriarchae
 								Lusita<lb break="no" facs="#facs_61_line_1615993891236_3443"
 								n="N003"/>nici </p>
 						<ab type="footnote" facs="#facs_61_TextRegion_1615993891094_3437">
-							<note xml:id="np1_z2"><lb facs="#facs_61_r6l66" n="N001"/>(z)
-								ut eùm <bibl><citedRange unit="page">pag. 390</citedRange>.<ptr target="bm:Selden1673Uxor"/></bibl> Matthaei praedicationem Evangelii ad illos
-								applicat.</note>
+							<note xml:id="np1_z2"><lb facs="#facs_61_r6l66" n="N001"/>(z) ut eùm
+										<bibl><citedRange unit="page">pag. 390</citedRange>.<ptr
+										target="bm:Selden1673Uxor"/></bibl> Matthaei praedicationem
+								Evangelii ad illos applicat.</note>
 							<note xml:id="np1_a3"><lb facs="#facs_61_r6l67" n="N002"/>(a) Contra
 									commu<lb break="no" facs="#facs_61_r6l69" n="N003"/>nem
-								opinionem de qua <bibl>N. Godign. L. I. <citedRange unit="chapter">c 18</citedRange>. <citedRange>p. 118</citedRange><ptr
+								opinionem de qua <bibl>N. Godign. L. I. <citedRange unit="chapter">c
+										18</citedRange>. <citedRange>p. 118</citedRange><ptr
 										target="bm:Godinho1615Abissinorum"/></bibl>.</note>
 							<note xml:id="np1_b3"><lb facs="#facs_61_r6l70" n="N004"/>(b) Belgicè
 								Antverpiae edita: Germanicò autem <lb facs="#facs_61_r6l71" n="N005"
@@ -9685,30 +9688,32 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								corresp="STU0002Historia">Prooem. 1 </ref></label>
 						<p facs="#facs_62_TextRegion_1617636946683_1367" n="93">
 							<lb facs="#facs_62_line_1615994545124_3867" n="N001"/>nici Alphonsi
-							Mendezii P. Soc. Jesu epistolâ, Romae <date when="1626">Anno 1626</date>. impressâ, nosse <lb
-								facs="#facs_62_r1l3" n="N002"/>poterat, Habessinos communione sub
-							una tantùm specie nunquam uti, eamque summè im<lb break="no"
-								facs="#facs_62_r1l4" n="N003"/>probare; tamen in epistola ad
-							Nihusium contrarium asseruerit, malè sanis nonnullis <lb
+							Mendezii P. Soc. Jesu epistolâ, Romae <date when="1626">Anno
+							1626</date>. impressâ, nosse <lb facs="#facs_62_r1l3" n="N002"/>poterat,
+							Habessinos communione sub una tantùm specie nunquam uti, eamque summè
+								im<lb break="no" facs="#facs_62_r1l4" n="N003"/>probare; tamen in
+							epistola ad Nihusium contrarium asseruerit, malè sanis nonnullis <lb
 								facs="#facs_62_line_1616064035573_857" n="N004"/>Habessinis credens,
 							ut <ref target="Comm1par6">supra diximus</ref>, &amp; infra pluribus
 							dicturi sumus <ref target="#lib3num58">L. 3. 6. 58.</ref> in add. </p>
 						<note place="margin" facs="#facs_62_TextRegion_1617636955459_1371">
 							<lb facs="#facs_62_line_1616064035571_855" n="N001"/><ref
-								xml:id="Comm1par6" target="#pr.1.6">§. 6.</ref></note>
+								xml:id="Comm1par6" target="#pro1par6">§. 6.</ref></note>
 						<label type="parnum" place="margin"
 							facs="#facs_62_TextRegion_1617637002897_1391">
 							<lb facs="#facs_62_line_1617637003003_1394" n="N001"/>94 </label>
-						<p xml:id="pr.1.94" facs="#facs_62_TextRegion_1617637002898_1392" n="94">
+						<p xml:id="pro1par94" facs="#facs_62_TextRegion_1617637002898_1392" n="94">
 							<lb facs="#facs_62_line_1617637003004_1397" n="N001"/>Novissimè in
 							Anglia prodiit libellus <ref target="#np1_c3">(c)</ref>, cui
-									titulus:<bibl xml:id="Wans1679"><title xml:lang="en"> A brief account of the
-										rebel<lb break="no" facs="#facs_62_line_1617637003005_1399"
-										n="N002"/>lions &amp; bloudshed occasioned hythe Jesuits and
-									other Popish emissaries in the Empire of Ethiopia</title><ptr
+								titulus:<bibl xml:id="Wans1679"><title xml:lang="en"> A brief
+									account of the rebel<lb break="no"
+										facs="#facs_62_line_1617637003005_1399" n="N002"/>lions
+									&amp; bloudshed occasioned hythe Jesuits and other Popish
+									emissaries in the Empire of Ethiopia</title><ptr
 									target="bm:Wansleben1679Rebellions"/>, </bibl><lb
 								facs="#facs_62_r1l9" n="N003"/>Collected of a Manuscript history
-							written in Latin, by <persName ref="wd:Q3180611">John Michael Wansleben</persName> a learned Papist.<lb
+							written in Latin, by <persName ref="wd:Q3180611">John Michael
+								Wansleben</persName> a learned Papist.<lb
 								facs="#facs_62_line_1617637003006_1401" n="N004"/>De rebellionibus
 							&amp; turbis tempore Patrum Societatis in Habassia excitatis agit. A
 								Wans<lb break="no" facs="#facs_62_line_1617637003006_1403" n="N005"
@@ -9723,103 +9728,126 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							facs="#facs_62_TextRegion_1617637071715_1451">
 							<lb facs="#facs_62_line_1617637063522_1444" n="N001"/>95 </label>
 						<note place="margin" facs="#facs_62_TextRegion_1617637097444_1463">
-							<lb facs="#facs_62_r1l18" n="N001"/><persName><!--Antonius--> <lb
-									facs="#facs_62_line_1616064349291_968" n="N002"
+							<lb facs="#facs_62_r1l18" n="N001"/><persName><!--Antonius-->
+								<lb facs="#facs_62_line_1616064349291_968" n="N002"
 								/>Vecchietti</persName>
-							<lb facs="#facs_62_r1l23" n="N003"/><persName ref="wd:Q963339">Joh. Bote<lb break="no"
-									facs="#facs_62_r1l24" n="N004"/>rus.</persName><lb
-								facs="#facs_62_r1l26" n="N005"/>L. III. p 66 <lb
-									facs="#facs_62_r1l41" n="N006"/><persName ref="wd:Q1922212">Gramaye</persName>
-							<lb facs="#facs_62_r1l44" n="N007"/><persName ref="wd:Q190944">Bodinus</persName></note>
-						<p xml:id="pr.1.95" facs="#facs_62_TextRegion_1617637097444_1462" n="95">
+							<lb facs="#facs_62_r1l23" n="N003"/><persName ref="wd:Q963339">Joh.
+									Bote<lb break="no" facs="#facs_62_r1l24" n="N004"
+								/>rus.</persName><lb facs="#facs_62_r1l26" n="N005"/>L. III. p 66
+								<lb facs="#facs_62_r1l41" n="N006"/><persName ref="wd:Q1922212"
+								>Gramaye</persName>
+							<lb facs="#facs_62_r1l44" n="N007"/><persName ref="wd:Q190944"
+								>Bodinus</persName></note>
+						<p xml:id="pro1par95" facs="#facs_62_TextRegion_1617637097444_1462" n="95">
 							<lb facs="#facs_62_line_1615994558720_3874" n="N001"/>Pergimus nunc
 							adeos, qui Chronologias, vel <lb facs="#facs_62_r1l16" n="N002"/>Orbis
 							terrae ejusque partium, vel etiam Imperiorum &amp; Regnorum Historias
 								univer<lb break="no" facs="#facs_62_line_1617637097547_1465"
 								n="N003"/>sales scripsêre. <lb
-								facs="#facs_62_line_1617637063524_1447" n="N004"/><!--<bibl>Antonius
-							Vecchietti in tractatu magnifico de sacris temporibus<ptr target="bm:"/></bibl>--> spurium <lb
-								facs="#facs_62_line_1617637097548_1467" n="N005"/>Regum Aethiopiae
-							Catalogum inseruit, sed sine judicio ullo, annos regiminis ex suo <lb
-								facs="#facs_62_line_1617637097548_1469" n="N006"/>fingens cerebro.
-								<lb facs="#facs_62_r1l22" n="N007"/><!--<bibl xml:id="Bote1600">Iohan. Boterus in Relationibus
-							universalibus <ptr target="bm:"/></bibl>--><ref target="#np1_d3">(d)</ref> Tit. de' Christiani
-								dell'Abas<lb break="no" facs="#facs_62_r1l25" n="N008"/>sia, de
-							Habessinis agit; sed peculiare nihil habet. Veteres traditiones de
-							illorum conver<lb break="no" facs="#facs_62_r1l27" n="N009"/>sione ad
-							Judaismum per <persName ref="PRS7005Menilek">Menilehecum Salomonis</persName> F. deinde ad Christianismum <q source="#Bote1600">per <lb
-								facs="#facs_62_line_1617637097549_1471" n="N010"/>Eunuchum Reginae
-								Candaces</q> refert. Primam <placeName ref="wd:Q200127">Tigiam</placeName> conversam fuisse, &amp; in lingua Ti<lb
+								facs="#facs_62_line_1617637063524_1447" n="N004"/><bibl>Antonius
+									Vecchietti in tractatu magnifico de sacris temporibus<ptr target="bm:Vecchietti1621Aegypto"/></bibl>
+							spurium <lb facs="#facs_62_line_1617637097548_1467" n="N005"/>Regum
+							Aethiopiae Catalogum inseruit, sed sine judicio ullo, annos regiminis ex
+							suo <lb facs="#facs_62_line_1617637097548_1469" n="N006"/>fingens
+							cerebro. <lb facs="#facs_62_r1l22" n="N007"
+								/><bibl xml:id="Bote1600">Iohan. Boterus in Relationibus
+									universalibus <ptr target="bm:Botero1600Relationes3"/></bibl><ref
+								target="#np1_d3">(d)</ref> Tit. de' Christiani dell'Abas<lb
+								break="no" facs="#facs_62_r1l25" n="N008"/>sia, de Habessinis agit;
+							sed peculiare nihil habet. Veteres traditiones de illorum conver<lb
+								break="no" facs="#facs_62_r1l27" n="N009"/>sione ad Judaismum per
+								<persName ref="PRS7005Menilek">Menilehecum Salomonis</persName> F.
+							deinde ad Christianismum <q source="#Bote1600">per <lb
+									facs="#facs_62_line_1617637097549_1471" n="N010"/>Eunuchum
+								Reginae Candaces</q> refert. Primam <placeName ref="wd:Q200127"
+								>Tigiam</placeName> conversam fuisse, &amp; in lingua Ti<lb
 								break="no" facs="#facs_62_line_1617637097550_1473" n="N011"/>giae
 							hodiè scribi omnia documenta publica, tradit. Scilicet librarius
 							scripserat Itali<lb break="no" facs="#facs_62_line_1617637097550_1475"
-								n="N012"/>co more Tigra i. e. Tigra, typotheta verò legit Tigia. Hinc
-							est, quod quidam viri <lb facs="#facs_62_line_1617637097551_1477"
+								n="N012"/>co more Tigra i. e. Tigra, typotheta verò legit Tigia.
+							Hinc est, quod quidam viri <lb facs="#facs_62_line_1617637097551_1477"
 								n="N013"/>docti scripserint: Aethiopes legere scripturam Lingua
 							Tigiana: cum Tigranam vel <lb facs="#facs_62_line_1617637097551_1479"
 								n="N014"/>Tigrensi dicere debuissent. Etenim in Tigra Regno primò
 							praedicatum fuit Evan<lb break="no"
 								facs="#facs_62_line_1617637097552_1481" n="N015"/>gelium, ut alibi
 							docuimus. Quod autem dicit: <lb facs="#facs_62_line_1617637097553_1483"
-								n="N016"/><!--<quote xml:id="Bote1" source="#Bote1600" xml:lang="ita">Hanno in più riverenza il Sabbato, che la <lb
+								n="N016"
+							/><!--<quote xml:id="Bote1" source="#Bote1600" xml:lang="ita">Hanno in più riverenza il Sabbato, che la <lb
 								facs="#facs_62_line_1617637097554_1485" n="N017"/>Dominica.</quote> <lb
-								facs="#facs_62_r1l34" n="N018"/><q corresp="Bote1">Magis venerantur Sabbatum, quàm
-								Do<lb break="no" facs="#facs_62_r1l37" n="N019"/>minicam</q>-->; <lb
-								facs="#facs_62_line_1617637097554_1487" n="N020"/>Id falsissimum
+								facs="#facs_62_r1l34" n="N018"/><q corresp="Bote1 type="traslation">Magis venerantur Sabbatum, quàm
+								Do<lb break="no" facs="#facs_62_r1l37" n="N019"/>minicam</q>-->;
+								<lb facs="#facs_62_line_1617637097554_1487" n="N020"/>Id falsissimum
 							est. Unde desumserit incertum. Reliqua ex Historia nostra di judi<lb
 								break="no" facs="#facs_62_line_1617637097555_1489" n="N021"/>cari,
-							&amp; refutari poterunt. <lb facs="#facs_62_r1l40" n="N022"/><!--<bibl>Grammaye
-								vel D. A. V. T. in descriptione Orbis<ptr target="bm:"></ptr></bibl>-->; praesertim ubi de Nigri flumi<lb
-								break="no" facs="#facs_62_line_1617637097556_1491" n="N023"/>ne,
-							vulgò Rio de Senega dicto agit. <lb
-								facs="#facs_62_line_1615994575291_3882" n="N024"/><!--<bibl>Bodinus de Republ.<ptr target="bm"/></bibl>-->
-							obiter tantùm Habessinorum mentionem facit. </p>
+							&amp; refutari poterunt. <lb facs="#facs_62_r1l40" n="N022"
+							/><bibl>Grammaye
+								vel D. A. V. T. in descriptione Orbis<ptr target="bm:Gramaye1622Africa"/></bibl>;
+							praesertim ubi de Nigri flumi<lb break="no"
+								facs="#facs_62_line_1617637097556_1491" n="N023"/>ne, vulgò Rio de
+							Senega dicto agit. <lb facs="#facs_62_line_1615994575291_3882" n="N024"
+							/><bibl>Bodinus de Republ.<ptr target="bm:Bodin1586Republica"/></bibl> obiter tantùm
+							Habessinorum mentionem facit. </p>
 						<label type="parnum" place="margin"
 							facs="#facs_62_TextRegion_1617637252696_1642">
 							<lb facs="#facs_62_line_1615994868136_4120" n="N001"/>96 </label>
-						<p xml:id="pr.1.96" facs="#facs_62_TextRegion_1617637245227_1624" n="96">
-							<lb facs="#facs_62_line_1617637239991_1608" n="N001"/><!--<bibl xml:id="Olden1675">Philippus Andreas
+						<p xml:id="pro1par96" facs="#facs_62_TextRegion_1617637245227_1624" n="96">
+							<lb facs="#facs_62_line_1617637239991_1608" n="N001"
+								/><bibl xml:id="Olden1675">Philippus Andreas
 							Oldenburgerus in Thesauro Rerum publicarum <lb facs="#facs_62_r1l48"
-								n="N002"/>Parte l. Tit. XII.<ptr target="bm"/></bibl>--><ref target="#np1_e3">(e)</ref> è
-							dictatis <persName ref="wd:Q77508">Hermanni Conringii</persName> de Habessinis quaedam tradidit; un<lb
+								n="N002"/>Parte l. Tit. XII.<ptr target="bm:Oldenburger1675Thesaurus"/></bibl><ref
+								target="#np1_e3">(e)</ref> è dictatis <persName ref="wd:Q77508"
+								>Hermanni Conringii</persName> de Habessinis quaedam tradidit; un<lb
 								break="no" facs="#facs_62_r1l49" n="N003"/>de desumta sint,
-							incertum; nisi quòd excerpta miscellanea è <ref target="#Bote1600">Botero</ref> &amp; aliis hujus aevi
-								<lb facs="#facs_62_line_1617637239992_1610" n="N004"/>scriptoribus
-							sese habere dicat, omnia permixtè &amp; confusè: neque etiam
-								Acridopha<lb break="no" facs="#facs_62_line_1617637245338_1629"
-								n="N005"/>gos aliosque Aethiopes ab Habessinis nostris distinguere
-							potuit. Falsissimum est, <lb facs="#facs_62_line_1617637304954_1673"
-								n="N006"/>quod sua lingua se dicant Chossios, tanquam Chus
-							prognatos; cum tamen <!--<bibl xml:id="Oldpar18">§. XVIII.<ptr target="bm:"/></bibl>--> <lb facs="#facs_62_r1l58" n="N007"/>
-							agnoscat, quòd ex Arabia, quam Semi posteri occupaverunt, in Africam
-							fuerint <lb facs="#facs_62_line_1617637245338_1631" n="N008"
-							/>transgressi. Odiosè &amp; putidè loquitur de familia Regia, quasi ipsa
-							referret, (i. e. me<lb break="no"
-								facs="#facs_62_line_1617637245339_1633" n="N009"/>moratet) <q source="#Olden1675">stupratam
-							fuisse Reginam Sabaeam à Salomone</q>; quàm tamen Aethiopes &amp; Ara<lb
-								break="no" facs="#facs_62_line_1617637239995_1618" n="N010"/>bes
-							unanimiter ejus Uxorem fuisse ferunt. Porrò <!--<bibl xml:id="Oldenpar1">§. I. &amp; VIII.<ptr target="bm:"/></bibl>--> male
-							scribit: <q source="#Oldenpar1">Ingenis <lb facs="#facs_62_line_1617637245340_1635" n="N011"
-							/>summè lento</q> &amp; tardo praediti sunt Habessini, &amp; tamen <!--<bibl xml:id="Oldenpar16">§. XVI.<ptr target="bm:"/></bibl>-->
-							rectissimè praedicat <q source="#Oldenpar16">mul<lb break="no" facs="#facs_62_r1l67" n="N012"
-							/>tos Habessinorum industria suâ in serviendo factos esse ex mancipiis
-							Dominos in Arabia, <lb facs="#facs_62_line_1617637397954_1689" n="N013"
-							/>Cambaja, Bengala &amp; Sumatra</q>, &amp; paulo post <q source="#Oldenpar16">Inter mancipia
-							potiores aestimari Abessinos <lb facs="#facs_62_line_1617637245340_1637"
-								n="N014"/>cùm propter eorum magnam fidelitatem, tùm propter bonam
-								indolem.</q> <lb facs="#facs_62_r1l70" n="N015"/>Plura </p>
+							incertum; nisi quòd excerpta miscellanea è <ref target="#Bote1600"
+								>Botero</ref> &amp; aliis hujus aevi <lb
+								facs="#facs_62_line_1617637239992_1610" n="N004"/>scriptoribus sese
+							habere dicat, omnia permixtè &amp; confusè: neque etiam Acridopha<lb
+								break="no" facs="#facs_62_line_1617637245338_1629" n="N005"/>gos
+							aliosque Aethiopes ab Habessinis nostris distinguere potuit. Falsissimum
+							est, <lb facs="#facs_62_line_1617637304954_1673" n="N006"/>quod sua
+							lingua se dicant Chossios, tanquam Chus prognatos; cum tamen <bibl xml:id="Oldpar18">§. XVIII.<ptr target="bm:Oldenburger1675Thesaurus"/></bibl>
+							<lb facs="#facs_62_r1l58" n="N007"/> agnoscat, quòd ex Arabia, quam Semi
+							posteri occupaverunt, in Africam fuerint <lb
+								facs="#facs_62_line_1617637245338_1631" n="N008"/>transgressi.
+							Odiosè &amp; putidè loquitur de familia Regia, quasi ipsa referret, (i.
+							e. me<lb break="no" facs="#facs_62_line_1617637245339_1633" n="N009"
+							/>moratet) <q source="#Olden1675">stupratam fuisse Reginam Sabaeam à
+								Salomone</q>; quàm tamen Aethiopes &amp; Ara<lb break="no"
+								facs="#facs_62_line_1617637239995_1618" n="N010"/>bes unanimiter
+							ejus Uxorem fuisse ferunt. Porrò
+							<bibl xml:id="Oldenpar1">§. I. &amp; VIII.<ptr target="bm:Oldenburger1675Thesaurus"/></bibl>
+							male scribit: <q source="#Oldenpar1">Ingenis <lb
+									facs="#facs_62_line_1617637245340_1635" n="N011"/>summè
+								lento</q> &amp; tardo praediti sunt Habessini, &amp; tamen
+							<bibl xml:id="Oldenpar16">§. XVI.<ptr target="bm:Oldenburger1675Thesaurus"/></bibl>
+							rectissimè praedicat <q source="#Oldenpar16">mul<lb break="no"
+									facs="#facs_62_r1l67" n="N012"/>tos Habessinorum industria suâ
+								in serviendo factos esse ex mancipiis Dominos in Arabia, <lb
+									facs="#facs_62_line_1617637397954_1689" n="N013"/>Cambaja,
+								Bengala &amp; Sumatra</q>, &amp; paulo post <q source="#Oldenpar16"
+								>Inter mancipia potiores aestimari Abessinos <lb
+									facs="#facs_62_line_1617637245340_1637" n="N014"/>cùm propter
+								eorum magnam fidelitatem, tùm propter bonam indolem.</q>
+							<lb facs="#facs_62_r1l70" n="N015"/>Plura </p>
 						<note place="margin" facs="#facs_62_TextRegion_1617637245227_1625">
-							<lb facs="#facs_62_line_1617637245336_1628" n="N001"/><persName ref="wd:Q107664">Phil. And. <lb
-								facs="#facs_62_r1l47" n="N002"/>Oldenb.</persName><lb facs="#facs_62_r1l50"
-								n="N003"/><ref target="#Olen1675">p. 787.</ref> <lb facs="#facs_62_r1l52" n="N004"/><ref target="#Oldenpar1">p. 790.</ref> <lb
-								facs="#facs_62_r1l57" n="N005"/><ref target="#Oldpar18"></ref>p. 800. <lb facs="#facs_62_r1l63"
-								n="N006"/>p. 790. <lb facs="#facs_62_r1l65" n="N007"/><!--<ref target="#lib2num18">Inf. 2. 3.
+							<lb facs="#facs_62_line_1617637245336_1628" n="N001"/><persName
+								ref="wd:Q107664">Phil. And. <lb facs="#facs_62_r1l47" n="N002"
+								/>Oldenb.</persName><lb facs="#facs_62_r1l50" n="N003"/><ref
+								target="#Olen1675">p. 787.</ref>
+							<lb facs="#facs_62_r1l52" n="N004"/><ref target="#Oldenpar1">p.
+								790.</ref>
+							<lb facs="#facs_62_r1l57" n="N005"/><ref target="#Oldpar18"/>p. 800. <lb
+								facs="#facs_62_r1l63" n="N006"/>p. 790. <lb facs="#facs_62_r1l65"
+								n="N007"/><!--<ref target="#lib2num18">Inf. 2. 3.
 							18</ref>-->. <lb facs="#facs_62_r1l66" n="N008"/>not. </note>
 						<ab type="footnote" facs="#facs_62_TextRegion_1615994594050_3887">
 							<note xml:id="np1_c3"><lb facs="#facs_62_line_1616065023911_1095"
-									n="N001"/>(c) Londini Anno 1679. apud Jonathan Edwin.<ptr target="#Wans1679"/></note>
+									n="N001"/>(c) Londini Anno 1679. apud Jonathan Edwin.<ptr
+									target="#Wans1679"/></note>
 							<note xml:id="np1_d3"><lb facs="#facs_62_line_1616065047682_1102"
-									n="N002"/>(d) Italicè editis Venet. 1499.<ptr target="#Bote1600"/></note>
+									n="N002"/>(d) Italicè editis Venet. 1499.<ptr target="#Bote1600"
+								/></note>
 							<note xml:id="np1_e3"><lb facs="#facs_62_line_1616065047682_1101"
 									n="N003"/>(e) Sic <lb facs="#facs_62_r1l72" n="N004"/>corrige
 								pro XIII.</note></ab>
@@ -9834,27 +9862,29 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						</label>
 						<p facs="#facs_63_TextRegion_1617637591578_1745" n="96">
 							<lb facs="#facs_63_line_1617637591676_1748" n="N001"/>Plura referre
-							nihil attinet, quae quilibet diligens lector ex Historia nostra ipse
-							<lb facs="#facs_63_r6l3" n="N002"/>refellere vel distinguere
-							poterit. </p>
+							nihil attinet, quae quilibet diligens lector ex Historia nostra ipse <lb
+								facs="#facs_63_r6l3" n="N002"/>refellere vel distinguere poterit. </p>
 						<label type="parnum" place="margin"
 							facs="#facs_63_TextRegion_1617637612381_1784">
 							<lb facs="#facs_63_line_1617637606648_1772" n="N001"/>97 </label>
 						<note place="margin" facs="#facs_63_TextRegion_1617637603144_1752">
-							<lb facs="#facs_63_r6l4" n="N001"/><persName ref="wd:Q1695345">Joh. Lud. <lb
-									facs="#facs_63_r6l6" n="N002"/>Gottfried.</persName><lb
-										facs="#facs_63_line_1617637603259_1755" n="N003"/><persName ref="wd:Q1509497">Georg.
-									<lb facs="#facs_63_line_1617637603259_1757" n="N004"
-								/>Horn.</persName><lb facs="#facs_63_line_1617637603261_1759"
-									n="N005"/><persName ref="wd:Q98640173">Lucas de <lb
+							<lb facs="#facs_63_r6l4" n="N001"/><persName ref="wd:Q1695345">Joh. Lud.
+									<lb facs="#facs_63_r6l6" n="N002"/>Gottfried.</persName><lb
+								facs="#facs_63_line_1617637603259_1755" n="N003"/><persName
+								ref="wd:Q1509497">Georg. <lb facs="#facs_63_line_1617637603259_1757"
+									n="N004"/>Horn.</persName><lb
+								facs="#facs_63_line_1617637603261_1759" n="N005"/><persName
+								ref="wd:Q98640173">Lucas de <lb
 									facs="#facs_63_line_1617637603261_1761" n="N006"
 								/>Linda.</persName></note>
-						<p xml:id="pr.1.97" facs="#facs_63_TextRegion_1617637606535_1768" n="97">
-							<lb facs="#facs_63_line_1616065765228_1138" n="N001"/><!--<bib xml:id="Gothfredus1646">Ioh Ludov.
-								Gothofredi Archontologia Cosmica<ptr target=""/></bib>--><ref target="#np1_f3">(f)</ref>.
-							Farrago est vero<lb break="no" facs="#facs_63_line_1617637606649_1773"
-								n="N002"/>rum &amp; falsorum è variis autoribus cum primis Botero
-							&amp; <persName ref="wd:Q1695345">Hugone Linschoto</persName> sine discri<lb break="no"
+						<p xml:id="pro1par97" facs="#facs_63_TextRegion_1617637606535_1768" n="97">
+							<lb facs="#facs_63_line_1616065765228_1138" n="N001"
+								/><bibl xml:id="Gothfredus1646">Ioh Ludov.
+									Gothofredi Archontologia Cosmica<ptr target="bm:Gottfried1646Archontologia"/></bibl><ref
+								target="#np1_f3">(f)</ref>. Farrago est vero<lb break="no"
+								facs="#facs_63_line_1617637606649_1773" n="N002"/>rum &amp; falsorum
+							è variis autoribus cum primis Botero &amp; <persName ref="wd:Q1695345"
+								>Hugone Linschoto</persName> sine discri<lb break="no"
 								facs="#facs_63_line_1617637603262_1764" n="N003"/>mine aut delectu
 							collectorum, quae nunc discriminare non vacat. Ex iis, quae supra <lb
 								facs="#facs_63_r6l9" n="N004"/>commemoravimus, quaeque in Historia
@@ -9863,51 +9893,54 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							quòd in toto illo opere vix unus autor allegatus sit, ut studiosus <lb
 								facs="#facs_63_line_1617637606650_1775" n="N006"/>lector nesciat,
 							quibus fidem adhibere debeat. <lb
-								facs="#facs_63_line_1616066170820_1268" n="N007"/><persName ref="wd:Q1509497">Georgius Hornius</persName>
-							in Historia Imperiorum &amp; Regnorum, &amp; quidem in <lb
+								facs="#facs_63_line_1616066170820_1268" n="N007"/><persName
+								ref="wd:Q1509497">Georgius Hornius</persName> in Historia Imperiorum
+							&amp; Regnorum, &amp; quidem in <lb
 								facs="#facs_63_line_1617637606651_1777" n="N008"/>orbe imperante
-								<ref target="#np1_g3">(g)</ref>. Videatur <!--<bibl>Arca Noae<ptr target=""/></bibl>--> ejusdem. <lb
-								facs="#facs_63_r6l16" n="N009"/><!--<bibl>Lucas de Linda in suo Lumine Orbis.
-							Tit. Africa, <citedRange unit="chapter">cap. XI</citedRange><ptr target="bm:"/></bibl>--> pleraque fal<lb break="no"
-								facs="#facs_63_line_1617637606652_1779" n="N010"/>sa vel malè
-							intellecta refert. </p>
+								<ref target="#np1_g3">(g)</ref>. Videatur
+							<bibl>Arca Noae<ptr target="bm:Horn1666Arca"/></bibl> ejusdem. <lb
+								facs="#facs_63_r6l16" n="N009"
+							/><bibl>Lucas de Linda in suo Lumine Orbis.
+								Tit. Africa, <citedRange unit="chapter">cap. XI</citedRange><ptr target="bm:DeLinda1666Orbis"/></bibl>
+							pleraque fal<lb break="no" facs="#facs_63_line_1617637606652_1779"
+								n="N010"/>sa vel malè intellecta refert. </p>
 						<label type="parnum" place="margin"
 							facs="#facs_63_TextRegion_1617637639126_1795">
 							<lb facs="#facs_63_line_1617637866998_1986" n="N001"/>98 </label>
 						<note place="margin" facs="#facs_63_TextRegion_1617637648752_1811">
 							<lb facs="#facs_63_r6l20" n="N001"/><persName ref="wd:Q76738">Athan. <lb
 									facs="#facs_63_r6l22" n="N002"/>Kircherus</persName><lb
-										facs="#facs_63_line_1617637648876_1818" n="N003"/><persName ref="wd:Q1901484">M.
-									Frid<lb break="no" facs="#facs_63_line_1617637648877_1820"
-									n="N004"/>Wendeli<lb break="no"
-									facs="#facs_63_line_1617637648877_1822" n="N005"
-							/>nus</persName></note>
-						<p xml:id="pr.1.98" facs="#facs_63_TextRegion_1617637648752_1812" n="98">
+								facs="#facs_63_line_1617637648876_1818" n="N003"/><persName
+								ref="wd:Q1901484">M. Frid<lb break="no"
+									facs="#facs_63_line_1617637648877_1820" n="N004"/>Wendeli<lb
+									break="no" facs="#facs_63_line_1617637648877_1822" n="N005"
+								/>nus</persName></note>
+						<p xml:id="pro1par98" facs="#facs_63_TextRegion_1617637648752_1812" n="98">
 							<lb facs="#facs_63_r6l19" n="N001"/>Athanasius Kircherus Pater Soc. Iesu
 							vir multi fariae eruditionis, &amp; plurimae <lb
 								facs="#facs_63_line_1617637639245_1799" n="N002"/>lectionis,
-							Aethiopica suis operibus passim inspersit; at in <!--<bibl xml:id="Kircher1636">Prodromo Copto<ptr target="bm:"/></bibl>-->
+							Aethiopica suis operibus passim inspersit; at in <bibl xml:id="Kircher1636">Prodromo Copto<ptr target="bm:Kircher1636Podromus"/></bibl>
 							<ref target="#np1_h3">(h)</ref> infi<lb break="no"
 								facs="#facs_63_line_1617637648875_1815" n="N003"/>nita menda, etiam
 							in lectione Latinis literis expressa, cuivis tantùm characteres no<lb
 								break="no" facs="#facs_63_r6l24" n="N004"/>scenti occurrunt; ut
 							dubitem, an typothetis omnia imputare debeam, modò ipse ju<lb break="no"
 								facs="#facs_63_line_1617637648876_1817" n="N005"/>dicium suum semper
-							adhibuisset. In <!--<bibl>Oedipo<ptr target="bm:"/></bibl>--> suo ea de
+							adhibuisset. In <bibl>Oedipo<ptr target="bm:Kircher1652Oedipus"/></bibl> suo ea de
 							Nilo habet, quae <persName ref="wd:Q708822">P. Petrus <lb
 									facs="#facs_63_line_1617637639247_1803" n="N006"
 								/>Pays</persName> ex Habessiniâ in Europam scripsit. Plura de eo
 							vide <ref target="#lib1num60">inf. I. 8. n. 60.</ref> &amp; <ref
 								target="#lib1num61">61.</ref>
 							<lb facs="#facs_63_line_1616066567519_1373" n="N007"
-							/><!--<bibl>Marcus Fridericus
-							Wendelinus admiranda Nili<ptr target="bm:"/></bibl>--> eruditè
+							/><bibl>Marcus Fridericus
+								Wendelinus admiranda Nili<ptr target="bm:Wendelin1623Admiranda"/></bibl> eruditè
 							congessit; ta<lb break="no" facs="#facs_63_line_1617637639248_1805"
 								n="N008"/>bulâ tantùm Geographicâ vulgari &amp; autoribus supra à
 							nobis rejectis decipi se pas<lb break="no"
 								facs="#facs_63_line_1617637639248_1807" n="N009"/>sus est. <lb
 								facs="#facs_63_line_1616066661650_1412" n="N010"/>Extat &amp;
-							<!--<bibl>Joh. Baptistae Scortiae Liber de Nilo<ptr target=""/></bibl>-->,
+							<bibl>Joh. Baptistae Scortiae Liber de Nilo<ptr target="bm:Scortia1617Natura"/></bibl>,
 							quem nondum vidi. </p>
 						<label type="parnum" place="margin"
 							facs="#facs_63_TextRegion_1617637946501_2048">
@@ -9921,28 +9954,30 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								n="N005"/><persName>Joh. Leo <lb
 									facs="#facs_63_line_1617637659279_1841" n="N006"
 								/>Afer.</persName></note>
-						<p xml:id="pr.1.99" facs="#facs_63_TextRegion_1617637662500_1844" n="99">
-							<lb facs="#facs_63_line_1616066743260_1468" n="N001"/><!--<bibl>M. Paulus Venetus
-								de Regionibus Orientalibus<ptr target=""/></bibl>-->. De provincia Abasciâ <lb
-								facs="#facs_63_line_1617637662640_1847" n="N002"/>(i. e. Habasch
-							Germ.) quaedam habet. Indiam intermediam vocat. Sed vix de<lb break="no"
-								facs="#facs_63_line_1617637662640_1849" n="N003"/>cima hujus
-							relationis pars ad Habassiam nostram applicari potest. Quia Marcus
-							Paulus <lb facs="#facs_63_line_1617637662641_1851" n="N004"/>ipse in hoc
-							regno non fuit, credo vatiam &amp; cum aliis regnis confusam esse illius
-								narra<lb break="no" facs="#facs_63_line_1617637662641_1853" n="N005"
-								/>tionem. <lb facs="#facs_63_line_1616066784417_1492" n="N006"/><persName ref="wd:Q332790">Johannes
-								Leo Afer</persName>, sive Leo Africanus à Scaligero &amp; Vossio laudatur, &amp;
-								<lb facs="#facs_63_line_1617637662642_1855" n="N007"/>Opus ejus
-							eximium vocatur, quòd de interioris Africae gentibus nullas scripserit
-								fa<lb break="no" facs="#facs_63_line_1617637662642_1857" n="N008"
-							/>bulas. Verba eorum habes <!--infra l. 8. 65.--> Is in descriptione Africae,
-							non ex magna <lb facs="#facs_63_line_1617637662643_1859" n="N009"
+						<p xml:id="pro1par99" facs="#facs_63_TextRegion_1617637662500_1844" n="99">
+							<lb facs="#facs_63_line_1616066743260_1468" n="N001"
+							/><bibl>M. Paulus Venetus
+								de Regionibus Orientalibus<ptr target="bm:Polo1671Regionibus"/></bibl>. De
+							provincia Abasciâ <lb facs="#facs_63_line_1617637662640_1847" n="N002"
+							/>(i. e. Habasch Germ.) quaedam habet. Indiam intermediam vocat. Sed vix
+								de<lb break="no" facs="#facs_63_line_1617637662640_1849" n="N003"
+							/>cima hujus relationis pars ad Habassiam nostram applicari potest. Quia
+							Marcus Paulus <lb facs="#facs_63_line_1617637662641_1851" n="N004"/>ipse
+							in hoc regno non fuit, credo vatiam &amp; cum aliis regnis confusam esse
+							illius narra<lb break="no" facs="#facs_63_line_1617637662641_1853"
+								n="N005"/>tionem. <lb facs="#facs_63_line_1616066784417_1492"
+								n="N006"/><persName ref="wd:Q332790">Johannes Leo Afer</persName>,
+							sive Leo Africanus à Scaligero &amp; Vossio laudatur, &amp; <lb
+								facs="#facs_63_line_1617637662642_1855" n="N007"/>Opus ejus eximium
+							vocatur, quòd de interioris Africae gentibus nullas scripserit fa<lb
+								break="no" facs="#facs_63_line_1617637662642_1857" n="N008"/>bulas.
+							Verba eorum habes <!--infra l. 8. 65.--> Is in descriptione Africae, non
+							ex magna <lb facs="#facs_63_line_1617637662643_1859" n="N009"
 							/>Geographiae inscitia, ut vir doctus <ref target="#np1_i3">(i)</ref>
 							putat, sed ex vero asserit: <!--Nilum per regionem <lb
 								facs="#facs_63_line_1617637662644_1861" n="N010"/>Nigritarum fluere.
-							Nimirum intelligit Nili brachium occidentale, qui Niger fluvius--> <lb
-								facs="#facs_63_line_1617637662645_1863" n="N011"/>appellatur. De quo
+							Nimirum intelligit Nili brachium occidentale, qui Niger fluvius-->
+							<lb facs="#facs_63_line_1617637662645_1863" n="N011"/>appellatur. De quo
 							pluribus agimus dicto loco. </p>
 						<label type="parnum" place="margin"
 							facs="#facs_63_TextRegion_1617637673598_1868">
@@ -9953,10 +9988,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_63_line_1616067258211_1580" n="N002"
 								/>per.</persName>
 						</note>
-						<p xml:id="pr.1.100" facs="#facs_63_TextRegion_1617637682758_1875" n="100">
+						<p xml:id="pro1par100" facs="#facs_63_TextRegion_1617637682758_1875" n="100">
 							<lb facs="#facs_63_line_1616067197124_1570" n="N001"
-							/><!--<bibl>Oliverius Dapper Med D.
-				descriptionem Africae<ptr target="bm:"/></bibl>--> novissimè edidit,
+							/><bibl>Oliverius Dapper Med D.
+								descriptionem Africae<ptr target="bm:Dapper1670Umbstaendliche"/></bibl> novissimè edidit,
 							atque <lb facs="#facs_63_r6l45" n="N002"/>in ea quoque Chorographiam
 							Aethiopiae nostrae cum aliquali illius descriptione. Equi<lb break="no"
 								facs="#facs_63_r6l46" n="N003"/>dem magna in evolvendis,
@@ -9988,20 +10023,22 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<note place="margin" facs="#facs_63_TextRegion_1617637713159_1888">
 							<lb facs="#facs_63_line_1617637713305_1891" n="N001"/>Geogra<lb
 								break="no" facs="#facs_63_line_1616067546190_1643" n="N002"/>phi. </note>
-						<p xml:id="pr.1.101" facs="#facs_63_TextRegion_1617637713159_1889" n="101">
+						<p xml:id="pro1par101" facs="#facs_63_TextRegion_1617637713159_1889" n="101">
 							<lb facs="#facs_63_line_1616066706721_1446" n="N001"/>Sed nulli magis
 							peccant, quàm GEOGRAPHI, quique tabulas suas Choro<lb break="no"
 								facs="#facs_63_line_1616066716314_1454" n="N002"/>graphicas non arte
 							Geographica factas, sed ex conjecturis &amp; itinerariis consarci- </p>
 						<ab type="footnote" facs="#facs_63_TextRegion_1616066716205_1450">
 							<note xml:id="np1_f3"><lb facs="#facs_63_r6l63" n="N001"/>(f) quam
-								Matth. Merianus Francofurti edidit Anno 1646.<ptr target="#Gothfredus1646"/></note>
+								Matth. Merianus Francofurti edidit Anno 1646.<ptr
+									target="#Gothfredus1646"/></note>
 							<note xml:id="np1_g3"><lb facs="#facs_63_line_1616066716318_1459"
 									n="N002"/><!--(g) Tit. Africa. Lugduni Baravorum <lb
 									facs="#facs_63_line_1616067726723_1693" n="N003"/>Anno
 								1666.<ptr target=""/>--></note>
 							<note xml:id="np1_h3"><lb facs="#facs_63_line_1616067736794_1698"
-								n="N004"/>(h) ex. gr. c. 2. pag. 39. &amp; seq<ptr target="#Kircher1636"/></note>
+									n="N004"/>(h) ex. gr. c. 2. pag. 39. &amp; seq<ptr
+									target="#Kircher1636"/></note>
 							<note xml:id="np1_i3"><lb facs="#facs_63_line_1616067744286_1704"
 									n="N005"/>(i) in dissertatione de Ecclesia Aethiopica.</note>
 							<note xml:id="np1_k3"><lb facs="#facs_63_line_1616067744286_1703"
@@ -10021,12 +10058,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_64_r1l3" n="N002"/>melioris informationis, quod planè
 							inexcusabile est. Videmus itaque in <persName ref="wd:Q232916"
 								>Ortelio</persName>, <lb facs="#facs_64_r1l4" n="N003"/><persName
-								ref="wd:Q6353">Gerardo Mercatore</persName>,<!-- Iansonio-->, in Atlante
-							majore, &amp; alibi, tabulam Chorographicam, <lb facs="#facs_64_r1l5"
-								n="N004"/>cum descriptione Aethiopiae superioris, sive imperii
-							Habessinorum, inutilem prorsus &amp; <lb facs="#facs_64_r1l6" n="N005"
-							/>ne teruncio dignam. De qua vide judicium Gregorii Aethiopis in <ref
-								type="studies" corresp="STU0002Historia">Historia mea L. I. <lb
+								ref="wd:Q6353">Gerardo Mercatore</persName>,<!-- Iansonio-->, in
+							Atlante majore, &amp; alibi, tabulam Chorographicam, <lb
+								facs="#facs_64_r1l5" n="N004"/>cum descriptione Aethiopiae
+							superioris, sive imperii Habessinorum, inutilem prorsus &amp; <lb
+								facs="#facs_64_r1l6" n="N005"/>ne teruncio dignam. De qua vide
+							judicium Gregorii Aethiopis in <ref type="studies"
+								corresp="STU0002Historia">Historia mea L. I. <lb
 									facs="#facs_64_r1l7" n="N006"/>c. 4.</ref> &amp; hic in <ref
 								target="#lib1num35">Comment. n. 35.</ref> Interim boni quidam viri
 							tali tabula decepti, gnavi<lb break="no" facs="#facs_64_r1l8" n="N007"
@@ -10059,7 +10097,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_64_line_1617639606081_2249" n="N001"/>102 </label>
 						<!--<note place="margin" facs="#facs_64_TextRegion_1617639610734_2261">
 							<lb facs="#facs_64_r1l24" n="N001"/>Clim. I. p. 5 </note>-->
-						<p xml:id="pr.1.102" facs="#facs_64_TextRegion_1617639610734_2260" n="102">
+						<p xml:id="pro1par102" facs="#facs_64_TextRegion_1617639610734_2260" n="102">
 							<lb facs="#facs_64_line_1616074359474_1746" n="N001"/>Inter Orientales
 							Geographos Nubiensis claret; quem ab <persName ref="wd:Q311462"
 								>Abulfeda</persName> nobilem <lb
@@ -10098,7 +10136,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_64_TextRegion_1617639745491_2352">
 							<lb facs="#facs_64_line_1617639757547_2366" n="N001"/>103 </label>
-						<p xml:id="pr.1.103" facs="#facs_64_TextRegion_1617639745491_2353" n="103">
+						<p xml:id="pro1par103" facs="#facs_64_TextRegion_1617639745491_2353" n="103">
 							<lb facs="#facs_64_line_1616074390068_1765" n="N001"/>Sed hoc non soli
 							huic Geographo contingit. Ple<lb break="no" facs="#facs_64_r1l38"
 								n="N002"/>raque locorum Africae &amp; Maris rubri accolarum nomina
@@ -10145,7 +10183,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_64_line_1617639861595_2431" n="N024"/>Welch- </p>
 						<ab type="footnote" facs="#facs_64_TextRegion_1616074375597_1750">
 							<note xml:id="np1_l3"><lb facs="#facs_64_line_1616075815120_2026"
-								n="N001"/>(l)<persName ref="wd:Q94944396"> Wendelinus</persName> in Admir. Nili cap. 2. §. 6. </note>
+									n="N001"/>(l)<persName ref="wd:Q94944396"> Wendelinus</persName>
+								in Admir. Nili cap. 2. §. 6. </note>
 							<note xml:id="np1_m3"><lb facs="#facs_64_line_1616075815120_2025"
 									n="N002"/>(m) in notis ad Cap. 9. in Alfergan. p. 90. Confer
 								quae <lb facs="#facs_64_line_1616075910411_2043" n="N003"/>infra
@@ -10213,11 +10252,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<label type="parnum" place="margin"
 							facs="#facs_65_region_1617640409733_2590">
 							<lb facs="#facs_65_line_1617640417341_2593" n="N001"/>104 </label>
-						<note place="margin" facs="#facs_65_region_1617640458009_2612">
-							<lb facs="#facs_65_r3l39" n="N001"/>Numeri in <lb facs="#facs_65_r3l41"
-								n="N002"/>textu Hist. <lb facs="#facs_65_line_1617640436464_2605"
-								n="N003"/>Aethiop. </note>
-						<p xml:id="pr.1.104" facs="#facs_65_TextRegion_1617640436348_2601" n="104">
+						<p xml:id="pro1par104" facs="#facs_65_TextRegion_1617640436348_2601" n="104">
 							<lb facs="#facs_65_r3l27" n="N001"/>Vix hodie reperiuntur illae
 							provinciae, quae à Patribus Societatis recensentur <lb
 								facs="#facs_65_r3l28" n="N002"/><ref target="np1_q3">(q)</ref>; de
@@ -10242,16 +10277,687 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								n="N013"/>Historiae nostrae posuimus, pergemus. </p>
 					</div>
 					<div xml:id="proenum2" type="textpart" subtype="note">
-						<ab><!--Add here relevant transcription for note 2 to book 1--></ab>
+						<note place="margin" facs="#facs_65_region_1617640458009_2612">
+							<lb facs="#facs_65_r3l39" n="N001"/>Numeri in <lb facs="#facs_65_r3l41"
+								n="N002"/>textu Hist. <lb facs="#facs_65_line_1617640436464_2605"
+								n="N003"/>Aethiop. </note>
+						<label type="parnum" place="margin"
+							facs="#facs_65_region_1617640637924_2686">
+							<lb facs="#fnotacs_65_r3l45" n="N001"/><ref type="studies"
+								corresp="STU0002Historia">Prooem. II.</ref>
+						</label>
+						<label type="parnum" place="margin"
+							facs="#facs_65_region_1617640579661_2660">
+							<lb facs="#facs_65_line_1617640580081_2663" n="N001"/>1 </label>
+						<note place="margin" facs="#facs_65_region_1617640597094_2676">
+							<lb facs="#facs_65_r3l51" n="N001"/><foreign xml:lang="de"> Schlauer<lb
+									break="no" facs="#facs_65_r3l52" n="N002"
+							/>Affen-Land</foreign>.</note>
+						<p xml:id="pro2par1" facs="#facs_65_TextRegion_1617640690628_2728">
+							<lb facs="#facs_65_line_1617640436465_2607" n="N001"/>N<hi
+								rend="fontSize:0.0; kerning:0; superscript:true;">õ</hi>. II.
+							Nonnulli malè feriati Aethiopiam pro argumento fabu<lb break="no"
+								facs="#facs_65_r3l46" n="N002"/>larum suarum sumserunt, tanquam de
+							nulla alia regione jucundius <lb facs="#facs_65_r3l47" n="N003"
+							/>fabulari vel tutiùs mentiri liceret.] Id est: Otiosi homines, qui
+							fabulosis <lb facs="#facs_65_r3l48" n="N004"/>magis &amp; jocosis quàm
+							veris &amp; seriis delectantur, tot falsa vulgaverunt; Aethiopiae <lb
+								facs="#facs_65_r3l49" n="N005"/>quodam fato, de qua plures quàm de
+							ulla alia Orbis regione fabulae reperiuntur. <lb facs="#facs_65_r3l50"
+								n="N006"/>Hîc prisca Gulonum regio, nobis <foreign xml:lang="de"
+								>Schlaueraffen-Land</foreign><ref target="#np2_r">(r)</ref> /Gallis
+								<foreign xml:lang="fr">Pais de Coucagne</foreign>, ani<lb break="no"
+								facs="#facs_65_r3l53" n="N007"/>lis fabella ex veterum fabula de
+							Solis mensa (<foreign xml:lang="gr">ἡλίου τράπεζα</foreign>) nata, de
+							qua <!--Herodotus-->
+							<ref target="#np2_s">(s)</ref>, <lb facs="#facs_65_r3l54" n="N008"
+							/>postquam retulisset;<q source="#Hdtlib3"> Cambysen ex insanâ bellandi
+								lubidine, etiam bellum in Aethiopes Ma<lb break="no"
+									facs="#facs_65_r3l55" n="N009"/>crobios cogitavisse: &amp;
+								propterea Legatos ad Regem illorum cum muneribus exploratum <lb
+									facs="#facs_65_r3l56" n="N010"/>misisse, simul ut inspicerent,
+								an vera essent, quae de Solis mensa vulgarentur</q>. Subjungit:
+								<quote xml:id="Hdt3par18" xml:lang="gre"
+								source="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.18.1"><lb
+									facs="#facs_65_r3l57" n="N011"/>ἡ δὲ τράπεζα τοῦ ἡλίου τοιήδε
+								τις λέγεται εἶναι</quote>;<q corresp="#Hdt3par18" type="traslation">
+								Mensa autem Solis talis quadam esse dicitur</q>. Relata <lb
+								facs="#facs_65_r3l58" n="N012"/>refert:<q
+								source="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.18.1"> Esse
+								in Aethiopia pratum in suburbio carnibus assatis omnium quadrupedum
+									refer<lb break="no" facs="#facs_65_r3l59" n="N013"/>tum; eas
+								noctu summo studio à magistratibus loci apponi: at illucescente die
+								ab omnibus <lb facs="#facs_65_r3l60" n="N014"/>accedere volentibus
+								depasci. Incolas dicere terram id ex se prabere</q>. In fine hujus
+								nar<lb break="no" facs="#facs_65_r3l61" n="N015"/>rationis iteratò
+							dicit Herodotus: <quote xml:id="Hdt3par19" xml:lang="gre"
+								source="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.19.1">ἡ μὲν
+								δὴ τράπεζα τοῦ ἡλίου καλεομένη λέγεται εἶναι τοιήδε</quote>:<q
+								corresp="#Hdt3par19" type="traslation"> Mensa <lb
+									facs="#facs_65_line_1617640690749_2731" n="N016"/>equidem Solis
+								vocata dicitur talis esse.</q> Ne quis putet illum talia credidisse. </p>
+						<label type="parnum" place="margin"
+							facs="#facs_65_region_1617640584692_2668">
+							<lb facs="#facs_65_line_1617640585101_2671" n="N001"/>2 </label>
+						<note place="margin" facs="#facs_65_region_1617640604588_2679">
+							<lb facs="#facs_65_line_1617640116125_2492" n="N001"/><ref
+								cRef="urn:cts:latinLit:phi0929.phi001" xml:id="Melalib3">L. III. c.
+								10.</ref></note>
+						<p xml:id="pro2par2" facs="#facs_65_TextRegion_1617640707632_2739">
+							<lb facs="#facs_65_line_1617640690749_2732" n="N001"/>Ast alii
+							simpliciter referunt, sine ulla <foreign xml:lang="gre"
+								>ἐπικρίσει</foreign>, qui propterea dicam merentur. <lb
+								facs="#facs_65_line_1617640116125_2493" n="N002"/>Veluti <persName
+								ref="wd:Q297515">Pomponius Mela</persName>, qui nimis incautè claris
+							verbis scribit:<q source="#Melalib3"> Est locus in Aethiopia. <lb
+									facs="#facs_65_r3l66" n="N003"/>appa-</q>
+						</p>
+						<ab type="footnote" facs="#facs_65_TextRegion_1617640707632_2738">
+							<note xml:id="np1_p3"><lb facs="#facs_65_line_1617640707734_2741"
+									n="N001"/>(p) hoc pacto Helvetii &amp; Florentini plebeji K
+								pronunciant; Chruͤtzer pro Kreutzer/ Charozza pro Ca<lb break="no"
+									facs="#facs_65_r3l68" n="N002"/>νοzid &amp;c.</note>
+							<note xml:id="np1_q3">(q) Rel. ann. 1607. &amp; 608. Cap. XV. pag. 61.
+								6.</note>
+							<note xml:id="np1_r3">(r) In <ref type="studies"
+									corresp="STU0002Historia">Historia mea quidem l. 14. 37. lit.
+									K.</ref><lb facs="#facs_65_r3l69" n="N003"/>not, exposui
+								popularem fabulam de mensa Solis Schleyeraffen Land/ q. d
+								Calanticatarum simiarum, sed potius <lb facs="#facs_65_r3l70"
+									n="N004"/>mihi nunc exponendum videtur Schlauer-Affen-Land
+								Astutarum simiarum regionem intelligi.</note>
+							<note xml:id="np2_s">(s) <ref xml:id="Hdtlib3"
+									cRef="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.17.1">Lib.
+									III. <lb facs="#facs_65_r3l71" n="N005"/>in Thalia</ref>.</note>
+						</ab>
+						<pb facs="#facs_66" xml:id="gb_VOtTAAAAcAAJ_000066.jpeg" n="66"/>
+						<fw facs="#facs_66_TextRegion_1620628853728_47">
+							<lb facs="#facs_66_line_1620628853962_50" n="N001"/>24 Fabulae de
+							Aethiopia plerumque desumtae. </fw>
+						<label type="notnum" facs="#facs_66_TextRegion_1620628927891_83">
+							<lb facs="#facs_66_line_1620628842207_39" n="N001"/><ref type="studies"
+								target="STU0002Historia">Prooem II</ref>. </label>
+						<p facs="#facs_66_TextRegion_1620641320931_2978">
+							<lb facs="#facs_66_line_1620628853962_51" n="N001"/>
+							<q source="#Melalib3">apparatis epulis semper refertus, &amp; quibus
+								libet vesci volentibus licet, (<foreign xml:lang="gre">ἡλίου
+									τράπεζα</foreign>
+								<lb facs="#facs_66_line_1620628842207_40" n="N002"/>appellant) &amp;
+								quae passim apposita sunt, innascuntur subinde divinitùs</q>. Et
+								<persName ref="wd:Q3417362">Raphael Vola<lb break="no"
+									facs="#facs_66_r1l4" n="N003"/>terranus</persName>
+							<ref target="np2_t">(t)</ref>, quasi crimen esset, fabulas oblivisci,
+							rem ita narrat, ut credere videatur. <lb facs="#facs_66_r1l5" n="N004"
+							/>Melam primò loco nominat, quasi ille non ex Herodoto didicisset,
+							insuper Hierony<lb break="no" facs="#facs_66_line_1620641321066_2981"
+								n="N005"/>mi prooemium sacrorum voluminum allegat, quasi veritatis
+							alicujus stabiliendae causa. </p>
+						<label type="parnum" place="margin" facs="#facs_66_r3">
+							<lb facs="#facs_66_r3l1" n="N001"/>3 </label>
+						<note place="margin" facs="#facs_66_TextRegion_1620628941588_88">
+							<lb facs="#facs_66_r1l25" n="N001"/><persName ref="wd:Q352810">Brigant.
+									<lb facs="#facs_66_r1l28" n="N002"/>Franc. de <lb
+									facs="#facs_66_r1l31" n="N003"/>Morays</persName>. </note>
+						<p xml:id="pro2par3" facs="#facs_66_TextRegion_1620641320931_2977">
+							<lb facs="#facs_66_r1l7" n="N001"/>Sed de Habessiniâ nostra B. Tellezii
+							verba audiamus; sic ille in historiae suae <lb facs="#facs_66_r1l8"
+								n="N002"/>primordio <bibl xml:id="Teleslib1cap1">Lib. I. <citedRange
+									unit="chapter">c. 1.</citedRange>
+								<citedRange unit="page">p. 2. 3.</citedRange><ptr
+									target="bm:Teles1660Historia"/></bibl>
+							<lb facs="#facs_66_r1l10" n="N003"/><quote xml:id="Tellib1cap1"
+								source="#Teleslib1cap1" xml:lang="pt">E tanto mays julguey que seria
+								esta obra melhor <lb facs="#facs_66_r1l12" n="N004"/>aceyta, que
+								muytas cousas d'aquellas partes ou <lb facs="#facs_66_r1l14"
+									n="N005"/>andam depravadas comsicçoens de autores apo<lb
+									break="no" facs="#facs_66_r1l16" n="N006"/>criphos; ou
+								diminuidas por falta de bastantes &amp; <lb facs="#facs_66_r1l18"
+									n="N007"/>certas enformaçoens, que por estas duas causas <lb
+									facs="#facs_66_r1l20" n="N008"/>se fingitam de Ethiopia
+								historias mays aërias, &amp; <lb facs="#facs_66_r1l22" n="N009"
+								/>mays escuzadas no mundo, do que foram as do <lb
+									facs="#facs_66_r1l24" n="N010"/>nosso insigne <persName
+									ref="wd:Q352810">Brigantino Francisco de Morays</persName>, no
+									<lb facs="#facs_66_r1l27" n="N011"/>seu muy celebrado, &amp;
+								fabuloso <!--Palmeyrim de Ing<lb break="no" facs="#facs_66_r1l30"
+									n="N012"/>laterra-->, por que este autor com a amenidade de
+									<lb facs="#facs_66_r1l33" n="N013"/>seu florido engenho, &amp;
+								com a suavidade de seu <lb facs="#facs_66_r1l35" n="N014"/>eloquente
+								estylo so pretendeo recrear a os ley<lb break="no"
+									facs="#facs_66_r1l37" n="N015"/>tores, com fabulas doutas, &amp;
+								com ficçoens enge<lb break="no" facs="#facs_66_r1l39" n="N016"
+								/>nhosas; Mas aquelles escritores quizeram com <lb
+									facs="#facs_66_r1l41" n="N017"/>falsidades persuadir a os
+								innocentes que os liam, <lb facs="#facs_66_r1l43" n="N018"
+								/>cambiandolhe mentiras atrevidas por contas &amp; <lb
+									facs="#facs_66_r1l44" n="N019"/>verdades preciosas.</quote>
+							<q corresp="Tellib1cap1" type="traslation"><lb facs="#facs_66_r1l9"
+									n="N020"/>Eoque magis judicavi acceptius fore hoc meum <lb
+									facs="#facs_66_r1l11" n="N021"/>opus, quo certior sum plurimas
+								res illarum parti<lb break="no" facs="#facs_66_r1l13" n="N022"/>um
+								(Habessiniae) vel corruptas esse figmentis auto<lb break="no"
+									facs="#facs_66_r1l15" n="N023"/>rum apocryphorum: vel male
+								traditas defectu suf<lb break="no" facs="#facs_66_r1l17" n="N024"
+								/>ficientium &amp; certarum relationum. Propter istas <lb
+									facs="#facs_66_r1l19" n="N025"/>duas causas confictae fuerunt de
+								Aethiopia historiae <lb facs="#facs_66_r1l21" n="N026"/>vanissimae,
+								magisque inanes quàm illae, quas noster <lb facs="#facs_66_r1l23"
+									n="N027"/>insignis Brigantinus Franciscus de Morays, in suo <lb
+									facs="#facs_66_r1l26" n="N028"/>famoso &amp; fabuloso Palmerino
+								Anglo (Palmeyrim <lb facs="#facs_66_r1l29" n="N029"/>de Inglaterra)
+								congessit. Quia autor iste amoenita<lb break="no"
+									facs="#facs_66_r1l32" n="N030"/>te floridi sui ingenii, &amp;
+								suavitate eloquentis styli <lb facs="#facs_66_r1l34" n="N031"/>sui
+								tantùm recreare volebat lectores suos fabulis <lb
+									facs="#facs_66_r1l36" n="N032"/>doctis &amp; ingeniosis
+								inventis: at isti scriptores falsis <lb facs="#facs_66_r1l38"
+									n="N033"/>narratis imponere paraverunt simplicioribus, qui <lb
+									facs="#facs_66_r1l40" n="N034"/>illos legebant, mendacia
+								impudentissima pro <lb facs="#facs_66_r1l42" n="N035"/>praeclaris
+								relationibus venditantes.</q></p>
+						<label type="parnum" place="margin" facs="#facs_66_r2">
+							<lb facs="#facs_66_r2l1" n="N001"/>4 </label>
+						<note facs="#facs_66_TextRegion_1620628951127_93">
+							<lb facs="#facs_66_r1l45" n="N001"/><persName ref="wd:Q129772">Xeno<lb
+									break="no" facs="#facs_66_r1l47" n="N002"/>phon.</persName>
+							<lb facs="#facs_66_r1l63" n="N003"/>Pr. I. 37. </note>
+						<p xml:id="pro2par4" facs="#facs_66_TextRegion_1620628894818_63">
+							<lb facs="#facs_66_line_1620628872230_58" n="N001"/>Inprimis <persName
+								ref="wd:Q129772">XENOPHON</persName> falsa veris miscuit, <ref
+								target="#np2_u">(u)</ref> non tam historicae serviens veri<lb
+								break="no" facs="#facs_66_r1l48" n="N002"/>tati, quàm ut perfectum
+							instrueret ducem. Nam ut <persName ref="wd:Q1541">Cicero</persName>
+							<ref target="#np2_x">(x)</ref> loquitur, <quote source="#CicEp1">CYRUS à
+									<lb facs="#facs_66_r1l50" n="N003"/>Xenophonte non ad historiae
+								fidem scriptus est, sed ad effigiem justi imperii</quote>. Apposite
+								<lb facs="#facs_66_r1l51" n="N004"/><ref
+								cRef="urn:cts:latinLit:stoa0045.stoa014.perseus-lat1"
+								xml:id="AusGrat">Ausoniu</ref>, Xenophontem quasi alloquens:<quote
+								source="#AusGrat"> Ad Cyri virtutes exequendas votum potiùs <lb
+									facs="#facs_66_r1l53" n="N005"/>quàm historiam commodasti, cùm
+								diceres non qualis esset, sed qualis esse
+								deberet</quote>.<!--<ref target="#Scalp31">Ioseph <lb
+									facs="#facs_66_r1l54" n="N006"/>Scaliger--><!-- </ref>--><ref
+								target="#np2_y">(y)</ref> pleniùs adhuc &amp; acriùs:<quote
+								source="#Scalp31"> Nam Xenophontem tam constat Historiam noluisse
+									<lb facs="#facs_66_r1l55" n="N007"/>scribere, sed exemplum bene
+								educti Principis proponere, quàm certum est, nihil in tota Cyri <lb
+									facs="#facs_66_r1l56" n="N008"/>paedia verum esse, praeter sola
+								nomina, &amp; nudam mentionem duorum aut trium casuum, ut <lb
+									facs="#facs_66_r1l57" n="N009"/>Babylonis captae, Croesi victi.
+								Sed tempora, series rerum gestarum, &amp;c. &amp; alia omnia <lb
+									facs="#facs_66_r1l58" n="N010"/>vera sunt, si vera sunt <ref
+									cRef="urn:cts:greekLit:tlg0658.tlg001.opp-eng1">Aethiopica
+									Heliodori</ref>.<seg> Paulo post:</seg> Fecit quod <foreign
+									xml:lang="gre">σοφισταὶ</foreign> aquales suo<lb break="no"
+									facs="#facs_66_r1l59" n="N011"/>rum temporum faciebant.
+								Deligebant personas ex medio priscae Historiae, quas his coloribus
+									<lb facs="#facs_66_r1l60" n="N012"/>pingebant, quibus putabant
+								se animos lectorum ad virtutem excitare.</quote> Hoc colore lice<lb
+								break="no" facs="#facs_66_r1l61" n="N013"/>at cuilibet, hominum
+							mores &amp; actiones persequi; at naturae artisque miracula excogi<lb
+								break="no" facs="#facs_66_r1l62" n="N014"/>tare (quod equidem artis
+							non est:) &amp; opes stupendas, gemmas, Bibliothecas comminisci, <lb
+								facs="#facs_66_line_1620628894959_68" n="N015"/>quem quaeso juvat?
+							aut quis ad breve tempus miratur, nisi abjecti ingenii homines. </p>
+						<label type="parnum" place="margin" facs="#facs_66_region_1620629594554_234">
+							<lb facs="#facs_66_line_1620629605942_237" n="N001"/>5 </label>
+						<note place="margin" facs="#facs_66_TextRegion_1620628951127_92">
+							<lb facs="#facs_66_line_1620628842223_43" n="N001"/><persName
+								ref="wd:Q313011">Heliodo<lb break="no" facs="#facs_66_r1l67"
+									n="N002"/>rus</persName>. </note>
+						<p xml:id="pro2par5" facs="#facs_66_TextRegion_1620630316568_418">
+							<lb facs="#facs_66_line_1620628894959_69" n="N001"/><ref
+								cRef="urn:cts:greekLit:tlg0658.tlg001">Heliodorus</ref> igitur modo
+							nominatus de Theagene &amp; Charielea fabulam com<lb break="no"
+								facs="#facs_66_r1l68" n="N002"/>posuit, quam Aethiopiae historiam
+							inscripsit, in oratione soluta Poetarum lusus imitatus. <lb
+								facs="#facs_66_r1l69" n="N003"/><ref target="#np2_z">(z)</ref>
+							Graeculum ergo est inventum, quod secuti sunt otiosi superioris &amp;
+							hujus seculi <lb facs="#facs_66_r1l70" n="N004"/>homines, fabulosas
+							&amp; plerumque amatorias historias concinnantes, quas Itali Roman<lb
+								break="no" facs="#facs_66_r1l71" n="N005"/>zi, Galli Romans
+							appellant, styli &amp; ingenii ostentandi causa, quasi id in tot veris
+								histo<lb break="no" facs="#facs_66_r1l72" n="N006"/>riis praestare
+							non possent. Hos <!--Gorraus Gallus--> sed infeliciter satis imitatus
+							est, qui <lb facs="#facs_66_line_1620630531208_489" n="N007"/>Amadisum
+							aliasque plures hujus farinae fabulas composuit. </p>
+						<label type="parnum" place="margin" facs="#facs_66_r4">
+							<lb facs="#facs_66_r4l1" n="N001"/>6 </label>
+						<p xml:id="pro2par6" facs="#facs_66_TextRegion_1620630316568_417">
+							<lb facs="#facs_66_line_1620630357802_455" n="N001"/>
+							<persName ref="wd:Q4678889">Adam Contzen</persName> P. Soc. <lb
+								facs="#facs_66_line_1620630316662_422" n="N002"/>Iesu in doctrina
+							sua civili, <ref target="np2_a">(a)</ref> educationem Principis
+							descripturus, Habessinorum re<lb break="no" facs="#facs_66_r1l76"
+								n="N003"/>gnum &amp; mores pro exemplo sumsit, talibus
+							circumstantiis additis, ut ab imperitioribus <lb facs="#facs_66_r1l78"
+								n="N004"/>pro vera haberi possit historia. Plures tales fabulas
+							referre piget, qualis
+							est<!-- <bibl>Ty<lb break="no" facs="#facs_66_r1l79" n="N005"
+							/>chander Hieronymi Dureri, qui p. 290.<ptr target="bm:"/></bibl>-->
+							etiam Habessiniam admiscuit <ref target="np2_a">(b)</ref>. <lb
+								facs="#facs_66_r1l80" n="N006"/>[De origine fabularum Romanensium
+							elegantem &amp; eruditum libellum ante ali<lb break="no"
+								facs="#facs_66_r1l81" n="N007"/>quot annos edidit Clariss. Pet. Dan.
+							Huetius, qui Orientis populis originem earùm tri<lb break="no"
+								facs="#facs_66_line_1620628907497_77" n="N008"/>buit </p>
+						<ab type="footnote" facs="#facs_66_TextRegion_1620628907356_73">
+							<note xml:id="np2_t"><lb facs="#facs_66_line_1620628907497_78" n="N001"
+								/>(t)
+								<!--<bibl>Geographia Lib. XII. tit. Aethiopia.<ptr target="bm:"/></bibl>--></note>
+							<note xml:id="np2_u">(u) In vita &amp; disciplina Cyri <ref
+									cRef="urn:cts:greekLit:tlg0032.tlg007">Κύρου Παιδείας</ref>
+								vocat.</note>
+							<note xml:id="np2_x">(x) <ref
+									cRef="urn:cts:latinLit:phi0474.phi058.perseus-lat1:1.1"
+									xml:id="CicEp1">Lib. <lb facs="#facs_66_r1l84" n="N002"
+									/><!--[z.]--> de Orat. ad Quint. fratrem</ref>.</note>
+							<note xml:id="np2_y"><lb facs="#facs_66_r1l85" n="N003"/>(y) <bibl
+									xml:id="Scalp31">In proleg. de Emend. Tempor. <citedRange
+										unit="page">p. m. 31</citedRange>. in fin.<ptr
+										target="bm:Scaliger1629Emendatione"/></bibl></note>
+							<note xml:id="np2_z">(z) Volaterranus <lb facs="#facs_66_r1l86" n="N004"
+								/>ex supina incogitantia inter veros scriptores illum
+								recensuit.<!--<bibl> Geograph. Lib. 12. tit.
+						Aethiopia<ptr target="bm:"/></bibl>-->.</note>
+							<note xml:id="np2_a">(a)Titulus <lb facs="#facs_66_r1l87" n="N005"
+								/>Libri est:
+								<!--<bibl>Methodus doctrina Civilis, sive Abissini Regis Historia autore P. Adamo Conigen.
+					Colon. 1648. in 2.<ptr target="bm:"/></bibl>--></note>
+							<note xml:id="np2_b">(b) <lb facs="#facs_66_r1l88" n="N006"/>Titulus
+								libelli est:
+								<!--<bibl xml:id="Durer1668">Lauff der Welt und Spiel deß Gluͤcks. Hamburg 1668.</bibl><-->
+							</note>
+						</ab>
+						<pb facs="#facs_67" xml:id="gb_VOtTAAAAcAAJ_000067.jpeg" n="67"/>
+						<fw facs="#facs_67_TextRegion_1620631320073_769">
+							<lb facs="#facs_67_line_1620631320160_772" n="N001"/>Peregrinationum
+							scriptores. 25 </fw>
+						<p facs="#facs_67_TextRegion_1620631320073_768">
+							<lb facs="#facs_67_line_1620631320164_775" n="N001"/>buit, scilicet
+							rudem &amp; crudam. Si verò formam ipsam &amp;
+							<!--<persName>Clearchum</persName>-->, primum qui Grae<lb break="no"
+								facs="#facs_67_r2l5" n="N002"/>cè scripsit, spectes, non sine
+							ratione Graeculum vocaveris inventum in Graecia excultum <lb
+								facs="#facs_67_r2l7" n="N003"/>atque politum. Prout <ref
+								cRef="urn:cts:greekLit:tlg4040.tlg001" xml:id="Photius"
+								>Photius</ref> de <persName ref="wd:Q606249">Antonio
+								Diogene</persName> talis fabulae autore scribit:<q source="#Photius"
+								> Ex eo <lb facs="#facs_67_line_1620631317432_766" n="N004"/>tanquam
+								fonte manasse Luciani Jamblichi, &amp; similium autorum
+							commenta</q>. </p>
+
 					</div>
 					<div xml:id="proenum3" type="textpart" subtype="note">
-						<ab><!--Add here relevant transcription for note 3 to book 1--></ab>
+						<label type="notnum" place="margin"
+							facs="#facs_67_TextRegion_1620631523844_860">
+							<lb facs="#facs_67_r2l4" n="N001"/><ref type="studies"
+								corresp="STU0002Historia">Prooem. <lb facs="#facs_67_r2l6" n="N002"
+								/>III.</ref> &amp;c. </label>
+						<note place="margin" facs="#facs_67_TextRegion_1620631600433_902">
+							<lb facs="#facs_67_line_1620631094521_560" n="N001"/>Urreta.</note>
+						<p xml:id="pro3par1" facs="#facs_67_TextRegion_1620631317327_762">
+							<lb facs="#facs_67_line_1620631094521_561" n="N001"/>N<hi
+								rend="fontSize:0.0; kerning:0; superscript:true;">õ</hi>. III.
+							Ludovicus Urreta monachus Valentianus.] De hoc ger<lb break="no"
+								facs="#facs_67_line_1620631314574_758" n="N002"/>rone supra <ref
+								target="#pro1parar34">N. I §. 34. &amp; seq</ref> satis superque
+							dictum, ut ferè pigeat, ejus hîc rursus meminisse. </p>
 					</div>
 					<div xml:id="proenum4" type="textpart" subtype="note">
-						<ab><!--Add here relevant transcription for note 4 to book 1--></ab>
+						<note place="margin" facs="#facs_67_TextRegion_1620631632076_913">
+							<lb facs="#facs_67_line_1620631094525_564" n="N001"/>Baratti. <lb
+								facs="#facs_67_r2l14" n="N002"/><ref target="#pro1parar44">N. I. §.
+								44.</ref>
+						</note>
+						<p xml:id="pro4par1" facs="#facs_67_TextRegion_1620631314474_752">
+							<lb facs="#facs_67_line_1620631314574_759" n="N001"/>N.<hi
+								rend="fontSize:0.0; kerning:0; superscript:true;">õ</hi> IV.
+							<!--<persName>Jacobus Baratti</persName>--> Italus.] Quae de hoc
+							nugatore supra dicta <lb facs="#facs_67_line_1620631094526_567" n="N002"
+							/>sunt, hîc repetere nolumus. Unum addimus, admiratione dignum esse,
+							fabulatorem <lb facs="#facs_67_line_1620631094528_569" n="N003"/>hunc in
+							alias linguas versum fuisse. Anglicè quoque à G. D. Anglo expressus est
+								<ref target="#np4_c">(c)</ref>; <lb
+								facs="#facs_67_line_1620631094530_571" n="N004"/>qui si ea credidit,
+							quae in dedicatione sua <persName>Thoma Windhamo</persName> persuadere
+							conatur, cur <lb facs="#facs_67_r2l17" n="N005"/>nomen suum non
+							expressit? Argumento utitur interpres valdè infirmo &amp; falso:<q
+								source="#Baratti1670tra"> non <lb facs="#facs_67_r2l18" n="N006"
+								/>ausurum fuiße Barattum opusculum suum in Italia edere, nisi
+								veritate niteretur</q>: Ratio<lb break="no" facs="#facs_67_r2l19"
+								n="N007"/>nes fingit:<q source="#Baratti1670Tra"> quòd Principes ibi
+								per mercatores suos commercium literarum cum Magno Ne<lb break="no"
+									facs="#facs_67_r2l20" n="N008"/>guço habeant</q>. Sic nugas
+							nugis auget. Addit: <quote xml:id="BarattiPrae" source="#Baratti1670Tra"
+									><lb facs="#facs_67_r2l21" n="N009"/>His book had not found that
+								universal ap<lb break="no" facs="#facs_67_r2l23" n="N010"/>plause to
+								be twice honoured with the <lb facs="#facs_67_r2l25" n="N011"/>preß
+								&amp;c.</quote><q type="traslation" corresp="BarattiPrae"><lb
+									facs="#facs_67_line_1620631094531_573" n="N012"/>Librum hunc non
+								bis impressum fuis<lb break="no" facs="#facs_67_r2l24" n="N013"/>se,
+								nisi universalem applausum meritus <lb facs="#facs_67_r2l26"
+									n="N014"/>esset.</q>
+							<lb facs="#facs_67_r2l27" n="N015"/>Si igitur interpres putavit emptores
+							librorum decipi posse, si intitulis legatur, Editio <lb
+								facs="#facs_67_line_1620631310563_748" n="N016"/>secunda; mirum est,
+							quod ipse titulo suo non addiderit The third edition. Editio tertia.
+						</p>
 					</div>
 					<div xml:id="proenum5" type="textpart" subtype="note">
-						<ab><!--Add here relevant transcription for note 5 to book 1--></ab>
+						<label type="parnum" place="margin" facs="#facs_67_region_1620631804575_995">
+							<lb facs="#facs_67_line_1620631795336_990" n="N001"/>1 </label>
+						<note place="margin" facs="#facs_67_TextRegion_1620631930641_1027">
+							<lb facs="#facs_67_line_1620631094535_576" n="N001"/>Peregrin. <lb
+								facs="#facs_67_line_1620631094537_578" n="N002"/>scriptor. </note>
+						<p xml:id="pro5par1" facs="#facs_67_TextRegion_1620631831884_1002">
+							<lb facs="#facs_67_line_1620631310564_749" n="N001"/>N<hi
+								rend="fontSize:0.0; kerning:0; superscript:true;">õ</hi>. V.
+							Peregrinationum scriptores] Itineraria pleraque exiguae <lb
+								facs="#facs_67_line_1620631094537_579" n="N002"/>sunt fidei. Quae
+							obvius quisque bono malove interprete narrat, in codicillos refe<lb
+								break="no" facs="#facs_67_line_1620631094539_581" n="N003"/>runtur,
+							atque promiscuè vulgantur. Quae quis unum peregrinum facere videt, <lb
+								facs="#facs_67_r2l32" n="N004"/>omnes facere putat, ita plerumque à
+							particulari ad universale argumentari solent pe<lb break="no"
+								facs="#facs_67_r2l33" n="N005"/>regrinatores. </p>
+						<label type="parnum" place="margin" facs="#facs_67_r1">
+							<lb facs="#facs_67_line_1620631468805_839" n="N001"/>2 </label>
+						<note place="margin" facs="#facs_67_TextRegion_1620631930641_1026">
+							<lb facs="#facs_67_line_1620631094542_582" n="N001"/><persName
+								ref="wd:Q66514">Leonh. <lb facs="#facs_67_line_1620631094543_584"
+									n="N002"/>Rauchwolf</persName>.<lb facs="#facs_67_r2l39"
+								n="N003"/><ref xml:id="Rothlib2" target="#Roth1609">L.II. c.
+								8.</ref></note>
+						<p xml:id="pro5par2" facs="#facs_67_TextRegion_1620632169565_1173">
+							<lb facs="#facs_67_line_1620631832006_1004" n="N001"/>Ejuscemodi
+							itineraria sine judicio &amp; sine ullo delectu collegit,
+							&amp;<!--<bibl xml:id="Roth1609"> Anno 1609. im<lb break="no"
+					facs="#facs_67_r2l35" n="N002"/>pressit Nicolaus Roth Bibliopola
+				Francofurtensis<ptr target="bm:"/></bibl>-->; ne praelum otiaretur.
+							Inter ea <lb facs="#facs_67_r2l36" n="N003"/>habetur: <lb
+								facs="#facs_67_line_1620631094542_583" n="N004"/>Itinerarium
+								<persName ref="wd:Q66514">Leonhardi Rauchwolffii</persName> Med. D.
+							qui scribit:<q source="#Rothlib2"> Relatum fuis<lb break="no"
+									facs="#facs_67_line_1620631094543_585" n="N005"/>se, Persas
+								duodecimo ante adventum suum in Palaestinam anno, <ref
+									target="#np5_d">(d)</ref> foedus cum Pres<lb break="no"
+									facs="#facs_67_r2l40" n="N006"/>bytero Iohanne pepigisse, ut
+								missis auxiliis Religio Christiana in Persiam introduceretur. <lb
+									facs="#facs_67_r2l41" n="N007"/>Itaque Patriarcham quendam cum
+								sacerdotibus missum, ultra viginti urbes ad Christi fi<lb break="no"
+									facs="#facs_67_r2l42" n="N008"/>dem convertiße</q>. Insignem
+							hanc fabulam tanquam veram historiam transscripsit <lb
+								facs="#facs_67_line_1620631094545_587" n="N009"/><persName
+								ref="wd:Q706203">Philippus Nicolai</persName>
+							<ref target="#np5_e">(e)</ref> diserte dicens:<q source="#Nicolai1607">
+								Aethiopes hoc praestitisse, ut brevi duodecim anno<lb break="no"
+									facs="#facs_67_line_1620631094546_589" n="N010"/>rum spatio plus
+								quàm viginti urbes Christianae religionis dogmate imbutae fuerint,
+								atque <lb facs="#facs_67_line_1620632169665_1176" n="N011"/>inter
+								eas Metropolis Samarcanda. Ex quo solo vanitatem hujus relationis
+								conjicere <lb facs="#facs_67_line_1620632169666_1177" n="N012"
+								/>potuisset</q>.</p>
+						<label type="parnum" place="margin"
+							facs="#facs_67_region_1620632156392_1163">
+							<lb facs="#facs_67_line_1620632157247_1166" n="N001"/>3 </label>
+						<p xml:id="pro5par3" facs="#facs_67_TextRegion_1620632169565_1172">
+							<lb facs="#facs_67_line_1620632169666_1179" n="N001"/>Idem Rauchwolf cum
+							audivisset Regem
+							Aethiopiae <persName ref="PRS6229LebnaDe">Libna Denghe<lb break="no" facs="#facs_67_r2l48" n="N002"/>lum</persName>
+							tempore inaugurationis suae assumsisse sibi nomen Davidis, confidenter
+							de omni<lb break="no" facs="#facs_67_r2l49" n="N003"/>bus Regibus
+							scribit d. l.<quote xml:id="Roth" xml:lang="de" source="#Roth1609">
+								<lb facs="#facs_67_r2l50" n="N004"/>Ihren Koͤnigen wird im Eingang
+								ihrer <lb facs="#facs_67_r2l52" n="N005"/>Regierung der Zunahm David
+									gege<lb break="no" facs="#facs_67_r2l54" n="N006"/>ben / welche
+								sonst auch Lederwyck: <lb facs="#facs_67_r2l56" n="N007"/>von
+								Persiern aber AMMA <seg>[En! portentosa <lb facs="#facs_67_r2l58"
+										n="N008"/>vocabula! de quibus infra <ref target="#lib2num4"
+										>Lib. II. c. 1. n. 4.</ref>]</seg> ge<lb break="no"
+									facs="#facs_67_r2l60" n="N009"/>nannt werden. Damit
+									anzuzeigen<lb break="no" facs="#facs_67_r2l62" n="N010"/>daß sie
+								herkommen vom Koͤniglichen <lb facs="#facs_67_r2l64" n="N011"
+								/>Geschlecht und Stamme Davidis &amp; Sa<lb break="no"
+									facs="#facs_67_r2l65" n="N012"/>lomonis.</quote>
+							<lb facs="#facs_67_line_1620631094548_591" n="N013"/>Id est: <q
+								corresp="Roth" type="traslation">Reges Aethiopiae sub initium regni
+									<lb facs="#facs_67_line_1620631094551_593" n="N014"/>assumere
+								nomen Davidis, ad significandum <lb
+									facs="#facs_67_line_1620631094552_595" n="N015"/>genus suum; eos
+								aliàs vocari Lederwijk: <lb facs="#facs_67_line_1620631094553_597"
+									n="N016"/>à Persis verò Amma. Causam addit (ut <lb
+									facs="#facs_67_r2l59" n="N017"/>mos vulgo etiam falsis causam
+								quaerere) <lb facs="#facs_67_r2l61" n="N018"/>Vt indicent se ex
+								stemmate Davidis &amp; Salo<lb break="no" facs="#facs_67_r2l63"
+									n="N019"/>monis oriundos esse.</q>
+							<lb facs="#facs_67_line_1620631299408_742" n="N020"/>Eadem habet
+							exscriptor ejus <persName ref="wd:Q49841490">Ioh. Iacob
+								Breuning</persName>. <ref target="#np5_f">(f)</ref>. </p>
+						<label type="parnum" place="margin"
+							facs="#facs_67_region_1620631859891_1009">
+							<lb facs="#facs_67_line_1620631860305_1012" n="N001"/>4 </label>
+						<p xml:id="pro5par4" facs="#facs_67_TextRegion_1620631299293_738">
+							<lb facs="#facs_67_line_1620631094556_599" n="N001"/>Vix mentionem
+							meretur <!--itinerarium Iohannis de Montevilla Doctoris &amp-->; Equi<lb
+								break="no" facs="#facs_67_line_1620631094558_601" n="N002"/>tis
+							Angli, ut titulus fert, Anno 1320. compilatum, qui de Presbytero Iohanne
+								Asia<lb break="no" facs="#facs_67_line_1620631094560_603" n="N003"
+							/>tico </p>
+						<ab type="footnote" facs="#facs_67_TextRegion_1620631284316_734">
+							<note xml:id="np4_c">
+								<lb facs="#facs_67_r2l70" n="N001"/>(c) <bibl
+									xml:id="Baratti1670Tra">Titulo: The late travels of S. Giacomo
+									Baratti. London 1670<ptr target="bm:Baratti1670Travels"
+								/></bibl>.</note>
+							<note xml:id="np5_d"><lb facs="#facs_67_line_1620631094563_605" n="N002"
+								/>(d) i. e. circa <date when="1562">annum 1562</date>. quo <lb
+									facs="#facs_67_line_1620631094565_607" n="N003"/>tempore res
+								Habessinorum variis seditionibus &amp; bellis erant afflictissimae. </note>
+							<note xml:id="np5_e">(e)<!--<bibl xml:id="Nicolai1607">In libro de regno Christi<ptr target="bm:"/></bibl>-->.</note>
+							<note xml:id="np5_f"><lb facs="#facs_67_r2l73" n="N004"
+								/>(f)<!--<bibl>In Itinerario Orientali
+					Navig. III. c. 11. p. 236.<ptr target="bm:"/></bibl>-->
+							</note></ab>
+						<pb facs="#facs_68" xml:id="gb_VOtTAAAAcAAJ_000068.jpeg" n="68"/>
+						<fw facs="#facs_68_TextRegion_1620634062491_2021">
+							<lb facs="#facs_68_line_1620634062602_2024" n="N001"/>26 Itinerar.
+							Montevillae. Benjam. Tudelens. </fw>
+						<label type="notnum" place="margin"
+							facs="#facs_68_TextRegion_1620633804182_1829">
+							<lb facs="#facs_68_line_1620633362116_1533" n="N001"/><ref
+								corresp="STU0002Historia" type="studies"> Prooem. V. </ref></label>
+						<p facs="#facs_68_TextRegion_1620634208352_2080">
+							<lb facs="#facs_68_line_1620634062602_2025" n="N001"/>tico prope
+							Chatayam decem pedalia profert mendacia, ut autor sui aevi simplicitati
+								illu<lb break="no" facs="#facs_68_r1l3" n="N002"/>sisse videatur.
+							Nullam ejus mentionem fecissem, nisi fabulam spissam, de Dano<lb
+								break="no" facs="#facs_68_line_1620633397701_1559" n="N003"/>rum
+							expeditione in Chatayam &amp; Indiam: nec non Iohanne Frisiae Regis
+							filio, ob sancti<lb break="no" facs="#facs_68_line_1620633397701_1561"
+								n="N004"/>moniam vita Presbytero dicto, à recentiore quodam inde
+							exscriptam reperissem. <lb facs="#facs_68_line_1620634208462_2083"
+								n="N005"/>Crediderat autori; quia scilicet dixerat:
+							<!--<q>Id se in Chronicis illarum Regionum legis<lb break="no"
+					facs="#facs_68_line_1620634356097_2163" n="N006"/>se.</q> --></p>
+						<label facs="#facs_68_TextRegion_1620633690741_1777">
+							<lb facs="#facs_68_line_1620633397701_1562" n="N001"/>5 </label>
+						<note facs="#facs_68_TextRegion_1620633865842_1867">
+							<lb facs="#facs_68_line_1620633362121_1537" n="N001"/><ref
+								target="#Plin6cap30">L. VI. c. 30.</ref>
+							<lb facs="#facs_68_line_1620633362121_1539" n="N002"/>c. 30. </note>
+						<p xml:id="pro5par5" facs="#facs_68_TextRegion_1620634434192_2217">
+							<lb facs="#facs_68_line_1620634208462_2084" n="N001"/>Interpretis quoque
+							vecordia vel ex eo apparet, quod Magnum Tartarorum <lb
+								facs="#facs_68_r1l10" n="N002"/>Chanum reddat MAGNUM CANEM <foreign
+								xml:lang="de">den grossen Hund</foreign>. <ref target="#np5_g"
+								>(g)</ref> Scilicet in eo praeuntem <lb
+								facs="#facs_68_line_1620633397701_1565" n="N003"/>habuit <persName
+								ref="wd:Q3417362">Raphaelem Volaterranum</persName>
+							<ref target="#np5_h">(h)</ref>. Iste, Chatayae, inquit, sicut &amp;
+							reliquae Scythiae praesidei <lb facs="#facs_68_line_1620633362121_1536"
+								n="N004"/>hodiè Rex, quem MAGNUM CANEM appellant. In <ref
+								xml:id="Plinlib6cap30"
+								cRef="urn:cts:latinLit:phi0978.phi001.perseus-lat1:6.58"
+								>Plinio</ref> fortè legerat <q source="#Plinlib6">Ptoemphanas <lb
+									facs="#facs_68_line_1620633397701_1567" n="N005"/>CANEM pro Rege
+								habere, motu ejus imperia augurantes</q>. Quas ineptias etiam <ref
+								xml:id="Solinus" cRef="urn:cts:latinLit:stoa0264.stoa001.opp-lat1"
+									>Soli<lb break="no" facs="#facs_68_line_1620634434292_2220"
+									n="N006"/>nus</ref> exscripsit: <quote source="#Solinus">Summam
+								regia potestatis CANI tradunt, de cujus motibus, quidnam im<lb
+									break="no" facs="#facs_68_line_1620634566762_2296" n="N007"
+								/>peritet, augurantur </quote><ref target="#np5_h">(i)</ref>.</p>
+						<label type="parnum" place="margin"
+							facs="#facs_68_TextRegion_1620633699022_1782">
+							<lb facs="#facs_68_line_1620633397711_1572" n="N001"/>6 </label>
+						<p xml:id="pro5par6" facs="#facs_68_TextRegion_1620634675543_2365">
+							<lb facs="#facs_68_line_1620634459632_2235" n="N001"/>Credo a Scythico
+							vocabulo Chan, Chanus absurdam hanc <lb
+								facs="#facs_68_line_1620633397711_1573" n="N002"/>narrationem
+							profluxisse. Igitur Volaterrano absurdum visum non fuit Regem Cha<lb
+								break="no" facs="#facs_68_line_1620633397711_1575" n="N003"/>tayae
+							vocari MAGNUM CANEM. Nimirum Itali hujus relationis autores gutturalem
+								<lb facs="#facs_68_line_1620633397711_1577" n="N004"/>Arabicam
+								<foreign xml:lang="ar"/> Ch. <foreign xml:lang="gre">χ</foreign>
+							Graecorum in voce <foreign xml:lang="ar"/> CHAN,<foreign xml:lang="gre">
+								χᾶν</foreign>. HAN vulgò, quod Prin<lb break="no"
+								facs="#facs_68_line_1620633397711_1579" n="N005"/>cipem vel Rengem
+							supremum significat, pronunciare non possunt; ideò <foreign
+								xml:lang="ita">IL GRAND CHA<lb break="no"
+									facs="#facs_68_line_1620633397716_1581" n="N006"/>NE</foreign>
+							vel Cane, Canem reddere oportuit.<foreign xml:lang="it"> Il paese del
+								grand Cane</foreign>. <foreign xml:lang="de">Des grossen Hunds <lb
+									facs="#facs_68_line_1620633397716_1583" n="N007"
+							/>Land</foreign>. Talia cum exteri percipiunt, mirum non est, si cum
+							Gregorio meo de Euro<lb break="no"
+								facs="#facs_68_line_1620634675643_2368" n="N008"/>paeorum
+							scripturiendi pruritu, &amp; typographiae abusu querantur. </p>
+						<note place="margin" facs="#facs_68_TextRegion_1620638812354_2706">
+							<lb facs="#facs_68_line_1620638812463_2709" n="N001"/>Eugenius <lb
+								facs="#facs_68_r1l22" n="N002"
+							/><!--<ref target="#proenum13">Inf. Pr. 13. <lb facs="#facs_68_r1l24" n="N003"
+					/>37</ref>.-->
+						</note>
+						<label type="parnum" place="margin"
+							facs="#facs_68_TextRegion_1620633711081_1787">
+							<lb facs="#facs_68_line_1620633397716_1584" n="N001"/>7 </label>
+						<note place="margin" facs="#facs_68_TextRegion_1620638812322_2705">
+							<lb facs="#facs_68_line_1620638812463_2708" n="N001"/>Eugenius <lb
+								facs="#facs_68_r1l27" n="N002"/>Roger. <lb facs="#facs_68_r1l30"
+								n="N003"/><ref target="#Roger1664">L. II. c. 1.</ref></note>
+						<p xml:id="pro5par7" facs="#facs_68_TextRegion_1620634675543_2364">
+							<lb facs="#facs_68_line_1620634675643_2369" n="N001"/>Haud multo meliora
+							in lucem edidit <!--<bibl xml:id="Roger1664">EUGENIUS ROGER Monachus Missiona<lb break="no"
+					facs="#facs_68_line_1620633397741_1587" n="N002"/>rius Barbariae, qui in
+					descriptione Terrae Sanctae<ptr target="bm:"/></bibl>-->
+							<ref target="#np5_k">(k)</ref> multa fabulosa de Habessinis ha<lb
+								break="no" facs="#facs_68_line_1620633397741_1589" n="N003"/>bet.
+							Historiam verò impostoris Tzaga-Christi ita refert, ut videatur
+							adulterinum il<lb break="no" facs="#facs_68_line_1620634144342_2066"
+								n="N004"/>lius nomen suo calculo non parùm juvisse. </p>
+						<label place="margin" type="parnum"
+							facs="#facs_68_TextRegion_1620633711081_1786">
+							<lb facs="#facs_68_line_1620633397741_1590" n="N001"/>8 </label>
+						<note place="margin" facs="#facs_68_TextRegion_1620633843221_1853">
+							<lb facs="#facs_68_line_1620633843331_1856" n="N001"/><persName ref="wd:Q318820"> Benjamin <lb
+								facs="#facs_68_r1l35" n="N002"/>Tudelen<lb break="no"
+									facs="#facs_68_r1l37" n="N003"/>sis</persName>. <lb
+								facs="#facs_68_line_1620633362131_1545" n="N004"/>Gen. 2. 13. </note>
+						<note place="margin" facs="#facs_68_TextRegion_1620633829342_1845">
+							<lb facs="#facs_68_r1l49" n="N001"/><ref xml:id="Histlib1cap14" type="studies" corresp="STU0002Historia">1. 14. 43.</ref></note>
+						<p facs="#facs_68_TextRegion_1620634144232_2062">
+							<lb facs="#facs_68_line_1620634144342_2067" n="N001"
+							/><!--<bibl xml:id="Tudel">Benjaminus Tudelensis Iudaeus
+					in itinerario suo<ptr target=""/></bibl>--> Rabbinicè conscripto
+								Ha<lb break="no" facs="#facs_68_r1l34" n="N002"/>bassiniae quoque
+							mentionem fecit, hoc modô: <lb facs="#facs_68_r1l38" n="N003"/>Et <quote
+								source="Tudel" xml:lang="he"/>
+							<lb facs="#facs_68_line_1620633362131_1544" n="N004"/> paulò ante <quote
+								xml:lang="he"/><lb facs="#facs_68_r1l42" n="N005"/><lb
+								facs="#facs_68_line_1620633397741_1593" n="N006"/><q source="Tudel"
+								>Terra Cush (Aethiopia) quae vocatur <foreign xml:lang="ar"/><lb
+									facs="#facs_68_line_1620633397741_1595" n="N007"/>Elhabesh.
+								Phison (Gihon voluit dicere) qui <lb
+									facs="#facs_68_line_1620633397751_1597" n="N008"/>descendit de
+								terra Cush quibus est Rex quem <lb facs="#facs_68_r1l43" n="N009"
+								/>vocant Sultan Elhabesh.</q>
+							<lb facs="#facs_68_line_1620633397751_1599" n="N010"/>Genuinum hoc est
+							Neguçi nomen apud Orientales. Fabulosus quidem est hic au<lb break="no"
+								facs="#facs_68_line_1620633397751_1601" n="N011"/>tor &amp; exigui
+							judicii, ut vel ex sola Maris concreti fabella cognoscere est <ref
+								target="#np5_l">(l)</ref>. Multa ta<lb break="no"
+								facs="#facs_68_line_1620633397751_1603" n="N012"/>men vera narrat,
+							quae male intellecta vel ignorata pro fabulis habentur; ut cùm <q
+								source="Tudel">Iudaos <lb facs="#facs_68_line_1620633397751_1605"
+									n="N013"/>in magnis Aethiopiae montibus jure suo vivere</q>
+							scribit <ref target="np5_m">(m)</ref>. Quae tum temporis vera fuisse in
+							<lb facs="#facs_68_line_1620633397751_1607" n="N014"/><ref target="#Histlib1cap14">Historia
+								nostra</ref> docuimus, &amp; infra de hac re pluribus dicemus; ubi simul alia
+							de versio<lb break="no" facs="#facs_68_line_1620634122172_2058" n="N015"
+							/>ne &amp; notis hujus itinerarii reperies. </p>
+						<label type="parnum" place="margin"
+							facs="#facs_68_TextRegion_1620633630971_1747">
+							<lb facs="#facs_68_line_1620633397751_1608" n="N001"/>9 </label>
+						<p xml:id="pro5par9" facs="#facs_68_TextRegion_1620634122082_2054">
+							<lb facs="#facs_68_line_1620634122172_2059" n="N001"/>De aliis
+							itinerariis multa verba facere nihil attinet. Ex iis, quae profectiones
+							o <lb facs="#facs_68_line_1620633397760_1611" n="N002"/>in Palastinam
+							vulgò Terram Sanctam &amp; Aegyptum, nec non Arabiam &amp; Iudaeam
+								nar<lb break="no" facs="#facs_68_line_1620633397760_1613" n="N003"
+							/>rant, aliqua de Habessinis nostris haberi possunt, quamvis valdè dubia
+							&amp; suspecta; <lb facs="#facs_68_line_1620633397760_1615" n="N004"
+							/>sed judicio opus est, ut vera à falsis distinguantur. Prae caeteris
+							aestimantur sequen<lb break="no" facs="#facs_68_r1l55" n="N005"/>tes
+							itinerariorun scriptores: <lb facs="#facs_68_r1l56" n="N006"/><persName
+								ref="wd:Q94929595">Bernierius</persName>. <lb
+								facs="#facs_68_line_1620633397760_1617" n="N007"/><persName
+								ref="wd:Q14544680">Vincentius le Blanc</persName>, cujus itineratium
+							Orientis Gallicè editum &amp; An<lb break="no"
+								facs="#facs_68_line_1620633397760_1619" n="N008"/>glicè versum fuit
+								<ref target="#np5_n">(n)</ref>. Vetera novis miscet. Eosdem falsos
+							huic Regno fines tribuit, quos <lb
+								facs="#facs_68_line_1620633397760_1621" n="N009"/>Tabulae
+							Geographicae vulgares, veluti: Montes Lunae, Manicongo, &amp;c. Godignum
+								<lb facs="#facs_68_line_1620633397771_1623" n="N010"/>vidit, ut ex
+							nominibus Regnorum colligo; iis tamen vetera addit. Quaedam peculiaria
+								<lb facs="#facs_68_line_1620633397771_1625" n="N011"/>habet aliàs
+							mihi nec lecta nec audita; Ex. gr. Regem adeò delectari bonis odoribus,
+							ut <lb facs="#facs_68_line_1620633397771_1627" n="N012"/>quidquid modo
+							bene oleat, in aula ejus adhibeatur; etiam taedae seu faces. Sericum <lb
+								facs="#facs_68_line_1620633397776_1629" n="N013"/>ex arboribus
+							colligi, &amp; quintam partem Regi loco vectigalis pendi: &amp; plura
+								ejusce<lb break="no" facs="#facs_68_r1l66" n="N014"/>modi alia, quae
+							partim noncredo: partim quia autoritate carent, exscribere nolo <lb
+								facs="#facs_68_line_1620634111182_2045" n="N015"/>Joh. </p>
+						<p facs="#facs_68_TextRegion_1620633824402_1837">
+							<lb facs="#facs_68_line_1620633362131_1547" n="N001"/><persName
+								ref="wd:Q14544680">Vincent. <lb
+									facs="#facs_68_line_1620633362131_1549" n="N002"/>Le
+								Blanc.</persName></p>
+						<ab type="footnote" facs="#facs_68_TextRegion_1620634111082_2042">
+							<note xml:id="np5_g"><lb facs="#facs_68_line_1620634111182_2047"
+									n="N001"/>(g) <!--Ibid in tit. lib. II. &amp; lib. IV. in
+								princ.--></note>
+							<note xml:id="np5_h">(h)
+								<!--<bibl>in Geogr. lib. XII p. 130. b.tit. Scythia<ptr target="bm:"/></bibl>-->.</note>
+							<note xml:id="np5_i">(i) Eadem <lb
+									facs="#facs_68_line_1620633397781_1635" n="N002"/>habet <ref
+									cRef="urn:cts:greekLit:tlg0545.tlg001.perseus-grc1:7.40"
+									>Aelianus de animal. Lib. 7. c. 40.</ref></note>
+							<note xml:id="np5_k">(k) Parisiis Anno 1664. Gallicè edita.<ptr target="#Roger1664"/></note>
+							<note xml:id="np5_l">(l) <!--<bibl xml:id="Walton3n35">Walton Proleg. III n.35<ptr target="bm:"/></bibl>--> <lb
+								facs="#facs_68_line_1620633397781_1637" n="N003"/>ait: <quote source="#Walton3n35">Autorem
+								hunc fabulosissimum esse, ejusque librum infinitis mendaciis &amp;
+								erroribus scatere, quos detegit, <lb facs="#facs_68_r1l72"
+									n="N004"/>&amp; ubique confutat Constant L'Empereur.</quote></note>
+							<note xml:id="np5_m"><lb facs="#facs_68_line_1620633397786_1639"
+									n="N005"/>(m) Const. L'Empertur in not. ad h. l.</note>
+							<note xml:id="np5_n">(n) Hoc titulo: Tra<lb break="no"
+									facs="#facs_68_r1l73" n="N006"/>vels in the East. Londini
+								1660.</note>
+						</ab>
 					</div>
 					<div xml:id="proenum6" type="textpart" subtype="note">
 						<ab><!--Add here relevant transcription for note 6 to book 1--></ab>
