@@ -98,7 +98,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<bibl>
 							<ptr target="bm:Ludolf1684NewHistory"/></bibl>
 						<bibl>
-							<ptr target="bm:Ludolf1684NewHistoire"/></bibl>
+							<ptr target="bm:Ludolf1684Histoire"/></bibl>
 						<bibl>
 							<ptr target="bm:Ludolf1687Histoire"/></bibl>
 						<bibl>
@@ -6440,7 +6440,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<note xml:id="np1_a"><lb facs="#facs_43_r2l51" n="N001"/>(a)<bibl
 									xml:id="Thenevot1672"> Relation des voyages curieux IV. Partie.
 									Paris <date when="1672">1672</date>. Tit. Histoire de la haute
-										Ethiopis<ptr target="bm:Thenevot1672Relations"/></bibl>
+										Ethiopis<ptr target="bm:Thevenot1672Relations"/></bibl>
 								&amp;c. statim ab initio</note>
 							<note xml:id="np1_b"><lb facs="#facs_43_line_1616077790743_2421"
 									n="N002"/>(b) De his agimus paulò inferius. <ref
@@ -6969,7 +6969,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<p xml:id="pro1par25" facs="#facs_46_TextRegion_1615891752397_1867" n="25">
 							<lb facs="#facs_46_line_1615891752492_1872" n="N001"/>Prodiit posthaec
 								<bibl xml:id="Alvares">itinerarium Francisci Alvarezii<ptr
-									target="bm:Alvarez"/></bibl>, Sacerdotis Lusitani, qui acta
+									target="bm:Alvarez1558PresterJohn"/></bibl>, Sacerdotis Lusitani, qui acta
 								Le<lb break="no" facs="#facs_46_line_1613461228879_165" n="N002"
 							/>gatio- </p>
 						<ab type="footnote" facs="#facs_46_TextRegion_1613461228757_161">
@@ -7052,17 +7052,17 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								fuisse</q>. His directò con<lb break="no"
 								facs="#facs_47_line_1616667863921_333" n="N006"/>tradicit <bibl
 								xml:id="Alv49">Alvarezius <citedRange unit="chapter">cap.
-									LIX.</citedRange><ptr target="bm:Alvarez"/></bibl> Nam <q
+									LIX.</citedRange><ptr target="bm:Alvarez1558PresterJohn"/></bibl> Nam <q
 								source="#Alv49"><persName ref="PRS6229LebnaDe">Davide</persName>
 								electo, in rupem deportatos, ait, reliquos <lb
 									facs="#facs_47_line_1616667863926_335" n="N007"/>Naodi liberos
 								cum fratre natu maximo</q>, &amp;<bibl xml:id="Alv60"><citedRange
-									unit="chapter">cap. LX.</citedRange><ptr target="bm:Alvarez"
+									unit="chapter">cap. LX.</citedRange><ptr target="bm:Alvarez1558PresterJohn"
 								/></bibl> scribit:<q source="#Alv60"> Davidis fratrem minorem <lb
 									facs="#facs_47_line_1616667863926_337" n="N008"/>XVI annorum
 								adolescentem è rupe profugum, eo remissum fuisse</q>: &amp; <bibl
 								xml:id="Alv59"><citedRange unit="chapter">cap. LIX.</citedRange><ptr
-									target="bm:Alvarez"/></bibl>cap. LXI. Narra<lb break="no"
+									target="bm:Alvarez1558PresterJohn"/></bibl>cap. LXI. Narra<lb break="no"
 								facs="#facs_47_line_1616667863926_339" n="N009"/>tum sibi fuisse
 								scribit:<q source="#Alv59"> statim ac David supremum diem obiturus
 								eßet; unum ex filiis ejus <lb facs="#facs_47_line_1616667863926_341"
@@ -7094,14 +7094,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_47_line_1616668129476_453" n="N005"/>memoriâ vel incuriâ
 							lapsus fuit, ut cùm <persName ref="PRS3874eskender">Alexandrum
 								Regem</persName> vocat Patrem Naodi <bibl><citedRange unit="chapter"
-									>cap. 98.</citedRange><ptr target="bm:Alvarez"/></bibl><lb
+									>cap. 98.</citedRange><ptr target="bm:Alvarez1558PresterJohn"/></bibl><lb
 								facs="#facs_47_line_1616668129476_455" n="N006"/>&amp; avum
 								<persName ref="PRS6229LebnaDe">Davidis</persName>
 							<bibl><citedRange unit="chapter">cap. 88.</citedRange><ptr
-									target="bm:Alvarez"/></bibl> quem tamen <bibl><citedRange
+									target="bm:Alvarez1558PresterJohn"/></bibl> quem tamen <bibl><citedRange
 									unit="chapter">cap. 59.</citedRange><citedRange unit="chapter">
 									103.</citedRange> &amp; <citedRange unit="chapter"
-									>113.</citedRange><ptr target="bm:Alvarez"/></bibl> apertè &amp;
+									>113.</citedRange><ptr target="bm:Alvarez1558PresterJohn"/></bibl> apertè &amp;
 							benè vocat Naodi <lb facs="#facs_47_line_1616668129486_457" n="N007"
 							/>fratrem &amp; patruum Davidis. Sic enim habet <cit>
 								<bibl xml:id="Ram1">Italica editio:<ptr
@@ -7114,7 +7114,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_47_line_1616668129486_461" n="N009"/>vidis mortuus
 								est sine filiis,</q> quò nihil clarius dici potest. Item cum
 								<persName ref="PRS3706eleni">Helenam</persName><bibl><citedRange
-									unit="chapter">cap. LX.</citedRange><ptr target="bm:Alvarez"
+									unit="chapter">cap. LX.</citedRange><ptr target="bm:Alvarez1558PresterJohn"
 								/></bibl><lb facs="#facs_47_line_1616668129486_463" n="N010"
 							/>Davidis Matrem vocat, quae avia fuit: vel potius uxor tantùm <persName
 								ref="PRS2334BaedaM">Regis Baeda-Marjami</persName>, <lb
@@ -7177,11 +7177,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								Germ. est caput LVIII. </note>
 							<note xml:id="np1_y"><lb facs="#facs_47_r4l62" n="N004"/>(y) In <bibl
 									xml:id="AlvPrae">praefatione ante caput I. Itinerarii sui.<ptr
-										target="bm:Alvarez"/></bibl></note>
+										target="bm:Alvarez1558PresterJohn"/></bibl></note>
 							<note xml:id="np1_z"><lb facs="#facs_47_r4l61" n="N005"/>(z) Non potuit
 								hoc con<lb break="no" facs="#facs_47_r4l64" n="N006"/>ficere <bibl
 									xml:id="Brerew1">Brerewood Anglus in suo scrutinio
-										religionum<ptr target="bm:Brerewood679Scrutinium"/></bibl>,
+										religionum<ptr target="bm:Brerewood1679Scrutinium"/></bibl>,
 								dum Alvarexio fretus, scribit:<q source="#Brerew1"> Habessinos in S.
 										Coena<lb break="no" facs="#facs_47_r4l65" n="N007"/>azymis
 									uti</q>.</note></ab>
@@ -7429,7 +7429,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									<!--Nonio Barreto &amp; Andreâ Oviedo--> in <lb
 										facs="#facs_49_line_1616669384376_1082" n="N004"/>Abassia
 									gestis</title>, qui Lugduni editus est <date when="1615">Anno
-									1615</date><ptr target="bm:Godinho1615Abissinorum"/></bibl>.
+									1615</date><ptr target="bm:Godinho1615Abassinorum"/></bibl>.
 							Nomini tamen illius pepercit, &amp; tan<lb break="no"
 								facs="#facs_49_line_1616669384377_1084" n="N005"/>tùm <q
 								source="#Godi1615">Novum autorem</q> vocavit. At multò prolixior est
@@ -7459,7 +7459,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								pinguius <lb facs="#facs_49_line_1615903267306_2921" n="N005"
 								/>mendacium</q>. Conferatur <bibl xml:id="God1cap17">P. Nicolaus
 								Godignus Lib. I. <citedRange unit="chapter">c. 17.</citedRange><ptr
-									target="bm:Godinho1615Abissinorum"/></bibl></p>
+									target="bm:Godinho1615Abassinorum"/></bibl></p>
 						<label type="parnum" place="margin"
 							facs="#facs_49_TextRegion_1616669482656_1176">
 							<lb facs="#facs_49_line_1615965805199_40" n="N001"/>38 </label>
@@ -8428,7 +8428,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							sequitur <bibl xml:id="Tele2cap7">B. Tellezius Lib. II. <citedRange
 									unit="chapter">c. 7.</citedRange>
 								<citedRange unit="page">p. 116. b.</citedRange><ptr
-									target="bm:Telesius1660Historia"/></bibl></p>
+									target="bm:Teles1660Historia"/></bibl></p>
 						<label type="parnum" place="margin"
 							facs="#facs_54_TextRegion_1617354349312_928">
 							<lb facs="#facs_54_line_1615978017194_1394" n="N001"/>60 </label>
@@ -8465,7 +8465,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<note xml:id="np1_m2">(m) apud <lb facs="#facs_54_r2l59" n="N002"/><bibl
 									xml:id="God1cap2">N. Godign. L. I. <citedRange unit="chapter">c.
 										11.</citedRange><citedRange unit="page">p.
-										69.</citedRange><ptr target="bm:Godinho1615Abissinorum"
+										69.</citedRange><ptr target="bm:Godinho1615Abassinorum"
 									/></bibl></note></ab>
 						<pb facs="#facs_55" n="55"/>
 						<fw facs="#facs_55_TextRegion_1613571866680_1073">
@@ -9416,7 +9416,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 						<p xml:id="pro1par87" facs="#facs_60_TextRegion_1617635235217_538" n="87">
 							<lb facs="#facs_60_line_1617635229292_512" n="N001"/><bibl>Eduardus
 								Brerewood Anglus in Scrutinio Religionum<ptr
-									target="bm:Brerewoo1679Scrutinium"/></bibl> nunc sese offert.
+									target="bm:Brerewood1679Scrutinium"/></bibl> nunc sese offert.
 								<lb facs="#facs_60_r2l28" n="N002"/>Sed vix aliis, quam Tzaga-Zaabo,
 							Alvarezio &amp; Paulo Iovio autoribus usus fuit. Ia<lb break="no"
 								facs="#facs_60_line_1617635229294_514" n="N003"/>cobitas distinguit
@@ -9693,7 +9693,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									commu<lb break="no" facs="#facs_61_r6l69" n="N003"/>nem
 								opinionem de qua <bibl>N. Godign. L. I. <citedRange unit="chapter">c
 										18</citedRange>. <citedRange>p. 118</citedRange><ptr
-										target="bm:Godinho1615Abissinorum"/></bibl>.</note>
+										target="bm:Godinho1615Abassinorum"/></bibl>.</note>
 							<note xml:id="np1_b3"><lb facs="#facs_61_r6l70" n="N004"/>(b) Belgicè
 								Antverpiae edita: Germanicò autem <lb facs="#facs_61_r6l71" n="N005"
 								/>versa est a P. Matthia Soutermans. Viennae 1684.</note>
@@ -11139,7 +11139,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							scripsit, qua usus fuit <bibl>P. Nicolaus Godignus in refutando
 									<persName ref="wd:Q105626569">Urretâ</persName>L. I. <citedRange
 									unit="chapter">c. 22</citedRange>.<ptr
-									target="bm:Godinho1615Abissinorum"/></bibl>
+									target="bm:Godinho1615Abassinorum"/></bibl>
 						</p>
 						<label type="parnum" place="margin" facs="#facs_69_r2">
 							<lb facs="#facs_69_r2l1" n="N001"/>2 </label>
@@ -11203,7 +11203,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									Acad. Aug. Conf. §. 2.<ptr target="bm:Allacci1648Ecclesia"
 									/></bibl>
 								<bibl>Paul Colom. in Observat. <lb facs="#facs_69_r3l57" n="N003"
-										/>sacris<ptr target="bm:Colomies11688Observationes"
+										/>sacris<ptr target="bm:Colomies1688Observationes"
 								/></bibl>. Zagazabum Episcopum Aethiopiae vocat, virum omnino pium
 								&amp; eruditum quam laudem minimè mere<lb break="no"
 									facs="#facs_69_r3l58" n="N004"/>tur.</note>
@@ -11386,7 +11386,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<note xml:id="np13_u">(u) Hujus oppidi <bibl>Alvaretius quoque mentionem
 									fecit <citedRange unit="chapter">c. 63</citedRange>. &amp;
 										<citedRange unit="chapter">64</citedRange>.<ptr
-										target="bm:Alvares"/></bibl></note>
+										target="bm:Alvarez1558PresterJohn"/></bibl></note>
 						</ab>
 						<pb facs="#facs_71" n="71"/>
 						<fw facs="#facs_71_TextRegion_1621178067995_218">
@@ -12430,7 +12430,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 					<div xml:id="LitD" type="textpart">
 					</div>
 					<div xml:id="LitE" type="textpart">
-					</div>	
+					</div>
 					</div>
 
 				</div>
