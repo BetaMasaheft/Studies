@@ -1,0 +1,62 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+        type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang="en" xml:id="STU0002Historia" type="studies">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="la">Ludolf Historia Aethiopica</title>
+				<author> Ludolf, Hiob </author>
+				<editor key="GC"/>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+				<publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+					Forschungsumgebung / Beta maṣāḥǝft</publisher>
+				<pubPlace>Hamburg</pubPlace>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+						<p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0. </p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>The encoded text was obtained from the transcription on Transkribus of a set of
+					Historia images, acquired from <ref
+						target="https://archive.org/details/bub_gb_JFZEAAAAcAAJ">internet archive</ref>.</p>
+				<p><listRelation>
+					<relation name="dcterms:creator" active="STU0002Historia" passive="PRS6378Ludolf"/>
+				</listRelation></p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The source of the encoded text is the transcription, made on <ref
+				target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref>, of a set of
+				images of the <hi rend="italic">Historia</hi>, acquired from The Internet Archive. The encoding of the work is linked with the <ptr
+					target="https://betamasaheft.eu/Guidelines/?id=schemaView"/>Beta maṣāḥǝft Schema, and it
+				is made following the <ref target="https://betamasaheft.eu/Guidelines/?id=works"
+					>BetaMasaheft Guidelines</ref>.</p>
+		</encodingDesc>
+		<profileDesc>
+			<abstract><p> This work about the Ethiopic history was written by <perName ref="PRS6378Ludolf" >Hiob Ludolf</perName> and it was published in <date notAfter="1681" notBefore="1681">1681</date>. From the beginning, the plan of the work included the drafting of the <ref type="studies" corresp="#STU0001Commentarius">Commentarius</ref>, published by the same author in <date notAfter="1691" notBefore="1691">1691</date>. 
+			</p></abstract>
+		</profileDesc>
+	</teiHeader>
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+		href="facsimile.xml">
+		<xi:fallback>
+			<!-- facsimile -->
+		</xi:fallback>
+	</xi:include>
+	<text >
+		<body>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+				href="transkribusText.xml">
+				<xi:fallback>
+					<!-- transcribus text-->
+				</xi:fallback>
+			</xi:include>
+		</body>
+	</text>
+</TEI>
