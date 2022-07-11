@@ -1,4 +1,4 @@
-<project default="xar" name="fonts">
+<project default="xar">
     <xmlproperty file="expath-pkg.xml"/>
     <property name="project.version" value="${package(version)}"/>
     <property name="project.app" value="narratives"/>
@@ -6,6 +6,6 @@
     <target name="xar">
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar"
-            excludes=".gitignore  build.xml ${build.dir}/* .github/** schema/**"/>
+            excludes="build.xml ${build.dir}/* .github/** .gitignore schema/**"/>
     </target>
 </project>
