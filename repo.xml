@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Beta Masaheft records describing units of text without a fixed word sequence</description>
+    <author>BetaMasaheft</author>
+    <website>https://github.com/BetaMasaheft/Narrative</website>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>BetMasData/narratives</target>
+    <prepare>pre-install.xq</prepare>
+</meta>
