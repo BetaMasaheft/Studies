@@ -39,7 +39,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 					>BetaMasaheft Guidelines</ref>.</p>
 		</encodingDesc>
 		<profileDesc>
-			<abstract><p> This work about the Ethiopic history was written by <persName ref="PRS6378Ludolf" >Hiob Ludolf</persName> and it was published in <date notAfter="1681" notBefore="1681">1681</date>. From the beginning, the plan of the work included the drafting of the <ref type="studies" corresp="#STU0001Commentarius">Commentarius</ref>, published by the same author in <date notAfter="1691" notBefore="1691">1691</date>. 
+			<abstract><p> This work about the Ethiopic history was written by <persName ref="PRS6378Ludolf">Hiob Ludolf</persName> and it was published in <date when="1681">1681</date>. From the beginning, the plan of the work included the drafting of the <ref type="studies" corresp="STU0001Commentarius">Commentarius</ref>, published by the same author in <date when="1691">1691</date>. 
 			</p></abstract>
 		</profileDesc>
 	</teiHeader>
