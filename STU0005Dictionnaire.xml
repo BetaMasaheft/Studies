@@ -25,6 +25,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 			<sourceDesc>
 				<p><listRelation>
 					<relation name="dcterms:creator" active="STU0005Dictionnaire" passive="PRS9683Urbino"/>
+          <relation name="lawd:hasAttestation" active="STU0002Historia" passive="BNFabb217"/>
 				</listRelation></p>
 			</sourceDesc>
 		</fileDesc>
@@ -34,23 +35,59 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 		<profileDesc>
 			<abstract><p>A Gǝʿǝz French Amharic dictionary  dictionary (only letters ሀ to ረ) compiled in
         Ethiopia by <persName ref="PRS9683Urbino">Father Giusto da Urbino (Jacopo Curtopassi)</persName>
-      in <date>1850-1855</date>.</p></abstract>
+      in <date>1850-1855</date>. According to the author, the rest of the dictionary was lost when he was arrested in 1855
+       (<bibl><ptr target="bm:Wion2013Hatata1"/>
+          <citedRange unit="number">29</citedRange></bibl>).</p></abstract>
+
+          <langUsage>
+    				<language ident="fr">French</language>
+    				<language ident="am">Amharic</language>
+    				<language ident="gez">Gǝʿǝz</language>
+    			</langUsage>
+    			<textClass>
+    				<keywords>
+    					<term key="SawaStyle"/>
+    				</keywords>
+    			</textClass>
+
 		</profileDesc>
-	</teiHeader>
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-		href="facsimile.xml">
-		<xi:fallback>
-			<!-- facsimile -->
-		</xi:fallback>
-	</xi:include>
-	<text >
+    <revisionDesc>
+			<change who="DN" when="2022-08-12">Created the record</change>
+		</revisionDesc>
+  </teiHeader>
+
+	<text>
+
 		<body>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-				href="transkribusText.xml">
-				<xi:fallback>
-					<!-- transcribus text-->
-				</xi:fallback>
-			</xi:include>
+      <div type="edition">
+        <div type="textpart" xml:id="Avertissement">
+           <label xml:lang="fr">Notice to the reader</label>
+        </div>
+        <div type="textpart" xml:id="Haleta">
+           <label>Roots and words starting with h-</label>
+        </div>
+        <div type="textpart" xml:id="Law">
+           <label>Roots and words starting with l-</label>
+        </div>
+
+        <div type="textpart" xml:id="Hamar">
+           <label>Roots and words starting with ḥ-</label>
+        </div>
+
+        <div type="textpart" xml:id="May">
+           <label>Roots and words starting with m-</label>
+        </div>
+
+        <div type="textpart" xml:id="Negus">
+           <label>Roots and words starting with n-</label>
+        </div>
+        <div type="textpart" xml:id="Res">
+           <label>Roots and words starting with r-</label>
+        </div>
+      </div>
+
 		</body>
+
 	</text>
+
 </TEI>
