@@ -6,8 +6,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="fr">Abrégé de grammaire de la langue Ethiopique écrite en Ethiopia par J.C. 1850-54
-        Compilé en Ethiopie par J.C. 1850—54</title>
+				<title xml:lang="fr">Abrégé de grammaire de la langue Ethiopique écrite en Ethiopie par J.C. 1850—54.
+      </title>
 				<author>Father Giusto da Urbino (Jacopo Curtopassi)</author>
 				<editor key="DN"/>
 			</titleStmt>
