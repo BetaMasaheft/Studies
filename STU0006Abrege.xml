@@ -1,0 +1,193 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+        type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang="en" xml:id="STU0006Abrege" type="studies">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="fr">Abrégé de grammaire de la langue Ethiopique écrite en Ethiopia par J.C. 1850-54
+        Compilé en Ethiopie par J.C. 1850—54</title>
+				<author>Father Giusto da Urbino (Jacopo Curtopassi)</author>
+				<editor key="DN"/>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+				<publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+					Forschungsumgebung / Beta maṣāḥǝft</publisher>
+				<pubPlace>Hamburg</pubPlace>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+						<p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0. </p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p><listRelation>
+					<relation name="dcterms:creator" active="STU0006Abrege" passive="PRS9683Urbino"/>
+          <relation name="lawd:hasAttestation" active="STU0006Abrege" passive="BNFabb216"/>
+				</listRelation></p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+		  <p>A digital born TEI file</p>
+		</encodingDesc>
+		<profileDesc>
+			<abstract><p>A Gǝʿǝz grammar written in Ethiopia by <persName ref="PRS9683Urbino">Father Giusto da Urbino (Jacopo Curtopassi)</persName>
+      in <date>1850-1854</date>. Composed of 40 lessons,
+      it includes examples of the epistolary genre and dialogues in Gǝʿǝz.
+      </p></abstract>
+          <langUsage>
+    				<language ident="fr">French</language>
+    				<language ident="gez">Gǝʿǝz</language>
+    			</langUsage>
+    			<textClass>
+    				<keywords>
+    					<term key="SawaStyle"/>
+    				</keywords>
+    			</textClass>
+
+		</profileDesc>
+    <revisionDesc>
+			<change who="DN" when="2022-08-15">Created the record</change>
+		</revisionDesc>
+  </teiHeader>
+
+	<text>
+
+		<body>
+      <div type="edition">
+        <div type="textpart" xml:id="Avant">
+           <label xml:lang="fr">Avant-propos</label>
+        </div>
+        <div type="textpart" xml:id="Lesson1">
+           <label>Leçon I</label>
+        </div>
+        <div type="textpart" xml:id="Lesson2">
+           <label>Leçon II</label>
+        </div>
+
+        <div type="textpart" xml:id="Lesson3">
+           <label>Leçon III</label>
+        </div>
+
+        <div type="textpart" xml:id="Lesson4">
+           <label>Leçon IV</label>
+        </div>
+
+        <div type="textpart" xml:id="Lesson5">
+           <label>Leçon V</label>
+        </div>
+        <div type="textpart" xml:id="Lesson6">
+           <label>Leçon VI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson7">
+           <label>Leçon VII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson8">
+           <label>Leçon VIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson9">
+           <label>Leçon IX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson10">
+           <label>Leçon X</label>
+        </div>
+        <div type="textpart" xml:id="Lesson11">
+           <label>Leçon XI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson12">
+           <label>Leçon XII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson13">
+           <label>Leçon XIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson14">
+           <label>Leçon XIV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson15">
+           <label>Leçon XV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson16">
+           <label>Leçon XVI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson17">
+           <label>Leçon XVII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson18">
+           <label>Leçon XVIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson19">
+           <label>Leçon XIX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson20">
+           <label>Leçon XX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson21">
+           <label>Leçon XXI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson22">
+           <label>Leçon XXII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson23">
+           <label>Leçon XXIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson24">
+           <label>Leçon XXIV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson25">
+           <label>Leçon XXV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson26">
+           <label>Leçon XXVI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson27">
+           <label>Leçon XXVII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson28">
+           <label>Leçon XXIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson29">
+           <label>Leçon XXIX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson30">
+           <label>Leçon XXX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson31">
+           <label>Leçon XXXI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson32">
+           <label>Leçon XXXII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson33">
+           <label>Leçon XXXIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson34">
+           <label>Leçon XXXIV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson35">
+           <label>Leçon XXXV</label>
+        </div>
+        <div type="textpart" xml:id="Lesson36">
+           <label>Leçon XXXVI</label>
+        </div>
+        <div type="textpart" xml:id="Lesson37">
+           <label>Leçon XXXVII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson38">
+           <label>Leçon XXXVIII</label>
+        </div>
+        <div type="textpart" xml:id="Lesson39">
+           <label>Leçon XXXIX</label>
+        </div>
+        <div type="textpart" xml:id="Lesson40">
+           <label>Leçon XL</label>
+        </div>
+
+      </div>
+
+		</body>
+
+	</text>
+
+</TEI>

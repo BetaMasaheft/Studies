@@ -7,7 +7,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 		<fileDesc>
 			<titleStmt>
 				<title xml:lang="fr">Dictionnare Ethiopique - Français - Amharique.
-        Compilé en Ethiopie par J.C. 1850—1855</title>
+        Compilé en Ethiopie par J.C. 1850—55</title>
 				<author>Father Giusto da Urbino (Jacopo Curtopassi)</author>
 				<editor key="DN"/>
 			</titleStmt>
@@ -25,7 +25,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 			<sourceDesc>
 				<p><listRelation>
 					<relation name="dcterms:creator" active="STU0005Dictionnaire" passive="PRS9683Urbino"/>
-          <relation name="lawd:hasAttestation" active="STU0002Historia" passive="BNFabb217"/>
+          <relation name="lawd:hasAttestation" active="STU0005Dictionnaire" passive="BNFabb217"/>
 				</listRelation></p>
 			</sourceDesc>
 		</fileDesc>
