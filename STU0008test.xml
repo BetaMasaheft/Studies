@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+        type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="STU0008test" type="studies">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="la" xml:id="t1"> Ad suam Historiam Aethiopicam antehac editam
+					Commentarius</title>
+				<title xml:lang="la" type="short"> Commentarius</title>
+				<author> Ludolf, Hiob </author>
+				<editor key="GC"/>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+				<publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine
+					multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+				<pubPlace>Hamburg</pubPlace>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+						<p> This file is licensed under the Creative Commons Attribution-ShareAlike
+							4.0. </p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>The encoded text was obtained from the transcription on Transkribus of a set of
+					Commentarius images, acquired from <ref
+						target="https://archive.org/details/bub_gb_VOtTAAAAcAAJ">internet
+						archive</ref>.</p>
+				<p><listRelation>
+						<relation name="dcterms:creator" active="STU0001Commentarius"
+							passive="PRS6378Ludolf"/>
+					</listRelation></p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The source of the encoded text is the transcription, made on <ref
+					target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref>, of a
+				set of images of the <hi rend="italic">Commentarius</hi>, acquired from The Internet
+				Archive, after choosing between different sets of images available. The encoder,
+				Giulia Casella, aligned the set of images, corrected the segmentation and layout
+				analysis produced in the tool and exported the text for further encoding of named
+				entities and alignment of reference information. The encoding of the work is linked
+				with the <ptr target="https://betamasaheft.eu/Guidelines/?id=schemaView"/>Beta
+				maṣāḥǝft Schema, and it is made following the <ref
+					target="https://betamasaheft.eu/Guidelines/?id=works">BetaMasaheft
+					Guidelines</ref>.</p>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p xml:lang="la"><persName ref="PRS6378Ludolf">Hiob Ludolf</persName>'s <hi
+						rend="italic">Commentarius</hi> was published in <date notAfter="1691"
+						notBefore="1691">1691</date>, but it is strictly connected with the <ref
+						type="studies" corresp="#STU002Historia">Historia Aethiopica</ref>,
+					published ten years before, in <date notBefore="1681" notAfter="1681"
+						>1681</date>, by the same author. Ludolf wrote these works in parellel: the
+					Historia to contain, without interrumption, all the informations about the
+					Ethiopian history and the commentary to discuss this documentation, to quote and
+					correct the sources that he used. So the Commentarius served as a link between
+					Ludolf's Historia and the other works that give information about the same
+					theme. The structure of the Commentarius reflects this function: the work
+					follows the order of the notes of the Historia and the division into four books
+					and it shows, at the same time, a lot of extracts from other works, belonging to
+					different literary genres. Ludolf wanted to publish the Commentarius immediately
+					after the Historia, but his diplomatic commitments forced him to postpone the
+					publication of the work. For this reason, before the publication of the
+					Commentarius, three different translations of the History were published: <list>
+						<item n="a"> an English translation, in two different editions: <ref
+								target="https://archive.org/details/bub_gb_buNBAQAAMAAJ"> A new
+								history of Ethiopia, 1684 </ref>
+						</item>
+						<item n="b"> a French translation: <ref xml:lang="fr"
+								target="https://gallica.bnf.fr/ark:/12148/bpt6k862040/f1.item">
+								Nouvelle histoire d'Abissinie ou d'Ethiopie, 1684 </ref></item>
+						<item n="c"> a Dutch translation, in two differente editions: <ref
+								xml:lang="nl"
+								target=" https://books.google.de/books?id=TaVpAAAAcAAJ"> Nieuwe doch
+								aanmerkens-waardige historie van Abissinien, 1687 </ref>; <ref
+								xml:lang="nl" target="https://books.google.de/books?id=25LeEnkyOL8C"
+								> Historise beschryvinge van Abissinien, 1688 </ref>
+						</item>
+					</list> Ludolf discussed these translations in a final section of the commentary
+					on the <ref target="#praefatio">preface</ref>. </p>
+				<p>
+					<listBibl type="editions">
+						<bibl>
+							<ptr target="bm:Ludolf1691Commentarius"/></bibl>
+						<bibl>
+							<ptr target="bm:Ludolf1681Historia"/></bibl>
+					</listBibl>
+					<listBibl type="secondary">
+						<bibl>
+							<ptr target="bm:Uhlig2007EAELudolf"/>
+						</bibl>
+					</listBibl>
+					<listBibl type="translation">
+						<bibl>
+							<ptr target="bm:Ludolf1684NewHistory"/></bibl>
+						<bibl>
+							<ptr target="bm:Ludolf1684Histoire"/></bibl>
+						<bibl>
+							<ptr target="bm:Ludolf1687Histoire"/></bibl>
+						<bibl>
+							<ptr target="bm:Ludolf1688Historise"/></bibl>
+					</listBibl>
+				</p>
+			</abstract>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="la">Latin</language>
+				<language ident="ar">Arabic</language>
+				<language ident="syr">Syriac</language>
+				<language ident="am">Amharic</language>
+				<language ident="gez">Gǝʿǝz</language>
+				<language ident="grc">Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="it">Italian</language>
+				<language ident="cop">Coptic</language>
+				<language ident="de">German</language>
+				<language ident="fr">French</language>
+				<language ident="es">Spanish</language>
+				<language ident="nl">Dutch</language>
+				<language ident="sv">Swedish</language>
+				<language ident="pt">Portuguese</language>
+				<language ident="he">Hebrew</language>
+				<language ident="ji">Yiddish</language>
+				<language ident="rmo">Sinte Romani</language>
+				<language ident="cu">Church Slavic</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<term key="HistoryAndHistoriography"/>
+				</keywords>
+			</textClass>
+
+
+		</profileDesc>
+		<revisionDesc>
+			<change who="ES" when="2021-02-15">test</change>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text>
+		<body>
+			<div type="bibliography">				
+			</div><!---->
+		</body>
+	</text>
+</TEI>
