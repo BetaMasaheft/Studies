@@ -45,7 +45,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
-			<change who="GC" when="2021-24-02">Wrote teiHeader</change>
+			<change who="GC" when="2021-02-24">Wrote teiHeader</change>
 		</revisionDesc>		
 	</teiHeader>
 	<facsimile xml:id='facs_1'>
