@@ -1,0 +1,105 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+        type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang="en" xml:id="STU0008test" type="studies">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="fr">Test 2</title>
+				<author>Father Giusto da Urbino (Jacopo Curtopassi)</author>
+				<editor key="DN"/>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+				<publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+					Forschungsumgebung / Beta maṣāḥǝft</publisher>
+				<pubPlace>Hamburg</pubPlace>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+						<p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0. </p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p><listRelation>
+					<relation name="dcterms:creator" active="STU0007Abregevers" passive="PRS9683Urbino"/>
+          <relation name="lawd:hasAttestation" active="STU0007Abregevers" passive="BNFabb216"/>
+				</listRelation></p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+		  <p>A digital born TEI file</p>
+		</encodingDesc>
+		<profileDesc>
+			<abstract><p>A Gǝʿǝz grammar written in Ethiopia by <persName ref="PRS9683Urbino">Father Giusto da Urbino (Jacopo Curtopassi)</persName>
+      in <date>1850-1854</date>. Composed of 40 lessons,
+      it includes examples of the epistolary genre and dialogues in Gǝʿǝz.
+      </p></abstract>
+          <langUsage>
+    				<language ident="fr">French</language>
+    				<language ident="gez">Gǝʿǝz</language>
+    			</langUsage>
+    			<textClass>
+    				<keywords>
+    					<term key="SawaStyle"/>
+    				</keywords>
+    			</textClass>
+
+		</profileDesc>
+    <revisionDesc>
+			<change who="DN" when="2022-08-16">Created the record</change>
+		</revisionDesc>
+  </teiHeader>
+
+	<text>
+
+		<body>
+      <div type="edition">
+        <div type="textpart" xml:id="Introduction">
+           <label xml:lang="fr">Introduction</label>
+        </div>
+        <div type="textpart" xml:id="Type1">
+           <label>ጉባኤ፡ ቃና፡ congrès de Cana</label>
+        </div>
+        <div type="textpart" xml:id="Type2">
+           <label>ዘአምላኪየ፡ de mon Dieu</label>
+        </div>
+
+        <div type="textpart" xml:id="Type3">
+           <label>ሚበዝኁ፡ quid multiplicati</label>
+        </div>
+
+        <div type="textpart" xml:id="Type4">
+           <label>ሥህልከ፡ clementia tua</label>
+        </div>
+
+        <div type="textpart" xml:id="Type5">
+           <label>ክብር፡ ይእቲ፡ gloria est</label>
+        </div>
+        <div type="textpart" xml:id="Type6">
+           <label>ዋዜማ፡ belle musique</label>
+        </div>
+        <div type="textpart" xml:id="Type7">
+           <label>ዘይእዜ፡ du nune</label>
+        </div>
+        <div type="textpart" xml:id="Type8">
+           <label>አርኬ፡ mon ami familier</label>
+        </div>
+        <div type="textpart" xml:id="Type9">
+           <label>ሥላሴ፡ Trinité</label>
+        </div>
+        <div type="textpart" xml:id="Type10">
+           <label>ግዕዝ፡ ዕጣነ፡ ሞገር፡ jetée de l'encens à musique courante</label>
+        </div>
+        <div type="textpart" xml:id="Type11">
+           <label>መወድስ፡ louange</label>
+        </div>
+
+      </div>
+
+		</body>
+
+	</text>
+
+</TEI>
