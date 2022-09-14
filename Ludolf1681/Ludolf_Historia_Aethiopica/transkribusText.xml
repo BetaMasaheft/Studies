@@ -1,4 +1,4 @@
-<div type="edition">
+<div type="edition" xmlns='http://www.tei-c.org/ns/1.0'>
 	<div type="textpart" subtype="praefatio" xml:id="praefatio2">
 			<pb facs='#facs_1' n='1'/>
 			<pb facs='#facs_2' n='2'/>
@@ -149,7 +149,8 @@
 				<lb facs='#facs_9_r1l29' n='N028'/>salutem.
 			</p>
 	</div>
-			<pb facs='#facs_10' n='10'/>
+	<div type="textpart">		
+	<pb facs='#facs_10' n='10'/>
 			<p facs='#facs_10_TextRegion_1613119621938_249'>
 				<lb facs='#facs_10_r2l1' n='N001'/>Monitum autoris
 				<lb facs='#facs_10_r2l2' n='N002'/>Pro Bibliopolis &amp; Bibliopegis.
@@ -23286,5 +23287,5 @@
 			<p facs='#facs_358_r2'>
 				<lb facs='#facs_358_r2l1' n='N001'/>
 			</p>
-
+	</div>
 </div>
