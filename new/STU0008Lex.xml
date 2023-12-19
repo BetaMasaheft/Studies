@@ -1,0 +1,73 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="STU0008Lex" xml:lang="en" type="studies">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gǝʿǝz-Latin Lexicon</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="CH"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>According to <bibl><ptr target="bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
+                    the author is <persName ref="PRS14230GBRaimondi"/>.
+                    The Vocabulary is apparently taken from poetry and arranged by initial letter. 
+                    The work is largely unfinished. 
+                    Many Ethiopian words are given in a construct state, causatives or broken plural. 
+                    The succession is different from the traditional order and may be seen as a modified ʾabugidā-type: 
+                    <foreign xml:lang="gez">አ፡ በ፡ ገ፡ ደ፡ ሀ፡ ወ፡ ዘ፡ ሐ፡ ኀ፡ ጠ፡ የ፡ ከ፡ ለ፡ ነ፡ ሰ፡ ዐ፡ ጰ፡ ፈ፡ ጸ፡ ፀ፡ ቀ፡ ረ፡ ሠ፡ ተ፡ ፐ፡ መ፡</foreign>.
+                    Contrary to <bibl><ptr target="bm:bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
+                    the work does not contain grammatical parts.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term key="Poetry"/>
+                    <term key="Vocabulary"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="CH" when="2023-12-19">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl type="catalogue">
+                    <bibl><ptr target="bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl>
+                    <bibl><ptr target="bm:Marrassini1987manoscrittietiopici"/><citedRange unit="page">105-106</citedRange>
+                    </bibl>
+                </listBibl>
+                <listRelation>
+                    <relation name="saws:isAttributedToAuthor" active="STU0008Lex" passive="PRS14230GBRaimondi"/>
+                    <relation name="lawd:hasAttestation" active="STU0008Lex" passive="BMLor321"/>
+                </listRelation>
+            </div><!---->
+        </body>
+    </text>
+</TEI>
