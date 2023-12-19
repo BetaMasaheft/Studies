@@ -32,12 +32,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>According to <bibl><ptr target="bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
                     the author is <persName ref="PRS14230GBRaimondi"/>.
-                    The Vocabulary is apparently taken from poetry and arranged by initial letter. 
+                    The Vocabulary lists terms apparantly encountered in poetic texts and is arranged by initial letter. 
                     The work is largely unfinished. 
                     Many Ethiopian words are given in a construct state, causatives or broken plural. 
                     The succession is different from the traditional order and may be seen as a modified ʾabugidā-type: 
                     <foreign xml:lang="gez">አ፡ በ፡ ገ፡ ደ፡ ሀ፡ ወ፡ ዘ፡ ሐ፡ ኀ፡ ጠ፡ የ፡ ከ፡ ለ፡ ነ፡ ሰ፡ ዐ፡ ጰ፡ ፈ፡ ጸ፡ ፀ፡ ቀ፡ ረ፡ ሠ፡ ተ፡ ፐ፡ መ፡</foreign>.
-                    Contrary to <bibl><ptr target="bm:bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
+                    Contrary to <bibl><ptr target="bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
                     the work does not contain grammatical parts.</p>
             </abstract>
             <textClass>
