@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>According to <bibl><ptr target="bm:Assemani1719Bibliotheca"/><citedRange unit="page">431</citedRange></bibl> 
-                    the author is <persName ref="PRS14230GBRaimondi"/>.
+                    the author is <persName ref="PRS14230GBRaimondi" role="author"/>.
                     The Vocabulary lists terms apparantly encountered in poetic texts and is arranged by initial letter. 
                     The work is largely unfinished. 
                     Many Ethiopian words are given in a construct state, causatives or broken plural. 
@@ -64,7 +64,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                 </listBibl>
                 <listRelation>
-                    <relation name="saws:isAttributedToAuthor" active="STU0008Lex" passive="PRS14230GBRaimondi"/>
+                    <relation name="dcterms:creator" active="STU0008Lex" passive="PRS14230GBRaimondi"/>
                     <relation name="lawd:hasAttestation" active="STU0008Lex" passive="BMLor321"/>
                 </listRelation>
             </div><!---->
