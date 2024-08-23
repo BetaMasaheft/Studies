@@ -1,0 +1,160 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="STU0009AmharicGram" xml:lang="en" type="studies">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theoriam Linguae Aethiopicae dictae Amaharae complectens</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="CH"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness corresp="#BLorient12996"/>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>Amharic grammar in Latin, by an anonymous author by the middle of the 18th century. Many Amharic words and 
+                    expressions are translated into Italian and many Italian terms are used instead of Latin. For this reason, it can be assumed,
+                    that the author was a native Italian. He probably learnt Amharic from an Ethiopian, because he probably did not know 
+                    <bibl><ptr target="bm:Ludolf1698Grammatica"/></bibl> and he emphasises the importance of learning the 
+                    pronunciation from a native speaker: <foreign xml:lang="la">Quod concernit pronuntiationem linguae Amaharae, 
+                    optime aqviritur viva M<supplied reason="omitted">a</supplied>gistri voce; et qui eam praetendit adiscere absque 
+                    Magistro fallit</foreign>. 
+                    Gemination is sometimes, but probably only in the perfect form (cf. <locus target="#26v #30r #30v"/>), indicated by a 
+                    wavy line (~) on top of the character. </p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term key="AmharicLiterature"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="CH" when="2024-07-17">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography"/><!---->
+            <div type="edition" xml:lang="la">
+                <div type="textpart" subtype="part" xml:id="Script">
+                    <label>Script and Phonetics</label>
+                    <note>Introduction to the Ethiopic alphasyllabary and the phonetics of the language. The author gives the Arabic letters
+                        corresponding to the Amharic characters and also indicates the pronunciation with reference to German (indicated as 
+                        <foreign xml:lang="la">Germ.</foreign>), Czech (indicated as <foreign xml:lang="la">Boem.</foreign>, Italian 
+                        (indicated as <foreign xml:lang="la">Ital.</foreign>, and French <foreign xml:lang="la">Gall.</foreign>. There 
+                        are also references to Persian. The author notes the letters <foreign xml:lang="am">ፙ</foreign>, transliterated as 
+                        'moa', a form similar to <foreign xml:lang="am">ፙ</foreign>, but with a mark of the second order on the right side 
+                        and transliterated as 'mha' (sic) as well as <foreign xml:lang="am">ኸ</foreign>, transliterated as 'chha', etc.
+                        <foreign xml:lang="am">ጸ</foreign> and <foreign xml:lang="am">ፀ</foreign> are both transliterated as 'za',
+                        <foreign xml:lang="am">ጀ</foreign> is transliterated as 'gia'. The series of ž is noted by 
+                        <foreign xml:lang="am">ዠ</foreign>etc. (a character with a mark on the lower left side, which signifies the sixth 
+                        order <figure><graphic url="https://betamasaheft.eu/resources/images/snippets/BLorient12996/sign1.png" height="30px">
+                        </graphic></figure>).
+                        The pronunciation of <foreign xml:lang="am">ቸ</foreign> is indicated as 'cia' (but on f. 5r in the manuscript:
+                        <foreign xml:lang="cs">cža</foreign> <foreign xml:lang="la">Boem.</foreign>) and that of
+                        <foreign xml:lang="am">ጨ</foreign> as 'cca' (but  <foreign xml:lang="cs">cža</foreign> (sic!) 
+                        <foreign xml:lang="la">Boemice</foreign>). The author notes the difference between the first and the fourth orders
+                        only as a difference in length but indicates the two functions of the sixth.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Oration1">
+                    <label>De partibus Orationis</label>
+                    <note>Some orations as language samples.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Declination">
+                    <label>De Nomine et sua Declinatione</label>
+                    <note>On the declension of the noun. The author distinguishes six cases: 'nom.', 'gen.', 'dat.', 'acc.', 'voc.', and 'abl.' 
+                        (i.e. <foreign xml:lang="am">ባርያ፡</foreign>, <foreign xml:lang="am">የባርያ፡</foreign>, 
+                        <foreign xml:lang="am">ለባርያ፡</foreign>, <foreign xml:lang="am">ለባርያ፡</foreign>, 
+                        <foreign xml:lang="am">ባርያ፡</foreign> and <foreign xml:lang="am">ከባርያ፡</foreign>).</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Pronouns">
+                    <label>De Pronominibus</label>
+                    <note>On pronouns.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="VerbalAffixes">
+                    <label>De Affixis Verborum</label>
+                    <note>On verbal affixes.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Oration2">
+                    <label>De alijs Orationis partibus</label>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Numbers">
+                    <label>De Numero</label>
+                    <note>On the numbers (i.e. <foreign xml:lang="am">፩</foreign>, <foreign xml:lang="am">፪</foreign>, 
+                        <foreign xml:lang="am">፫</foreign>, etc.), which do not have the conventional two horizontal dashes.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Conjugation">
+                    <label>De Verbo, et ejus Conjugatione</label>
+                    <note>On the verb and its conjugation.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="AffirmativeVerbs">
+                    <label>Conjugatio Verbi Affirmativi</label>
+                    <note>Conjugation of affirmative verbs, that are described here as <foreign xml:lang="it">Ingiuriare</foreign> 
+                        (i.e. verbs 'to offend').</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Particles">
+                    <label>Modus et forma struendi reliquos Modos</label>
+                    <note>Description containing twenty-four notes on the different particles used with the verb.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Participle">
+                    <label>De Participio sive Supino in Rus.</label>
+                    <note>On participles (sic) of the pattern 'supino' (i.e. 'supine') in Rus. (i.e. in Russian?)</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="ParticipleAgentis">
+                    <label>De Participijs Agentibus et Patientibus</label>
+                </div>
+                <div type="textpart" subtype="part" xml:id="DeclensionParticiples">
+                    <label>Declinatio supradictorum duorum Participii</label>
+                </div>
+                <div type="textpart" subtype="part" xml:id="VerbalNoun">
+                    <label>De Abstracto seu Nomine Verbali</label>
+                    <note>On the verbal noun e.g. the gerund/converb.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="TablePronounAffixes">
+                    <label>Tabula Pronominum Verbis affixorum</label>
+                    <note>Table showing the pronominal affixes as they appear on the verb.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="TablePresent">
+                    <label>Secunda Tabula pro Tempore Praesenti</label>
+                    <note>Second table shows the verbal forms of the present tense.</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Negative">
+                    <label>Conjugazio Verbi Negativi, Modo Arabico</label>
+                    <note>Conjugation of negated verbs in the Arabic mode (sic).</note>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Dicere">
+                    <label>Conjug. Verbi Affirmativi Dicere in Amahara</label>
+                </div>
+                <div type="textpart" subtype="part" xml:id="Syntax">
+                    <label>Caput ultimum: De Constructione Phrasi</label>
+                    <note>Final chapter on syntax.</note>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
