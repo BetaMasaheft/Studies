@@ -179,7 +179,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 					facs="#facs_3_r1l31" n="024"/><placeName ref="wd:Q1794">FRANCOFURTI AD
 					MOENVM</placeName>, <lb facs="#facs_3_r1l32" n="025"/>Sumptibus <persName
 					ref="wd:Q94915918">JOHANNIS DAVID ZVNNERI</persName> . <lb facs="#facs_3_r1l33"
-					n="026"/>Typis <persName ref="wd:Q105637509">MARTINI JACQVETI.</persName><lb
+						n="026"/>Typis <persName ref="wd:Q109616616">MARTINI JACQVETI.</persName><lb
 					facs="#facs_3_r1l34" n="027"/><date when="1691">Anno Christi CIƆ
 				IƆCXCI</date>.</ab>
 		</front>
@@ -254,7 +254,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 					<p facs="#facs_5_TextRegion_1616591925226_190">
 						<lb facs="#facs_5_line_1616592936430_537" n="N001"/>Nolumus tamen obscurius
 						aut fabu<lb break="no" facs="#facs_5_line_1616591925289_195" n="N002"/>losis
-						autoribus, veluti <persName ref="wd:Q105626569">Lud. Urretae</persName>,
+						autoribus, veluti <persName ref="PRS9685Urreta">Lud. Urretae</persName>,
 							<persName ref="wd:Q87650809">Baratto</persName>, &amp; similibus diu
 							in<lb break="no" facs="#facs_5_r1l34" n="N003"/>haerere, nec omnes eorum
 						tricas &amp; apinas refellere, sed iis planè <lb facs="#facs_5_r1l35"
@@ -607,7 +607,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 					<ab type="footnote" facs="#facs_8_TextRegion_1612943561876_443">
 						<note xml:id="nprae_i"><lb facs="#facs_8_line_1612943595212_447" n="N001"
 							/>(i) Id mihi contigit, cùm juvenis adhuc cum <persName
-								ref="wd:Q1648517J">J.M. Dilherro</persName>, Confessionem Fidei
+								ref="wd:Q1648517">J.M. Dilherro</persName>, Confessionem Fidei
 							Claudii <lb facs="#facs_8_r1l43" n="N002"/>communicassem, quàm ille
 							Germanicè reddidit &amp; impressit in libro <title xml:lang="de">das
 								Leben Christi und seiner <lb facs="#facs_8_r1l44" n="N003"
@@ -7003,7 +7003,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<q source="#Tel112a"> Alvarezium composuisse stylo plano &amp; sincero
 									Histo<lb break="no" facs="#facs_47_line_1613461763543_267"
 									n="N003"/>riam Aethiopiae, <ref target="#np1_u">(u)</ref> cui
-								(teste <persName ref="wd:Q2486290Q2486290">P. Emanuele
+								(teste <persName ref="PRS1767Almeida">P. Emanuele
 									d'Almeyda</persName>) fides haberi possit in omnibus quae <lb
 									facs="#facs_47_line_1613461763547_269" n="N004"/>diceret se
 								vidisse, fuisse enim hominem candoris prisci &amp; veracem, neque
@@ -7840,7 +7840,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							Ephoros Regiorum Filiorum, <lb facs="#facs_51_line_1617288528697_680"
 								n="N008"/>qui nil nisi arma, praelia &amp; oppugnationes urbium
 							crepant, nemi<lb break="no" facs="#facs_51_r5l35" n="N009"/>nem nisi
-								<persName ref="Q8409">Alexandrum M.</persName> &amp; <persName
+							<persName ref="PRS1666Alexande">Alexandrum M.</persName> &amp; <persName
 								ref="wd:Q1048">Julium Caesarem</persName>, vastatores Orbis, <lb
 								facs="#facs_51_r5l36" n="N010"/>imitandos proponunt, atque hoc pacto
 							justitiam deserere &amp; salu<lb break="no" facs="#facs_51_r5l37"
@@ -9158,7 +9158,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								ref="wd:Q365835">Ruffino</persName>, <persName ref="wd:Q317029"
 								>Theodoreto</persName>, <persName ref="wd:Q186153"
 								>Procopio</persName>, <persName ref="wd:Q360883">Cedreno</persName>,
-								<persName ref="Q939953">Nicephoro</persName>, &amp; similibus
+								<persName ref="wd:Q939953">Nicephoro</persName>, &amp; similibus
 								legun<lb break="no" facs="#facs_58_r3l56" n="N003"/>tur, </p>
 						<pb facs="#facs_59" n="59"/>
 						<fw facs="#facs_59_TextRegion_1613574157422_2081">
@@ -10101,7 +10101,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							miscent, <lb facs="#facs_64_r1l11" n="N010"/>non animadvertere, quòd tam
 							crassi errores etiam alias egregias tabulas Chorogra<lb break="no"
 								facs="#facs_64_r1l12" n="N011"/>phicas suspectas reddant. Autor
-							erroris <persName ref="Q34943">Ptolomaeus</persName> esse videtur, ut
+							erroris <persName ref="PRS7983Ptolemy">Ptolomaeus</persName> esse videtur, ut
 								<ref target="#lib1num25">infrà L. I. c. 2. <lb facs="#facs_64_r1l13"
 									n="N012"/>n. 25.</ref> dicemus. <lb facs="#facs_64_r1l14"
 								n="N013"/>Nostram tabulam Chorographicam communicavimus cum
@@ -11162,8 +11162,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								facs="#facs_69_r3l43" n="N002"/>tamen ex illis emendatione egent,
 							scilicet quae Patres initio scripserunt, priusquam Pa<lb break="no"
 								facs="#facs_69_r3l44" n="N003"/>triarcha Lusitanicus <persName
-								ref="Q4689383">Alphonsus Mendez</persName> &amp; <persName
-								ref="wd:Q708822">P. Petrus Pays</persName> in regnum venissent,
+									ref="PRS7002Mendes">Alphonsus Mendez</persName> &amp; <persName
+										ref="PRS7699Paez">P. Petrus Pays</persName> in regnum venissent,
 								non<lb break="no" facs="#facs_69_r3l45" n="N004"/>dum enim Linguam
 							&amp; mores gentis exactè callebant. Hinc factum quod P. Nico<lb
 								break="no" facs="#facs_69_line_1620901044469_257" n="N005"/>laus
