@@ -6386,14 +6386,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 								sçavans, &amp; des gens d'esprit, faites sur des fausses
 								informations, lors que ce bon <lb facs="#facs_43_r2l32" n="N011"
 								/>Pere à pleinement reparè toutes les injures, qu' <persName
-									ref="wd:Q105626569">Urreta</persName> &amp; tant d'autres
+									ref="PRS9685Urreta">Urreta</persName> &amp; tant d'autres
 								fausses relations <lb facs="#facs_43_r2l33" n="N012"/>avoient faites
 								au public &amp; à la veritè.</quote>
 							<lb facs="#facs_43_r2l34" n="N013"/>Sensus est;<q corresp="Thenevot"
 								type="translation"> Neminem meliori jure Historiam scribere
 								suscepisse, quàm P. Tellezium, <lb facs="#facs_43_r2l35" n="N014"
 								/>omnia enim ante illum de Aethiopia, praesertim ab <persName
-									ref="wd:Q105626569">Urreta</persName> dicta vel prodita,
+									ref="PRS9685Urreta">Urreta</persName> dicta vel prodita,
 								fabulosa fuisse <lb facs="#facs_43_r2l36" n="N015"/>veluti fontes
 								Nili, magnitudinem situmque Regni, &amp; similia.</q>
 						</p>
@@ -8386,7 +8386,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									n="N002"/>Almeyda</persName>.</note>
 						<p xml:id="pro1par58" facs="#facs_54_TextRegion_1617354213419_823" n="58">
 							<lb facs="#facs_54_line_1617354154277_798" n="N001"/>Optavissem utique
-							integram P. <persName ref="wd:Q2486290Q2486290">Emanuelis
+							integram P. <persName ref="wd:Q2486290">Emanuelis
 								Almeydae</persName> historiam videre, &amp; ex <lb
 								facs="#facs_54_r2l35" n="N002"/>ea nonnulla pleniùs orbi literato
 							tradere; nam quantacunque diligentia con<lb break="no"
@@ -11137,7 +11137,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<placeName ref="LOC3589Gorgor">Gorgorâ</placeName> epistolam in Euro<lb
 								break="no" facs="#facs_69_line_1620901557536_535" n="N010"/>pam
 							scripsit, qua usus fuit <bibl>P. Nicolaus Godignus in refutando
-									<persName ref="wd:Q105626569">Urretâ</persName>L. I. <citedRange
+								<persName ref="PRS9685Urreta">Urretâ</persName>L. I. <citedRange
 									unit="chapter">c. 22</citedRange>.<ptr
 									target="bm:Godinho1615Abassinorum"/></bibl>
 						</p>
