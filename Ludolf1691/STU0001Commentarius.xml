@@ -8694,12 +8694,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 									facs="#facs_56_line_1615990211399_1987" n="N004"/><citedRange
 									unit="chapter">c. 30.</citedRange> &amp; <lb
 									facs="#facs_56_line_1615990214344_1992" n="N005"/>seqq.<ptr
-									target="bm:Sandoval1647Salute "/></bibl>
+									target="bm:Sandoval1647Salute"/></bibl>
 							<lb facs="#facs_56_line_1615990218101_1997" n="N006"/><bibl
 								xml:id="Sand2cap32">d.l.<citedRange unit="chapter"
 									>c.32.</citedRange>
 								<lb facs="#facs_56_line_1615990221230_2002" n="N007"/>§.7.<ptr
-									target="bm:Sandoval1647Salute "/></bibl>
+									target="bm:Sandoval1647Salute"/></bibl>
 						</note>
 						<p xml:id="pro1par68" facs="#facs_56_TextRegion_1617355559852_1595" n="68">
 							<lb facs="#facs_56_line_1617355495782_1550" n="N001"/><bibl>Alphonsus de
@@ -8761,7 +8761,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://ra
 							<lb facs="#facs_56_line_1617355662374_1702" n="N003"/><bibl
 								xml:id="Seld3cap26">Lib. III. c. <lb
 									facs="#facs_56_line_1617355662375_1704" n="N004"/>26. in
-									fin.<ptr target="bm:Selden1673Uxor "/></bibl>
+									fin.<ptr target="bm:Selden1673Uxor"/></bibl>
 							<lb facs="#facs_56_line_1617355662376_1706" n="N005"/><ref
 								xml:id="proem1.99" target="#pro1par99">§.99.</ref>
 							<lb facs="#facs_56_line_1617355662376_1708" n="N006"/><bibl
