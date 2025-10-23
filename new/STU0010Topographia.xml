@@ -57,7 +57,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
               </listBibl>
             <listRelation>
-                <relation name="saws:isAttributedToAuthor" active="STU0010Topographia" passive="PRS3204CosmasI"/>
                     <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE276"/>
                     <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE277"/>          
              </listRelation>
