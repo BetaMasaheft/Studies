@@ -15,15 +15,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <pubPlace>Hamburg</pubPlace>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
-                        <p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0. </p>
+                        This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
                     </licence>
                 </availability>
             </publicationStmt>
-            <sourceDesc>
-                <p><listRelation>
-                        <relation name="saws:isAttributedToAuthor" active="STU0010Topographia" passive="PRS3204CosmasI"/>
-                </listRelation></p>
-            </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
@@ -53,12 +48,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <bibl>
                         <ptr target="bm:McCrindle1897Cosmas"></ptr>
                         <ptr target="bm:Schneider2010Kosmas"></ptr>
-                        <ptr target="bm:bm:dellOsso2023Cosmas"></ptr>
+                        <ptr target="bm:dellOsso2023Cosmas"></ptr>
                     </bibl>
               </listBibl>
             <listRelation>
-                    <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE276"/>
-                    <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE277"/>          
+                <relation name="saws:isAttributedToAuthor" active="STU0010Topographia" passive="PRS3204CosmasI"/>    
+                <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE276"/>
+                 <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE277"/>          
              </listRelation>
             </div><!---->
         </body>
