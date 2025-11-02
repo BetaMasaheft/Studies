@@ -8,7 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Topographia christiana</title>
                 <editor key="YL"/>
             </titleStmt>
-            <publicationStmt>
+            <publicationStmt>        
                 <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
                 <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
                     Forschungsumgebung / Beta maṣāḥǝft</publisher>
@@ -17,8 +17,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
                         This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
                     </licence>
-                </availability>
-            </publicationStmt>
+                </availability>                        
+            </publicationStmt>  
+            <sourceDesc>
+                <p><listRelation>
+                        <relation name="saws:isAttributedToAuthor" active="STU0010Topographia" passive="PRS3204CosmasI"/>    
+                        <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE276"/>
+                        <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE277"/>          
+                </listRelation></p>    
+             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
@@ -51,11 +58,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <ptr target="bm:dellOsso2023Cosmas"></ptr>
                     </bibl>
               </listBibl>
-            <listRelation>
-                <relation name="saws:isAttributedToAuthor" active="STU0010Topographia" passive="PRS3204CosmasI"/>    
-                <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE276"/>
-                 <relation name="saws:isDirectCopyOf" active="STU0010Topographia" passive="RIE277"/>          
-             </listRelation>
             </div><!---->
         </body>
         </text>
