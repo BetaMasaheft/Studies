@@ -5,7 +5,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>On the Differences between the Ethiopian Confession and the Russian Confession</title>
+                <title xml:lang="gez" xml:id="t1">በኢትዮጵያውያንና፡ በመስኮቦች፡ ማኸል፡ ያለ፡ የሃማኖት፡ መለያይት።</title>
+                <title xml:lang="gez" corresp="#t1" type="normalized">Ba-ʾityoṗyāwyānǝnā ba-maskobočč māḵal yāla ya-hāmānot malayāyǝt</title>
+                <title xml:lang="en" corresp="#t1">There is no religious distinction between Ethiopians and Moscovians</title><!-- Please check transcription and translation -->
+                <title xml:lang="en" xml:id="t2">On the Differences between the Ethiopian Confession and the Russian Confession</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="CH"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -30,8 +33,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>This note explains the history of the Russian and the Ethiopian churches since the Council of Chalcedon. It is probably a 
-                    translation by <persName ref="PRS3182ContiRo"/> of documentary texts by <persName ref="PRS7548Nerazzin"/>, e.g.
+                <p>This note in Amharic explains the history of the Russian and the Ethiopian Churches since the Council of Chalcedon. It is a 
+                    translation of memoranda, sent by <persName ref="PRS7548Nerazzin"/> from Ethiopia to the Italian Ministry of Foreign Affairs.
+                    The text has been translated from Italian into Amharic either by <persName ref="PRS3182ContiRo"/> or by 
+                    <persName ref="PRS7548Nerazzin"/>. Cf.
                     <bibl><ptr target="bm:Nerazzini1895Note"/></bibl> and <bibl><ptr target="bm:NerazziniDifferenza"/></bibl>.</p>
             </abstract>
             <textClass>
@@ -49,7 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="CH" when="2026-03-10">Created record</change>
-            <!--  -->
+            <change when="2026-02-11" who="CH">Updates after reviews by Eugenia Sokolinski and Magdalena Krzyżanowska</change>
         </revisionDesc>
     </teiHeader>
     <text>
