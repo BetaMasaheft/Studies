@@ -74,6 +74,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <citedRange unit="item">125 XVIII</citedRange>
                         <citedRange unit="page">312</citedRange>
                     </bibl>
+                    <bibl>
+                        <ptr target="bm:Nerazzini1895Note"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:NerazziniDifferenza"/>
+                    </bibl>
                 </listBibl>
                 <listRelation>
                     <relation name="saws:isAttributedToAuthor" active="STU0011CCRChurch" passive="PRS7548Nerazzin"/>
