@@ -76,7 +76,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                 </listBibl>
                 <listRelation>
-                    <relation name="saws:isAttributedToAuthor" active="STU0011CCRChurch" passive="PRS3182ContiRo"/>
+                    <relation name="saws:isAttributedToAuthor" active="STU0011CCRChurch" passive="PRS7548Nerazzin"/>
                 </listRelation>
             </div>
         </body>
