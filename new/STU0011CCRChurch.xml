@@ -1,0 +1,90 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="STU0011CCRChurch" xml:lang="en" type="studies">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="gez" xml:id="t1">በኢትዮጵያውያንና፡ በመስኮቦች፡ ማኸል፡ ያለ፡ የሃማኖት፡ መለያይት።</title>
+                <title xml:lang="gez" corresp="#t1" type="normalized">Ba-ʾityoṗyāwyānǝnā ba-maskobočč māḵal yāla ya-hāmānot malayāyǝt</title>
+                <title xml:lang="en" corresp="#t1">There is no religious distinction between Ethiopians and Moscovians</title><!-- Please check transcription and translation -->
+                <title xml:lang="en" xml:id="t2">On the Differences between the Ethiopian Confession and the Russian Confession</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="CH"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>This note in Amharic explains the history of the Russian and the Ethiopian Churches since the Council of Chalcedon. It is a 
+                    translation of memoranda, sent by <persName ref="PRS7548Nerazzin"/> from Ethiopia to the Italian Ministry of Foreign Affairs.
+                    The text has been translated from Italian into Amharic either by <persName ref="PRS3182ContiRo"/> or by 
+                    <persName ref="PRS7548Nerazzin"/>. Cf.
+                    <bibl><ptr target="bm:Nerazzini1895Note"/></bibl> and <bibl><ptr target="bm:NerazziniDifferenza"/></bibl>.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term key="AmharicLiterature"/>
+                    <term key="ChristianContent"/>
+                    <term key="HistoryAndHistoriography"/>
+                    <term key="Study"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="CH" when="2026-03-10">Created record</change>
+            <change when="2026-02-11" who="CH">Updates after reviews by Eugenia Sokolinski and Magdalena Krzyżanowska</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:lang="am">
+                <note>The following incipit is taken from <ref type="mss" corresp="ANLcr125"/> according to the catalogue description in 
+                    <bibl><ptr target="bm:Strelcyn1976Catalogue"/><citedRange unit="item">125 XVIII</citedRange>
+                        <citedRange unit="page">312</citedRange></bibl>.</note>
+                <ab>በኢትዮጵያውያንና፡ በመስኮቦች፡ ማኸል፡ ያለ፡ የሃማኖት፡ መለያይት።
+                    የኢትዮጵያ፡ ሃይማኖት፡ ካምስት፡ መቶኛ፡ ዓመት፡ ዠምሮ፡ የምትከተለው፡ ፍጹምና፡ ዘለዓለማዊ፡ የሆነ፡ ያንድ፡ ባህርይ፡ እምነት፡ ውግዘት፤ በመስከረምና፡ 
+                    በጥቅምት፡ በ፬፻፶፩ ዓመት፡ በሆነው፡ በኬልቄዶን፡ ቦስፎሮ፡ ጉባኤ፡ ተነገረ።</ab>
+            </div>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:Strelcyn1976Catalogue"/>
+                        <citedRange unit="item">125 XVIII</citedRange>
+                        <citedRange unit="page">312</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Nerazzini1895Note"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:NerazziniDifferenza"/>
+                    </bibl>
+                </listBibl>
+                <listRelation>
+                    <relation name="saws:isAttributedToAuthor" active="STU0011CCRChurch" passive="PRS7548Nerazzin"/>
+                </listRelation>
+            </div>
+        </body>
+    </text>
+</TEI>
